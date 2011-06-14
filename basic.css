@@ -1,0 +1,210 @@
+/* LINKS */
+
+a {
+  color: blue;
+  text-decoration: none;
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-top: 2px;
+  padding-bottom: 0px;
+  border: 1px solid #cccccc; /*light gray*/
+}
+
+a:hover {
+  color: #0000aa; /*dark blue*/
+  border: 1px solid gray;
+  background: #ffee99; /*light orange*/
+}
+ 
+a.none {
+  border: 0px;
+}
+
+a.none:hover {
+  border: 0px;
+  background: none;
+}
+ 
+/* CONTENT FORMATING */
+
+img {
+  border: 0;
+}
+
+.clearboth {
+  clear: both;
+}
+
+body {
+  background-image: url('background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+  font-family: verdana, "Trebuchet MS", arial, helvetica, sans-serif;
+  font-size: 100%;
+  z-index: 2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Trebuchet MS", verdana, arial, helvetica, sans-serif;
+  font-weight: bold;
+  margin-top: 1em;
+  margin-bottom: .5em;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-right: 4px;
+  padding-left: 10px;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 1em;
+  font-size: 1.4em;
+  background: #ddddff;
+  width: 50%;
+  border: 2px dashed gray;
+}
+h2 {
+  font-size: 120%;
+  background: #eeeeff;
+  border-top: 2px solid gray;
+  margin-top: 40px;
+}
+h3 { font-size: 100%; }
+h4 { font-size: 90%; }
+h5 { font-size: 80%; }
+h6 { font-size: 75%; }
+
+h2 img {margin-right: 15px;}
+
+p, li {
+  line-height: 120%;  
+  text-align: justify;
+  margin-top: .5em;
+  margin-bottom: .5em;
+  margin-left: 15px;
+}
+
+table {
+  border: solid 1px #cccccc; /*light gray*/
+  margin-left: 15px;
+}
+
+th {
+  border-bottom: solid 1px #cccccc; /*light gray*/
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+td {
+  border: dotted 1px #cccccc; /*light gray*/
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.notice {
+  /*border: dotted 1px gold;*/
+  /*padding: 6px;*/
+  background: url('img/information.gif') 6px no-repeat;
+  padding-left: 30px;
+}
+
+.updated {
+  background: url('img/todolist.gif') 6px no-repeat;
+  padding-left: 25px;
+  font-family: arial, helvetica, sans-serif;
+  font-size: 80%;
+  color: #FF0000; /*red*/
+}
+
+div.posts {
+  position: relative;
+  float: right;
+}
+
+div.posts a, div.posts table, div.posts td, div.posts tr {
+  border: none;
+}
+
+/*  LANGUAGES  */
+
+.fr {
+  background: url('img/flag_fr.gif') left center no-repeat;
+  padding-left: 22px;
+}
+
+.en {
+  background: url('img/flag_en.gif') left center no-repeat;
+  padding-left: 22px;
+}
+
+/*  DOCUMENT FORMATS  */
+
+.pdf {
+  background: url('img/page_white_acrobat.gif') left center no-repeat;
+  padding-left: 22px;
+}
+
+.doc {
+  background: url('img/page_white_word.gif') left center no-repeat;
+  padding-left: 22px;
+}
+
+.odt {
+  background: url('img/oow.gif') left center no-repeat;
+  padding-left: 22px;
+}
+
+.foaf {
+  background: url('img/foaf.png') left center no-repeat;
+  padding-left: 32px;
+}
+
+.rdf {
+  background: url('img/rdf.gif') left center no-repeat;
+  padding-left: 22px;
+}
+
+/*  ICONS  */
+
+.myspace {
+  background: url('img/myspace.gif') left center no-repeat;
+  padding-left: 20px;
+}
+
+.youtube {
+  background: url('img/youtube.png') left center no-repeat;
+  padding-left: 20px;
+}
+
+.blog {
+  background: url('img/blogsome.png') left center no-repeat;
+  padding-left: 20px;
+}
+
+.rss {
+  background: url('img/rss.png') left center no-repeat;
+  padding-left: 20px;
+}
+
+.wiki {
+  background: url('http://adrienjoly.pbwiki.com/favicon.ico') left center no-repeat;
+  background-size:16px 16px;
+  padding-left: 20px;
+}
+
+.extlink {
+  background: url('img/extlink.png') left center no-repeat;
+  padding-left: 20px;
+}
+
+/* THIS IS CSS3 CODE FOR AUTOMATIC ICON INSERTION, CURRENTLY NOT SUPPORTED BY IE
+a[href^="http://roly.blogsome.com"]:before {
+  content: ' ' url('img/blogsome.png');
+}
+*/
+
