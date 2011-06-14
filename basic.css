@@ -39,6 +39,7 @@ body {
   background-image: url('background.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: 100%;
   
   font-family: verdana, "Trebuchet MS", arial, helvetica, sans-serif;
   font-size: 100%;
