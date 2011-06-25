@@ -84,26 +84,6 @@ header#page_header {
     z-index:10;
 }
 
-    article header h1 {
-        font-family:AlternateGothicFSNo3,"Arial Narrow";
-        font-size:2.2em;
-        font-weight:normal;
-        line-height:1em;
-        text-transform:uppercase;
-    }
-    
-        header#page_header h1.header_image {
-            text-align:center;
-        }
-
-        article header h1 a {
-            color:#3A3A3A !important;
-            text-decoration:none;
-        }
-        
-        article header h1 a:hover {
-        }
-
 header#page_header hgroup {
 }
 
@@ -156,21 +136,25 @@ nav#navigation {
             border-top:solid 1px #3f3f3f;
         }
         
+        nav#navigation li:first-child a {
+            background: url(./img/home.png) no-repeat right center;
+        }
+        
         nav#navigation li:last-child {
             border-bottom:solid 1px #111;
         }
         
         nav#navigation li a.current {
-            background:#000;
+            background-color:#000;
             border-bottom:0;
         }
         
         nav#navigation li a:hover {
-            background:#2f2f2f;
+            background-color:#2f2f2f;
         }
         
         nav#navigation li a:active {
-            background:#202020;
+            background-color:#202020;
         }
     
     .profile_image {
@@ -186,32 +170,22 @@ nav#navigation {
         padding:5px;
     }
      
-article header aside.sms {
-    font-size: 11px;
-}
+     
+     
+     
+     
 
-footer section.locations h1 {
-    font-weight: normal;
-    line-height: 21px;
-    margin-top: 0px;
-}
 
-input, select, textarea {
-    font-size: 1.6em;
-    line-height:1.3em !important;
-    padding: 5px;
-}
-
-#post_column {
+#content {
     padding:20px 30px 20px 250px;
     position:relative;
 }
         
-        #post_column a {
+        #content a {
             color:#000;
         }
         
-        #post_column a:hover {
+        #content a:hover {
         }
 
     div#articles {
@@ -288,6 +262,59 @@ input, select, textarea {
                     border-left:solid 4px #eee !important;
                 }
                 
+
+
+    #content h1 {
+        font-family:AlternateGothicFSNo3,"Arial Narrow";
+        font-size:2.2em;
+        font-weight:normal;
+        line-height:1em;
+        text-transform:uppercase;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    }
+    
+	#content li {
+		list-style: none;
+		text-shadow: 0 1px 0 white;
+		float: left;
+		width:300px;
+	}
+    
+    #content li img {
+		border-radius: 5px;
+		border: 2px solid #5B6A79;
+		width:260px;
+		height:180px;
+    }
+    
+    #content li a:hover img, #content li a:focus img {
+		border: 2px solid #0091BE;
+	}
+    
+        header#page_header h1.header_image {
+            text-align:center;
+        }
+     
+     
+     
+     
+article header aside.sms {
+    font-size: 11px;
+}
+
+footer section.locations h1 {
+    font-weight: normal;
+    line-height: 21px;
+    margin-top: 0px;
+}
+
+input, select, textarea {
+    font-size: 1.6em;
+    line-height:1.3em !important;
+    padding: 5px;
+}
+
 
 footer#pagination {
     /* margin-left:155px; */
