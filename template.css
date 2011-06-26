@@ -64,11 +64,17 @@ body {
 
 a {
     color:#000;
-    text-decoration:underline;
+    text-decoration:none;
 }
 
 .container {
     min-width:1000px;
+}
+
+h1,#content h2 {
+	font-family:AlternateGothicFSNo3,"Arial Narrow";
+	text-transform:uppercase;
+	font-weight:normal;
 }
 
 header#page_header {
@@ -88,12 +94,9 @@ header#page_header hgroup {
 }
 
     header#page_header hgroup h1 {
-        font-family:AlternateGothicFSNo3,"Arial Narrow";
         font-size:2.571em;
-        font-weight:normal;
         line-height:1em;
         padding:0 20px 10px;
-        text-transform:uppercase;
     }
 
         header#page_header hgroup h1 a {
@@ -156,124 +159,45 @@ nav#navigation {
         nav#navigation li a:active {
             background-color:#202020;
         }
-    
-    .profile_image {
-        background:#fff;
-        border:solid 1px #797878;
-        -moz-border-radius:4px;
-        -webkit-border-radius:4px;
-        border-radius:4px;
-        -moz-box-shadow:0 0 4px rgba(0,0,0,.4);
-        -webkit-box-shadow:0 0 4px rgba(0,0,0,.4);
-        box-shadow:0 0 4px rgba(0,0,0,.4);
-        margin-bottom:10px;
-        padding:5px;
-    }
-     
-     
-     
-     
-     
-
 
 #content {
     padding:20px 30px 20px 250px;
     position:relative;
 }
-        
-        #content a {
-            color:#000;
-        }
-        
-        #content a:hover {
-        }
 
-    div#articles {
-    }
-    
-        article {
-            margin-bottom:75px;
-            position:relative;
-        }
-        
-            article header {
-                padding-bottom:5px;
-            }
-            
-            article header section {
-                min-height:40px;
-                padding-top:17px;
-            }
-            
-            article header aside.sms {
-                float:left;
-                padding-top:10px;
-            }
-        
-        article div.body {
-            padding-top:10px;
-        }
-        
-            article div.body div.inner {
-                font-family:Georgia, "Times New Roman", Times, serif;
-                line-height:1.6em;
-                min-width:500px;
-                text-align:justify;
-            }
-            
-                article div.body div.inner > :first-child {
-                    margin-bottom:0;
-                    margin-top:0;
-                }
-                
-                article div.body div.inner > p:first-child {
-                    /* margin-top:15px; */
-                }
-                
-                article div.body p, article div.body blockquote {
-                    margin:15px 0 18px;
-                }
-                
-                article div.body div.posterousGalleryMainDiv {
-                    margin:0 0 15px;
-                }
-                
-                div.posterousVideoMainDiv {
-                    margin:0;
-                }
-                
-                .posterousGalleryMainDiv a.posterousGalleryMainlink {
-                    text-decoration:none !important;
-                }
-                
-                article div.body div.inner a {
-                    text-decoration:underline;
-                }
-                
-                    article div.body div.inner a:hover {
-                    }
-                    
-                    article div.body div.inner ul,article div.body div.inner ol {
-                        padding-bottom:5px;
-                        padding-left:30px;
-                    }
-                    
-                .inner blockquote {
-                    border-left:solid 4px #eee !important;
-                }
-                
+	#content a {
+		color:#000;
+	}
+	
+	#content a:hover {
+	}
+	
+	.profile_image {
+		background:#fff;
+		border:solid 1px #797878;
+		-moz-border-radius:4px;
+		-webkit-border-radius:4px;
+		border-radius:4px;
+		-moz-box-shadow:0 0 4px rgba(0,0,0,.4);
+		-webkit-box-shadow:0 0 4px rgba(0,0,0,.4);
+		box-shadow:0 0 4px rgba(0,0,0,.4);
+		margin-bottom:10px;
+		padding:5px;
+		float:left;
+		margin-right: 10px;
+	}
 
+.clear {
+	clear:both;
+	margin-bottom:30px;
+}
 
-    #content h1 {
-        font-family:AlternateGothicFSNo3,"Arial Narrow";
-        font-size:2.2em;
-        font-weight:normal;
-        line-height:1em;
-        text-transform:uppercase;
-    margin-top: 10px;
-    margin-bottom: 20px;
-    }
-    
+#content h1 {
+	font-size:2.571em;
+	line-height:1em;
+	margin-bottom: 20px;
+}
+	
 	#content li {
 		list-style: none;
 		text-shadow: 0 1px 0 white;
@@ -286,9 +210,26 @@ nav#navigation {
 		border: 2px solid #5B6A79;
 		width:260px;
 		height:180px;
+		margin-bottom: 15px;
     }
     
-    #content li a:hover img, #content li a:focus img {
+	#content h2 a {
+		font-size:24px;
+		color: #5B6A79;
+	}
+	
+	#content li p {
+		margin-top: 15px;
+		margin-bottom: 30px;
+		width: 260px;
+	}
+    
+	#content li:hover h2 a, #content li a:focus h2 a {
+		color: #0091BE;
+		text-decoration: none;
+	}
+    
+    #content li:hover img, #content li a:focus img {
 		border: 2px solid #0091BE;
 	}
     
