@@ -193,13 +193,12 @@ nav#navigation {
 		-webkit-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1), inset 0 0 0 1px rgba(255, 255, 255, 0.5);
 		-moz-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1), inset 0 0 0 1px rgba(255, 255, 255, 0.5);
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1), inset 0 0 0 1px rgba(255, 255, 255, 0.5);
-		color: #b1b3b8;
+		color: #5b6a79;
 		text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);
 	}
 	
 	#content a.button:hover {
 		text-decoration: none;
-		color: #5b6a79;
 		border: 1px solid #b1b3b8;
 	}
 	
