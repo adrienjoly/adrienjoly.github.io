@@ -208,6 +208,11 @@ nav#navigation {
 		padding-left: 22px;
 	}
 	
+	.lastfm {
+		background: url('./img/lastfm.png') left center no-repeat;
+		padding-left: 22px;
+	}
+	
 	.profile_image {
 		background:#fff;
 		border:solid 1px #797878;
