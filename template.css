@@ -207,6 +207,12 @@ nav#navigation {
 		padding-left: 22px;
 	}
 	
+	
+	.whyd {
+		background: url('http://whyd.com/favicon16.png') left center no-repeat;
+		padding-left: 22px;
+	}
+	
 	.lastfm {
 		background: url('./img/lastfm.png') left center no-repeat;
 		padding-left: 22px;
