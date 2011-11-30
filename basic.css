@@ -150,6 +150,11 @@ div.posts a, div.posts table, div.posts td, div.posts tr {
   padding-left: 22px;
 }
 
+.pdf {
+  background: url('http://whyd.com/favicon16.png') left center no-repeat;
+  padding-left: 22px;
+}
+
 .doc {
   background: url('img/page_white_word.gif') left center no-repeat;
   padding-left: 22px;
