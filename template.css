@@ -213,7 +213,12 @@ nav#navigation {
 		padding-left: 22px;
 	}
 	
-	.lastfm {
+	.instagram {
+        background: url('img/icon-instagram.png') left center no-repeat;
+        padding-left: 22px;
+    }
+    
+    .lastfm {
 		background: url('./img/lastfm.png') left center no-repeat;
 		padding-left: 22px;
 	}
