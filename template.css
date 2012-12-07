@@ -133,6 +133,10 @@ nav#navigation {
             display:block;
             padding:9px 20px;
             text-decoration:none;
+            transition: background-color 0.1s;
+            -moz-transition: background-color 0.1s; /* Firefox 4 */
+            -webkit-transition: background-color 0.1s; /* Safari and Chrome */
+            -o-transition: background-color 0.1s; /* Opera */
         }
         
         nav#navigation li:first-child {
@@ -275,6 +279,10 @@ nav#navigation {
 		height:180px;
 		margin-bottom: 15px;
 		opacity:0.8;
+        transition: opacity 0.1s;
+        -moz-transition: opacity 0.1s; /* Firefox 4 */
+        -webkit-transition: opacity 0.1s; /* Safari and Chrome */
+        -o-transition: opacity 0.1s; /* Opera */
 	}
 	
 	#content li:hover img {
