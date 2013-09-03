@@ -217,7 +217,12 @@ nav#navigation {
 		padding-left: 22px;
 	}
 	
-	.instagram {
+	.eventbrite {
+        background: url('img/icon-eventbrite.png') left center no-repeat;
+        padding-left: 22px;
+    }
+    
+    .instagram {
         background: url('img/icon-instagram.png') left center no-repeat;
         padding-left: 22px;
     }
