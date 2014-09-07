@@ -194,7 +194,7 @@ nav#navigation {
 	}
 	
     #content > p {
-        max-width: 540px;
+        max-width: 568px;
     }
     /*
 	#content a.button {
@@ -253,19 +253,26 @@ nav#navigation {
 	}
 	
 	.profile_image {
-		background:#fff;
-		border:solid 1px #797878;
-		-moz-border-radius:4px;
-		-webkit-border-radius:4px;
-		border-radius:4px;
-		-moz-box-shadow:0 0 4px rgba(0,0,0,.4);
-		-webkit-box-shadow:0 0 4px rgba(0,0,0,.4);
-		box-shadow:0 0 4px rgba(0,0,0,.4);
 		margin-bottom:10px;
-		padding:5px;
 		float:left;
 		margin-right: 20px;
+        width: 152px;
+        -moz-border-radius:6px;
+        -webkit-border-radius:6px;
+        border-radius:6px;
 	}
+
+    .pictureframe {
+        background:#fff;
+        border:solid 1px #797878;
+        -moz-border-radius:4px;
+        -webkit-border-radius:4px;
+        border-radius:4px;
+        -moz-box-shadow:0 0 4px rgba(0,0,0,.4);
+        -webkit-box-shadow:0 0 4px rgba(0,0,0,.4);
+        box-shadow:0 0 4px rgba(0,0,0,.4);
+        padding:5px;        
+    }
 
 .clear {
 	clear:both;
