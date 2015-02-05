@@ -26,24 +26,32 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+  function switchTab(id){
+  	//document.body.className = document.body.className.replace(/tab\w+/, c);
+  	var tabs = document.getElementsByClassName("content");
+  	for (var i=tabs.length-1; i>-1; --i)
+  		tabs[i].style.display = tabs[i].id == id ? "block" : "none";
+  	return false;
+  }
 </script>
 </head>
-<body>
+<body class="tabMain">
 	<div class="container">
 		<header id="page_header">
 			<div id="card">
 				<h1><a href="http://adrienjoly.com/" title="Adrien Joly" rel="index">Adrien Joly</a></h1>
 				<ul>
 					<li><a href="http://github.com/adrienjoly" target="_blank">full-stack javascript developer</a></li>
-					<li><a href="http://fhacktory.com/" target="_blank">hackathon organizer</a></li>
+					<li><a href="#">lean startup advisor</a></li>
 					<li><a href="#mybands">rock drummer</a></li>
 					<li><a href="http://whyd.com/adrien" target="_blank">music lover</a></li>
 				</ul>
 			</div>
 			<nav id="navigation">
 				<ul>
-					<li><a href="http://adrienjoly.com/" rel="index">homepage</a></li>
-					<li><a href="http://www.linkedin.com/in/adrienjoly" rel="external" target="_blank">LinkedIn</a></li>
+					<li><a href="http://adrienjoly.com/" rel="index" onclick="return switchTab('main');">homepage</a></li>
+					<li><a href="https://medium.com/@adrienjoly" rel="external" onclick="return switchTab('blog');">blog</a></li>
+					<li><a href="http://www.linkedin.com/in/adrienjoly" rel="external" onclick="return switchTab('linkedin');">LinkedIn</a></li>
 					<li><a href="http://twitter.com/adrienjoly" rel="external" target="_blank">twitter</a></li>
 				</ul>
 			</nav>
@@ -58,7 +66,7 @@
 			</div>
 		</header>
 
-		<div id="content">
+		<div id="main" class="content">
 		
 			<h1>About me</h1>
 			<img class="profile_image" src="./img/adrienjoly2014_2.jpg" alt="Adrien Joly, photo by Camille Betinyani">
@@ -261,7 +269,17 @@
 			
 			<!--<footer id="pagination">
 				<div class="pagination"><span class="disabled prev_page">« Previous</span> <span class="current">1</span> <a href="http://adrienjoly.posterous.com/?page=2" rel="next">2</a> <a href="http://adrienjoly.posterous.com/?page=3">3</a> <a href="http://adrienjoly.posterous.com/?page=4">4</a> <a href="http://adrienjoly.posterous.com/?page=2" class="next_page" rel="next">Next »</a></div>
-			</footer>-->
+			</footer>-->	
+		</div>
+		
+		<div id="blog" class="content">
+			<script async src="https://static.medium.com/embed.js"></script>
+			<a class="m-profile" href="https://medium.com/@adrienjoly">Loading blog embed...</a>
+		</div>
+
+		<div id="linkedin" class="content">
+			<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+			<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/adrienjoly" data-format="inline"></script>
 		</div>
 	</div>
 </body>
