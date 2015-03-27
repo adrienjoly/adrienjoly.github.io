@@ -196,6 +196,13 @@ nav#navigation {
     .content > p {
         max-width: 792px;
     }
+
+    .content > div.tip {
+        max-width: 792px;
+        margin-top: 32px;
+        background: #eee;
+        padding: 12px;
+    }
     /*
 	.content a.button {
 		display: inline-block;
