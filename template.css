@@ -197,8 +197,7 @@ nav#navigation {
         max-width: 792px;
     }
 
-    .content > div.tip {
-        max-width: 792px;
+    .content .tip {
         margin-top: 32px;
         background: #eee;
         padding: 12px;
