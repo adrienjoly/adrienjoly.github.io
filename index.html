@@ -50,8 +50,10 @@
 			</div>
 			<nav id="navigation">
 				<ul>
-					<li><a href="http://adrienjoly.com/" rel="index" onclick="return switchTab('main');">homepage</a></li>
-					<li><a href="https://medium.com/@adrienjoly" rel="external" onclick="return switchTab('blog');">blog</a></li>
+					<li><a href="http://adrienjoly.com/" rel="index" onclick="return switchTab('main');">home</a></li>
+					<li><a href="http://adrienjoly.com/" rel="index" onclick="return switchTab('development');">projects</a></li>
+					<li><a href="http://adrienjoly.com/" rel="index" onclick="return switchTab('bands');">music</a></li>
+					<li><a href="https://medium.com/@adrienjoly" rel="external" target="_blank">blog</a></li>
 					<li><a href="http://www.linkedin.com/in/adrienjoly" rel="external" target="_blank">LinkedIn</a></li>
 					<li><a href="http://twitter.com/adrienjoly" rel="external" target="_blank">twitter</a></li>
 				</ul>
@@ -72,8 +74,32 @@
 		<div id="main" class="content">
 		
 			<h1>About me</h1>
-			<img class="profile_image" src="./img/adrienjoly2014_2.jpg" alt="Adrien Joly, photo by Camille Betinyani">
-			
+
+			<div class="mainbox">
+				<img class="profile_image" src="./img/adrienjoly2014_2.jpg" alt="Adrien Joly, photo by Camille Betinyani">
+				<p>Hi!</p>
+				<p>My name is Adrien, I have loved programming and playing drums since I was 6.</p>
+				<p>We may have met while I was involved in my latest projects: <a href="http://whyd.com" rel="external" target="_blank">whyd.com</a>, <a href="http://fhacktory.com" rel="external" target="_blank">fhacktory hackathons</a>, or <a href="http://manisnotabird.com" rel="external" target="_blank">man is not a bird</a>.</p>
+			</div>
+
+			<div class="mainbox">
+				<div class="tip">
+					<p>Here is a list of what I might be interested to do with you:</p>
+					<ul>
+						<li>Teach Javascript and agile software programming;</li>
+						<li>Source, evaluate and coach promising and relevant developers for your company;</li>
+						<li>Develop a web application, dashboard or scripts for your start-up company;</li>
+						<li>Work with you on one of the <a href="https://www.wunderlist.com/list/131400047" rel="external" target="_blank">topics and ideas I'm excited about</a>;</li>
+						<li>Play drums with you.</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="mainbox">
+				<p>...or maybe you can help me find <a href="https://www.wunderlist.com/list/148708042" rel="external" target="_blank">what I'm looking for</a>?</p>
+			</div>
+
+			<!--
 			<p>Passionate programmer since 1990, I've become a pragmatic hacker who loves to prototype and build innovative ideas very efficiently (a.k.a. lean software development). I am also not afraid to share my own publicly: <a href="https://www.wunderlist.com/list/131400047">hacks, side-projects, and business ideas</a></p>
 
 			<p>I started coding in Javascript in 2003. I built and maintained <a href="http://whyd.com" target="_blank">Whyd</a> during 4 years using Node.js (starting at version 0.3). Today, I love building full-stack web applications in Javascript more than ever.</p>
@@ -85,6 +111,7 @@
 				<a href="https://www.wunderlist.com/list/148708042">what I am looking for</a>, and
 				<a href="https://www.wunderlist.com/list/131400047">ideas I want to work on</a>.
 			</p>
+			-->
 
 			<!--<a class="button" href="http://geekli.st/adrienjoly" target="_blank"><span class="geeklist"/>My achievements (geeklist)</span></a>
 			<a class="button" href="http://dl.dropbox.com/u/151830/Resume/resume_joly_adrien_en.pdf" target="_blank"><span class="pdf"/>My Résumé (English)</span></a>
@@ -93,7 +120,9 @@
 			<a class="button" href="http://copygr.am/adrienj/" target="_blank"><span class="instagram"/>Instagram</span></a>
 			-->
 			<div class="clear"></div>
-			
+		</div>
+
+		<div id="development" class="content thumbs">
 			<h1>Main projects</h1>
 			<ul class="items">
 				<li class="project">
@@ -219,8 +248,9 @@
 				</li>
 			</ul>
 			<div class="clear"></div>
+		</div>
 			
-			
+		<div id="bands" class="content thumbs">
 			<h1 id="mybands">My bands</h1>
 			<ul class="items">
 				<li class="project">
@@ -274,13 +304,7 @@
 				</li>
 			</ul>
 			<div class="clear"></div>
-			
 			<!--<a class="button" href="http://www.last.fm/user/roly/library" target="_blank"><span class="lastfm"/>My favorite bands</a>-->
-			
-			
-			<!--<footer id="pagination">
-				<div class="pagination"><span class="disabled prev_page">« Previous</span> <span class="current">1</span> <a href="http://adrienjoly.posterous.com/?page=2" rel="next">2</a> <a href="http://adrienjoly.posterous.com/?page=3">3</a> <a href="http://adrienjoly.posterous.com/?page=4">4</a> <a href="http://adrienjoly.posterous.com/?page=2" class="next_page" rel="next">Next »</a></div>
-			</footer>-->	
 		</div>
 
 		<div id="blog" class="content">

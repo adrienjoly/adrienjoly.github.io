@@ -49,7 +49,7 @@ header,footer,aside,nav,article,section {display:block;}
 @font-face {
     font-family: 'AlternateGothicFSNo3';
     src: url('./fonts/AlternateGothicNo3-webfont.eot');
-    src: local('☺'), url('./fonts/AlternateGothicNo3-webfont.woff') format('woff'), url('./fonts/AlternateGothicNo3-webfont.ttf') format('truetype'), url('./fonts/AlternateGothicNo3-webfont.svg#webfontUJOPMwss') format('svg');
+    src: local('Ã¢ËœÂº'), url('./fonts/AlternateGothicNo3-webfont.woff') format('woff'), url('./fonts/AlternateGothicNo3-webfont.ttf') format('truetype'), url('./fonts/AlternateGothicNo3-webfont.svg#webfontUJOPMwss') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -198,10 +198,24 @@ nav#navigation {
     }
 
     .content .tip {
-        margin-top: 32px;
         background: #eee;
         padding: 12px;
+        border-radius:6px;
     }
+
+    .content .tip ul {
+        margin-left: 20px;
+    }
+
+    .content .tip li {
+        line-height: 30px;
+        color: #666;
+    }
+
+    #main a {
+        font-weight: bold;
+    }
+
     /*
 	.content a.button {
 		display: inline-block;
@@ -278,6 +292,13 @@ nav#navigation {
         border-radius:6px;
 	}
 
+    .mainbox {
+        clear: both;
+        overflow: auto;
+        margin: 20px auto;
+        max-width: 600px;
+    }
+
     .pictureframe {
         background:#fff;
         border:solid 1px #797878;
@@ -305,7 +326,7 @@ nav#navigation {
 		margin-top: 0px;
 	}
 	
-	.content li {
+	.thumbs li {
 		display:inline-block;
 		vertical-align:top;
 		list-style: none;
@@ -315,7 +336,7 @@ nav#navigation {
 		margin-bottom: 30px;
 	}
     
-	.content li img {
+	.thumbs li img {
 		border-radius: 5px;
 		border: 2px solid #5B6A79;
 		width:260px;
@@ -328,36 +349,36 @@ nav#navigation {
         -o-transition: opacity 0.1s; /* Opera */
 	}
 	
-	.content li:hover img {
+	.thumbs li:hover img {
 		opacity:1;
 	}
 	
-	.content h2 {
+	.thumbs h2 {
 		width: 260px;
 		margin-bottom: 15px;
 	}
 	
-	.content h2 a {
+	.thumbs h2 a {
 		font-size:24px;
 	}
 	
-	.content h2 small {
+	.thumbs h2 small {
 		font-size:16px;
 		float:right;
 		color: #5B6A79;
 	}
 	
-	.content li p {
+	.thumbs li p {
 		font-size:90%;
 		width: 260px;
 	}
     
-	.content li:hover h2 a, .content li a:focus h2 a {
+	.thumbs li:hover h2 a, .content li a:focus h2 a {
 		color: #0091BE;
 		text-decoration: none;
 	}
     
-    .content li:hover img, .content li a:focus img {
+    .thumbs li:hover img, .content li a:focus img {
 		border: 2px solid #0091BE;
 	}
     
