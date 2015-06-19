@@ -373,7 +373,7 @@ nav#navigation {
 		margin-bottom: 30px;
 	}
     
-	.thumbs li img {
+    .thumbs li .screenshot > * {
 		border-radius: 5px;
 		border: 2px solid #5B6A79;
 		width:260px;
@@ -384,8 +384,17 @@ nav#navigation {
         -moz-transition: opacity 0.1s; /* Firefox 4 */
         -webkit-transition: opacity 0.1s; /* Safari and Chrome */
         -o-transition: opacity 0.1s; /* Opera */
-	}
+        text-align: center;
+    }
 	
+    .thumbs li .screenshot > div > div {
+        display: inline-block;
+        margin-top: 76px;
+        border: 1px solid #DFDFDF;
+        color: #DFDFDF;
+        padding: 8px;
+    }
+
 	.thumbs li:hover img {
 		opacity:1;
 	}
@@ -418,7 +427,7 @@ nav#navigation {
     .thumbs li:hover img, .content li a:focus img {
 		border: 2px solid #0091BE;
 	}
-    
+
         header#page_header h1.header_image {
             text-align:center;
         }
