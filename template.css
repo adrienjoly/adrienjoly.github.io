@@ -121,7 +121,8 @@ header#page_header {
     }
 
     header#page_header #card li {
-        text-align: right;
+        text-align: center;
+        color: #505050;
     }
 
 nav#navigation {
@@ -174,6 +175,42 @@ nav#navigation {
         nav#navigation li a:active {
             background-color:#202020;
         }
+
+#socialicons {
+    text-align: center;
+}
+
+#socialicons > a {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    opacity: 0.2;
+    transition: opacity .05s ease-in-out;
+    margin: 8px;
+}
+
+#socialicons > a:hover {
+    opacity: 1;
+}
+
+#icon-github {
+    background-image: url('img/logo-github.png');
+}
+
+#icon-linkedin {
+    background-image: url('img/logo-linkedin.png');
+}
+
+#icon-medium {
+    background-image: url('img/logo-medium.jpg');
+}
+
+#icon-twitter {
+    background-image: url('img/logo-twitter.png');
+}
 
 .content {
     padding:20px 30px 20px 250px;
