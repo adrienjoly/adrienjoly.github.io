@@ -428,6 +428,11 @@ nav#navigation {
 		border: 2px solid #0091BE;
 	}
 
+    .thumbs h3 {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
         header#page_header h1.header_image {
             text-align:center;
         }
