@@ -208,16 +208,3 @@ input[type='text'], input:not([type]), textarea {
 .jfk-progressBar-nonBlocking .progress-bar-thumb {
   background-color: rgb(140,140,140);
 }
-
-.ss-logo-image {
-  background-image: url('//ssl.gstatic.com/docs/forms/forms_logo_2_small_dark.png');
-  background-size: 108px 21px;
-  width: 108px;
-  height: 21px;
-}
-
-@media screen and (-webkit-device-pixel-ratio: 2) {
-.ss-logo-image {
-  background-image: url('//ssl.gstatic.com/docs/forms/forms_logo_2_small_dark_2x.png');
-}
-}
