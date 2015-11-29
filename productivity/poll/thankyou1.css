@@ -1,0 +1,210 @@
+body {
+  background-color: rgb(231,238,247);
+  background-image: url('//ssl.gstatic.com/docs/forms/themes/images/v1/0AX42CRMsmRFbUy03NTAzM2Q4My03ODU1LTQ2NzItODI2YS1kZmU5YzdiMzZjOGQ/blue-stripe-bg.png');
+  background-repeat: repeat;
+  background-position: left top;
+}
+
+.ss-form-container, .ss-resp-card {
+  background-color: rgb(255,255,255);
+}
+
+.ss-footer, .ss-response-footer {
+  background-color: rgb(255,255,255);
+}
+
+.ss-grid-row-odd {
+  background-color: rgb(242,242,242);
+}
+
+.ss-form-container, .ss-resp-card {
+  border-color: rgb(212,212,212);
+}
+
+.ss-form-title {
+  text-align: left;
+}
+
+.ss-form-title[dir="rtl"] {
+  text-align: right;
+}
+
+.ss-form-desc {
+  text-align: left;
+}
+
+.ss-form-desc[dir="rtl"] {
+  text-align: right;
+}
+
+.ss-header-image-container {
+  height: 0;
+}
+
+.ss-item {
+  font-size: 1.080rem;
+}
+
+.ss-choices {
+  font-size: 1.000rem;
+}
+
+body {
+  font-family: "Roboto";
+  color: rgb(119,119,119);
+  font-weight: 400;
+  font-size: 1.080rem;
+  font-style: normal;
+}
+
+.ss-record-username-message {
+  font-family: "Roboto";
+  color: rgb(119,119,119);
+  font-weight: 400;
+  font-size: 1.080rem;
+  font-style: normal;
+}
+
+.ss-form-title {
+  font-family: "Roboto";
+  color: rgb(80,80,80);
+  font-weight: 400;
+  font-size: 2.460rem;
+  font-style: normal;
+}
+
+.ss-confirmation {
+  font-family: "Roboto";
+  color: rgb(80,80,80);
+  font-weight: 400;
+  font-size: 2.460rem;
+  font-style: normal;
+}
+
+.ss-page-title, .ss-section-title {
+  font-family: "Roboto";
+  color: rgb(80,80,80);
+  font-weight: 400;
+  font-size: 1.845rem;
+  font-style: normal;
+}
+
+.ss-form-desc, .ss-page-description, .ss-section-description {
+  font-family: "Roboto";
+  color: rgb(140,140,140);
+  font-weight: 400;
+  font-size: 1.080rem;
+  font-style: normal;
+}
+
+.ss-resp-content {
+  font-family: "Roboto";
+  color: rgb(119,119,119);
+  font-weight: 400;
+  font-size: 1.080rem;
+  font-style: normal;
+}
+
+.ss-q-title {
+  font-family: "Roboto";
+  color: rgb(80,80,80);
+  font-weight: 700;
+  font-size: 1.080rem;
+  font-style: normal;
+}
+
+.ss-embeddable-object-container .ss-q-title {
+  font-family: "Roboto";
+  color: rgb(80,80,80);
+  font-weight: 700;
+  font-size: 1.845rem;
+  font-style: normal;
+}
+
+.ss-q-help, .ss-q-time-hint {
+  font-family: "Roboto";
+  color: rgb(140,140,140);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+.ss-choice-label, .video-secondary-text, .ss-gridrow-leftlabel, .ss-gridnumber, .ss-scalenumber, .ss-leftlabel, .ss-rightlabel {
+  font-family: "Roboto";
+  color: rgb(80,80,80);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+.error-message, .required-message, .ss-required-asterisk {
+  font-family: "Roboto";
+  color: rgb(196,59,29);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+.ss-send-email-receipt {
+  font-family: "Roboto";
+  color: rgb(80,80,80);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+.ss-password-warning {
+  font-family: "Arial";
+  color: rgb(119,119,119);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: italic;
+}
+
+.disclaimer {
+  font-family: "Arial";
+  color: rgb(119,119,119);
+  font-weight: 400;
+  font-size: 0.850rem;
+  font-style: normal;
+}
+
+.ss-footer-content {
+  font-family: "Arial";
+  color: rgb(80,80,80);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+.progress-label {
+  font-family: "Roboto";
+  color: rgb(140,140,140);
+  font-weight: 400;
+  font-size: 1.000rem;
+  font-style: normal;
+}
+
+a:link {
+  color: rgb(0,0,238);
+}
+
+a:visited {
+  color: rgb(85,26,139);
+}
+
+a:active {
+  color: rgb(252,0,0);
+}
+
+input[type='text'], input:not([type]), textarea {
+  font-size: 1.000rem;
+}
+
+.error, .required, .errorbox-bad {
+  border-color: rgb(196,59,29);
+}
+
+.jfk-progressBar-nonBlocking .progress-bar-thumb {
+  background-color: rgb(140,140,140);
+}
