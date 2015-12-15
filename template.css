@@ -67,6 +67,12 @@ a {
     text-decoration:none;
 }
 
+b {
+    font-weight: normal;
+    background-color: rgba(69, 185, 57, 0.20);
+    padding: 2px;
+}
+
 .container {
     min-width:1000px;
 }
