@@ -300,6 +300,11 @@ nav#navigation {
         padding-left: 22px;
     }
 
+    .github {
+        background: url('img/icon-github.png') left center no-repeat;
+        padding-left: 22px;
+    }
+
     .maddyness {
         background: url('img/icon-maddyness.png') left center no-repeat;
         padding-left: 22px;
