@@ -29,7 +29,7 @@ header,footer,aside,nav,article,section {display:block;}
  * Fully installable fonts can be purchased at http://www.fontspring.com
  *
  * The fonts included in this stylesheet are subject to the End User License you purchased
- * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * from Fontspring. The fonts are protected under domestic and international trademark and
  * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
  * distributing this font software.
  *
@@ -118,7 +118,7 @@ header#page_header {
     header#page_header div a:hover span {
         color:#FFF;
     }
-    
+
     header#page_header div li {
         font-size:0.9em;
         font-weight:normal;
@@ -143,7 +143,7 @@ nav#navigation {
         margin-top:0; /* override default */
         text-transform:uppercase;
     }
-    
+
         nav#navigation li a {
             border-top:solid 1px #111;
             border-bottom:solid 1px #3f3f3f;
@@ -156,28 +156,28 @@ nav#navigation {
             -webkit-transition: background-color 0.1s; /* Safari and Chrome */
             -o-transition: background-color 0.1s; /* Opera */
         }
-        
+
         nav#navigation li:first-child {
             border-top:solid 1px #3f3f3f;
         }
-        
+
         nav#navigation li:first-child a {
             background: url(./img/home.png) no-repeat right center;
         }
-        
+
         nav#navigation li:last-child {
             border-bottom:solid 1px #111;
         }
-        
+
         nav#navigation li a.current {
             background-color:#000;
             border-bottom:0;
         }
-        
+
         nav#navigation li a:hover {
             background-color:#2f2f2f;
         }
-        
+
         nav#navigation li a:active {
             background-color:#202020;
         }
@@ -226,16 +226,16 @@ nav#navigation {
 	.content a {
 		color: #5B6A79;
 	}
-	
+
 	.content a:hover {
 		color: #0091BE;
 	}
-	
+
 	.content p {
 		line-height:150%;
 		margin-bottom:5px;
 	}
-	
+
     .content > p {
         max-width: 792px;
     }
@@ -283,18 +283,18 @@ nav#navigation {
 		text-decoration: none;
 		border: 1px solid #b1b3b8;
 	}
-	
+
 	.pdf {
 		background: url('./img/page_white_acrobat.gif') left center no-repeat;
 		padding-left: 22px;
 	}
-	
-	
+
+
 	.whyd {
         background: url('img/icon-whyd.png') left center no-repeat;
 		padding-left: 22px;
 	}
-	
+
     .youtube {
         background: url('img/icon-youtube.png') left center no-repeat;
         padding-left: 22px;
@@ -305,36 +305,41 @@ nav#navigation {
         padding-left: 22px;
     }
 
+    .npm {
+        background: url('img/icon-npm.png') left center no-repeat;
+        padding-left: 22px;
+    }
+
     .maddyness {
         background: url('img/icon-maddyness.png') left center no-repeat;
         padding-left: 22px;
     }
-    
+
     .liris {
         background: url('img/icon-liris.png') left center no-repeat;
         padding-left: 22px;
     }
-    
+
 	.eventbrite {
         background: url('img/icon-eventbrite.png') left center no-repeat;
         padding-left: 22px;
     }
-    
+
     .instagram {
         background: url('img/icon-instagram.png') left center no-repeat;
         padding-left: 22px;
     }
-    
+
     .geeklist {
         background: url('img/icon-geeklist.png') left center no-repeat;
         padding-left: 22px;
     }
-    
+
     .lastfm {
 		background: url('./img/lastfm.png') left center no-repeat;
 		padding-left: 22px;
 	}
-	
+
 	.profile_image {
 		margin-bottom:10px;
 		float:left;
@@ -361,7 +366,7 @@ nav#navigation {
         -moz-box-shadow:0 0 4px rgba(0,0,0,.4);
         -webkit-box-shadow:0 0 4px rgba(0,0,0,.4);
         box-shadow:0 0 4px rgba(0,0,0,.4);
-        padding:5px;        
+        padding:5px;
     }
 
 .clear {
@@ -378,7 +383,7 @@ nav#navigation {
 	.content h1:first-child {
 		margin-top: 0px;
 	}
-	
+
 	.thumbs li {
 		display:inline-block;
 		vertical-align:top;
@@ -388,7 +393,7 @@ nav#navigation {
 		margin-right: 30px;
 		margin-bottom: 30px;
 	}
-    
+
     .thumbs li .screenshot > * {
 		border-radius: 5px;
 		border: 2px solid #5B6A79;
@@ -402,7 +407,7 @@ nav#navigation {
         -o-transition: opacity 0.1s; /* Opera */
         text-align: center;
     }
-	
+
     .thumbs li .screenshot > div > div {
         display: inline-block;
         margin-top: 76px;
@@ -414,32 +419,32 @@ nav#navigation {
 	.thumbs li:hover img {
 		opacity:1;
 	}
-	
+
 	.thumbs h2 {
 		width: 260px;
 		margin-bottom: 15px;
 	}
-	
+
 	.thumbs h2 a {
 		font-size:24px;
 	}
-	
+
 	.thumbs h2 small {
 		font-size:16px;
 		float:right;
 		color: #5B6A79;
 	}
-	
+
 	.thumbs li p {
 		font-size:90%;
 		width: 260px;
 	}
-    
+
 	.thumbs li:hover h2 a, .content li a:focus h2 a {
 		color: #0091BE;
 		text-decoration: none;
 	}
-    
+
     .thumbs li:hover img, .content li a:focus img {
 		border: 2px solid #0091BE;
 	}
@@ -452,10 +457,10 @@ nav#navigation {
         header#page_header h1.header_image {
             text-align:center;
         }
-     
-     
-     
-     
+
+
+
+
 article header aside.sms {
     font-size: 11px;
 }
@@ -496,15 +501,15 @@ footer#pagination {
         padding:0 5px;
         text-decoration:none;
     }
-    
+
     .pagination span.disabled {
         display:none;
     }
-    
+
     .pagination a:hover, .pagination a:active {
         border:solid 1px #000;
     }
-    
+
     .pagination span.current {
         color:#333;
         font-weight:bold;
@@ -515,7 +520,7 @@ footer#pagination {
 footer section.share {
 height:25px;
 }
-    
+
 .cw {
     color:#ccc;
     font-family:AlternateGothicFSNo3,"Arial Narrow";
