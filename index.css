@@ -246,11 +246,14 @@ nav#navigation {
         border-radius:6px;
     }
 
-    .content .tip ul {
+    .mainbox ul {
+        margin-top: 5px;
         margin-left: 20px;
     }
 
-    .content .tip li {
+    .mainbox ul li,
+    .mainbox ul p {
+        margin: 0;
         line-height: 30px;
         color: #666;
     }
@@ -307,6 +310,12 @@ nav#navigation {
 
     .medium {
         background: url('img/logo-medium.png') left center no-repeat;
+        background-size: 16px 16px;
+        padding-left: 22px;
+    }
+
+    .wunderlist {
+        background: url('img/icon-wunderlist.png') left center no-repeat;
         background-size: 16px 16px;
         padding-left: 22px;
     }
