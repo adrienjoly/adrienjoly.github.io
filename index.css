@@ -320,6 +320,12 @@ nav#navigation {
         padding-left: 22px;
     }
 
+    .news {
+        background: url('img/icon-news.png') left center no-repeat;
+        background-size: 16px 16px;
+        padding-left: 22px;
+    }
+
     .npm {
         background: url('img/icon-npm.png') left center no-repeat;
         padding-left: 22px;
