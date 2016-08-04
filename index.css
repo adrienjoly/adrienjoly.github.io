@@ -297,6 +297,12 @@ nav#navigation {
 		padding-left: 22px;
 	}
 
+    .openwhyd {
+        background: url('img/icon-openwhyd.png') left center no-repeat;
+        background-size: 16px 16px;
+        padding-left: 22px;
+    }
+
     .youtube {
         background: url('img/icon-youtube.png') left center no-repeat;
         padding-left: 22px;
