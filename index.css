@@ -337,6 +337,12 @@ nav#navigation {
         padding-left: 22px;
     }
 
+    .patreon {
+        background: url('img/icon-patreon.png') left center no-repeat;
+        background-size: 16px 16px;
+        padding-left: 22px;
+    }
+
     .npm {
         background: url('img/icon-npm.png') left center no-repeat;
         padding-left: 22px;
