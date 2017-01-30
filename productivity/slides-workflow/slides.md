@@ -1,9 +1,15 @@
-class: center, middle, dbl-size
+class: center, fit-bg-image
+background-image: url('img/banner.jpg')
+
 # Work on 10 projects without burning out 🔥
 
-![dog animation](img/dog.gif)
+.bottom-left[
+    ![adrien joly](img/me-round.png)
+]
 
-@adrienjoly (.com, twitter, medium, github)
+.bottom-right[
+    @adrienjoly
+]
 
 ---
 class: center, middle, dbl-size
@@ -17,33 +23,46 @@ class: center, middle, dbl-size
 # Story
 
 ---
+class: full-bg-image, inverse
+background-image: url('img/notebook.jpg')
+
 # 5+ years ago: Thesis
+
+???
 
 thesis => notes on paper
 
 ---
+class: inverse
+
 # 3 years ago: Startup
 
-startup => shared trello board + personal todo-list
-
+.center.margin-20px[
 ![trello kanban animation](img/trello-kanban-workflow.gif)
+]
 
 ???
+
+startup => shared trello board + personal todo-list
 
 getting interested in productivity
 
 ---
+class: full-bg-image, inverse
+background-image: url('img/wunderlist.png')
+
 # 2 years ago: Freelancing
 
-freelancing => todo-list only
-
-![wunderlist](img/wunderlist.png)
-
 ???
+
+freelancing => todo-list only
 
 progressively improving my workflow, to be efficient, while preventing burn out
 
 ---
+class: full-bg-image, inverse
+background-image: url('img/bootstrapping.jpg')
+
 # Now: Multi-bootstrapping
 
 ???
@@ -70,7 +89,12 @@ class: center, middle, dbl-size
 - Per-project process
 
 ---
+class: full-bg-image, inverse
+background-image: url('img/13-week-plan.jpg')
+
 # 13-week process
+
+???
 
 - 1 result goal
 - 3 progress goals
@@ -81,7 +105,14 @@ class: center, middle, dbl-size
 - intended habits, for good execution
 
 ---
+class: center, middle, dbl-size
 # Weekly process
+
+- Hours per project
+- Wins & lessons
+- Schedule next week
+
+???
 
 - count time spent per project => compare with previsions
 - sum up main wins and lessons of the week => adopt solutions
@@ -89,7 +120,15 @@ class: center, middle, dbl-size
 - schedule steps in the calendar => snapshot the calendar (initial plan)
 
 ---
+class: center, middle, dbl-size
 # Daily process
+
+- Routine
+- Focus
+- Recap
+- Prepare
+
+???
 
 - morning: read targets of the day, write objective, gratitude, exercise
 - focus on planned activities, one task at a time
@@ -98,7 +137,12 @@ class: center, middle, dbl-size
 - write down targets of next day
 
 ---
+class: full-bg-image, inverse
+background-image: url('img/trello-card.png')
+
 # Per-project process
+
+???
 
 - one trello card per project:
     + description <- links to all associated documents (e.g. google drive, etc...)
@@ -120,7 +164,14 @@ class: center, middle, dbl-size
 - Take a step back
 
 ---
+class: center, middle, dbl-size
 # 1. Know yourself
+
+- Goals & why
+- Flaws
+- Priorities
+
+???
 
 - think about who you are,
 - what is it that you're running after, why,
@@ -128,7 +179,15 @@ class: center, middle, dbl-size
 - how much time you intend to spend on what. (projects and/or kind of activities)
 
 ---
+class: center, middle, dbl-size
 # 2. Plan ahead
+
+- Objectives & deadlines
+- Commit time
+- Split tasks
+- Save free time
+
+???
 
 - set objectives
 - set deadlines
@@ -137,7 +196,15 @@ class: center, middle, dbl-size
 - always keep enough free time aside for fun/leasure/relaxing, and for the unexpected
 
 ---
+class: center, middle, dbl-size
 # 3. Focus
+
+- Bin of thoughts
+- Interruptions
+- Plan distractions
+- Content first
+
+???
 
 - find way to get ideas out of your mind quickly
 - find ways to really focus, shut down interruptions, close non-necessary apps and tabs
@@ -147,17 +214,27 @@ class: center, middle, dbl-size
 - structure -> content -> details. (ex: use an outliner and/or markdown)
 
 ---
+class: center, middle, dbl-size
 # 4. Take a step back
 
+- Feel
+- Adjust
+- Share
+
+???
+
 - At end of each period (day, week, 13-week objective), take time to think of what you did (vs your initial expectations), 
-- don't be too hard on yourself => just adapt your level of expectations, process, and/or tools. main objective: be happy and healthy :-)
+- don't be too hard on yourself => just adapt your level of expectations, process, and/or tools.
 - share your journey and learnings with others
 
 ---
+class: center, middle, dbl-size
 # 5. Objectives < Happiness and Health
 
 ---
 class: center, middle, dbl-size
-# Thank you!
+# Now let's talk!
 
-@adrienjoly (.com, twitter, medium, github)
+![dog animation](img/dog.gif)
+
+@adrienjoly

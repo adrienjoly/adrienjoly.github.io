@@ -27,6 +27,18 @@ li {
   bottom: 3em;
 }
 
+.bottom-left {
+  position: fixed;
+  bottom: 10px;
+  left: 60px;
+}
+
+.bottom-right {
+  position: fixed;
+  bottom: 50px;
+  right: 60px;
+}
+
 .remark-code, .remark-inline-code {
   font-family: 'Ubuntu Mono';
   background-color: #ddd;
@@ -40,8 +52,13 @@ li {
 }
 
 .inverse h1, .inverse h2 {
+  display: inline;
+  overflow: auto; /* try to force one h1 and h2 per line */
+  clear: both; /* try to force one h1 and h2 per line */
+  background: #272822;
   color: #f3f3f3;
-  line-height: 0.8em;
+  padding: 10px 20px;
+  padding-top: 0;
 }
 
 /* my customizations */
