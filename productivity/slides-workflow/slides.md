@@ -120,6 +120,14 @@ class: center, middle, dbl-size
 - schedule steps in the calendar => snapshot the calendar (initial plan)
 
 ---
+class: full-bg-image
+background-image: url('img/screenshot-trello-board.png')
+
+---
+class: full-bg-image
+background-image: url('img/screenshot-calendar.png')
+
+---
 class: center, middle, dbl-size
 # Daily process
 
@@ -212,6 +220,14 @@ class: center, middle, dbl-size
 - group social interactions into small chunks, at distant intervals
 - inform others of your intents, and comm. preferences (how to reach you)
 - structure -> content -> details. (ex: use an outliner and/or markdown)
+
+---
+class: full-bg-image
+background-image: url('img/screenshot-inbox.png')
+
+---
+class: full-bg-image
+background-image: url('img/screenshot-inbox-add.png')
 
 ---
 class: center, middle, dbl-size
