@@ -135,7 +135,7 @@ nav#navigation {
     padding:30px 0;
 }
 
-    nav#navigation li {
+    nav#navigation li, .black-btn {
         font-family:AlternateGothicFSNo3,"Arial Narrow";
         font-size:1.571em;
         line-height:1.25em;
@@ -147,14 +147,23 @@ nav#navigation {
         nav#navigation li a {
             border-top:solid 1px #111;
             border-bottom:solid 1px #3f3f3f;
-            color:#FFF;
             display:block;
+        }
+
+        nav#navigation li a, #main a.black-btn {
+            color:#FFF;
             padding:9px 20px;
             text-decoration:none;
             transition: background-color 0.1s;
             -moz-transition: background-color 0.1s; /* Firefox 4 */
             -webkit-transition: background-color 0.1s; /* Safari and Chrome */
             -o-transition: background-color 0.1s; /* Opera */
+        }
+
+        #main a.black-btn {
+            background: #252525;
+            display: inline-block;
+            font-weight: normal;
         }
 
         nav#navigation li:first-child {
@@ -174,11 +183,11 @@ nav#navigation {
             border-bottom:0;
         }
 
-        nav#navigation li a:hover {
+        nav#navigation li a:hover, #main a.black-btn:hover {
             background-color:#2f2f2f;
         }
 
-        nav#navigation li a:active {
+        nav#navigation li a:active, #main a.black-btn:active {
             background-color:#202020;
         }
 
