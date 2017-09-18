@@ -1,0 +1,15 @@
+body {
+  padding: 60px !important;
+}
+.col-md-3 {
+  width: 25% !important;
+  float: left !important;
+}
+.col-md-9 {
+  width: 75% !important;
+  float: left !important;
+}
+.col-md-6, .col-sm-12 {
+  width: 50% !important;
+  float: left !important;
+}
