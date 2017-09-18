@@ -1,0 +1,9 @@
+{
+  "name": "adrienjoly-resume",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "./node_modules/.bin/resume export index.html -t modern"
+  },
+  "author": "adrienjoly",
+  "license": "ISC"
+}
