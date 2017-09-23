@@ -2,6 +2,7 @@
   "name": "adrienjoly-resume",
   "version": "1.0.0",
   "scripts": {
+    "publish": "./node_modules/.bin/resume publish -t modern",
     "build": "./node_modules/.bin/resume export index.html -t modern"
   },
   "author": "adrienjoly",
