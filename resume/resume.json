@@ -4,7 +4,6 @@
     "label": "Web product developer, JavaScript teacher",
     "picture": "https://adrienjoly.com/img/adrienjoly2014_2.jpg",
     "email": "contact@adrienjoly.com",
-    "phone": "(no thanks)",
     "website": "https://adrienjoly.com",
     "summary": "I craft browser extensions, web apps, dashboards and data scripts in JavaScript. I love to keep my products simple, but complex workflows don't scare me.",
     "location": {
@@ -42,23 +41,11 @@
       "position": "(Self-Employed)",
       "website": "https://adrienjoly.com",
       "startDate": "2015-10-01",
-      "summary": "",
       "highlights": [
         "Developed a commercial student evaluation software with automatic code grading",
         "Developed and launched several productivity tools and browser extensions",
         "Produced and publish several product demo videos",
         "Hosted a dozen of public live coding sessions, on Twitch and Youtube"
-      ]
-    },
-    {
-      "company": "Startup Tour (MOOC)",
-      "position": "Co-author and teacher",
-      "website": "https://www.udemy.com/startuptour",
-      "startDate": "2015-08-01",
-      "summary": "After presenting \"Comment attirer un CTO ?\" (How to attract a CTO ?) as part of Startup Tour, a free 2-hour course that we gave at NUMA in August 2015, David Wise and I adapted this course into a MOOC / blended e-learning course in French.",
-      "highlights": [
-        "Co-presented a 2-hour conference at NUMA",
-        "Authored and presented the content for 2 hours of video"
       ]
     },
     {
@@ -80,6 +67,18 @@
       "website": "https://eemi.com",
       "startDate": "2015-08-01",
       "summary": "I teach Javascript programming to 3 classes of 1st year students, one full day per week."
+    },
+    {
+      "company": "Startup Tour (MOOC)",
+      "position": "Co-author and teacher",
+      "website": "https://www.udemy.com/startuptour",
+      "startDate": "2015-08-01",
+      "endDate": "2016-08-01",
+      "summary": "After co-presenting Startup Tour, a free 2-hour Lean Startup course that we gave at NUMA in August 2015, David Wise and I adapted it into a MOOC / blended e-learning course in French. I explain Agile/Scrum project management, and how to build a MVP without coding.",
+      "highlights": [
+        "Co-presented a 2-hour conference at NUMA",
+        "Authored and presented 2 hours of video content"
+      ]
     },
     {
       "company": "Freelance",
