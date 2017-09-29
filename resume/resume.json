@@ -50,10 +50,10 @@
     },
     {
       "company": "EEMI - École Européenne des Métiers de l'Internet",
-      "position": "JavaScript Teacher",
+      "position": "JavaScript Programming Teacher",
       "website": "https://eemi.com",
       "startDate": "2015-08-01",
-      "summary": "I teach Javascript programming to 3 classes of 1st year students, one full day per week."
+      "summary": "I teach Javascript programming to 4 classes of 1st year students, 1 day per week."
     },
     {
       "company": "Startup Tour (MOOC)",
@@ -101,7 +101,8 @@
       "company": "Alcatel-Lucent Bell Labs",
       "position": "PhD, researcher in Context-Aware Social Networking",
       "startDate": "2007-09-01",
-      "endDate": "2010-10-01"
+      "endDate": "2010-10-01",
+      "summary": "(see the \"Education\" and \"Publications\" section for more information about my PhD thesis)"
     },
     {
       "company": "Atos Origin",
@@ -186,14 +187,24 @@
       "area": "Information Retrieval",
       "studyType": "PhD",
       "startDate": "2007-09-01",
-      "endDate": "2010-09-01"
+      "endDate": "2010-09-01",
+      "highlights": [
+        "Designed, prototyped and experimented a solution to match distant colleagues based on the similarity of the topics they are currently working on.",
+        "The prototype was composed of: a Firefox extension to gather the URLs of the users' currently opened tabs + a crawler to extract meaningful keywords from these URLs + a matchmaking server",
+        "Wrote about my contributions in 7 papers, published in international conferences and journals",
+        "Also contributed to a European research project, and co-authored 3 patents"
+      ]
     },
     {
       "institution": "INSA Lyon - Institut National des Sciences Appliquées de Lyon",
       "area": "Information Technology",
       "studyType": "MSc",
       "startDate": "2003-09-01",
-      "endDate": "2006-09-01"
+      "endDate": "2006-09-01",
+      "highlights": [
+        "Exchange student: spent my last year at Queensland University of Technology, in Brisbane, Australia",
+        "Research internship: developed a prototype for Dr. Tjondronegoro, and co-authored 3 publications"
+      ]
     }
   ],
   "publications": [
