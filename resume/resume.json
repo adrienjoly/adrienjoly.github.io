@@ -211,7 +211,7 @@
   "publications": [
     {
       "name": "A Context Management Framework based on Wisdom of Crowds for Social Awareness applications",
-      "publisher": "INSA Lyon - Institut National des Sciences Appliquées de Lyon",
+      "publisher": "PhD Thesis @ INSA Lyon - Institut National des Sciences Appliquées de Lyon",
       "releaseDate": "2010",
       "website": "http://theses-search.insa-lyon.fr/notice/view/default%253AUNIMARC%253A170036",
       "summary": "At a time when social networking sites revolutionize the usages on the Web 2.0, it has become rich, easy, and fun to share private or professional content. Sharing personal information in real-time (such as news, moods, etc ), supports the maintenance of social ties at a high scale. However, the information overload which emerged from the growing quantity of signals exchanged on these services, often in real-time, motivates a regulation of these signals (called \"mediated interactions\"), in order to reduce the temporal cost for maintaining social networks, and implied interruptions, which have a negative impact on productivity on tasks that require long-lasting attention. In the frame of this thesis, we have developed a filtering and recommendation system that relies on contextual similarity between users that produce and consume social signals, as relevance criteria. In our approach, contextual information is aggregated and interpreted on users' terminal(s), before being submitted on-demand to a server in the form of a set of weighted tags. In this thesis, we present a broad state of the art on context-awareness, social networks and information retrieval, we propose a formalization of our filtering problem, and we implement and evaluate its application for enterprise social networking."

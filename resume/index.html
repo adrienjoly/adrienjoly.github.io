@@ -4,12 +4,28 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Adrien Joly</title>
+    <title>Adrien Joly  </title>
     <link href="https://bootswatch.com/lumen/bootstrap.min.css" rel="stylesheet" />
-    <link href="print.css" media="print" rel="stylesheet" />
+    <style media="print">
+      body {
+        padding: 60px !important;
+      }
+      .col-md-3 {
+        width: 25% !important;
+        float: left !important;
+      }
+      .col-md-9 {
+        width: 75% !important;
+        float: left !important;
+      }
+      .col-md-6, .col-sm-12 {
+        width: 50% !important;
+        float: left !important;
+      }
+    </style>
   </head>
   <body>
-    <div class="container">
+  <div class="container">
   <div class="row">
     <div class="col-md-8 col-md-offset-2">
       <div class="row">
@@ -19,7 +35,7 @@
         <h2>Montreuil, France</h2>
         </div>
         <div class="col-md-6 col-sm-12">
-        <img class="media-object img-circle pull-right" data-src="holder.js/64x64" alt="64x64" src="https://adrienjoly.com/img/adrienjoly2014_2.jpg" style="width: 100px; height: 100px; margin-top: 20px;">
+        <img class="media-object img-circle pull-right" data-src="holder.js/64x64" alt="64x64" src="https:&#x2F;&#x2F;adrienjoly.com&#x2F;img&#x2F;adrienjoly2014_2.jpg" style="width: 100px; height: 100px; margin-top: 20px;">
 
         </div>
         </div>
@@ -33,6 +49,7 @@
         <strong>Email:</strong> contact@adrienjoly.com<br />
         </div>
       </section>
+      
       <section class="row">
         <header class="col-md-3">
           <h3>Work Experience</h3>
@@ -45,24 +62,14 @@
             <p></p>
             <ul>
               <li>Developed a commercial student evaluation software with automatic code grading</li>
-              <li>Developed and launched several productivity tools and browser extensions</li>
+              <li>Developed and launched several productivity tools and browser extensions, including &quot;Next Step for Trello&quot; (5&#x2F;5 rating, 10k users)</li>
               <li>Produced and published several product demo videos on Youtube</li>
               <li>Broadcasted a dozen of public live coding sessions on Twitch</li>
             </ul>
-            <hr />            <h3>Openwhyd</h3>
-            <strong>Open Source Lead Developer and Coordinator</strong>
-            <p>2016 - Present</p>
-            <p>I was in charge of migrating the 3-year codebase (formerly known as whyd.com) into an open-source project. Today, I&#39;m contributing to the development of Openwhyd, and coordinating other contributors.</p>
-            <ul>
-              <li>Turned ex-startup product into an open-source project</li>
-              <li>Maintains the service, talks to users, fixes bugs, and coordinates volunteers&#x2F;contributors</li>
-              <li>Migrated the service to better-adjusted production instance on DigitalOcean</li>
-              <li>Launched a successful OpenCollective campaign to crowdfund hosting fees</li>
-            </ul>
             <hr />            <h3>EEMI - École Européenne des Métiers de l&#39;Internet</h3>
-            <strong>JavaScript Teacher</strong>
+            <strong>JavaScript Programming Teacher</strong>
             <p>2015 - Present</p>
-            <p>I teach Javascript programming to 3 classes of 1st year students, one full day per week.</p>
+            <p>I teach Javascript programming to 4 classes of 1st year students, 1 day per week.</p>
             <ul>
             </ul>
             <hr />            <h3>Startup Tour (MOOC)</h3>
@@ -78,13 +85,13 @@
             <p>2015 - 2016</p>
             <p>I built full-stack web applications and data processing scripts (see my projects and open-source libraries on github) in JavaScript&#x2F;Meteor&#x2F;Node.js. I also enjoyed to coach promising young developers with an entrepreneurial spirit, to help them through strategic decisions (e.g. best software stack for the foundations of the software product to be built upon), and day-to-day technical problems as they start building their product.</p>
             <ul>
-              <li>Built a web dashboard to display charts from CSV files uploaded by users, for Deepi</li>
-              <li>Contributed to the development of a marketplace of freelancers, and provided Agile team management advice to improve efficiency and quality of production, for FreelanceRepublik</li>
-              <li>Wrote a script to extract and convert data tables from PDF files into CSV files, for Deepki</li>
-              <li>Built a web application to curate and promote hackathons, using Node.js and jQuery, for BeMyApp</li>
-              <li>Built the MVP of a e-commerce website to rent designer clothes, powered by Meteor.js 1.2, for Panoply</li>
-              <li>Managed the Agile development team of a young startup company: Ayni</li>
-              <li>Coached a young developer while he was building two Meteor.js apps for clients, for Simplon.co</li>
+              <li>Apr. 2015: Built a web dashboard to display charts from CSV files uploaded by users, for Deepki</li>
+              <li>Jun. 2015: Contributed to the development of a marketplace of freelancers, and provided Agile team management advice to improve efficiency and quality of production, for FreelanceRepublik</li>
+              <li>Jul. 2015: Wrote a script to extract and convert data tables from PDF files into CSV files, for Deepki</li>
+              <li>Sep. 2015: Built a web application to curate and promote hackathons, using Node.js and jQuery, for BeMyApp</li>
+              <li>2015-2016: Built the MVP of a e-commerce website to rent designer clothes, powered by Meteor.js 1.2, for Panoply</li>
+              <li>2015-2016: Managed the Agile development team of a young startup company: Ayni</li>
+              <li>Sep. 2016: Coached a young developer while he was building two Meteor.js apps for clients, for Simplon.co</li>
             </ul>
             <hr />            <h3>Whyd</h3>
             <strong>Lead Software Engineer</strong>
@@ -92,21 +99,22 @@
             <p>Lead developer of a web product, from its inception.</p>
             <ul>
               <li>Discussed functionalities with the founding team and proposed adequate technical solutions</li>
-              <li>Developed the front-end in HTML+jQuery, in collaboration with our UI designer</li>
-              <li>Develop the back-end in Node.js, starting at version 0.3</li>
+              <li>Lead the development team: 1 designer, 1 iOS developer (remote) and 1 web developer (intern)</li>
+              <li>Developed the front-end in HTML+jQuery, and the back-end in Node.js, starting at version 0.3</li>
               <li>Designed the data model, populated from a big semantic graph to our MongoDB database</li>
               <li>Also in charge of quality analysis and user support</li>
+              <li>The product peaked at 100000 users, after press releases on Techcrunch, Lifehacker, and Engadget</li>
             </ul>
             <hr />            <h3>Alcatel-Lucent Bell Labs</h3>
             <strong>PhD, researcher in Context-Aware Social Networking</strong>
             <p>2007 - 2010</p>
-            <p></p>
+            <p>(see the &quot;Education&quot; and &quot;Publications&quot; section for more information about my PhD thesis)</p>
             <ul>
             </ul>
             <hr />            <h3>Atos Origin</h3>
             <strong>Mobile Software Engineer</strong>
             <p>2006 - 2007</p>
-            <p>I was in charge of designing and developing software for mobile devices. I was working with technologies and platforms such as Pocket PC, Windows Mobile, .net Compact Framework, J2ME etc...</p>
+            <p>I was in charge of designing and developing R&amp;D software for mobile devices. I was working with technologies and platforms such as Pocket PC, Windows Mobile, .net Compact Framework, J2ME etc...</p>
             <ul>
             </ul>
             <hr />            <h3>Sauce Software</h3>
@@ -148,6 +156,39 @@
 
       <section class="row">
         <header class="col-md-3">
+          <h3>Volunteer projects</h3>
+        </header>
+        <div class="col-md-9">
+          <div class="skills">
+            <h3>Openwhyd</h3>
+            <strong>Open Source Lead Developer and Coordinator</strong>
+            <p>2016 - Present</p>
+            <p>I was in charge of migrating the 3-year codebase (formerly known as whyd.com) into an open-source project. Today, I&#39;m contributing to the development of Openwhyd, and coordinating other contributors.</p>
+            <ul>
+              <li>Turned ex-startup product into an open-source project</li>
+              <li>Maintains the service, talks to users, fixes bugs, and coordinates volunteers&#x2F;contributors</li>
+              <li>Migrated the service to better-adjusted production instance on DigitalOcean</li>
+              <li>Launched a successful OpenCollective campaign to crowdfund hosting fees</li>
+            </ul>
+            <hr />            <h3>fHACKtory</h3>
+            <strong>President, organiser, presenter</strong>
+            <p>2013 - 2015</p>
+            <p>Organised 4 tech-focused hackathons in Paris and Lyon.</p>
+            <ul>
+            </ul>
+            <hr />            <h3>Angelhack</h3>
+            <strong>Ambassador, organiser, presenter</strong>
+            <p>2013 - 2013</p>
+            <p>Organised the second edition of Angelhack hackathon in France, at Cifacom, Montreuil. ~100 participants.</p>
+            <ul>
+            </ul>
+            <hr />
+          </div>
+        </div>
+      </section>
+
+      <section class="row">
+        <header class="col-md-3">
           <h3>Education</h3>
         </header>
         <div class="col-md-9">
@@ -157,6 +198,10 @@
             <p>2007 - 2010</p>
             <p></p>
             <ul>
+              <li>Designed, prototyped and experimented a solution to match distant colleagues based on the similarity of the topics they are currently working on.</li>
+              <li>The prototype was composed of: a Firefox extension to gather the URLs of the users&#39; currently opened tabs + a crawler to extract meaningful keywords from these URLs + a matchmaking server</li>
+              <li>Wrote about my contributions in 7 papers, published in international conferences and journals</li>
+              <li>Also contributed to a European research project, and co-authored 3 patents</li>
             </ul>
             <hr />
             <h3>INSA Lyon - Institut National des Sciences Appliquées de Lyon</h3>
@@ -164,11 +209,31 @@
             <p>2003 - 2006</p>
             <p></p>
             <ul>
+              <li>Exchange student: spent my last year at Queensland University of Technology, in Brisbane, Australia</li>
+              <li>Research internship: developed a prototype for Dr. Tjondronegoro, and co-authored 3 publications</li>
             </ul>
             <hr />
           </div>
         </div>
       </section>
+      
+      <section class="row">
+        <header class="col-md-3">
+          <h3>Publications</h3>
+        </header>
+        <div class="col-md-9">
+          <div class="skills">
+            <h3>A Context Management Framework based on Wisdom of Crowds for Social Awareness applications</h3>
+            <strong>PhD Thesis @ INSA Lyon - Institut National des Sciences Appliquées de Lyon</strong>
+            <p>2010</p>
+            <p>At a time when social networking sites revolutionize the usages on the Web 2.0, it has become rich, easy, and fun to share private or professional content. Sharing personal information in real-time (such as news, moods, etc ), supports the maintenance of social ties at a high scale. However, the information overload which emerged from the growing quantity of signals exchanged on these services, often in real-time, motivates a regulation of these signals (called &quot;mediated interactions&quot;), in order to reduce the temporal cost for maintaining social networks, and implied interruptions, which have a negative impact on productivity on tasks that require long-lasting attention. In the frame of this thesis, we have developed a filtering and recommendation system that relies on contextual similarity between users that produce and consume social signals, as relevance criteria. In our approach, contextual information is aggregated and interpreted on users&#39; terminal(s), before being submitted on-demand to a server in the form of a set of weighted tags. In this thesis, we present a broad state of the art on context-awareness, social networks and information retrieval, we propose a formalization of our filtering problem, and we implement and evaluate its application for enterprise social networking.</p>
+            <ul>
+            </ul>
+            <hr />
+          </div>
+        </div>
+      </section>
+      
       <section class="row">
         <header class="col-md-3">
           <h3>Skills</h3>
@@ -189,6 +254,7 @@
           </div>
         </div>
       </section>
+      
       <section class="row">
         <header class="col-md-3">
           <h3>References</h3>
