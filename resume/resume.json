@@ -49,19 +49,6 @@
       ]
     },
     {
-      "company": "Openwhyd",
-      "position": "Open Source Lead Developer and Coordinator",
-      "website": "https://openwhyd.org",
-      "startDate": "2016-08-01",
-      "summary": "I was in charge of migrating the 3-year codebase (formerly known as whyd.com) into an open-source project. Today, I'm contributing to the development of Openwhyd, and coordinating other contributors.",
-      "highlights": [
-        "Turned ex-startup product into an open-source project",
-        "Maintains the service, talks to users, fixes bugs, and coordinates volunteers/contributors",
-        "Migrated the service to better-adjusted production instance on DigitalOcean",
-        "Launched a successful OpenCollective campaign to crowdfund hosting fees"
-      ]
-    },
-    {
       "company": "EEMI - École Européenne des Métiers de l'Internet",
       "position": "JavaScript Teacher",
       "website": "https://eemi.com",
@@ -165,12 +152,32 @@
   ],
   "volunteer": [
     {
+      "organization": "Openwhyd",
+      "position": "Open Source Lead Developer and Coordinator",
+      "website": "https://openwhyd.org",
+      "startDate": "2016-08-01",
+      "summary": "I was in charge of migrating the 3-year codebase (formerly known as whyd.com) into an open-source project. Today, I'm contributing to the development of Openwhyd, and coordinating other contributors.",
+      "highlights": [
+        "Turned ex-startup product into an open-source project",
+        "Maintains the service, talks to users, fixes bugs, and coordinates volunteers/contributors",
+        "Migrated the service to better-adjusted production instance on DigitalOcean",
+        "Launched a successful OpenCollective campaign to crowdfund hosting fees"
+      ]
+    },
+    {
       "organization": "fHACKtory",
-      "position": "President, organiser",
+      "position": "President, organiser, presenter",
       "website": "http://fhacktory.com/",
       "startDate": "2013-09-01",
       "endDate": "2015-02-01",
       "summary": "Organised 4 tech-focused hackathons in Paris and Lyon."
+    },
+    {
+      "organization": "Angelhack",
+      "position": "Ambassador, organiser, presenter",
+      "startDate": "2013-01-01",
+      "endDate": "2013-05-09",
+      "summary": "Organised the second edition of Angelhack hackathon in France, at Cifacom, Montreuil. ~100 participants."
     }
   ],
   "education": [
