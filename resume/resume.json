@@ -91,10 +91,11 @@
       "summary": "Lead developer of a web product, from its inception.",
       "highlights": [
         "Discussed functionalities with the founding team and proposed adequate technical solutions",
-        "Developed the front-end in HTML+jQuery, in collaboration with our UI designer",
-        "Develop the back-end in Node.js, starting at version 0.3",
+        "Lead the development team: 1 designer, 1 iOS developer (remote) and 1 web developer (intern)",
+        "Developed the front-end in HTML+jQuery, and the back-end in Node.js, starting at version 0.3",
         "Designed the data model, populated from a big semantic graph to our MongoDB database",
-        "Also in charge of quality analysis and user support"
+        "Also in charge of quality analysis and user support",
+        "The product peaked at 100000 users, after press releases on Techcrunch, Lifehacker, and Engadget"
       ]
     },
     {
@@ -109,7 +110,7 @@
       "position": "Mobile Software Engineer",
       "startDate": "2006-11-01",
       "endDate": "2007-08-01",
-      "summary": "I was in charge of designing and developing software for mobile devices. I was working with technologies and platforms such as Pocket PC, Windows Mobile, .net Compact Framework, J2ME etc..."
+      "summary": "I was in charge of designing and developing R&D software for mobile devices. I was working with technologies and platforms such as Pocket PC, Windows Mobile, .net Compact Framework, J2ME etc..."
     },
     {
       "company": "Sauce Software",
