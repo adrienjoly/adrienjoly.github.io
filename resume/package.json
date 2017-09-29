@@ -1,5 +1,7 @@
 {
   "name": "adrienjoly-resume",
+  "description": "Adrien Joly's resume",
+  "repository": "https://github.com/adrienjoly.github.com/resume",
   "version": "1.0.0",
   "scripts": {
     "publish": "./node_modules/.bin/resume publish -t modern",
