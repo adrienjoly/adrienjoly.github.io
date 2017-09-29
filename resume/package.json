@@ -7,7 +7,7 @@
     "jsonresume-theme-modernfull": "adrienjoly/jsonresume-theme-modernfull"
   },
   "scripts": {
-    "publish": "./node_modules/.bin/resume publish -t modernfull",
+    "publish": "./node_modules/.bin/resume publish -t modern",
     "build": "./node_modules/.bin/resume export index.html -t modernfull"
   },
   "author": "adrienjoly",
