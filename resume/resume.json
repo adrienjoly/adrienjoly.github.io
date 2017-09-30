@@ -45,7 +45,8 @@
         "Developed a commercial student evaluation software with automatic code grading",
         "Developed and launched several productivity tools and browser extensions, including \"Next Step for Trello\" (5/5 rating, 10k users)",
         "Produced and published several product demo videos on Youtube",
-        "Broadcasted a dozen of public live coding sessions on Twitch"
+        "Broadcasted a dozen of public live coding sessions on Twitch",
+        "Blogged my results, struggles and learnings on Medium.com"
       ]
     },
     {
@@ -71,7 +72,6 @@
       "company": "Freelance",
       "position": "Full-stack Node/Meteor/JavaScript web application developer",
       "startDate": "2015-03-01",
-      "endDate": "2016-09-01",
       "summary": "I built full-stack web applications and data processing scripts (see my projects and open-source libraries on github) in JavaScript/Meteor/Node.js. I also enjoyed to coach promising young developers with an entrepreneurial spirit, to help them through strategic decisions (e.g. best software stack for the foundations of the software product to be built upon), and day-to-day technical problems as they start building their product.",
       "highlights": [
         "Apr. 2015: Built a web dashboard to display charts from CSV files uploaded by users, for Deepki",
@@ -80,7 +80,8 @@
         "Sep. 2015: Built a web application to curate and promote hackathons, using Node.js and jQuery, for BeMyApp",
         "2015-2016: Built the MVP of a e-commerce website to rent designer clothes, powered by Meteor.js 1.2, for Panoply",
         "2015-2016: Managed the Agile development team of a young startup company: Ayni",
-        "Sep. 2016: Coached a young developer while he was building two Meteor.js apps for clients, for Simplon.co"
+        "Sep. 2016: Coached a young developer while he was building two Meteor.js apps for clients, for Simplon.co",
+        "Sep. 2017: Gave a 8-hour workshop on Lean Management, at ESGI"
       ]
     },
     {
@@ -90,10 +91,10 @@
       "endDate": "2015-02-01",
       "summary": "Lead developer of a web product, from its inception.",
       "highlights": [
-        "Discussed functionalities with the founding team and proposed adequate technical solutions",
-        "Lead the development team: 1 designer, 1 iOS developer (remote) and 1 web developer (intern)",
-        "Developed the front-end in HTML+jQuery, and the back-end in Node.js, starting at version 0.3",
-        "Designed the data model, populated from a big semantic graph to our MongoDB database",
+        "Discussed objectives with the founding team and proposed adequate technical solutions",
+        "Lead the development team: 1 designer, 1 iOS developer (remote) and 1 web developer",
+        "Developed the front-end in HTML+jQuery, and the back-end in Node.js, starting at v0.3",
+        "Designed the data model, populated from a big semantic graph to a MongoDB database",
         "Also in charge of quality analysis and user support",
         "The product peaked at 100000 users, after press releases on Techcrunch, Lifehacker, and Engadget"
       ]
@@ -110,7 +111,10 @@
       "position": "Mobile Software Engineer",
       "startDate": "2006-11-01",
       "endDate": "2007-08-01",
-      "summary": "I was in charge of designing and developing R&D software for mobile devices. I was working with technologies and platforms such as Pocket PC, Windows Mobile, .net Compact Framework, J2ME etc..."
+      "highlights": [
+        "Developed R&D software for mobile devices.",
+        "Technologies: Pocket PC, Windows Mobile, .net Compact Framework, J2ME"
+      ]
     },
     {
       "company": "Sauce Software",
@@ -127,27 +131,29 @@
       "position": "Software Developer (intern)",
       "startDate": "2005-04-01",
       "endDate": "2005-06-01",
-      "summary": "Made a DLL loadable module by extracting a part of “I/CAD” C/C++ source code (that was monolithically designed), by using both low level techniques and (high level) design patterns."
-    },
-    {
-      "company": "Isotools",
-      "position": "Software Developer",
-      "startDate": "2004-06-01",
-      "endDate": "2004-08-31",
       "highlights": [
-        "Design and implementation of SmartMap V2 for Isotools Studio",
-        "Redesign of software kernel for sale to companies",
-        "New features: more modularity, dynamic access to resources, new vector language"
+        "Made a monolithical C/C++ codebase more modulable and customizable, by extracting some of it into an external DLL library.",
+        "Resulting I/CAD software is used by firefighters' HQ in the south of France."
       ]
     },
     {
       "company": "Isotools",
-      "position": "Software Developer",
+      "position": "Software Developer (intern)",
+      "startDate": "2004-06-01",
+      "endDate": "2004-08-31",
+      "highlights": [
+        "Built v2 of the cartography component, for use in production",
+        "New features: modularity, dynamic access to resources, new vector language"
+      ]
+    },
+    {
+      "company": "Isotools",
+      "position": "Software Developer (intern)",
       "startDate": "2003-04-01",
       "endDate": "2003-08-31",
       "highlights": [
-        "Design and implementation of SmartMap V1 for Isotools Studio",
-        "Creation of interactive cartography module for content management software",
+        "Built an interactive cartography component for a CMS",
+        "Built a compiler to store vector data into binary SWF files",
         "Technologies: Flash, XML, Javascript, ActiveX ATL components"
       ]
     }
@@ -219,13 +225,18 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Full-stack Web Development",
       "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "keywords": [ "HTML", "CSS", "JavaScript", "DOM API", "Vue.js", "Express", "Node.js" ]
+    },
+    {
+      "name": "Continuous integration and automated testing",
+      "level": "Master",
+      "keywords": [ "Mocha, Cucumber", "Webdriver.io", "Travis CI", "Docker" ]
+    },
+    {
+      "name": "Agile project management",
+      "level": "Master"
     }
   ],
   "languages": [
