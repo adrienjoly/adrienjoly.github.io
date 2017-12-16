@@ -6,5 +6,4 @@ var ROOT = 'https://adrienjoly.com';
   '/js': ROOT + '/cours-javascript',
   '/mooc': 'https://www.udemy.com/startuptour',
   '/slides-trello': ROOT + '/productivity/slides-trello',
-  '/prod': 'https://www.getrevue.co/profile/aj-sideprojects/issues/one-year-shipping-products-the-list-75302',
 };
