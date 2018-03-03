@@ -1,5 +1,113 @@
-- title: One
-  permalink: author/personone/
+# sources:
+# - google meetup.com
+# - https://www.youtube.com/playlist?list=PLC6CA9203AC761871
+# - https://drive.google.com/drive/u/0/search?q=type:presentation
+# - https://drive.google.com/drive/u/0/search?q=slides
+# - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
+# - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
-- title: Two
-  permalink: author/persontwo/
+- title: Générer la doc d'une API depuis son code
+  date: 2018-02-13
+  event: Meetup Node.js Paris
+  address: KeyMetrics, 3 Rue de Montyon, 75009 Paris, France
+  desc_fr: Pendant ce talk, nous allons discuter de l'importance d'avoir une doc API à jour, présenter Swagger / OpenAPI, voir comment l'intégrer dans son code, puis discuter les résultats et améliorations possibles.
+  permalink: https://www.meetup.com/fr-FR/Nodejs-Paris/events/247510942/
+  slides: https://docs.google.com/presentation/d/e/2PACX-1vTHuvHaqnXFDG5zxEHb7xGc4aSygAvhYYdVMJbOFSaZ9cmkiaBvg76dVbgz1L2GENaLAQUodRHQ2gx4/pub?start=false&loop=false&delayms=3000
+  url: https://docs.google.com/presentation/d/e/2PACX-1vTHuvHaqnXFDG5zxEHb7xGc4aSygAvhYYdVMJbOFSaZ9cmkiaBvg76dVbgz1L2GENaLAQUodRHQ2gx4/pub?start=false&loop=false&delayms=3000
+
+- title: Présentation d'Openwhyd, app web de curation musicale ouverte aux contributeurs
+  date: 2017-10-25
+  event: Meetup Node.js Paris
+  address: Urban Linker, 11 Rue de Poissy, 75005 Paris, France
+  desc_fr: Développé depuis 2012, le produit "whyd" avait pour objectif de faciliter la découverte et le partage de pépites musicales dénichées sur Youtube, Soundcloud, Bandcamp, Vimeo et Deezer. On avait parié sur la stack Node.js v0.3 + MongoDB, à l'époque où elle déjà cool mais encore controversée.
+  permalink: https://www.meetup.com/fr-FR/Nodejs-Paris/events/243877814/
+  slides: https://adrienjoly.com/slides/openwhyd-2017
+  url: https://adrienjoly.com/slides/openwhyd-2017
+
+- title: Work on 10 projects simultaneously, using Trello 🔥
+  date: 2017-05-03
+  event: Meetup Trello France UG
+  address: NextDoor, 207 rue de Bercy, Paris, France
+  desc_fr: La productivité consiste à réaliser efficacement ses projets tout en maintenant sa sérénité. Je vais vous présenter mon workflow productif, le plug-in que j'ai développé pour y adapter Trello, puis comment trouver votre propre workflow.
+  permalink: https://www.meetup.com/fr-FR/Trello-France-User-Group/events/239299786/
+  slides: https://adrienjoly.com/productivity/slides-trello/
+  url: https://adrienjoly.com/productivity/slides-trello/
+
+- title: How to make a startup product efficiently, as a solo developer with Meteor.js
+  date: 2016-03-02
+  event: NUMA Sprint Bootcamp 2016
+  address: NUMA, 39 rue du caire, 75002 Paris, France
+  slides: https://adrienjoly.com/slides-numa-bootcamp-solo-startup-maker
+  url: https://adrienjoly.com/slides-numa-bootcamp-solo-startup-maker
+
+- title: Devenir CTO, ou comment s'associer en évitant les erreurs de débutant
+  date: 2015-04-21
+  event: Hub Talk @ Epitech Innovation Hub
+  address: Epitech Paris, 24 Rue Pasteur, Le Kremlin-Bicêtre, France
+  desc_fr: Après 4 ans comme lead developer dans une startup web parisienne, Adrien Joly vient partager un retour d'expérience de cette aventure, et des conseils pratiques sur comment reconnaitre un bon associé d'un incompétent, comment éviter de développer un service voué à l'échec, comment obtenir la confiance de son associé pour les choix technologiques et les délais de développement. Il cherche des étudiants bons en développement web et/ou mobile, pour les présenter à des CEOs sérieux, et les accompagner dans les 1ères étapes du développement d'une startup.
+  slides: https://slides.com/adrienjoly/deck
+  url: https://slides.com/adrienjoly/deck
+
+- title: Comment réaliser un MVP / attirer un CTO dans sa startup ?
+  date: 2015-08-19
+  event: Startup Tour
+  address: NUMA, 39 rue du caire, 75002 Paris, France
+  desc_fr: Lors de cette présentation, j’ai démontré les causes fréquentes de la maladresse des créateurs de startup dans leur recherche de développeur, et ai proposé des moyens pratiques pour avancer sur la réalisation de leur idée de startup (le MVP) sans attendre qu’un développeur ne veuille bien s’y associer (le CTO).
+  permalink: http://startuptour.strikingly.com/
+  article: https://medium.com/startup-tour/comment-attirer-un-cto-dans-sa-startup-df6ab1b4ada8
+  slides: https://docs.google.com/presentation/d/e/2PACX-1vTl8ecydK3xbBRpW6r0B960bE8N3llasXhOmwrZ4vooTww-aFkwK5UrcxCbHTeJC9cWXLhBSbDOAxVh/pub?start=false&loop=false&delayms=3000
+  video: https://www.youtube.com/watch?v=13pHsOR_uKM
+  url: https://www.youtube.com/watch?v=13pHsOR_uKM
+
+- title: Présentation des gagnants du hackathon fHACKtory
+  date: 2014-10-30
+  event: Conférence Blend Web Mix
+  address: Centre de Congrès de Lyon, France
+  video: https://www.youtube.com/watch?v=Y2r9-0Lhdus
+  url: https://www.youtube.com/watch?v=Y2r9-0Lhdus
+
+- title: Comment utiliser une base NoSQL sous Node.js
+  date: 2013-10-09
+  event: Meetup Node.js Paris
+  address: EPITA, 24 rue Pasteur, Le Kremlin Bicêtre, France
+  desc_fr: En matière de requêtes DB, l'usage de Node.js est bien différent de la plupart des autres langages, car les fonctions correspondantes sont asynchrones. De plus, les bases NoSQL ne permettent pas de faire des jointures, contrairement aux bases SQL. Nous allons comparer ces deux approches, décrire les erreurs classiques à éviter, et proposer des bonnes pratiques à suivre pour utiliser les bases NoSQL de manière optimale (et agréable) en Node.js.
+  permalink: https://www.meetup.com/fr-FR/Nodejs-Paris/events/141560482/
+  slides: https://docs.google.com/presentation/d/e/2PACX-1vQ4E6nKAHtnEQdlEXVDZn0J2ilMc8dWWaetvcrCFTO_lu4eVxZbeFSTvmWE9GGDR_8yV3113Za8s1fP/pub?start=false&loop=false&delayms=3000
+  video: https://www.youtube.com/watch?v=wfP3QqYK6iI
+  url: https://www.youtube.com/watch?v=wfP3QqYK6iI
+
+- title: Utilisation de l'API de 1001menus.com par cemidi.fr
+  date: 2012-12-11
+  event: Datapéro
+  address: Criteo, 32 rue blanche, 75009 Paris, France
+  desc_fr: Présentation de cemidi.fr, un service de suggestion de plats du jour à proximité, et son utilisation de l'API de 1001menus.
+  permalink: https://www.eventbrite.com/e/datapero-chez-criteo-le-11-decembre-tickets-4964308380?aff=efblike#
+  slides: https://docs.google.com/presentation/d/e/2PACX-1vS7sBSewBKtG2oF1Z5DPt8HSzeTvSXXKynI5oVS_DPpHoKsonoLvi_1p2FOxIAcH6tlTbL5t23g3hw5/pub?start=false&loop=false&delayms=3000
+  url: https://docs.google.com/presentation/d/e/2PACX-1vS7sBSewBKtG2oF1Z5DPt8HSzeTvSXXKynI5oVS_DPpHoKsonoLvi_1p2FOxIAcH6tlTbL5t23g3hw5/pub?start=false&loop=false&delayms=3000
+
+
+- title: The changing meaning of communities on the web
+  date: 2012-04-10
+  event: Conference Socified
+  address: ESCP Paris, France
+  desc_en: A talk about communities and how they have evolved since the late 1970's.
+  permalink: http://paris.socified.com/
+  slides: https://docs.google.com/presentation/d/e/2PACX-1vSjPpF62UY7IHcvbOnGf8VOZMgl4njFj9Dj3DOl0YklPhwQhdY5FY0uamAmQcnQRmT-Rbb9L1WvYCrt/pub?start=false&loop=false&delayms=3000
+  video: https://www.youtube.com/watch?v=VekfQ7q4Y20
+  url: https://www.youtube.com/watch?v=VekfQ7q4Y20
+
+- title: Introduction to asynchronous DB access using node.js and MongoDB
+  date:  2011-06-29
+  event: Meetup Paris.js
+  permalink: https://parisjs.org/meetup/2011-06-29
+  slides: https://docs.google.com/presentation/d/e/2PACX-1vRPmmY-cw--ZW27WzUoMJQds3GOqVpquapgRUfHqn0K6ub4OHzeR1qSrAZJd-LSz07gyCWXUA_hkjv7/pub?start=false&loop=false&delayms=3000
+  url: https://docs.google.com/presentation/d/e/2PACX-1vRPmmY-cw--ZW27WzUoMJQds3GOqVpquapgRUfHqn0K6ub4OHzeR1qSrAZJd-LSz07gyCWXUA_hkjv7/pub?start=false&loop=false&delayms=3000
+
+- title: A Context Management Framework based on Wisdom of Crowds, for Social Awarness applications
+  date: 2010-10-14
+  event: PhD Defence / Soutenance de Thèse de Doctorat
+  address: INSA LYON, 20 Avenue Albert Einstein, 69100 Villeurbanne, France
+  desc_en: At a time when social networking sites revolutionize the usages on the Web 2.0, it has become rich, easy, and fun to share private or professional content. Sharing personal information in real-time (such as news, moods, etc…), supports the maintenance of social ties at a high scale. However, the information overload which emerged from the growing quantity of messages exchanged on these services, often in real-time, motivates a regulation of these messages, in order to reduce the temporal cost for maintaining social networks, and implied interruptions, which have a negative impact on productivity on tasks that require long-lasting attention. In this PhD defense, I will present my thesis, including the development and evaluation of a filtering and recommendation system that relies on contextual similarity between users that produce and consume social messages, as relevance criteria.
+  permalink: https://liris.cnrs.fr/evenements/soutenance-these-adrien-joly
+  slides: https://fr.slideshare.net/adrienjoly/phd-defense-a-context-management-framework-based-on-wisdom-of-crowds-for-social-awareness-applications
+  url: https://liris.cnrs.fr/evenements/soutenance-these-adrien-joly
