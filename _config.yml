@@ -1,3 +1,12 @@
+# Name of your blog (this will show up at the top of your page and in the RSS feed)
+title: Adrien Joly
+
+# Your name, as you want it to appear underneath each post and in the footer
+author: Adrien Joly
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: /img/photo.jpg
+
 repository: adrienjoly/adrienjoly.github.com
 
 # github defaults
