@@ -1,0 +1,11 @@
+
+- title: "MOOC: Startup Tour"
+  date: (2016-2017)
+  desc:
+    <p>After having given a free 2-hour presentation in French, on how to build a <b>start-up</b> company, <a href="https://twitter.com/dawise_" target="_blank">David Wise</a> and I wrote a <a href="https://www.udemy.com/startuptour/?couponCode=AJNOW20" target="_blank">blended <b>e-learning</b> course</a> from it. In this course, we cover topics from how to find the right <b>idea</b>, to exit strategies, including practical tips, examples and <b>demos</b>.</p>
+  url: https://www.udemy.com/startuptour/?couponCode=AJNOW20
+  img: /img/prj_startuptour.jpg
+  links:
+    - title: 20% de réduction sur udemy.com
+      url: https://www.udemy.com/startuptour/?couponCode=AJNOW20
+      className: youtube

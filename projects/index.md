@@ -16,7 +16,7 @@ title: Projects
       <p>{{ proj.desc | markdownify }}</p>
       {% for link in proj.links %}
         <p><a href="{{ link.url }}" target="_blank">
-          <span class="{{ className }}">{{ title }}</span></a>
+          <span class="{{ link.className }}">{{ link.title }}</span></a>
         </p>
       {% endfor %}
     </li>
