@@ -7,6 +7,8 @@ title: Projects
 
 <ul class="items">
 
+  <!-- listed from _data/projects.yaml -->
+
   {% for proj in site.data.projects %}
     <li class="project">
       <a class="screenshot" href="{{ proj.url }}" target="_blank">

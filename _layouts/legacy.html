@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<meta property="og:site_name" content="Adrien Joly">
+	<meta property="og:url" content="http://adrienjoly.com">
+	<meta property="og:type" content="homepage">
+	<meta property="og:title" content="Adrien Joly">
+	<meta property="og:image" content="/img/photo.jpg">
+	<meta property="og:description" content="I craft useful full-stack products, teach JavaScript programming, and play drums."/>
+	<meta name="description" content="I craft useful full-stack products, teach JavaScript programming, and play drums." />
+	<meta name="keywords" content="javascript,hacker,prototyping,startup,paris,software,development,programming,whyd,openwhyd,innovation,node.js,music,drums,drummer,batteur,minab,fhacktory,hackathon,man is not a bird,harissa">
+	<meta name="author" content="Adrien Joly">
+	<link rel="image_src" href="/img/photo.jpg">
+	<link href="/icon.png" rel="icon" type="image/x-png">
+	<link href="index.css?forceupdate1" media="screen" rel="stylesheet" type="text/css">
+	<title>Adrien Joly - Developing web products since 2003</title>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1858235-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  function switchTab(id){
+  	//document.body.className = document.body.className.replace(/tab\w+/, c);
+  	var tabs = document.getElementsByClassName("content");
+  	for (var i=tabs.length-1; i>-1; --i)
+  		tabs[i].style.display = tabs[i].id == id ? "block" : "none";
+  	return false;
+  }
+</script>
+</head>
+<body class="tabMain">
+	<div class="container">
+		<header id="page_header">
+			<div id="card">
+				<h1><a href="http://adrienjoly.com/" title="Adrien Joly" rel="index">Adrien Joly</a></h1>
+				<ul>
+				<!--
+					<li><a href="http://github.com/adrienjoly" target="_blank">full-stack javascript developer</a></li>
+					<li><a href="#" onclick="return switchTab('main');">lean startup helper</a></li>
+					<li><a href="#" onclick="return switchTab('bands');">rock drummer</a></li>
+					<li><a href="http://whyd.com/adrien" target="_blank">music lover</a></li>
+				-->
+					<li>full-stack developer</li>
+					<li>javascript teacher</li>
+					<li>drummer</li>
+				</ul>
+			</div>
+			<nav id="navigation">
+				<ul>
+					<li><a href="https://adrienjoly.com/" rel="index" onclick="return switchTab('main');">home</a></li>
+					<li><a href="https://adrienjoly.com/" rel="index" onclick="return switchTab('projects');">projects</a></li>
+					<li><a href="https://adrienjoly.com/" rel="index" onclick="return switchTab('contact');">contact</a></li>
+					<li><a href="https://adrienjoly.com/" rel="index" onclick="return switchTab('bands');">music</a></li>
+					<!--
+					<li><a href="https://medium.com/@adrienjoly" rel="external" target="_blank">blog</a></li>
+					<li><a href="https://www.linkedin.com/in/adrienjoly" rel="external" target="_blank">LinkedIn</a></li>
+					<li><a href="https://twitter.com/adrienjoly" rel="external" target="_blank">twitter</a></li>
+					-->
+				</ul>
+			</nav>
+			<!--
+			<div id="links">
+				<ul>
+					<li><a href="http://adrienjoly.quora.com/" rel="external" target="_blank">blog <span>@ Quora</span></a></li>
+					<li><a href="http://forrst.me/adrienjoly/posts" rel="external" target="_blank">code <span>@ Forr.st</span></a></li>
+					<li><a href="http://www.last.fm/user/roly/library" rel="external" target="_blank">music <span>@ Last.fm</span></a></li>
+					<li><a href="http://instagram.com/adrienj" rel="external" target="_blank">photos <span>@ Instagram</span></a></li>
+					<li><a href="http://geeklist.com/adrienjoly" rel="external" target="_blank">achievements <span>@ Geeklist</span></a></li>
+				</ul>
+			</div>
+			-->
+			<div id="socialicons">
+				<a id="icon-github" href="http://github.com/adrienjoly" rel="external" target="_blank" title="github code"></a>
+				<a id="icon-linkedin" href="http://www.linkedin.com/in/adrienjoly" rel="external" target="_blank" title="linkedin resume"></a>
+				<a id="icon-medium" href="https://medium.com/@adrienjoly" rel="external" target="_blank" title="medium blog"></a>
+				<a id="icon-twitter" href="http://twitter.com/adrienjoly" rel="external" target="_blank" title="twitter"></a>
+			</div>
+		</header>
+
+    {{ content }}
+
+		<!--
+		<div id="blog" class="content">
+			<script async src="https://static.medium.com/embed.js"></script>
+			<a class="m-profile" href="https://medium.com/@adrienjoly">Loading blog embed...</a>
+		</div>
+		-->
+	</div>
+</body>
+</html>

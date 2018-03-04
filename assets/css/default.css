@@ -45,6 +45,11 @@ iframe {
   color: #333;
 }
 
+.thumbs p {
+  margin-top: 0px !important;
+  margin-bottom: 5px;
+}
+
 .thumbs b {
   font-weight: normal;
   background-color: rgba(69, 185, 57, 0.20);
