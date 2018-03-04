@@ -51,7 +51,7 @@
   img: /img/prj_comment-editor.png
 
 - title: Next Step for Trello
-  data: (2016)
+  date: (2016)
   desc:
     This <b>Chrome Extension</b> displays the next To-Do step(s) of each card, on your Trello boards, in order to increase your <b>productivity</b> when planning your work.
   url: https://adrienjoly.com/chrome-next-step-for-trello
