@@ -14,26 +14,17 @@
 	<meta name="author" content="Adrien Joly">
 	<link rel="image_src" href="/img/photo.jpg">
 	<link href="/icon.png" rel="icon" type="image/x-png">
-	<link href="index.css?forceupdate1" media="screen" rel="stylesheet" type="text/css">
+	<link href="/legacy.css" media="screen" rel="stylesheet" type="text/css">
 	<title>Adrien Joly - Developing web products since 2003</title>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1858235-4']);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
-  function switchTab(id){
-  	//document.body.className = document.body.className.replace(/tab\w+/, c);
-  	var tabs = document.getElementsByClassName("content");
-  	for (var i=tabs.length-1; i>-1; --i)
-  		tabs[i].style.display = tabs[i].id == id ? "block" : "none";
-  	return false;
-  }
 </script>
 </head>
 <body class="tabMain">
@@ -42,12 +33,6 @@
 			<div id="card">
 				<h1><a href="http://adrienjoly.com/" title="Adrien Joly" rel="index">Adrien Joly</a></h1>
 				<ul>
-				<!--
-					<li><a href="http://github.com/adrienjoly" target="_blank">full-stack javascript developer</a></li>
-					<li><a href="#" onclick="return switchTab('main');">lean startup helper</a></li>
-					<li><a href="#" onclick="return switchTab('bands');">rock drummer</a></li>
-					<li><a href="http://whyd.com/adrien" target="_blank">music lover</a></li>
-				-->
 					<li>full-stack developer</li>
 					<li>javascript teacher</li>
 					<li>drummer</li>
@@ -55,15 +40,10 @@
 			</div>
 			<nav id="navigation">
 				<ul>
-					<li><a href="https://adrienjoly.com/" rel="index" onclick="return switchTab('main');">home</a></li>
-					<li><a href="https://adrienjoly.com/" rel="index" onclick="return switchTab('projects');">projects</a></li>
-					<li><a href="https://adrienjoly.com/" rel="index" onclick="return switchTab('contact');">contact</a></li>
-					<li><a href="https://adrienjoly.com/" rel="index" onclick="return switchTab('bands');">music</a></li>
-					<!--
-					<li><a href="https://medium.com/@adrienjoly" rel="external" target="_blank">blog</a></li>
-					<li><a href="https://www.linkedin.com/in/adrienjoly" rel="external" target="_blank">LinkedIn</a></li>
-					<li><a href="https://twitter.com/adrienjoly" rel="external" target="_blank">twitter</a></li>
-					-->
+					<li><a href="/">home</a></li>
+					<li><a href="/projects">projects</a></li>
+					<li><a href="/contact">contact</a></li>
+					<li><a href="/music">music</a></li>
 				</ul>
 			</nav>
 			<!--
@@ -86,13 +66,6 @@
 		</header>
 
     {{ content }}
-
-		<!--
-		<div id="blog" class="content">
-			<script async src="https://static.medium.com/embed.js"></script>
-			<a class="m-profile" href="https://medium.com/@adrienjoly">Loading blog embed...</a>
-		</div>
-		-->
 	</div>
 </body>
 </html>

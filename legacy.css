@@ -582,10 +582,6 @@ height:25px;
         text-decoration:none;
     }
 
-.content {
-    display: none;
-}
-
 #main {
     display: block;
 }
