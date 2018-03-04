@@ -1,3 +1,4 @@
+# Recent projects
 
 - title: "MOOC: Startup Tour"
   date: (2016-2017)
@@ -9,3 +10,67 @@
     - title: 20% de réduction sur udemy.com
       url: https://www.udemy.com/startuptour/?couponCode=AJNOW20
       className: youtube
+
+- title: Teaching @ EEMI
+  date: (2015-2018)
+  desc:
+    I teach <b>JavaScript programming</b> to three classes of 1st year students, at the Ecole Européenne des Métiers de l'Internet. The first school founded by Xavier Niel (Free), Antoine Granjon (vente-privee.com), and Marc Simoncini (Meetic). I also craft modern pedagogical tools for my students, and for automated evaluation.
+  url: http://eemi.com
+  img: /img/prj_eemi.jpg
+  links:
+    - title: Cours de JavaScript
+      url: /cours-javascript
+      className: github
+
+- title: Whyd / Openwhyd
+  date: (2011-2018)
+  desc:
+    I built the <b>full stack</b> of <a href="https://openwhyd.org/" target="_blank">Openwhyd</a> (formerly known as whyd.com), a web-based music curation platform that allows adding tracks using a browser extension (<b>bookmarklet</b>), and plays them in sequence. After open-sourcing the product, I'm now leading its community of contributors.
+  url: https://openwhyd.org
+  img: /img/prj_whyd.jpg
+  links:
+    - title: Listen to my favorite tracks
+      url: https://openwhyd.org/adrien
+      className: openwhyd
+    - title: Watch a demo
+      url: https://www.youtube.com/watch?v=aZT8VlTV1YY
+      className: youtube
+
+- title: French Spellchecker
+  date: (2017)
+  desc:
+    I forked an existing spellchecking extension for <b>Visual Studio Code</b>, and switched it to another engine, so that it can find errors and suggest corrections in text files in French language. I use it to write my JavaScript course material.
+  url: https://marketplace.visualstudio.com/items?itemName=adrienjoly.vscode-spellchecker-fr
+  img: /img/prj_vscode-spellchecker-fr.png
+
+- title: Comment Editor by AJ
+  date: (2017)
+  desc:
+    I integrated WYSIWYG editing to <b>Trello</b> comments, by developing a simple extension (without back-end). It was accepted as an official <b>power-up</b>.
+  url: https://adrienjoly.com/comment-editor-for-trello/
+  img: /img/prj_comment-editor.png
+
+- title: Next Step for Trello
+  data: (2016)
+  desc:
+    This <b>Chrome Extension</b> displays the next To-Do step(s) of each card, on your Trello boards, in order to increase your <b>productivity</b> when planning your work.
+  url: https://adrienjoly.com/chrome-next-step-for-trello
+  img: https://adrienjoly.com/chrome-next-step-for-trello/assets/next-step-anim-big.gif
+  links:
+  - title: Subscribe to my productivity newsletter
+    url: https://tinyletter.com/productivity-tips
+    className: news
+
+- title: Javascript Exam
+  date: (2016)
+  desc:
+    In the frame of my Javascript course at EEMI, I developed an online exam application for students, using <b>Google Polymer</b> and <b>Firebase</b>. It was designed to display different variants of each exercise to prevent fraud, and automatic student evaluation/grading.
+  url: https://github.com/adrienjoly/js-exam
+  img: /img/prj_exam.png
+  links:
+  - title: Source code on Github
+    url: https://github.com/adrienjoly/js-exam
+    className: github
+  - title: Watch a demo
+    url: https://www.youtube.com/watch?v=UcG95C7DXcQ
+    className: youtube
