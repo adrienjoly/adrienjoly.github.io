@@ -1,8 +1,6 @@
 ---
-title: Adrien Joly's talks
+title: Talks
 ---
-
-### Talks
 
 {% for talk in site.data.talks %}
 - [{{ talk.title }}]({{ talk.url }})<br/>

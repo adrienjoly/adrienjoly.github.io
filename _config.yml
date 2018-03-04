@@ -9,6 +9,8 @@ avatar: /img/photo.jpg
 
 repository: adrienjoly/adrienjoly.github.com
 
+google_analytics: UA-1858235-4
+
 # github defaults
 encoding: UTF-8
 kramdown:
