@@ -150,7 +150,7 @@ nav#navigation {
             display:block;
         }
 
-        nav#navigation li a, #main a.black-btn {
+        nav#navigation li a, .content a.black-btn {
             color:#FFF;
             padding:9px 20px;
             text-decoration:none;
@@ -160,7 +160,7 @@ nav#navigation {
             -o-transition: background-color 0.1s; /* Opera */
         }
 
-        #main a.black-btn {
+        .content a.black-btn {
             background: #252525;
             display: inline-block;
             font-weight: normal;
@@ -183,11 +183,11 @@ nav#navigation {
             border-bottom:0;
         }
 
-        nav#navigation li a:hover, #main a.black-btn:hover {
+        nav#navigation li a:hover, .content a.black-btn:hover {
             background-color:#2f2f2f;
         }
 
-        nav#navigation li a:active, #main a.black-btn:active {
+        nav#navigation li a:active, .content a.black-btn:active {
             background-color:#202020;
         }
 
