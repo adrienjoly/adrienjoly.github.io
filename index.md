@@ -16,7 +16,7 @@ layout: legacy
 	<div class="tip">
 		<p>I value:</p>
 		<ul>
-			<li><strong>Efficiency</strong> in the development process;</li>
+			<li><strong>Sustainable efficiency</strong> in the development process;</li>
 			<li><strong>Transparency</strong> in my intents, my communication, and my code;</li>
 			<li><strong>Integrity</strong> with my interests and convictions.</li>
 		</ul>
