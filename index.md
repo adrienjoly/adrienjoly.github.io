@@ -23,10 +23,14 @@ layout: legacy
 	</div>
 </div>
 
-<div class="mainbox" style="text-align:center;">
+<div class="mainbox" style="text-align:center;margin-top:80px;">
 
 	<a href="/now" class="black-btn">What I'm doing now</a>
 
 </div>
 
 <div class="clear"></div>
+
+<div id="main" class="mainbox" style="text-align:center;margin-top:80px;">
+	PS: I prefer <a href="https://medium.com/@adrienjoly/why-email-does-not-stink-9267c948f3f9#.g63r0gqsu" rel="external" target="_blank">email</a>: contact @ this domain name.
+</div>

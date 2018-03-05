@@ -1,6 +1,9 @@
 ---
 title: Talks
+layout: legacy
 ---
+
+# Talks
 
 {% for talk in site.data.talks %}
 - [{{ talk.title }}]({{ talk.url }})<br/>
