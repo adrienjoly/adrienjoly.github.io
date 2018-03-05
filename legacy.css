@@ -185,6 +185,7 @@ nav#navigation {
 
         nav#navigation li a:hover, .content a.black-btn:hover {
             background-color:#2f2f2f;
+            color: white;
         }
 
         nav#navigation li a:active, .content a.black-btn:active {
