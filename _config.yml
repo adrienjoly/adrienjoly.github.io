@@ -1,11 +1,16 @@
-# Name of your blog (this will show up at the top of your page and in the RSS feed)
-title: Adrien Joly
+title: # Name of your blog (this will show up at the top of your page and in the RSS feed)
+  Adrien Joly
 
-# Your name, as you want it to appear underneath each post and in the footer
-author: Adrien Joly
+author: # Your name, as you want it to appear underneath each post and in the footer
+  Adrien Joly
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /img/photo.jpg
+avatar: # URL of your avatar or profile pic (you could use your GitHub profile pic)
+  /img/photo.jpg
+
+desc:
+  I craft useful full-stack products, teach JavaScript programming, and play drums.
+
+keywords: javascript,hacker,prototyping,startup,paris,software,development,programming,whyd,openwhyd,innovation,node.js,music,drums,drummer,batteur,minab,fhacktory,hackathon,man is not a bird,harissa
 
 repository: adrienjoly/adrienjoly.github.com
 

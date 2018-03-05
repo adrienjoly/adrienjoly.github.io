@@ -7,18 +7,18 @@
 	<meta property="og:url" content="http://adrienjoly.com">
 	<meta property="og:type" content="homepage">
 	<meta property="og:title" content="Adrien Joly">
-	<meta property="og:image" content="/img/photo.jpg">
-	<meta property="og:description" content="I craft useful full-stack products, teach JavaScript programming, and play drums."/>
-	<meta name="description" content="I craft useful full-stack products, teach JavaScript programming, and play drums." />
-	<meta name="keywords" content="javascript,hacker,prototyping,startup,paris,software,development,programming,whyd,openwhyd,innovation,node.js,music,drums,drummer,batteur,minab,fhacktory,hackathon,man is not a bird,harissa">
+	<meta property="og:image" content="{{ site.avatar }}">
+	<meta property="og:description" content="{{ site.desc }}"/>
+	<meta name="description" content="{{ site.desc }}" />
+	<meta name="keywords" content="{{ site.keywords }}">
 	<meta name="author" content="Adrien Joly">
-	<link rel="image_src" href="/img/photo.jpg">
+	<link rel="image_src" href="{{ site.avatar }}">
 	<link href="/icon.png" rel="icon" type="image/x-png">
 	<link href="/legacy.css" media="screen" rel="stylesheet" type="text/css">
 	<title>Adrien Joly{% if page.title %} - {{ page.title }}{% endif %}</title>
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-1858235-4']);
+		_gaq.push(['_setAccount', '{{ site.google_analytics }}']);
 		_gaq.push(['_trackPageview']);
 		(function() {
 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
