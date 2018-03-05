@@ -1,18 +1,24 @@
 # Recent projects
 
-- title: "MOOC: Startup Tour"
-  date: (2016-2017)
+- title: Algolia Site Search
+  date: (2017-NOW)
   desc:
-    <p>After having given a free 2-hour presentation in French, on how to build a <b>start-up</b> company, <a href="https://twitter.com/dawise_" target="_blank">David Wise</a> and I wrote a <a href="https://www.udemy.com/startuptour/?couponCode=AJNOW20" target="_blank">blended <b>e-learning</b> course</a> from it. In this course, we cover topics from how to find the right <b>idea</b>, to exit strategies, including practical tips, examples and <b>demos</b>.</p>
-  url: https://www.udemy.com/startuptour/?couponCode=AJNOW20
-  img: /img/prj_startuptour.jpg
+    I lead the development of Algolia's internal Web Crawler, a scalable distributed system built in <b>Node.js</b>.
+  url: https://www.algolia.com/enterprise
+  img: /img/prj_crawler_by_sebastien_navizet.png
   links:
-    - title: 20% de réduction sur udemy.com
-      url: https://www.udemy.com/startuptour/?couponCode=AJNOW20
-      className: youtube
+    - title: This is how we generate our API doc
+      url: https://docs.google.com/presentation/d/e/2PACX-1vTHuvHaqnXFDG5zxEHb7xGc4aSygAvhYYdVMJbOFSaZ9cmkiaBvg76dVbgz1L2GENaLAQUodRHQ2gx4/pub?start=false&loop=false&delayms=3000
+      className: news
+    - title: Illustration by Sébastien Navizet
+      url: https://dribbble.com/shots/3461880-Algolia-Crawler
+      className: ideas
+    - title: We're hiring!
+      url: https://jobs.lever.co/algolia/7e5b5379-30c2-4fc2-9e80-4e19893ace30
+      className: github
 
 - title: Teaching @ EEMI
-  date: (2015-2018)
+  date: (2015-NOW)
   desc:
     I teach <b>JavaScript programming</b> to three classes of 1st year students, at the Ecole Européenne des Métiers de l'Internet. The first school founded by Xavier Niel (Free), Antoine Granjon (vente-privee.com), and Marc Simoncini (Meetic). I also craft modern pedagogical tools for my students, and for automated evaluation.
   url: http://eemi.com
@@ -23,7 +29,7 @@
       className: github
 
 - title: Whyd / Openwhyd
-  date: (2011-2018)
+  date: (2011-NOW)
   desc:
     I built the <b>full stack</b> of <a href="https://openwhyd.org/" target="_blank">Openwhyd</a> (formerly known as whyd.com), a web-based music curation platform that allows adding tracks using a browser extension (<b>bookmarklet</b>), and plays them in sequence. After open-sourcing the product, I'm now leading its community of contributors.
   url: https://openwhyd.org
@@ -36,22 +42,19 @@
       url: https://www.youtube.com/watch?v=aZT8VlTV1YY
       className: youtube
 
-- title: French Spellchecker
-  date: (2017)
+- title: "MOOC: Startup Tour"
+  date: (2016-2017)
   desc:
-    I forked an existing spellchecking extension for <b>Visual Studio Code</b>, and switched it to another engine, so that it can find errors and suggest corrections in text files in French language. I use it to write my JavaScript course material.
-  url: https://marketplace.visualstudio.com/items?itemName=adrienjoly.vscode-spellchecker-fr
-  img: /img/prj_vscode-spellchecker-fr.png
-
-- title: Comment Editor by AJ
-  date: (2017)
-  desc:
-    I integrated WYSIWYG editing to <b>Trello</b> comments, by developing a simple extension (without back-end). It was accepted as an official <b>power-up</b>.
-  url: https://adrienjoly.com/comment-editor-for-trello/
-  img: /img/prj_comment-editor.png
+    <p>After having given a free 2-hour presentation in French, on how to build a <b>start-up</b> company, <a href="https://twitter.com/dawise_" target="_blank">David Wise</a> and I wrote a <a href="https://www.udemy.com/startuptour/?couponCode=AJNOW20" target="_blank">blended <b>e-learning</b> course</a> from it. In this course, we cover topics from how to find the right <b>idea</b>, to exit strategies, including practical tips, examples and <b>demos</b>.</p>
+  url: https://www.udemy.com/startuptour/?couponCode=AJNOW20
+  img: /img/prj_startuptour.jpg
+  links:
+    - title: 20% de réduction sur udemy.com
+      url: https://www.udemy.com/startuptour/?couponCode=AJNOW20
+      className: youtube
 
 - title: Next Step for Trello
-  date: (2016)
+  date: (2016-NOW)
   desc:
     This <b>Chrome Extension</b> displays the next To-Do step(s) of each card, on your Trello boards, in order to increase your <b>productivity</b> when planning your work.
   url: https://adrienjoly.com/chrome-next-step-for-trello
@@ -62,7 +65,7 @@
     className: news
 
 - title: Javascript Exam
-  date: (2016)
+  date: (2016-NOW)
   desc:
     In the frame of my Javascript course at EEMI, I developed an online exam application for students, using <b>Google Polymer</b> and <b>Firebase</b>. It was designed to display different variants of each exercise to prevent fraud, and automatic student evaluation/grading.
   url: https://github.com/adrienjoly/js-exam

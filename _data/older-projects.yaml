@@ -1,0 +1,76 @@
+# Older projects
+
+- title: fhacktory
+  date: (2014)
+  desc:
+    After coordinating [AngelHack Paris in 2013](http://www.hackathon.io/angelhack18), I organized and co-founded f<strong>hack</strong>tory <b>hackathons</b>, which philosophy was to reward technical challenges rather than business ideas and boring slideshows.
+  url: http://www.fhacktory.com/
+  img: /img/prj_fhacktory.jpg
+  links:
+  - title: See our previous events
+    url: http://www.maddyness.com/tag/fhacktory/
+    className: maddyness
+
+- title: PhD thesis
+  date: (2010)
+  desc:
+    Using <b>information retrieval</b> techniques, I researched how to improve collaboration between employees without reducing their productivity, by delivering relevant social updates based on their current work context.
+  url: https://docs.google.com/leaf?id=0B6p16in14iyYZTI0OGE0NzUtOTMyZi00Y2ZhLWI5MzYtYWMwZWU5OTY2ZTRi&amp;hl=en
+  img: /img/prj_thesis.png
+  links:
+  - title: Publications
+    url: http://liris.cnrs.fr/publis/?mode=liste&amp;author=2771&amp;order=a
+    className: liris
+
+- title: Masters thesis
+  date: (2006)
+  url: https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=0B6p16in14iyYMzk4YmM3NzAtZTY4MC00ZTg4LWJkNWYtZThlYTEzZmY5OTMx&amp;hl=en_US
+  img: /img/prj_qut.jpg
+  desc:
+    I developed a system that can optimize a web-based user interface for desktop and mobile displays, to browse semantically-indexed soccer matches.
+
+# ######
+
+# <!--
+# <h1>Freelance portfolio</h1>
+
+# <li class="project">
+#   <a class="screenshot" href="http://panoplycity.com" target="_blank">
+#     <img src="/img/prj_panoply.jpg" alt="panoply">
+#   </a>
+#   <h2><a href="http://panoplycity.com" target="_blank">Built Panoply's web app</a><small>(2016)</small></h2>
+#   <p>I developed the first version of a mobile-first rental store for luxury clothing in 6 sprints of 2 weeks each, with help from Thomas Jeanneau for the front-end.<br><b>#MeteorJS</b>, <b>#Stripe</b>, <b>#Chimp</b></p>
+# </li>
+
+# <li class="project">
+#   <a class="screenshot" href="http://ayni.in" target="_blank">
+#     <img src="/img/prj_ayni.jpg" alt="ayni">
+#   </a>
+#   <h2><a href="http://ayni.in" target="_blank">Coaching @ Ayni</a><small>(2015-2016)</small></h2>
+#   <p>Ayni is a social learning platform made so that elderly can teach their langage to students of the same professional domain. As <b>technical advisor</b>, I structure the collaboration of the <b>agile</b> development team, and help on the start-up's strategic decisions. I also contributed to their <b>MeteorJS</b> prototype in the frame of Hack4europe.</p>
+# </li>
+
+# <li class="project">
+#   <a class="screenshot" href="http://hackathon.com" target="_blank">
+#     <img src="/img/prj_hackathon-com.jpg" alt="hackathon.com">
+#   </a>
+#   <h2><a href="http://hackathon.com" target="_blank">Built hackathon.com</a><small>(2015)</small></h2>
+#   <p>Given a spec and a few designs, BeMyApp asked me to develop a <b>responsive-design</b> website to list all hackathons around the world. Besides having to be <b>SEO-enabled</b>, the product should also be able to detect and agregate events and their Twitter updates automatically, using several APIs.<br><b>#nodejs</b> <b>#mongodb</b> <b>#jquery</b></p>
+# </li>
+
+# <li class="project">
+#   <a class="screenshot" href="http://freelancerepublik.com/" target="_blank"><img src="/img/prj_frk.jpg"></a>
+#   <h2><a href="http://freelancerepublik.com/" target="_blank">FreelanceRepubliK</a><small>(2015)</small></h2>
+#   <p>I setup an <b>agile</b> workflow to improve the performance of the development team, and participated to the development and debugging of a few features on the website, using <b>Node.js</b>, <b>Mongoose</b> and <b>AngularJS</b>.</p>
+# </li>
+
+# <li class="project">
+#   <a class="screenshot" href="http://lca.deepki.com/" target="_blank">
+#     < !--<div><div>No image yet</div></div>-- >
+#     <img src="/img/prj_deepki.png">
+#   </a>
+#   <h2><a href="http://lca.deepki.com/" target="_blank">Built Deepki DIT &amp; LCA</a><small>(2015)</small></h2>
+#   <p>I built <b>dashboards</b> and <b>data-visualization tools</b> based on CSV data files, and a script to automate the <b>conversion</b> of business-specific PDF tables into CSV files.</p>
+# </li>
+
+# -->

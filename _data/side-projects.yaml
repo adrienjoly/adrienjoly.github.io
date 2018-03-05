@@ -1,0 +1,135 @@
+# Side projects
+
+- title: Comment Editor by AJ
+  date: (2017)
+  desc:
+    I integrated WYSIWYG editing to <b>Trello</b> comments, by developing a simple extension (without back-end). It was accepted as an official <b>power-up</b>.
+  url: https://adrienjoly.com/comment-editor-for-trello/
+  img: /img/prj_comment-editor.png
+
+- title: French Spellchecker
+  date: (2017)
+  desc:
+    I forked an existing spellchecking extension for <b>Visual Studio Code</b>, and switched it to another engine, so that it can find errors and suggest corrections in text files in French language. I use it to write my JavaScript course material.
+  url: https://marketplace.visualstudio.com/items?itemName=adrienjoly.vscode-spellchecker-fr
+  img: /img/prj_vscode-spellchecker-fr.png
+
+- title: 1poll
+  date: (2015-2016)
+  desc:
+    I built a Doodle-like service for creating simple polls very quicly. This started as a side-project, for learning how to use <b>React.js</b>, <b>Material Design</b>, <b>Parse</b> and <b>Firebase</b>.
+  url: https://github.com/adrienjoly/1poll
+  img: /img/prj_1poll.jpg
+
+- title: tCup
+  date: (2015)
+  desc:
+    Crafted during Intel IoT Roadshow, TCup is a <b>Intel Edison</b> [server](https://github.com/adrienjoly/tcup-sensor) (in Node.js) + [iPhone app](https://github.com/klefevre/TCup-iOS) that helps you improve the quality of your tea consumption, by adapting the infusion process accordingly to the type of tea, and by notifying you when your cup of tea has arrived to your favorite drinking temperature.
+  url: http://www.instructables.com/id/Intel-IoT-Roadshow-Paris-tCup/
+  img: /img/prj_tcup.jpg
+
+- title: Proximate
+  date: (2005)
+  desc:
+    Proximate is a communication <b>framework</b> for ad-hoc wifi networks. Designed for <b>mobile</b> devices, it empowers applications sharing common network and user identification layers.
+  url: /proximate
+  img: /img/prj_proximate.png
+
+- title: Dr. Mario for TI-92+
+  date: (2002)
+  desc:
+    A port of the famous Nintendo <b>game</b> for the <b>TI-92+</b> calculator, developed in <b>C</b>, featuring smooth grayscale animations.
+    Also check out my first TI-92 game, [Frogger](http://www.ti-fr.com/?act=22&amp;gp=1&amp;at1=134&amp;af=74)
+  url: http://www.ti-fr.com/?act=22&amp;gp=1&amp;at1=129&amp;af=68
+  img: /img/prj_drmario.png
+
+###########
+
+# <li class="project">
+#   <a class="screenshot" href="http://1task.org" target="_blank">
+#     <img src="/img/prj_1task.jpg" alt="1task todo list task management app">
+#   </a>
+#   <h2><a href="http://1task.org" target="_blank">1task</a><small>(2015)</small></h2>
+#   <p>I'm developing an alternative to Todo-list apps that blends <b>task-management</b> and <b>note-management</b> use cases, assists users in breaking down big tasks into smaller one, and allows infinite levels of hierarchy for organizing sub-tasks.
+#   <p><a href="https://tinyletter.com/productivity-tips" target="_blank">
+#         <span class="news">Subscribe to my productivity newsletter</span></a>
+#   </p>
+# </li>
+
+# <li class="project">
+#   <a class="screenshot" href="https://github.com/adrienjoly/meteor-tag-chat" target="_blank">
+#     <img src="/img/prj_discuthing.png" alt="discuthing">
+#   </a>
+#   <h2><a href="https://github.com/adrienjoly/meteor-tag-chat" target="_blank">Meteor Tag Chat</a><small>(2015)</small></h2>
+#   <p>I acted as temporary CTO of this experimental and somewhat artistic messaging start-up, by building a <b>prototype</b> using <b>MeteorJS</b> and validating <b>lean startup</b> hypothesis based on user behavior and retention analysis. You can find my <a href="https://github.com/adrienjoly/meteor-tag-chat" target="_blank">early source code on github</a>.</p>
+# </li>
+
+# <li class="project">
+#   <a class="screenshot" href="https://github.com/adrienjoly/HsbcStatementParser" target="_blank">
+#     <img src="/img/prj_hsbc.png" alt="hsbc statement parser">
+#   </a>
+#   <h2><a href="https://github.com/adrienjoly/HsbcStatementParser" target="_blank">Hsbc Statement Parser</a><small>(2015)</small></h2>
+#   <p>As my bank did not allow me to download all my statements in text format, I wrote a <b>NodeJS script</b> that converts PDF statements to CSV files.</p>
+#   <p><a href="https://www.npmjs.com/package/pdfreader" target="_blank">
+#         <span class="npm">Also checkout <b>pdfreader</b> on npm</span></a>
+#   </p>
+# </li>
+
+# <li class="project">
+#   <a class="screenshot" href="https://github.com/adrienjoly/AlbumKeeper" target="_blank">
+#     <img src="/img/prj_albumkeeper.png" alt="album keeper">
+#   </a>
+#   <h2><a href="https://github.com/adrienjoly/AlbumKeeper" target="_blank">AlbumKeeper</a><small>(2014)</small></h2>
+#   <p>Bookmark any album from the web, into your personal music collection. I coded this simple webapp in order to give <b>Meteor</b> a try, and I maintain it for my own use.</p>
+# </li>
+
+# <li class="project">
+#   <a class="screenshot" href="http://hangout-timer-app.appspot.com/" target="_blank">
+#     <img src="/img/prj_hangouttimer.jpg" alt="google hangout timer">
+#   </a>
+#   <h2><a href="http://hangout-timer-app.appspot.com/" target="_blank">Google Hangout Timer</a><small>(2014)</small></h2>
+#   <p>A simple stopwatch for <b>Google Hangouts</b>, that every participant can see. It was developed to improve <b>productivity</b> during our remote meetings, by granting a 2-minute speaking slot to every team member.</p>
+# </li>
+
+# <li class="project">
+#   <a class="screenshot" href="https://github.com/adrienjoly/playemjs/" target="_blank">
+#     <img src="/img/prj_playemjs.png" alt="playemJS">
+#   </a>
+#   <h2><a href="https://github.com/adrienjoly/playemjs/" target="_blank">Playem JS</a><small>(2013)</small></h2>
+#   <p>PlayemJS is a <b>javascript component</b> that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo. It's used on <a href="http://openwhyd.org/" target="_blank">Openwhyd</a>.</p>
+# </li>
+
+# <li class="project">
+#   <a class="screenshot" href="http://gigfm.herokuapp.com/" target="_blank">
+#     <img src="/img/prj_gigfm.jpg" alt="gig.fm">
+#   </a>
+#   <h2><a href="http://gigfm.herokuapp.com/" target="_blank">GigFm</a><small>(2012)</small></h2>
+#   <p>Developped in 20 hours during AngelHack Paris 2012, GigFm allows you to play the best tracks of every upcoming concert recommended for you by <a href="http://last.fm/" target="_blank">Last.fm</a>.</p>
+# </li>
+
+# <li class="project">
+#   <a class="screenshot" href="http://www.whozzup.com/" target="_blank">
+#     <img src="/img/prj_whozzup.png" alt="whozzup">
+#   </a>
+#   <h2><a href="http://www.whozzup.com/" target="_blank">Whozzup</a><small>(2011)</small></h2>
+#   <p>Whozzup brings locals together by making them engage to fun activities whenever they they have some free time.</p>
+#   <p>This weekend project is abandoned.</p>
+# </li>
+
+# <li class="project">
+#   <a class="screenshot" href="http://www.hearim.net/" target="_blank">
+#     <img src="/img/prj_heariam.jpg" alt="hear i am">
+#   </a>
+#   <h2><a href="http://www.hearim.net/" target="_blank">Hear I Am</a><small>(2011)</small></h2>
+#   <p>Hear I Am recommends local music lovers with similar interests, whenever you check-in to a place or event.</p>
+#   <p>This weekend project was <a href="http://techcrunch.com/2011/09/28/plan-your-next-trip-wins-foursquare-hackathon/" target="_blank">awarded three prizes</a> at <a href="http://fshackathon.appspot.com/team?team_key=ag1zfmZzaGFja2F0aG9ucgoLEgRUZWFtGAQM" target="_blank"><b>Foursquare</b> Hackathon.</a></p>
+# </li>
+
+# <li class="project">
+#   <a class="screenshot" href="https://adrienjoly.com/playem" target="_blank">
+#     <img src="/img/prj_playem.jpg" alt="playem">
+#   </a>
+#   <h2><a href="https://adrienjoly.com/playem" target="_blank">Play'em</a><small>(2011)</small></h2>
+#   <p>Developed in a week-end, Play'em plays videos that your friends shared on facebook, without having to browse, just like TV.</p>
+#   <p>Play'em was <a href="http://www.youtube.com/watch?v=TUo0Y32H3uw&amp;feature=player_detailpage#t=359s" target="_blank">featured on TV</a> and on <a href="http://www.youtube.com/watch?v=-HdAlW1Xy_g" target="_blank">video podcast Tekzilla</a></p>
+# </li>
