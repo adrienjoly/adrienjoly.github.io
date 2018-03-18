@@ -10,6 +10,23 @@ title: Ideas
   .vote-button{ display:inline-block; opacity:0.5; }
 </style>
 
+## Concepts I'd like to prototype
+
+As shared in [that tweet](https://twitter.com/adrienjoly/status/955116685207506944):
+
+- intent-based smartphone UI (i.e. no apps)
+- human communication with granular control of invasiveness
+- self-training tools for education
+- mix ToDos, notes and journaling
+- evolving yellow pages desc. based on facts
+- minimal multiplayer games
+
+Please contact me if you're working on any of these topics, or if you would like to discuss!
+
+## Older ideas
+
+Ideas are worthless; only execution matter! => Feel free to *steal* any of them from me!
+
 - Script to automatically backup book/reading highlights from <a href="https://app.blinkist.com/en/highlights/">app.blinkist.com</a> to google drive 
   <div id="2159980202" class="vote-button">
     <div class="btn-o" data-scribe="component:button" style="width: 61px;">
