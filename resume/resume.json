@@ -5,7 +5,7 @@
     "picture": "https://adrienjoly.com/img/adrienjoly2014_2.jpg",
     "email": "contact@adrienjoly.com",
     "website": "https://adrienjoly.com",
-    "summary": "I craft browser extensions, web apps, dashboards and data scripts in JavaScript. I love to keep my products simple, but complex workflows don't scare me.",
+    "summary": "I craft web apps, browser extensions, dashboards and data scripts in JavaScript. I love to keep my products simple, but complex workflows don't scare me.",
     "location": {
       "address": "19 rue de la Fédération",
       "postalCode": "93100",
@@ -37,17 +37,11 @@
   },
   "work": [
     {
-      "company": "Independant Product Developer",
-      "position": "(Self-Employed)",
-      "website": "https://adrienjoly.com",
-      "startDate": "2015-10-01",
-      "highlights": [
-        "Developed a commercial student evaluation software with automatic code grading",
-        "Developed and launched several productivity tools and browser extensions, including \"Next Step for Trello\" (5/5 rating, 10k users)",
-        "Produced and published several product demo videos on Youtube",
-        "Broadcasted a dozen of public live coding sessions on Twitch",
-        "Blogged my results, struggles and learnings on Medium.com"
-      ]
+      "company": "Algolia",
+      "position": "Senior Software Engineer",
+      "website": "https://algolia.com",
+      "startDate": "2017-11-06",
+      "summary": "I lead the development of Algolia’s internal Web Crawler, a scalable distributed system built in Node.js."
     },
     {
       "company": "EEMI - École Européenne des Métiers de l'Internet",
@@ -55,6 +49,20 @@
       "website": "https://eemi.com",
       "startDate": "2015-08-01",
       "summary": "I teach Javascript programming to 4 classes of 1st year students, 1 day per week."
+    },
+    {
+      "company": "Independant Product Developer",
+      "position": "(Self-Employed)",
+      "website": "https://adrienjoly.com",
+      "startDate": "2015-10-01",
+      "endDate": "2017-11-05",
+      "highlights": [
+        "Developed a commercial student evaluation software with automatic code grading",
+        "Developed and launched several productivity tools and browser extensions, including \"Next Step for Trello\" (5/5 rating, 10k users)",
+        "Produced and published several product demo videos on Youtube",
+        "Broadcasted a dozen of public live coding sessions on Twitch",
+        "Blogged my results, struggles and learnings on Medium.com"
+      ]
     },
     {
       "company": "Startup Tour (MOOC)",
