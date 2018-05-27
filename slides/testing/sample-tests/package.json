@@ -1,0 +1,11 @@
+{
+  "name": "sample-tests",
+  "repository": "https://github.com/adrienjoly/adrienjoly.github.com/tree/master/slides/testing/sample-tests",
+  "author": "Adrien Joly",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.3",
+    "jest": "23.0.0",
+    "node-fetch": "2.1.2"
+  }
+}
