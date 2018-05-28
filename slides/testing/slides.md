@@ -16,10 +16,35 @@ class: dbl-size, middle
 
 # Outline
 
-1. Why?
+1. What? Who? Why?
 2. Types of tests
 3. Other concepts
 4. Best practices
+
+---
+class: dbl-size, middle
+
+# Disclaimer
+
+- Terminology and opinions can vary
+- Content is based on my experience
+
+---
+class: dbl-size, middle
+
+# What is automated testing for
+
+- legacy code = code without tests
+- legacy code is hard and dangerous to maintain, because of lack of tests
+
+---
+class: dbl-size, middle
+
+# Who should test
+
+- Everybody who write software
+- Web: back-end and front-end
+- Particularly on systems that are hard (or expensive) to debug and update, e.g. hardware
 
 ---
 class: dbl-size, middle
