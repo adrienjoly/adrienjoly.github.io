@@ -34,8 +34,13 @@ class: dbl-size, middle
 
 # What is automated testing for
 
+- goal: make sure (and prove) that the software works as expected
+- tests are like sex in high school
 - legacy code = code without tests
-- legacy code is hard and dangerous to maintain, because of lack of tests
+
+???
+
+legacy code is hard and dangerous to maintain, because of lack of tests
 
 ---
 class: dbl-size, middle
@@ -84,7 +89,13 @@ class: dbl-size, middle, center
 
 # 🐜  Unit testing
 
-## Every function is reliable
+- Goal: every pure function is reliable
+- Numerous, simple to write, fast to run
+- How: expect outputs for each provided input
+
+???
+
+pure functions = without side effect. (e.g. parseInt vs console.log)
 
 ---
 class: dbl-size, middle
@@ -106,7 +117,9 @@ class: dbl-size, middle, center
 
 # 👫  Integration testing
 
-## Every component behaves as expected
+- Goal: every component behaves as expected
+- More complex, slower to write, need maintenance
+- How: inject mocks and spies into the system
 
 ---
 class: dbl-size, middle
@@ -131,7 +144,9 @@ class: dbl-size, middle, center
 
 # 📦  Functional testing
 
-## The system does what it's supposed to do
+- Goal: system does what it's supposed to do
+- UI tests can be slow and flaky to run
+- How: consider the system as a black box, test like a user
 
 ---
 class: dbl-size, middle, center
@@ -141,6 +156,10 @@ class: dbl-size, middle, center
 - a.k.a. End-to-end testing
 - a.k.a. Acceptance testing
 - a.k.a. UI testing
+
+???
+
+Functional tests could be run directly by users, without requiring access to the source code
 
 ---
 class: dbl-size, middle
@@ -168,8 +187,10 @@ class: dbl-size, middle, center
 
 # Tips & tricks
 
+- You don't need 100% coverage
+- Golden path first
 - Use a Continuous Integration (CI) system
-- Clean context
+- Leave no trace
 - Beware flaky tests 🚫
 - Predictability: no random, no waiting, use fixed dates
 - Output of failing test = title of a Github issue
