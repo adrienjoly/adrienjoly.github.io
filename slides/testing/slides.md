@@ -122,13 +122,13 @@ class: dbl-size, middle
 - I chose this alternative order on purpose, to display the most contrasting first, and then dig into the less obvious one
 
 ---
-class: dbl-size, middle, center
+class: dbl-size, middle
 
 # 🐜  Unit testing
 
-- Goal: every pure function is reliable
-- Numerous, simple to write, fast to run
-- How: expect outputs for each provided input
+- Goal: the system's (pure) functions are reliable
+- How: expected outputs for each provided input
+- Characteristics: simple to write, fast to run
 
 ???
 
@@ -174,7 +174,26 @@ describe('parseInt', () => {
 Now, let's see another kind of tests: functional testing
 
 ---
-class: dbl-size, middle, center
+class: dbl-size, middle
+
+# 🐜  Unit test: let's run it!
+
+```bash
+> jest tests/unit.test.js
+
+ PASS  tests/unit.test.js
+  parseInteger
+    ✓ turns "01" to 1 (2ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.835s, estimated 1s
+Ran all test suites.
+```
+
+---
+class: dbl-size, middle
 
 # 📦  Functional testing
 
@@ -194,7 +213,7 @@ class: dbl-size, middle, center
 So, let's recap.
 
 ---
-class: dbl-size, middle, center
+class: dbl-size, middle
 
 # 📦  Functional testing
 
@@ -270,13 +289,13 @@ Now that we know how to test functions and how to test the entire product, isn't
 => Yes, there is: integration testing!
 
 ---
-class: dbl-size, middle, center
+class: dbl-size, middle
 
 # 👫  Integration testing
 
-- Goal: every component behaves as expected
+- Goal: components behave as expected
 - How: inject mocks and spies into the system
-- Characteristics: More complex, slower to write, need more maintenance
+- More complex, slower to write, need more maintenance
 
 ???
 
@@ -300,7 +319,7 @@ class: dbl-size, middle
 
 # 👫  Integration testing
 
-## Mocking Algolia's search index component
+Mocking Algolia's search index component
 
 ```js
 // file: __mocks__/algolia.js
@@ -333,7 +352,7 @@ class: dbl-size, middle
 # 👫  Integration testing
 
 ```js
-// file:integration.test.js
+// file: integration.test.js
 
 jest.mock('algolia'); // will inject __mocks__/algolia.js
 const algolia = require('algolia');
@@ -356,7 +375,60 @@ describe('crawler', () => {
 Now, if the interface of any of these modules changes, we would have to also update the code of this integration test.
 
 ---
-class: dbl-size, middle, center
+class: middle
+
+# Let's run the tests: `npm test` ✅
+
+```bash
+> jest --verbose
+
+ PASS  tests/functional.test.js
+  api
+    ✓ returns the list of crawled pages (23ms)
+
+ PASS  tests/unit.test.js
+  parseInteger
+    ✓ turns "01" to 1 (2ms)
+
+ PASS  tests/integration.test.js
+  crawler
+    ✓ indexes one record from test-page.html (1ms)
+
+Test Suites: 3 passed, 3 total
+Tests:       3 passed, 3 total
+Snapshots:   0 total
+Time:        0.943s, estimated 1s
+Ran all test suites.
+```
+
+---
+class: dbl-size, middle
+
+# The extra mile: `package.json` 
+
+```json
+{
+  "name": "my-awesome-product",
+  "scripts": {
+    "test": "jest $@",
+    "test:unit": "jest tests/unit.test.js",
+    "test:integration": "jest tests/integration.test.js",
+    "test:functional": "jest tests/functional.test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "23.0.0"
+  }
+}
+```
+
+???
+
+- provide at least one `test` npm script, so that developers and CI can run `npm test`
+- add jest (or other testing frameworks) in `devDependencies` so that they are not added in production
+
+---
+class: middle
 
 # Tips & tricks
 
@@ -364,12 +436,36 @@ class: dbl-size, middle, center
 - Golden path first
 - Use a Continuous Integration (CI) system
 - Leave no trace
-- Beware flaky tests 🚫
+- Beware flaky tests
 - Predictability: no random, no waiting, use fixed dates
 - Output of failing test = title of a Github issue
 - One PR = at least one test
 - Write a failing test before coding
 - For each new bug, write a regression test
+
+---
+class: middle
+
+# Tips & tricks // We're done! ✅
+
+- You don't need 100% coverage
+- Golden path first
+- Use a Continuous Integration (CI) system
+- Leave no trace
+- Beware flaky tests
+- Predictability: no random, no waiting, use fixed dates
+- Output of failing test = title of a Github issue
+- One PR = at least one test
+- Write a failing test before coding
+- For each new bug, write a regression test
+
+.bottom-right[
+👉 Sample tests: [`http://bit.ly/AJTEST`](http://bit.ly/AJTEST)
+
+🐦 [twitter.com/adrienjoly](https://twitter.com/adrienjoly)
+
+👋 PS: We're hiring! Ask me about Algolia.
+]
 
 ???
 
