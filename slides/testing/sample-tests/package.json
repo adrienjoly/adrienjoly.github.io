@@ -1,11 +1,21 @@
 {
   "name": "sample-tests",
+  "description": "Simple examples of unit, integration and functional tests using Jest. Slides of the talk: https://adrienjoly.com/slides/testing",
   "repository": "https://github.com/adrienjoly/adrienjoly.github.com/tree/master/slides/testing/sample-tests",
   "author": "Adrien Joly",
   "license": "MIT",
+  "scripts": {
+    "test": "jest $@",
+    "test:verbose": "jest --verbose",
+    "test:unit": "jest tests/unit.test.js",
+    "test:integration": "jest tests/integration.test.js",
+    "test:functional": "jest tests/functional.test.js"
+  },
   "dependencies": {
     "express": "4.16.3",
-    "jest": "23.0.0",
     "node-fetch": "2.1.2"
+  },
+  "devDependencies": {
+    "jest": "23.0.0"
   }
 }
