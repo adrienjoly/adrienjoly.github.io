@@ -6,6 +6,22 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
+- title: Why (automated) testing is cool ✌️
+  date: 2018-05-30
+  event: Meetup Paris.js #74
+  address: Scaleway, 51 Avenue Iéna, Paris
+  desc_en: |
+    - Why testing is good practice
+    - Why testing is cool
+    - Unit testing: why + how + example
+    - Integration testing: why + how + example
+    - Acceptance/e2e/API testing: why + how + examples Examples will be based on experience with Algolia's Crawler (Distributed system built on Node.js), Openwhyd (Ex "legacy" startup product --> open-source project) and Next Step for Trello (Google Chrome extension, open-source).
+    Tech stack: Node.js, Docker, Jest (incl. snapshots), Webdriver.io + Selenium.
+  permalink: https://parisjs.org/meetup/2018-05-30/
+  slides: http://adrienjoly.com/slides/testing
+  video: https://youtu.be/LQry0d1kb_o?t=11m43s
+  url: https://www.meetup.com/fr-FR/Paris-js/events/250133834/
+
 - title: Générer la doc d'une API depuis son code
   date: 2018-02-13
   event: Meetup Node.js Paris
