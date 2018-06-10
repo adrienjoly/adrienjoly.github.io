@@ -28,6 +28,6 @@ gfm_quirks: paragraph_end
 
 # additional config
 exclude:
-  - resume/node_modules
+  - "**/node_modules"
   - Gemfile
   - Gemfile.lock
