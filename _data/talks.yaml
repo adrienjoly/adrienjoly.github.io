@@ -13,7 +13,7 @@
   desc_en: During his talk, Adrien will demystify automated tests by 1/ telling how he started to appreciate writing them, 2/ showing examples of unit, integration and functional tests for a Node.js application, and 3/ sharing many best practices and tips about automated testing and continuous integration.
   permalink: https://www.eventbrite.com/e/algolia-search-party-nodejs-time-tickets-46435618184?aff=twitter#
   slides: https://docs.google.com/presentation/d/1VaOyKC4tGXIDy-q22uaS7hOUawgrcT-BkhqRU4_Ax0M/edit?usp=sharing
-  # video: TODO
+  video: https://www.youtube.com/watch?v=J5my4ayBos0
   url: https://github.com/adrienjoly/adrienjoly.github.com/tree/master/slides/testing/sample-tests
 
 - title: Why (automated) testing is cool ✌️
