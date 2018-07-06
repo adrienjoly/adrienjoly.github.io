@@ -3,6 +3,13 @@ title: Talks
 layout: legacy
 ---
 
+# Ideas for future talks
+
+Your feedback and suggestions are welcome!
+
+- How to migrate a Node.js application from Heroku to Google Cloud Platform / Kubernetes
+- How to have all side-projects from Github automatically attached to your personal domain name
+
 # Talks
 
 {% for talk in site.data.talks %}
