@@ -1,5 +1,7 @@
 # How to write automated tests
 
+This repository contains sample code that was shown to illustrate the talk I gave at [Algolia Search Party](https://www.eventbrite.com/e/algolia-search-party-nodejs-time-tickets-46435618184?aff=twitter), on July 5th, 2018: **How to write automated tests for a Node.js codebase**. ([slides](https://docs.google.com/presentation/d/1VaOyKC4tGXIDy-q22uaS7hOUawgrcT-BkhqRU4_Ax0M/edit?usp=sharing))
+
 ![automated testing cheat-sheet](docs/testing-cheat-sheet.png)
 
 ## How to run the tests locally
