@@ -17,6 +17,16 @@ const MONTHS = {
 };
 
 const fetchFrom = {
+  'medium.com': async (url = 'https://medium.com/@adrienjoly') => {
+    const json = (await request(`${url}/latest?format=json`)).replace('])}while(1);</x>', '');
+    const posts = JSON.parse(json).payload.references.Post;
+    return Object.keys(posts).map(key => ({
+      date: new Date(posts[key].createdAt),
+      title: posts[key].title,
+      url: `${url}/${posts[key].uniqueSlug}`,
+      source: 'medium.com',
+    }));
+  },
   'dev.to': async (url = 'https://dev.to/adrienjoly') => {
     const $ = cheerio.load(await request(url));
     const parseDate = dateStr => {
@@ -36,6 +46,8 @@ const fetchFrom = {
   },
 };
 
+const simplifyDate = date => date.toISOString().split('T')[0];
+
 const toYaml = (val, level = 0) => {
   const INDENT_SIZE = 2;
   if (typeof val === 'object' && 'length' in val) {
@@ -44,8 +56,7 @@ const toYaml = (val, level = 0) => {
     }).join('');
   } else if (typeof val === 'object') {
     return Object.keys(val).map(key => {
-      const rendered = val[key] instanceof Date ? val[key].toISOString().split('T')[0] : val[key];
-      return ''.padStart(level * INDENT_SIZE) + `${key}: "${rendered}"\n`;
+      return ''.padStart(level * INDENT_SIZE) + `${key}: "${val[key]}"\n`;
     }).join('');
   } else {
     return ''.padStart(level * INDENT_SIZE) + val;
@@ -53,6 +64,13 @@ const toYaml = (val, level = 0) => {
 };
 
 (async () => {
-  const posts = await fetchFrom['dev.to']();
-  console.log(toYaml(posts));
+  const postsPerSource = await Promise.all(Object.keys(fetchFrom).map(source => fetchFrom[source]()));
+  const posts = postsPerSource.reduce((posts, sourcePosts) => posts.concat(sourcePosts), []);
+  const sortedPosts = posts.sort((a, b) => b.date - a.date).map(post => ({
+    ...post,
+    date: simplifyDate(post.date)
+  }));
+  //const posts = await fetchFrom['dev.to']();
+  const yaml = toYaml(sortedPosts);
+  console.log(yaml);
 })();
