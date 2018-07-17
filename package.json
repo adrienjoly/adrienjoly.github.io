@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "install": "gem install bundler && bundle install # requires ruby-lang.org",
-    "fetch": "node src/fetch-blog-posts.js",
+    "fetch": "node src/fetch-blog-posts.js >_data/posts.yaml",
     "build": "bundle exec jekyll build",
     "start": "bundle exec jekyll serve --incremental"
   },

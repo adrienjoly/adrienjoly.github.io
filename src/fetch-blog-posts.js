@@ -30,7 +30,8 @@ const fetchFrom = {
     return $('a.index-article-link').map((i, article) => ({
       date: parseDate($(article).parent().find('h4 > a').text().split('・').pop()),
       title: $(article).text().trim(),
-      href: 'https://dev.to' + article.attribs.href,
+      url: 'https://dev.to' + article.attribs.href,
+      source: 'dev.to',
     })).get();
   },
 };
