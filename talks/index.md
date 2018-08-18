@@ -1,6 +1,6 @@
 ---
 title: Talks
-layout: legacy
+description: A list of talks I've given to meetups and other events.
 ---
 
 # Ideas for future talks
