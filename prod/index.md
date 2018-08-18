@@ -45,6 +45,14 @@ Here is a list of what I shipped:
   
 - ✍️ <a href="https://hackernoon.com/12-months-to-become-an-indie-hacker-ad0c916c1f5f">12 months to become an Indie Hacker</a> and <a href="https://hackernoon.com/what-i-learned-while-working-as-an-indie-developer-for-2-years-53619fafa81f">What I learned while working as an indie developer for 2 years</a>, retrospectives of my entrepreneurial experience (and experiments).
 
+## A selection of older projects
+
+{% for proj in site.data.side-projects %}
+{% if proj.date != "(2017)" %}
+- [{{ proj.title }}]({{ proj.url }}) {{ proj.date }}: {{ proj.desc }}
+{% endif %}
+{% endfor %}
+
 > Last update was August 18th, 2018. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/prod)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
