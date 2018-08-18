@@ -1,5 +1,4 @@
 ---
-layout: legacy
 title: Projects
 ---
 

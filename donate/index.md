@@ -1,6 +1,4 @@
 ---
-layout: derek
-type: article
 title: Donate
 desc: That's where you can tip me if you want! :-)
 ---
@@ -15,7 +13,7 @@ desc: That's where you can tip me if you want! :-)
   </ul>
 </section>
 
-<h1>Donations are not expected but always appreciated!</h1>
+## Donations are not expected but always appreciated!
 
 <ul>
   <li>
