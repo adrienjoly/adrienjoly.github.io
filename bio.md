@@ -12,3 +12,8 @@ quick facts:
 - as an **idealist**, also loves thinking and discussing about how [we can change the world we live in](https://medium.com/@adrienjoly/software-development-principles-that-should-also-be-applied-to-our-laws-a35182573d87#.c7gji4m6x)
 - play **drums**, drinks **beers**
 - spoiler: *I'm going to lead the transformation of my previous startup product into an open-source project*
+
+I value:
+- **Sustainable efficiency** in the development process;
+- **Transparency** in my intents, my communication, and my code;
+- **Integrity** with my interests and convictions.
