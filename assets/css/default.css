@@ -21,8 +21,8 @@
 
 @font-face {
   font-family: 'AlternateGothicFSNo3';
-  src: url('/fonts/AlternateGothicNo3-webfont.eot');
-  src: url('/fonts/AlternateGothicNo3-webfont.woff') format('woff'), url('/fonts/AlternateGothicNo3-webfont.ttf') format('truetype'), url('/fonts/AlternateGothicNo3-webfont.svg#webfontUJOPMwss') format('svg');
+  src: url('/assets/fonts/AlternateGothicNo3-webfont.eot');
+  src: url('/assets/fonts/AlternateGothicNo3-webfont.woff') format('woff'), url('/assets/fonts/AlternateGothicNo3-webfont.ttf') format('truetype'), url('/assets/fonts/AlternateGothicNo3-webfont.svg#webfontUJOPMwss') format('svg');
   font-weight: normal;
   font-style: normal;
 }
