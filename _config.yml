@@ -47,6 +47,7 @@ gfm_quirks: paragraph_end
 
 # additional config
 exclude:
+  - node_modules
   - "**/node_modules"
   - Gemfile
   - Gemfile.lock
