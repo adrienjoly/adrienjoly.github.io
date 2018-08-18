@@ -15,3 +15,5 @@ Last but not least, I love **playing drums** with my band [Harissa](https://www.
 You can read what I'm doing [now](/now), listen to [my musical discoveries on Openwhyd](https://openwhyd.org/adrien) and follow my updates on twitter: [@adrienjoly](http://twitter.com/adrienjoly).
 
 If you want to say hi, you can email me: contact @ this domain name. (I prefer [email](https://medium.com/@adrienjoly/why-email-does-not-stink-9267c948f3f9#.g63r0gqsu) to [phone calls](https://byrslf.co/why-i-don-t-answer-most-phone-calls-4a71e1418854)) 😇
+
+<!-- the content of this page was inspired by https://vickylai.com/ >
