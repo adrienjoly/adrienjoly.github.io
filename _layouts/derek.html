@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html  lang="{{ site.lang | default: "en-US" }}" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title and site.title != page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+
+  <meta property="og:site_name" content="Adrien Joly">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:type" content="{{ page.type | default: "homepage" }}">
+  <meta property="og:title" content="{% if page.title and site.title != page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
+  <meta property="og:image" content="{{ site.avatar }}">
+  <meta property="og:description" content="{{ page.desc | default: site.desc }}"/>
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@adrienjoly">
+  <meta name="twitter:creator" content="@adrienjoly">
+  <meta name="twitter:title" content="{% if page.title and site.title != page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
+  <meta name="twitter:description" content="{{ page.desc | default: site.desc }}">
+  <meta name="twitter:image" content="{{ site.avatar }}">
+
+  <meta name="description" content="{{ page.desc | default: site.desc }}" />
+  <meta name="keywords" content="{{ site.keywords }}">
+  <meta name="author" content="Adrien Joly">
+  <link rel="image_src" href="{{ site.avatar }}">
+  <link href="/icon.png" rel="icon" type="image/x-png">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- shamelessly forked from https://sivers.org/now -->
+  <link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Serif' rel='stylesheet' type='text/css'>
+  <link href='{{ "/assets/css/derek.css?v=" | append: site.github.build_revision | relative_url }}' rel='stylesheet' type='text/css'>
+  
+</head>
+<body id="{{ page.bodyId }}">
+  <section id="masthead">
+    <h1><a href="/" title="Adrien Joly" style="line-height:1.5em;">
+      <img src="/img/photo.jpg" style="width:52px;height:52px;">Adrien Joly</a>
+    </h1>
+    <small>Software engineer, drummer, student of life.</small>
+  </section>
+
+  <div id="content">
+    <!--
+    <p style="background-color: #ffc; border: 1px solid orange; padding: 10px;">
+      🎂 Hey it's my birthday today! :-)
+    </p>
+    -->  
+{{ content }}
+  </div>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', '{{ site.google_analytics }}', 'auto');
+    ga('send', 'pageview');
+  </script>  
+</body>
+</html>
