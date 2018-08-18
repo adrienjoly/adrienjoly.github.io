@@ -48,8 +48,8 @@ header,footer,aside,nav,article,section {display:block;}
 
 @font-face {
     font-family: 'AlternateGothicFSNo3';
-    src: url('./fonts/AlternateGothicNo3-webfont.eot');
-    src: url('./fonts/AlternateGothicNo3-webfont.woff') format('woff'), url('./fonts/AlternateGothicNo3-webfont.ttf') format('truetype'), url('./fonts/AlternateGothicNo3-webfont.svg#webfontUJOPMwss') format('svg');
+    src: url('/fonts/AlternateGothicNo3-webfont.eot');
+    src: url('/fonts/AlternateGothicNo3-webfont.woff') format('woff'), url('/fonts/AlternateGothicNo3-webfont.ttf') format('truetype'), url('/fonts/AlternateGothicNo3-webfont.svg#webfontUJOPMwss') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -213,19 +213,19 @@ nav#navigation {
 }
 
 #icon-github {
-    background-image: url('img/logo-github.png');
+    background-image: url('/img/logo-github.png');
 }
 
 #icon-linkedin {
-    background-image: url('img/logo-linkedin.png');
+    background-image: url('/img/logo-linkedin.png');
 }
 
 #icon-medium {
-    background-image: url('img/logo-medium.png');
+    background-image: url('/img/logo-medium.png');
 }
 
 #icon-twitter {
-    background-image: url('img/logo-twitter.png');
+    background-image: url('/img/logo-twitter.png');
 }
 
 .content {
@@ -297,94 +297,94 @@ nav#navigation {
 	}
 
 	.pdf {
-		background: url('./img/page_white_acrobat.gif') left center no-repeat;
+		background: url('/img/page_white_acrobat.gif') left center no-repeat;
 		padding-left: 22px;
 	}
 
 
 	.whyd {
-        background: url('img/icon-whyd.png') left center no-repeat;
+        background: url('/img/icon-whyd.png') left center no-repeat;
 		padding-left: 22px;
 	}
 
     .openwhyd {
-        background: url('img/icon-openwhyd.png') left center no-repeat;
+        background: url('/img/icon-openwhyd.png') left center no-repeat;
         background-size: 16px 16px;
         padding-left: 22px;
     }
 
     .youtube {
-        background: url('img/icon-youtube.png') left center no-repeat;
+        background: url('/img/icon-youtube.png') left center no-repeat;
         padding-left: 22px;
     }
 
     .github {
-        background: url('img/icon-github.png') left center no-repeat;
+        background: url('/img/icon-github.png') left center no-repeat;
         padding-left: 22px;
     }
 
     .medium {
-        background: url('img/logo-medium.png') left center no-repeat;
+        background: url('/img/logo-medium.png') left center no-repeat;
         background-size: 16px 16px;
         padding-left: 22px;
     }
 
     .wunderlist {
-        background: url('img/icon-wunderlist.png') left center no-repeat;
+        background: url('/img/icon-wunderlist.png') left center no-repeat;
         background-size: 16px 16px;
         padding-left: 22px;
     }
 
     .ideas {
-        background: url('img/icon-idea.png') left center no-repeat;
+        background: url('/img/icon-idea.png') left center no-repeat;
         background-size: 16px 16px;
         padding-left: 22px;
     }
 
     .news {
-        background: url('img/icon-news.png') left center no-repeat;
+        background: url('/img/icon-news.png') left center no-repeat;
         background-size: 16px 16px;
         padding-left: 22px;
     }
 
     .patreon {
-        background: url('img/icon-patreon.png') left center no-repeat;
+        background: url('/img/icon-patreon.png') left center no-repeat;
         background-size: 16px 16px;
         padding-left: 22px;
     }
 
     .npm {
-        background: url('img/icon-npm.png') left center no-repeat;
+        background: url('/img/icon-npm.png') left center no-repeat;
         padding-left: 22px;
     }
 
     .maddyness {
-        background: url('img/icon-maddyness.png') left center no-repeat;
+        background: url('/img/icon-maddyness.png') left center no-repeat;
         padding-left: 22px;
     }
 
     .liris {
-        background: url('img/icon-liris.png') left center no-repeat;
+        background: url('/img/icon-liris.png') left center no-repeat;
         padding-left: 22px;
     }
 
 	.eventbrite {
-        background: url('img/icon-eventbrite.png') left center no-repeat;
+        background: url('/img/icon-eventbrite.png') left center no-repeat;
         padding-left: 22px;
     }
 
     .instagram {
-        background: url('img/icon-instagram.png') left center no-repeat;
+        background: url('/img/icon-instagram.png') left center no-repeat;
         padding-left: 22px;
     }
 
     .geeklist {
-        background: url('img/icon-geeklist.png') left center no-repeat;
+        background: url('/img/icon-geeklist.png') left center no-repeat;
         padding-left: 22px;
     }
 
     .lastfm {
-		background: url('./img/lastfm.png') left center no-repeat;
+		background: url('/img/lastfm.png') left center no-repeat;
 		padding-left: 22px;
 	}
 

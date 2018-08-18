@@ -197,12 +197,6 @@ div.posts a, div.posts table, div.posts td, div.posts tr {
   padding-left: 20px;
 }
 
-.wiki {
-  background: url('http://adrienjoly.pbwiki.com/favicon.ico') left center no-repeat;
-  background-size:16px 16px;
-  padding-left: 20px;
-}
-
 .extlink {
   background: url('img/extlink.png') left center no-repeat;
   padding-left: 20px;

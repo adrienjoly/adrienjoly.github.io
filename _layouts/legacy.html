@@ -14,7 +14,7 @@
 	<meta name="author" content="Adrien Joly">
 	<link rel="image_src" href="{{ site.avatar }}">
 	<link href="/icon.png" rel="icon" type="image/x-png">
-	<link href="/legacy.css" media="screen" rel="stylesheet" type="text/css">
+	<link href="{{ "/assets/css/legacy.css?v=" | append: site.github.build_revision | relative_url }}" media="screen" rel="stylesheet" type="text/css">
 	<title>Adrien Joly{% if page.title %} - {{ page.title }}{% endif %}</title>
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
