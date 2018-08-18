@@ -16,6 +16,18 @@ repository: adrienjoly/adrienjoly.github.com
 
 google_analytics: UA-1858235-4
 
+twitter: # used by the jekyll seo plugin
+  username: adrienjoly
+  card: summary
+
+social:
+  name: Adrien Joly
+  links:
+    - https://twitter.com/adrienjoly
+    - https://www.linkedin.com/in/adrienjoly
+    - https://github.com/adrienjoly
+    - https://medium.com/@adrienjoly
+
 # github defaults
 encoding: UTF-8
 kramdown:
@@ -32,3 +44,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - src
+
+plugins:
+  - jekyll-seo-tag
