@@ -28,6 +28,13 @@ social:
     - https://github.com/adrienjoly
     - https://medium.com/@adrienjoly
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/img/photo.jpg"
+      author: "@adrienjoly"
+
 # github defaults
 encoding: UTF-8
 kramdown:
