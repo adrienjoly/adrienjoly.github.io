@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products & side projects
 description: Products I crafted and shipped with ♥️ love
 ---
 

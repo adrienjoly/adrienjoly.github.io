@@ -1,9 +1,11 @@
 ---
-layout: legacy
 title: Music
+description: List of bands I played drums with.
 ---
 
-<h1 id="mybands">My bands</h1>
+> I've played drums since I was a kid. Even though I never wanted to make a career in music, playing with other musicians is a very important and fulfilling part of my life.
+
+## List of bands I played drums with
 
 <ul class="items thumbs">
 
