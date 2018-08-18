@@ -39,6 +39,14 @@ iframe {
   width: 100%;
 }
 
+/* top image */
+
+h1 img {
+  float: right;
+  width: 42px;
+  border-radius: 6px;
+}
+
 /* project listings */
 
 .thumb {
