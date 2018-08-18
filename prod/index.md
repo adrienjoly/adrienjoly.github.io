@@ -1,7 +1,6 @@
 ---
-type: article
 title: Products
-desc: Products I crafted and shipped with ♥️ love
+description: Products I crafted and shipped with ♥️ love
 ---
 
 > Previously, I worked 4.5 years for [Whyd](https://medium.com/openwhyd/music-amongst-other-topics-a4f41657d6d), freelanced for 1.5 years, and [developed my own products](https://hackernoon.com/12-months-to-become-an-indie-hacker-ad0c916c1f5f) for 1 year.
