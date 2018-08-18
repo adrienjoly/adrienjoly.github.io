@@ -1,4 +1,9 @@
-- date: "2018-07-16"
+- date: "2018-07-22"
+  title: "Let's turn an Openwhyd playlist into a static Jekyll site"
+  url: "https://dev.to/adrienjoly/lets-turn-an-openwhyd-playlist-into-a-static-jekyll-site-341a"
+  source: "dev.to"
+
+- date: "2018-07-17"
   title: "Make your Static Site Searchable with Jekyll-Algolia"
   url: "https://dev.to/adrienjoly/make-your-static-site-searchable-with-jekyll-algolia-edh"
   source: "dev.to"
@@ -13,7 +18,7 @@
   url: "https://medium.com/@adrienjoly/highlights-from-how-to-transform-your-ideas-into-software-products-by-poornima-vijayashanker-785fd3cadea9"
   source: "medium.com"
 
-- date: "2018-06-29"
+- date: "2018-06-30"
   title: "How to maintain a collection of music albums online, using Jekyll and Github Pages"
   url: "https://dev.to/adrienjoly/how-to-maintain-a-collection-of-music-albums-online-using-jekyll-and-github-pages-3hd6"
   source: "dev.to"
@@ -58,7 +63,7 @@
   url: "https://medium.com/@adrienjoly/lavenir-d-openwhyd-818b0f34196c"
   source: "medium.com"
 
-- date: "2017-05-05"
+- date: "2017-05-06"
   title: "Hi, I'm Adrien Joly"
   url: "https://dev.to/adrienjoly/hi-im-adrien-joly"
   source: "dev.to"
