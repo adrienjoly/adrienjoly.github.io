@@ -6,7 +6,10 @@ Hi!
 
 My name is Adrien. I'm a French guy who currently lives in Montreuil, Paris area, France.
 
-As a software engineer, I **develop full-stack web products**: notably a [crawler for Algolia](https://www.algolia.com/solutions/site-search). I've also maintained several [side projects](/prod), including: [Next Step for Trello](https://adrienjoly.com/chrome-next-step-for-trello), [Startup Tour](https://www.udemy.com/startuptour/?couponCode=AJNOW20) and [Openwhyd](https://github.com/openwhyd/openwhyd). They are all free to use and/or open source on [my GitHub](https://github.com/adrienjoly/).
+As a software engineer, I **develop full-stack web products**: notably a [crawler for Algolia](https://www.algolia.com/solutions/site-search). I've also maintained several [side projects](/prod), mostly free to use and/or [open source](https://github.com/adrienjoly/), including:
+- [Next Step for Trello](https://adrienjoly.com/chrome-next-step-for-trello), a Chrome extension I wrote to progress more efficiently on my projects;
+- [Startup Tour](https://www.udemy.com/startuptour/?couponCode=AJNOW20), a French MOOC co-authored with David Wise on how to create a Lean Startup company, from 0 to 1;
+- and [Openwhyd](https://github.com/openwhyd/openwhyd), a social music discovery platform that I developed in my ex-startup and open-sourced in 2016.
 
 I enjoy **sharing what I learn**: by teaching, [giving talks](/talks), [writing articles](/posts), [research publications](https://scholar.google.fr/citations?user=BI3HXcsAAAAJ) and by [replying to questions on Quora](https://www.quora.com/profile/Adrien-Joly), occasionally. In the past, I organized [Angelhack](http://www.hackathon.io/angelhack18) and [fHACKtory hackathons](https://www.maddyness.com/?s=fhacktory), in Paris and Lyon.
 
