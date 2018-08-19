@@ -20,17 +20,8 @@ I’m home in Montreuil, Paris area, France.
 
 - 🛠 When I still have some energy left, I develop, ship and maintain [side projects](/prod).
 
-  <!--
-  <li> 🚀 David Wise and I published our <b>MOOC</b> "<a href="https://www.udemy.com/startuptour/?couponCode=AJNOW20">Startup Tour: créez votre startup en 3h</a>" (🇫🇷) on Udemy. So I shared an extract on Youtube:
-    <p>
-      <a href="https://www.udemy.com/startuptour/?couponCode=AJNOW20"><img src="https://cdn-images-1.medium.com/max/1600/1*UvDIc6gk5hiDFLVv_YNzHQ.png" width="320" height="180"></a>
-      <iframe width="320" height="180" src="https://www.youtube.com/embed/ZBf3i9ds95w?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-    </p>
-  </li>
+- 🔌 Current topics of interest: exploring FM synthesis (e.g. Adlib/OPL3, sonic-pi), trying to repair a wake-up light (electronics), and helping a friend develop a multi-track MIDI real-time recorder and sequencer for raspberry pi.
 
-  <p>Check out my <a href="/prod">Products</a> page to see what I crafted and shipped recently.</p>
-  -->
-
-> Last update was August 18th, 2018. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was August 19th, 2018. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
