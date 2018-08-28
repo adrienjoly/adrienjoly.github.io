@@ -441,7 +441,7 @@ Ideas are worthless; only execution matter! => Feel free to *steal* any of them 
       </a>
     </div>
   </div>
-- <span class="hashtag">#music</span> "Headphones Time": A popcorn-time-like app for collecting and playing playlists of tracks from various streaming services. (Youtube, Soundcloud, Bandcamp, Spotify…) (similarly to whyd) 
+- <span class="hashtag">#music</span> "Headphones Time": A popcorn-time-like app for collecting and playing playlists of tracks from various streaming services. (Youtube, Soundcloud, Bandcamp, Spotify…) (similarly to openwhyd.org) 
   <div id="1170148337" class="vote-button">
     <div class="btn-o" data-scribe="component:button" style="width: 61px;">
       <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%20%23music%20%22Headphones%20Time%22%3A%20A%20popcorn-time-like%20app%20for%20collecting%20and%20playing%20playlists%20of%20tracks%20from%20various%20streaming%20services.%20(Youtube%2C%20Soundcloud%2C%20Bandcamp%2C%20Spotify%E2%80%A6)%20(similarly%20to%20whyd)&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%231170148337&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
@@ -909,7 +909,7 @@ Ideas are worthless; only execution matter! => Feel free to *steal* any of them 
       </a>
     </div>
   </div>
-- A web-based remote control for whyd.com (when playing on another computer) 
+- A web-based remote control for openwhyd.org (for when playing music on another computer) 
   <div id="1120009113" class="vote-button">
     <div class="btn-o" data-scribe="component:button" style="width: 61px;">
       <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%20A%20web-based%20remote%20control%20for%20whyd.com%20(when%20playing%20on%20another%20computer)&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%231120009113&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
