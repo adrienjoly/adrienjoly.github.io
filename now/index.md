@@ -10,18 +10,18 @@ description: What I’m doing now
 
 I’m home in Montreuil, Paris area, France.
 
-- 💼 Developing a **web crawler** at [Algolia](https://www.algolia.com/).
+- 💼 Developing a **web crawler** at [Algolia](https://www.algolia.com/) and making sure that it works as great as possible in production, for our customers.
   
 - 🎓 Preparing **teaching interventions** for 2018-2019, about Node.js programming, tech leadership and quality software engineering (incl. software design, automated testing, git/github flow, lean &amp; agile project management).
   
-- 🌶 Recording an album with my **band** "[Harissa](https://www.facebook.com/harissaquartet)".
+- 🌶 Looking for gigs with my **band** "[Harissa](https://www.facebook.com/harissaquartet)", now that our first EP "[Karabana](https://cabaneariff.com/harissa-karabana)" is available publicly on all music platforms (e.g. on Spotify). Opportunities are welcome, if you have any! 🤗
   
-- ⛑ Making sure that [openwhyd.org](https://openwhyd.org) ([open-source](https://github.com/openwhyd)) keeps working as expected.
+- ⛑ Making sure that [openwhyd.org](https://openwhyd.org) ([open-source](https://github.com/openwhyd) music curation platform) keeps working as expected. You can help us sustain our product and community of music lovers by [contributing](https://openwhyd.org/contribute) and/or [donating](https://openwhyd.org/donate).
 
 - 🛠 When I still have some energy left, I develop, ship and maintain [side projects](/prod).
 
-- 🔌 Current topics of interest: exploring FM synthesis (e.g. Adlib/OPL3, sonic-pi), trying to repair a wake-up light (electronics), and helping a friend develop a multi-track MIDI real-time recorder and sequencer for raspberry pi.
+- 🔌 Current topics of interest: learning about team managements, music composition and FM synthesis (e.g. Adlib/OPL3, sonic-pi).
 
-> Last update was August 19th, 2018. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was September 15th, 2018. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.

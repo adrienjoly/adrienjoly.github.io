@@ -15,9 +15,7 @@ description: List of bands I played drums with.
 		</a>
 		<h2><a href="https://www.facebook.com/harissaquartet/" target="_blank">Harissa</a><small>(new!)</small></h2>
 		<p>An invitation to travel, blending Groove, Jazz and instrumental World music.</p>
-		<p><a href="https://www.youtube.com/watch?v=uWB8plk9sXk" target="_blank">
-					<span class="youtube">Our first music video: "Tierra"</span></a>
-		</p>
+		<p><span>💿 Listen to our 1st EP: "<a href="https://cabaneariff.com/harissa-karabana">Karabana</a>"</span></p>
 	</li>
 
 	<li class="project">
