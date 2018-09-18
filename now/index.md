@@ -20,8 +20,8 @@ I’m home in Montreuil, Paris area, France.
 
 - 🛠 When I still have some energy left, I develop, ship and maintain [side projects](/prod).
 
-- 🔌 Current topics of interest: learning about team managements, music composition and FM synthesis (e.g. Adlib/OPL3, sonic-pi).
+- 🔌 Current topics of interest: learning about tech team management, music composition and FM synthesis (e.g. Adlib/OPL3, sonic-pi).
 
-> Last update was September 15th, 2018. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was September 18th, 2018. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
