@@ -11,6 +11,6 @@ title: Recent posts & other publications
 
 📌 Research publications: [Adrien Joly on Google Scholar](https://scholar.google.fr/citations?user=BI3HXcsAAAAJ)
 
-> Last update was August 18th, 2018. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/talks)
+> Last update was September 30th, 2018. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/talks)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
