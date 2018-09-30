@@ -18,14 +18,29 @@ const MONTHS = {
 
 const fetchFrom = {
   'medium.com': async (url = 'https://medium.com/@adrienjoly') => {
-    const json = (await request(`${url}/latest?format=json`)).replace('])}while(1);</x>', '');
-    const posts = JSON.parse(json).payload.references.Post;
-    return Object.keys(posts).map(key => ({
-      date: new Date(posts[key].createdAt),
-      title: posts[key].title,
-      url: `${url}/${posts[key].uniqueSlug}`,
-      source: 'medium.com',
-    }));
+    const fetchPage = async (to) => {
+      const pageUrl = `${url}/latest?format=json${to ? `&to=${to}` : ''}`;
+      console.warn(pageUrl);
+      return JSON.parse((await request(pageUrl)).replace('])}while(1);</x>', ''));
+    };
+    const extractPostsFrom = (json) => {
+      const posts = json.payload.references.Post;
+      return !posts ? null : Object.keys(posts).map(key => ({
+        date: new Date(posts[key].createdAt),
+        title: posts[key].title,
+        url: `${url}/${posts[key].uniqueSlug}`,
+        source: 'medium.com',
+      }));  
+    };
+    let allPosts = [];
+    let nextPage = null;
+    do {
+      const json = await fetchPage((nextPage || {}).to);
+      const posts = extractPostsFrom(json);
+      allPosts = allPosts.concat(posts || []);
+      nextPage = json.payload.paging.next; 
+    } while (nextPage)
+    return allPosts;
   },
   'dev.to': async (url = 'https://dev.to/adrienjoly') => {
     const $ = cheerio.load(await request(url));
