@@ -2,14 +2,16 @@
 title: Recent posts & other publications
 ---
 
+## Research publications
+
+👉 [Adrien Joly on Google Scholar](https://scholar.google.fr/citations?user=BI3HXcsAAAAJ)
+
 ## Blog Posts
 
 {% for post in site.data.posts %}
 - [{{ post.title }}]({{ post.url }})<br/>
   <small style="color:gray;">{{ post.date | date: "%b %-d, %Y" }}, {{ post.source }}</small>
 {% endfor %}
-
-📌 Research publications: [Adrien Joly on Google Scholar](https://scholar.google.fr/citations?user=BI3HXcsAAAAJ)
 
 > Last update was September 30th, 2018. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/talks)
 >
