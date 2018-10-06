@@ -11,7 +11,7 @@ As a software engineer, I **develop full-stack web products**: notably a [crawle
 - [Startup Tour](https://www.udemy.com/startuptour/?couponCode=AJNOW20), a French MOOC co-authored with David Wise on how to create a Lean Startup company, from 0 to 1;
 - and [Openwhyd](https://github.com/openwhyd/openwhyd), a social music discovery platform that I developed in my ex-startup and open-sourced in 2016.
 
-I enjoy **sharing what I learn**: by teaching, giving [talks](/talks), writing [articles](/posts) and by replying to [questions on Quora](https://www.quora.com/profile/Adrien-Joly), occasionally. In the past, I organized [Angelhack](http://www.hackathon.io/angelhack18) and [fHACKtory](https://www.maddyness.com/?s=fhacktory) hackathons, in Paris and Lyon.
+I enjoy **sharing what I learn**: by [teaching](/teaching), giving [talks](/talks), writing [articles](/posts) and by replying to [questions on Quora](https://www.quora.com/profile/Adrien-Joly), occasionally. In the past, I organized [Angelhack](http://www.hackathon.io/angelhack18) and [fHACKtory](https://www.maddyness.com/?s=fhacktory) hackathons, in Paris and Lyon.
 
 Last but not least, I love **playing drums** with my band [Harissa](https://www.facebook.com/harissaquartet/) and during jam sessions. Previously, I recorded [an album](https://www.discogs.com/fr/Man-Is-Not-A-Bird-Survived-The-Great-Flood/master/870529) with Man Is Not A Bird (my previous band), among other [musical adventures](/music).
 
