@@ -6,6 +6,14 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
+- title: Openwhyd, a startup product given to its community of users
+  date: 2018-10-16
+  event: GitHub Universe Meetup @ Algolia
+  address: Algolia, 55 rue d'Amsterdam, Paris
+  desc_en: In this lightning talk, I presented Openwhyd, summarised its unusual story, and listed a few topics on which contributions are welcome (especially during hacktoberfest)
+  slides: https://docs.google.com/presentation/d/1bahmSwu9P5vhcTanWEmQ72OXD5_xqcxwQY4MvWnJlXU
+  url: https://docs.google.com/presentation/d/1bahmSwu9P5vhcTanWEmQ72OXD5_xqcxwQY4MvWnJlXU
+
 - title: How to write automated tests for a Node.js codebase
   date: 2018-07-05
   event: Algolia Search Party — Ain't Node-body Like You
