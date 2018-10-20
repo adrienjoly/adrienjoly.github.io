@@ -6,6 +6,15 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
+- title: Comment migrer de Heroku vers Google Kubernetes Engine
+  date: 2018-10-18
+  event: Node.js Paris meetup @ Keymetrics
+  address: 3 rue de Montyon, 75009 Paris
+  desc_fr: Cet été, on a migré une application Node.js distribuée, de Heroku vers Google Kubernetes Engine. Je pensais que ça allait être facile. Hé bien j'avais tort ! Je vais vous raconter les ratés les plus tragiques auxquels j'ai du faire face pendant cette migration. Et si vous êtes sympas, je vous expliquerai les astuces que j'ai appliquées pour corriger le tir !
+  permalink: https://www.meetup.com/fr-FR/Nodejs-Paris/events/mkhmkqyxnbxb/
+  slides: https://docs.google.com/presentation/d/1DrWXcp_NMGJtLm4EcXbeUnkQb8l384ukH4bc9tSK_fc
+  url: https://docs.google.com/presentation/d/1DrWXcp_NMGJtLm4EcXbeUnkQb8l384ukH4bc9tSK_fc
+
 - title: Openwhyd, a startup product given to its community of users
   date: 2018-10-16
   event: GitHub Universe Meetup @ Algolia
