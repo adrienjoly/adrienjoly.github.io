@@ -5,10 +5,9 @@ description: A list of talks I've given to meetups and other events.
 
 ## Ideas for future talks
 
-Your feedback and suggestions are welcome!
+Your feedbac, suggestions and encouragements are welcome!
 
-- How to migrate a Node.js application from Heroku to Google Cloud Platform / Kubernetes
-- how to refactor with confidence => readable PRs, tests, diagrams, static code analysis
+- How to refactor with confidence => readable PRs, tests, diagrams, static code analysis, comparing traces of fynction calls and abstract syntax trees
 - How to have all side-projects from Github automatically attached to your personal domain name
 
 > 📌 Also check out my [teaching](/teaching) interventions.
