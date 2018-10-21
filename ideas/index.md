@@ -27,6 +27,8 @@ Please contact me if you're working on any of these topics, or if you would like
 
 Ideas are worthless; only execution matter! => Feel free to *steal* any of them from me!
 
+> Check out my practical tips and references on how to bring an idea to execution, and create a successful startup: [Startup Noob Guide](http://bit.ly/startupnoob).
+
 - Script to automatically backup book/reading highlights from <a href="https://app.blinkist.com/en/highlights/">app.blinkist.com</a> to google drive 
   <div id="2159980202" class="vote-button">
     <div class="btn-o" data-scribe="component:button" style="width: 61px;">
