@@ -12,7 +12,7 @@ I’m home in Montreuil, Paris area, France.
 
 - 💼 Developing a **web crawler** at [Algolia](https://www.algolia.com/) and making sure that it works as great as possible in production, for our customers.
   
-- 🎓 Preparing **teaching interventions** for 2018-2019, about Node.js programming, tech leadership and quality software engineering (incl. software design, automated testing, git/github flow, lean &amp; agile project management).
+- 🎓 [**Teaching**](/teaching) back-end programming with Node.js, tech leadership and how to collaborate on open source projects using `git`.
   
 - 🌶 Looking for gigs with my **band** "[Harissa](https://www.facebook.com/harissaquartet)", now that our first EP "[Karabana](https://cabaneariff.com/harissa-karabana)" is available publicly on all music platforms (e.g. on Spotify). Opportunities are welcome, if you have any! 🤗
   
@@ -22,6 +22,6 @@ I’m home in Montreuil, Paris area, France.
 
 - 🔌 Current topics of interest: learning about tech team management, music composition and FM synthesis (e.g. Adlib/OPL3, sonic-pi).
 
-> Last update was September 18th, 2018. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was November 4th, 2018. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
