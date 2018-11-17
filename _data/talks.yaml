@@ -6,6 +6,16 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
+- title: Le développement durable, appliqué au code
+  date: 2018-11-15
+  event: CTO Pizza Live #4
+  address: NUMA, 39 Rue du Caire, 75002 Paris
+  desc_fr: Comment j'ai transformé un produit de startup créé il y a 6 ans en projet open source encore utilisé par des milliers de personnnes. J'y résume les grandes étapes de l'histoire de la transition de Whyd à Openwhyd.org, commment nous avons réduit la dette technique, fidélisé utilisateurs, contributeurs et donateurs, puis je donne quelques recommandations pour les développeurs de nouveaux produits.
+  desc_en: How a 6 years old project became open-source and is still used by thousands or people through sustainable code. In this talk, I share the story of Whyd→Openwhyd, and explain how we managed to have our tech-debted codebase still running successfully in production, how we kept a loyal user base, and how we sustain it as an open-source project.
+  permalink: https://www.eventbrite.fr/e/billets-cto-pizza-live-4-51764991483
+  slides: https://docs.google.com/presentation/d/1LaOI3iUyR00GG0jmYoZN7aMb8W_B0YsVPx0SWcQwC9w/edit?usp=sharing
+  url: https://docs.google.com/presentation/d/1LaOI3iUyR00GG0jmYoZN7aMb8W_B0YsVPx0SWcQwC9w/edit?usp=sharing
+
 - title: Comment migrer de Heroku vers Google Kubernetes Engine
   date: 2018-10-18
   event: Node.js Paris meetup @ Keymetrics
