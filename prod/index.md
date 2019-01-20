@@ -9,6 +9,8 @@ description: Products I crafted and shipped with ♥️ love
 
 ## Recent side projects
 
+- 🎮 <a href="https://github.com/adrienjoly/webmidi-launchkey-mini">chiptune synth</a>, exploring the use of WebMidi and WebAudio to perform "chiptune" music (inspired by vintage game consoles like Nintendo Entertainment System) live, using MIDI instruments.
+
 - 💿 <a href="https://github.com/adrienjoly/album-shelf">album-shelf</a>, an living web page on which I maintain a collection of my favorite music albums. Made with Jekyll and Github pages.
 
 ## Products I've been maintaining for a while
