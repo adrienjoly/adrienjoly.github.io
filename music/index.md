@@ -5,18 +5,20 @@ description: List of bands I played drums with.
 
 > I've played drums since I was a kid. Even though I never wanted to make a career in music, playing with other musicians is a very important and fulfilling part of my life.
 
-## List of bands I played drums with
+> More recently, I've also been eager to learn more about Music Theory and create "chiptune" music inspired by the Nintendo Entertainment System and Game Boy game consoles.
+
+## Current musical projects
 
 <ul class="items thumbs">
+  <!-- listed from _data/music-projects.yaml -->
+  {% include project-listing.html list=site.data.music-projects %}
+</ul>
 
-	<li class="project">
-		<a class="screenshot" href="https://www.facebook.com/harissaquartet/" target="_blank">
-			<img src="/img/band_harissa.jpg" alt="harissa quartet">
-		</a>
-		<h2><a href="https://www.facebook.com/harissaquartet/" target="_blank">Harissa</a><small>(new!)</small></h2>
-		<p>An invitation to travel, blending Groove, Jazz and instrumental World music.</p>
-		<p><span>💿 Listen to our 1st EP: "<a href="https://cabaneariff.com/harissa-karabana">Karabana</a>"</span></p>
-	</li>
+<div class="clear"></div>
+
+## List of bands I previously played drums with
+
+<ul class="items thumbs">
 
 	<li class="project">
 		<a class="screenshot" href="http://manisnotabird.bandcamp.com/album/survived-the-great-flood-2" target="_blank">
