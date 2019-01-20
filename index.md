@@ -13,7 +13,9 @@ As a software engineer, I **develop full-stack web products**: notably a [crawle
 
 I enjoy **sharing what I learn**: by [teaching](/teaching), giving [talks](/talks), writing [articles](/posts) and by replying to [questions on Quora](https://www.quora.com/profile/Adrien-Joly), occasionally. In the past, I organized [Angelhack](http://www.hackathon.io/angelhack18) and [fHACKtory](https://www.maddyness.com/?s=fhacktory) hackathons, in Paris and Lyon.
 
-Last but not least, I love **playing drums** with my band [Harissa](https://www.facebook.com/harissaquartet/) and during jam sessions. Previously, I recorded [an album](https://www.discogs.com/fr/Man-Is-Not-A-Bird-Survived-The-Great-Flood/master/870529) with Man Is Not A Bird (my previous band), among other [musical adventures](/music).
+I also love **playing drums** with my band [Harissa](https://www.facebook.com/harissaquartet/) and during jam sessions. Among various [musical adventures](/music), I recorded two albums:
+- [Karabana](https://ampl.ink/WknK7), with Harissa;
+- and [Survived The Great Flood](https://www.discogs.com/fr/Man-Is-Not-A-Bird-Survived-The-Great-Flood/master/870529), with Man Is Not A Bird (my previous band).
 
 If you want to know more, you can:
 - check out what I'm doing [now](/now),
