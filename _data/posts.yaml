@@ -1,3 +1,8 @@
+- date: "2019-02-20"
+  title: "The Challenging Migration from Heroku to Google Kubernetes Engine"
+  url: "https://blog.algolia.com/challenging-migration-heroku-google-kubernetes-engine/"
+  source: "blog.algolia.com"
+
 - date: "2018-09-29"
   title: "First steps with Yamaha’s DTX Multi 12 drum pads"
   url: "https://medium.com/@adrienjoly/first-steps-with-yamahas-dtx-multi-12-drum-pads-598b2be435cd"
