@@ -8,9 +8,9 @@ description: What I’m doing now
 
 ## What I’m doing these days
 
-I’m home in Montreuil, Paris area, France.
+I’m home in Montreuil, Paris area, France. (Note: currently looking for a bigger flat)
 
-- 💼 Developing a **web crawler** at [Algolia](https://www.algolia.com/) and making sure that it works as great as possible in production, for our customers.
+- 💼 Developing a Algolia's [Site-Search Crawler](https://www.algolia.com/solutions/site-search) and making sure that it works as great as possible in production, for our customers. I am currently the Tech Lead of that project.
   
 - 🎓 [**Teaching**](/teaching) back-end programming with Node.js, tech leadership and how to collaborate on open source projects using `git`.
   
@@ -18,10 +18,8 @@ I’m home in Montreuil, Paris area, France.
   
 - ⛑ Making sure that [openwhyd.org](https://openwhyd.org) ([open-source](https://github.com/openwhyd) music curation platform) keeps working as expected. You can help us sustain our product and community of music lovers by [contributing](https://openwhyd.org/contribute) and/or [donating](https://openwhyd.org/donate).
 
-- 🛠 When I still have some energy left, I develop, ship and maintain [side projects](/prod).
+- 🛠 When I have some energy left, I develop, ship and maintain [side projects](/prod). Also, I'm exploring the idea of performing 8-bit music from the Nintendo/NES era (a.k.a. chiptune videogame music) live.
 
-- 🔌 Current topics of interest: learning about tech team management, music composition and FM synthesis (e.g. Adlib/OPL3, sonic-pi).
-
-> Last update was November 4th, 2018. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was March 9th, 2019. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
