@@ -6,12 +6,12 @@ title: Teaching
 
 ## Spring 2019
 
-- Back-end development with Node.js (32h), at [EEMI](http://www.eemi.com/) and [ESGI](https://www.esgi.fr) (Paris, France)
+- [Back-end development with Node.js](https://adrienjoly.com/cours-nodejs/) (32h), at [EEMI](http://www.eemi.com/) and [ESGI](https://www.esgi.fr) (Paris, France)
 
 ## Fall 2018
 
-- Use of `git` for collaborative and open source projects (4h), at [EEMI](http://www.eemi.com/) (Paris, France)
-- Tech leadership (lead dev) (18h) at [La Web School Factory](https://www.webschoolfactory.fr/) (Paris, France)
+- [Use of `git` for collaborative and open source projects (4h)](https://adrienjoly.com/cours-git/), at [EEMI](http://www.eemi.com/) (Paris, France)
+- [Tech leadership](https://adrienjoly.com/cours-lead-dev/) (lead dev) (18h) at [La Web School Factory](https://www.webschoolfactory.fr/) (Paris, France)
 
 ## Past interventions
 
