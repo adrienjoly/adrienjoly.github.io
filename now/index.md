@@ -8,17 +8,17 @@ description: What I’m doing now
 
 ## What I’m doing these days
 
-I’m home in Montreuil, Paris area, France. (Note: currently looking for a bigger flat)
+I’m home in Montreuil, Paris area, France. (*Note: currently looking for a bigger flat*)
 
-- 💼 Developing a Algolia's [Site-Search Crawler](https://www.algolia.com/solutions/site-search) and making sure that it works as great as possible in production, for our customers. I am currently the Tech Lead of that project.
+- 💼 Developing Algolia's [Site-Search Crawler](https://www.algolia.com/solutions/site-search) and maintaining it in production for our customers. <br/> I am currently the Tech Lead of that project. Read the story of [our migration to Kubernetes](https://blog.algolia.com/challenging-migration-heroku-google-kubernetes-engine/).
   
-- 🎓 [**Teaching**](/teaching) back-end programming with Node.js, tech leadership and how to collaborate on open source projects using `git`.
+- 🎓 [Teaching](/teaching) back-end programming with Node.js, tech leadership and how to collaborate on open source projects using `git`.
   
-- 🌶 Looking for gigs with my **band** "[Harissa](https://www.facebook.com/harissaquartet)", now that our first EP "[Karabana](https://cabaneariff.com/harissa-karabana)" is available publicly on all music platforms (e.g. on Spotify). Opportunities are welcome, if you have any! 🤗
+- 🌶 Looking for gigs with my band "[Harissa](https://www.facebook.com/harissaquartet)", now that our first EP "[Karabana](https://cabaneariff.com/harissa-karabana)" is available publicly on all music platforms (e.g. on Spotify). Opportunities are welcome, if you have any! 🤗
   
-- ⛑ Making sure that [openwhyd.org](https://openwhyd.org) ([open-source](https://github.com/openwhyd) music curation platform) keeps working as expected. You can help us sustain our product and community of music lovers by [contributing](https://openwhyd.org/contribute) and/or [donating](https://openwhyd.org/donate).
+- ⛑ Making sure that [openwhyd.org](https://openwhyd.org) ([open-source](https://github.com/openwhyd) music curation platform) keeps working as expected, and promoting it to developers through [Hackergarten](https://www.meetup.com/fr-FR/Paris-Hackergarten) and [ProgrammableWeb](https://www.programmableweb.com/api/openwhyd-user). We are open to [contributions](https://openwhyd.org/contribute) and/or [donations](https://openwhyd.org/donate).
 
-- 🛠 When I have some energy left, I develop, ship and maintain [side projects](/prod). Also, I'm exploring the idea of performing 8-bit music from the Nintendo/NES era (a.k.a. chiptune videogame music) live.
+- 🛠 When I have some energy left, I develop, ship and maintain [side projects](/prod). <br/> Also, I'm exploring the [idea](https://hackmd.io/nszFj8pcTAynVP04-GUePw) of performing 8-bit music from the Nintendo/NES era (a.k.a. chiptune videogame music) live.
 
 > Last update was March 9th, 2019. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
