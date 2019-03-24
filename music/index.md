@@ -5,7 +5,11 @@ description: List of bands I played drums with.
 
 > I've played drums since I was a kid. Even though I never wanted to make a career in music, playing with other musicians is a very important and fulfilling part of my life.
 
-> More recently, I've also been eager to learn more about Music Theory and create "chiptune" music inspired by the Nintendo Entertainment System and Game Boy game consoles.
+> More recently, I've also been eager to learn more about Music Theory and create "chiptune" music inspired by the Nintendo Entertainment System and Game Boy game consoles. Read more about [this project](https://hackmd.io/nszFj8pcTAynVP04-GUePw).
+
+> If you want to know more about what music I love listening to, check out:
+> - My collection of [favorite albums](https://adrienjoly.com/album-shelf/)
+> - My collection of favorite songs: [openwhyd.org/adrien](https://openwhyd.org/adrien)
 
 ## Current musical projects
 
