@@ -6,6 +6,17 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
+- title: The Challenging Migration From Heroku to Google Kubernetes Engine
+  date: 2019-03-27
+  event: Paris.js meetup @ Toucan Toco
+  address: 2 Rue Paul Cézanne, 75008 Paris
+  desc_fr: L'été dernier, on a migré une application Node.js distribuée, de Heroku vers Google Kubernetes Engine. Je pensais que ça allait être facile. Hé bien j'avais tort ! Je vais vous raconter les ratés les plus tragiques auxquels j'ai du faire face pendant cette migration. Et si vous êtes sympas, je vous expliquerai les astuces que j'ai appliquées pour corriger le tir !
+  desc_en: Last summer, we migrated a distributed Node.js application from Heroku to Google Kubernetes Engine. I thought it was gonna be easy. Oh boy, I was wrong! This talk is the story of the most epic failures I had to face during this migration. And if you're nice, I'll share the tricks that I applied to make it work!
+  keywords: [ Deployment, Docker, Scalability, K8S, GCP ]
+  permalink: https://www.meetup.com/fr-FR/Paris-js/events/258319504/
+  slides: https://docs.google.com/presentation/d/1eVk1Px99bk-5BGKYL3MjZuQQqRezHVwtPiGFynBtsyE/edit?usp=sharing
+  url: https://docs.google.com/presentation/d/1eVk1Px99bk-5BGKYL3MjZuQQqRezHVwtPiGFynBtsyE/edit?usp=sharing
+
 - title: Le développement durable appliqué au code, de Whyd à Openwhyd
   date: 2018-11-15
   event: CTO Pizza Live #4
@@ -24,7 +35,6 @@
   desc_fr: Cet été, on a migré une application Node.js distribuée, de Heroku vers Google Kubernetes Engine. Je pensais que ça allait être facile. Hé bien j'avais tort ! Je vais vous raconter les ratés les plus tragiques auxquels j'ai du faire face pendant cette migration. Et si vous êtes sympas, je vous expliquerai les astuces que j'ai appliquées pour corriger le tir !
   desc_en: This summer, we migrated a distributed Node.js application from Heroku to Google Kubernetes Engine. I thought it was gonna be easy. Oh boy, I was wrong! This talk is the story of the most epic failures I had to face during this migration. And if you're nice, I'll share the tricks that I applied to make it work!
   keywords: [ Deployment, Docker, Scalability, K8S, GCP ]
-
   permalink: https://www.meetup.com/fr-FR/Nodejs-Paris/events/mkhmkqyxnbxb/
   slides: https://docs.google.com/presentation/d/1DrWXcp_NMGJtLm4EcXbeUnkQb8l384ukH4bc9tSK_fc
   url: https://docs.google.com/presentation/d/1DrWXcp_NMGJtLm4EcXbeUnkQb8l384ukH4bc9tSK_fc
