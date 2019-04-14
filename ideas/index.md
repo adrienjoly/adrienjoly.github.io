@@ -12,8 +12,7 @@ title: Ideas
 
 ## Concepts I'd like to prototype
 
-As shared in [that tweet](https://twitter.com/adrienjoly/status/955116685207506944):
-
+- A stream of honest and passionate updates from people we care about (join the discussion on [Pitchcard](https://www.pitchcard.io/cards/a-stream-of-honest-and-passionate-updates-from-people-we-care-about))
 - intent-based smartphone UI (i.e. no apps)
 - human communication with granular control of invasiveness
 - self-training tools for education
