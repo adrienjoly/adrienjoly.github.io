@@ -235,12 +235,25 @@
     {
       "name": "Full-stack Web Development",
       "level": "Master",
-      "keywords": [ "HTML", "CSS", "JavaScript", "DOM API", "Vue.js", "Express", "Node.js" ]
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "DOM API",
+        "Vue.js",
+        "Express",
+        "Node.js"
+      ]
     },
     {
       "name": "Continuous integration and automated testing",
       "level": "Master",
-      "keywords": [ "Mocha, Cucumber", "Webdriver.io", "Travis CI", "Docker" ]
+      "keywords": [
+        "Mocha, Cucumber",
+        "Webdriver.io",
+        "Travis CI",
+        "Docker"
+      ]
     },
     {
       "name": "Agile project management",
