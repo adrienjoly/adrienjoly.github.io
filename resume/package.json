@@ -4,7 +4,8 @@
   "repository": "https://github.com/adrienjoly.github.com/resume",
   "version": "1.0.0",
   "dependencies": {
-    "jsonresume-theme-modernfull": "adrienjoly/jsonresume-theme-modernfull"
+    "jsonresume-theme-modernfull": "adrienjoly/jsonresume-theme-modernfull",
+    "resume-cli": "^1.1.2"
   },
   "scripts": {
     "publish": "./node_modules/.bin/resume publish -t modern",
