@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Adrien Joly",
-    "label": "Web product developer, JavaScript teacher",
+    "label": "Full-stack web product developer, Team leader, Teacher",
     "picture": "https://adrienjoly.com/img/adrienjoly2014_2.jpg",
     "email": "contact@adrienjoly.com",
     "website": "https://adrienjoly.com",
-    "summary": "I craft web apps, browser extensions, dashboards and data scripts in JavaScript. I love to keep my products simple, but complex workflows don't scare me.",
+    "summary": "I lead the development and maintenance of scalable web apps in production. Product quality and sustainability come from a readable and predictable code base, great documentation, and a solid suite of automated tests. I love to share my experiences and learn from others.",
     "location": {
       "address": "19 rue de la Fédération",
       "postalCode": "93100",
@@ -38,17 +38,24 @@
   "work": [
     {
       "company": "Algolia",
-      "position": "Senior Software Engineer",
-      "website": "https://algolia.com",
+      "position": "Senior Software Engineer / Tech Lead",
+      "website": "https://www.algolia.com/products/crawler",
       "startDate": "2017-11-06",
-      "summary": "I lead the development of Algolia’s internal Web Crawler, a scalable distributed system built in Node.js."
+      "summary": "I lead the development and maintenance of Algolia’s Custom Crawler, a scalable distributed system built with Node.js and running on Google Kubernetes Engine.",
+      "highlights": [
+        "I helped my team turn a proof of concept into a robust product used by some of Algolia's most prestigious customers.",
+        "I wrote \"The Challenging Migration from Heroku to Google Kubernetes Engine\"."
+      ]
     },
     {
-      "company": "EEMI - École Européenne des Métiers de l'Internet",
-      "position": "JavaScript Programming Teacher",
-      "website": "https://eemi.com",
+      "company": "EEMI / ESGI / Web School Factory",
+      "position": "Teacher",
+      "website": "https://adrienjoly.com/teaching",
       "startDate": "2015-08-01",
-      "summary": "I teach Javascript programming to 4 classes of 1st year students, 1 day per week."
+      "highlights": [
+        "Previously, I taught JavaScript programming to 12 groups of 1st-year students.",
+        "More recently, I've taught back-end programming with Node.js and other courses related to technical leadership and project management."
+      ]
     },
     {
       "company": "Independant Product Developer",
@@ -58,7 +65,7 @@
       "endDate": "2017-11-05",
       "highlights": [
         "Developed a commercial student evaluation software with automatic code grading",
-        "Developed and launched several productivity tools and browser extensions, including \"Next Step for Trello\" (5/5 rating, 10k users)",
+        "Developed and launched several productivity tools and browser extensions, including \"Next Step for Trello\" (5/5 rating, 27k users)",
         "Produced and published several product demo videos on Youtube",
         "Broadcasted a dozen of public live coding sessions on Twitch",
         "Blogged my results, struggles and learnings on Medium.com"
@@ -172,7 +179,7 @@
       "position": "Open Source Lead Developer and Coordinator",
       "website": "https://openwhyd.org",
       "startDate": "2016-08-01",
-      "summary": "I was in charge of migrating the 3-year codebase (formerly known as whyd.com) into an open-source project. Today, I'm contributing to the development of Openwhyd, and coordinating other contributors.",
+      "summary": "After leading the development of the product formerly known as whyd.com during 3 years, I migrated its codebase into an open-source project. Today, I'm contributing to the development of Openwhyd, and coordinating other contributors.",
       "highlights": [
         "Turned ex-startup product into an open-source project",
         "Maintains the service, talks to users, fixes bugs, and coordinates volunteers/contributors",
@@ -227,7 +234,7 @@
       "name": "A Context Management Framework based on Wisdom of Crowds for Social Awareness applications",
       "publisher": "PhD Thesis @ INSA Lyon - Institut National des Sciences Appliquées de Lyon",
       "releaseDate": "2010",
-      "website": "http://theses-search.insa-lyon.fr/notice/view/default%253AUNIMARC%253A170036",
+      "website": "https://www.theses.fr/2010ISAL0081",
       "summary": "At a time when social networking sites revolutionize the usages on the Web 2.0, it has become rich, easy, and fun to share private or professional content. Sharing personal information in real-time (such as news, moods, etc ), supports the maintenance of social ties at a high scale. However, the information overload which emerged from the growing quantity of signals exchanged on these services, often in real-time, motivates a regulation of these signals (called \"mediated interactions\"), in order to reduce the temporal cost for maintaining social networks, and implied interruptions, which have a negative impact on productivity on tasks that require long-lasting attention. In the frame of this thesis, we have developed a filtering and recommendation system that relies on contextual similarity between users that produce and consume social signals, as relevance criteria. In our approach, contextual information is aggregated and interpreted on users' terminal(s), before being submitted on-demand to a server in the form of a set of weighted tags. In this thesis, we present a broad state of the art on context-awareness, social networks and information retrieval, we propose a formalization of our filtering problem, and we implement and evaluate its application for enterprise social networking."
     }
   ],
@@ -236,28 +243,42 @@
       "name": "Full-stack Web Development",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
+        "Node.js",
+        "Express.js",
         "JavaScript",
-        "DOM API",
-        "Vue.js",
-        "Express",
-        "Node.js"
+        "HTML + CSS",
+        "React.js",
+        "Vue.js"
       ]
     },
     {
-      "name": "Continuous integration and automated testing",
+      "name": "Automated Testing & Continuous Integration",
       "level": "Master",
       "keywords": [
-        "Mocha, Cucumber",
+        "Jest",
+        "Ava",
+        "Mocha",
         "Webdriver.io",
-        "Travis CI",
-        "Docker"
+        "Circle CI",
+        "Travis CI"
       ]
     },
     {
-      "name": "Agile project management",
-      "level": "Master"
+      "name": "Developer Operations & Maintenance",
+      "level": "Advanced",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Google Cloud Platform"
+      ]
+    },
+    {
+      "name": "Technical Leadership",
+      "level": "Advanced"
+    },
+    {
+      "name": "Agile Project Management",
+      "level": "Advanced"
     }
   ],
   "languages": [
@@ -274,7 +295,7 @@
     {
       "name": "Plays drums",
       "keywords": [
-        "Harissa (funk)",
+        "Harissa (groove / jazz)",
         "Man Is Not A Bird (post-rock)",
         "Trapped by Stereo (post-hardcore)"
       ]
