@@ -8,8 +8,8 @@
     "resume-cli": "^1.1.2"
   },
   "scripts": {
-    "publish": "./node_modules/.bin/resume publish -t modern",
-    "build": "./node_modules/.bin/resume export index.html -t modernfull"
+    "build": "./node_modules/.bin/resume export index.html -t modernfull",
+    "serve": "npx http-server"
   },
   "author": "adrienjoly",
   "license": "ISC"
