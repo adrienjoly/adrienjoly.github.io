@@ -10,6 +10,27 @@ In it, I share my professional and personal values, what drives me, what makes m
 
 It will probably be useful mostly for my colleagues and collaborators (current and future) to read.
 
+### Quick Bio
+
+I was born and raised in the south of France. I lived in many different places, with and without my family: 2 years in Dakar, Senegal when I was 7, 1 year in the countryside (near Albi), spent most of my middle and high school years on the Corsica island, then 2 years in Aix-en-Provence (where my parents are still based now), 2 years in Lyon, 1 year in Australia, and now I'm based in Montreuil, near Paris. I like to think that these travels made me more open-minded and adaptable to new environments.
+
+I was lucky enough to discover my passions at a very young age: when I was 6, my father got a PC (a 386 with a 16 MHz CPU and 2 MB of RAM) at home and let me play with it, and I started taking drum lessons at the same time. As a kid, I had a few good friends but I was not generally found of hanging out with other kids. I prefered spending time alone (in my bubble) or in very small groups of close friends, tidying up my bedroom to perfection and learning how to make cool stuff on my father's computer.
+
+As a teenager, I was excited about finally being able to leave high school and putting more focus on developing my career in computer science. I had initially planned to quickly get a Bachelor's degree and then start looking for a job as software developer, but ended up studying much longer. I became an engineer, and then got a PhD, just because I though that doing a thesis was the best way for me to innovate and "change the world". Once settled in Paris, I discovered that what I actually wanted was to join a start-up company, and maybe someday start my own.
+
+Today, I share my time between many activities: leading a software development team at Algolia, teaching software in several schools, performing music with my band "Harissa", and developing several side-projects (mostly related to software and/or music) on my own.
+
+### Characteristics
+
+- I love exploring new ideas and turning them into prototypes.
+- I'm good at documenting and maintaining the projects I've worked on, to make sure that they are still operational for their users.
+- More generally, I love to solve problems, learn about how other people work, and share my learnings.
+- I'm obcessed with efficiency and improvement in general. This makes me exigent with others, but also with myself. Playing drums with other people is one of the rare activities that allow me to turn my brain off and let go of my anxieties.
+- As an introvert, I need more alone time than most people to recharge and prepare for interactions with others. I can easily feel uncomfortable when I face an unexpected situation in a social setting.
+- Some people think that I am cold. In reality, I just look very serious when I think, and I think a lot. If I make that face while you're talking to me, it does not mean that I'm mad at you, it means that I'm reflecting on what you're saying.
+- That said, I hate bullshit and wasting people's time (including mine), so I won't beat around the bush if you ask me for feedback or my opinion. If you want to be encouraged rather then advised, make sure that I got your intent clearly!
+- I enjoy sharing good beers and traditional food. I prefer to do it with small groups of friends and acquaintances.
+
 ---
 
 ## from [Leaders need “User Manuals” – and what I learned by writing mine | LinkedIn](https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik/):
