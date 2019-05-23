@@ -4,7 +4,9 @@
 
 ## Personal README
 
-The objective of this page is to introduce myself and share some information that maybe helpful to communicate, collaborate and adjust expectations effectively with me.
+This is not the README of my website. It's rather my own README, as a person!
+
+The objective of this page is to introduce myself and share some information that maybe helpful for us to break the ice, communicate, collaborate and adjust expectations effectively.
 
 In it, I share my professional and personal values, what drives me, what makes me grumpy, and what my workflow is like.
 
@@ -46,6 +48,7 @@ Today, I share my time between many activities: leading a software development t
 - Efficiency & conciseness. Life is too short to beat around the bush! 
 - Honesty. I despise bullshit. And I feel hurt when people that I trust lie to me or hide stuff from me.
 - Growth mindset. Nobody's perfect. The important thing to accept it and don't waste opportunities to improve.
+- Tracability. I used to work remotely, so I really appreciate it when my team-mates keep a written trace of decisions that may have been taken in my absence.
 
 ### What I think are my strengths
 
@@ -92,6 +95,10 @@ Great question! Unfortunately, it may be tricky to find out, at times... Especia
 - Travel in Asian by train.
 - Maybe someday: create my own company.
 
+### How to communicate with me
+
+I like it when people start by giving a quick summary of what they want to talk about, or to ask me. And then, if the time is right, we progressively get deeper into the topic, from a high-level overview (i.e. context, architecture, interfaces...) to details (i.e. constraints, ideas, implementation).
+
 ### Preferred Communication Method
 
 Email! I know that most people don't like email. The fact that email is an asynchronous communication medium gives me more flexibility and time to reply. I find Slack and synchronous communication too intrusive in most cases, because it can interrupt me when I'm focused.
@@ -100,38 +107,18 @@ For that reason, I disable all notifications, including for SMS!
 ### Working Hours
 
 I am usually operational at my desk between 10am and 6pm everyday. When it's possible, I like to take my lunch break at 12pm.
-I avoid working after-hours.
+I avoid working after-hours. If you send me a Slack message on Sunday, I may have a quick look (just in case of emergency) but will probably reply when the week-end is over.
 
----
+### What my average week looks like
 
-## from [Leaders need “User Manuals” – and what I learned by writing mine | LinkedIn](https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik/):
-
-- My style (e.g. I’m determined to prevent my attention from being hijacked by technology)
-- What I value (e.g. I’m obsessed with efficiency, I expect my teammates to...)
-- What I don’t have patience for (e.g. I am turned off by entitlement, boredom and taking things for granted)
-- How best to communicate with me (e.g. Start with the headlines. I prefer bullet points to prose)
-- How to help me (e.g. I appreciate help making sure the details are covered)
-- What people misunderstand about me (e.g. I am an introvert, posing as a professional extrovert, I speak with conviction but I'm open-minded)
-
-## from [12 “Manager READMEs” from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe):
-
-- What is this? —Let’s face it, this is a weird document. Give context on what this is and how to interpret it: to supplement getting to know each other.
-- About Me / My Job — What are some common things people might like to know about you.
-- Personal Principles / Values — What are your default assumptions about people and their intentions? What mindsets do you have and which do you hope other people adopt when working together on the team? What things trigger you?
-- One-on-Ones — What style of 1:1s do you want out of your team? Most above follow the weekly/bi-weekly, 30 min cadence, and the employee controls the agenda.
-- Feedback (how to give & how you give) — What type of feedback do you want? Are you comfortable with people being blunt with you? How do you prefer to give feedback? How do you expect your team to react to feedback?
-- “Our average week” covers what a typical working week with Michael is like, and how to engage him in it.
-- He might chat you on weekends. Feel free to read it Monday.
-- Explicitly stating how he can help you (and how you can help him do his job).
-- Something to chat about.
-- Personal quirks (specifically the ones he doesn’t like about himself!)
-- Expected response times by communication channel (helpful especially for remote teams).
-- His personal goal
-- What does an ideal team player look like on his team?
-- It’s on github! Super cool.
-- References to further reading on his management influences!
+- On Monday, I'm teaching to my students.
+- On Tuesday, I catch-up with my team, reply to support tickets, review Pull Requests, and remove a roadblock or two. (e.g. flaky tests)
+- On Wednesday, I take a step back to retrospect, think about what I should do next to support my team, and plan my tasks for the coming days.
+- On Thursday and Friday, I like to focus on developing features and fixes.
 
 ### References
 
+- [Leaders need “User Manuals” – and what I learned by writing mine | LinkedIn](https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik/)
 - [How to Set Expectations With Your Team | SoapBox](https://soapboxhq.com/blog/modern-manager-community/how-to-set-expectations-with-your-team)
+- [12 “Manager READMEs” from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 - [AlexC's Q&A](https://docs.google.com/document/d/1y_MOkVlnbg1zxuG1UKZcLVn8pXDgj2eddIeUroO7o_U/edit#heading=h.kv21o4z84ud6) (private)
