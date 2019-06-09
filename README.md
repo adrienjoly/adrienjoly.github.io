@@ -1,6 +1,6 @@
 # Adrien Joly 
 
-ℹ️ [This repository](https://github.com/adrienjoly/adrienjoly.github.com/settings) contains the source code of my personal website: [adrienjoly.com](https://adrienjoly.com).
+ℹ️ [This repository](https://github.com/adrienjoly/adrienjoly.github.com) contains the source code of my personal website: [adrienjoly.com](https://adrienjoly.com).
 
 ## Personal README
 
