@@ -123,4 +123,3 @@ I avoid working after-hours. If you send me a Slack message on Sunday, I may hav
 - [Leaders need “User Manuals” – and what I learned by writing mine | LinkedIn](https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik/)
 - [How to Set Expectations With Your Team | SoapBox](https://soapboxhq.com/blog/modern-manager-community/how-to-set-expectations-with-your-team)
 - [12 “Manager READMEs” from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
-- [AlexC's Q&A](https://docs.google.com/document/d/1y_MOkVlnbg1zxuG1UKZcLVn8pXDgj2eddIeUroO7o_U/edit#heading=h.kv21o4z84ud6) (private)
