@@ -56,7 +56,7 @@ Today, I share my time between many activities: leading a software development t
 - Leadership. I am learning to tap into my team-mate's strengths and ideas, rather than imposing my own plan.
 - Emotional Intelligence. Dealing with people's emotions (and my own) has not been easy for me.
 - Conflict management. I can feel uncomfortable when conflicts happen. It's important to stay calm and contribute to resolving situations.
-- Marketing and communication. I would love to become better at creating enthusiasm when I communicate about achievements, projects and ideas.
+- Marketing and communication. I would love to become better at creating enthusiasm and engagement when I communicate about achievements, projects and ideas.
 
 ### What makes me uncomfortable
 
