@@ -12,7 +12,7 @@ I’m home in Montreuil, Paris area, France. (*Note: currently looking for a big
 
 - 💼 Developing Algolia's [Site-Search Crawler](https://www.algolia.com/solutions/site-search) and maintaining it in production for our customers. <br/> I have been the Tech Lead of that project since January 2019. Read the story I wrote about [our migration to Kubernetes](https://blog.algolia.com/challenging-migration-heroku-google-kubernetes-engine/).
 
-- ✨ Learning about clean code / software craft practices, by learning from experienced crafters and practicing TDD (Test Driven Development) and pair programming. This article gives a good introduction to that topic: [How to Write a Good Piece of Code](https://dev.to/taillogs/how-to-write-a-good-piece-of-code-2gmj).
+- ✨ Learning about clean code from experienced software crafters, and practicing TDD (Test Driven Development) and pair programming. This article gives a good introduction to that topic: [How to Write a Good Piece of Code](https://dev.to/taillogs/how-to-write-a-good-piece-of-code-2gmj).
   
 - 🎓 [Teaching](/teaching) back-end programming with Node.js, tech leadership and how to collaborate on collaborative projects (including open source) using `git`.
   
@@ -20,7 +20,7 @@ I’m home in Montreuil, Paris area, France. (*Note: currently looking for a big
   
 - ⛑ Making sure that [openwhyd.org](https://openwhyd.org) ([open-source](https://github.com/openwhyd) music curation platform) keeps working as expected, and promoting it to developers through [Hackergarten](https://www.meetup.com/fr-FR/Paris-Hackergarten) and [ProgrammableWeb](https://www.programmableweb.com/api/openwhyd-user). We are open to [contributions](https://openwhyd.org/contribute) and/or [donations](https://openwhyd.org/donate).
 
-- 🛠 When I have some energy left, I develop, ship and maintain [side projects](/prod). <br/> Also, I'm exploring the [idea](https://hackmd.io/nszFj8pcTAynVP04-GUePw) of performing 8-bit music from the Nintendo/NES era (a.k.a. chiptune videogame music) live.
+- 🛠 I also love developing [side projects](/prod). As explained in "[Make Game Boy music in JavaScript](https://www.youtube.com/watch?v=xsKB5bRKZ4Y&t=621s)" (10-minute video), I'm developing an [educational concert about chiptune music](https://hackmd.io/nszFj8pcTAynVP04-GUePw) during which musicians would perform 8-bit music from the Nintendo/NES era, live, using MIDI instruments plugged to a synthesizer. Please contact me if you know any musicians who may like to collaborate!
 
 > Last update was July 2nd, 2019. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
