@@ -13,7 +13,7 @@ Info and links:
 
 - Video recording of my talk of June 2019: [Make Game Boy music in JavaScript](https://www.youtube.com/watch?v=xsKB5bRKZ4Y&t=621s)" (10 minutes)
 
-- Join our Facebook group to receive updates and chat with us: [The Chips Project](https://www.facebook.com/groups/386598511973374) 🤗
+- Join our Facebook group to receive updates and chat with us: [The Chips Project](https://www.facebook.com/groups/thechips) 🤗
 
 - Please [contact me](mailto:contact@adrienjoly.com) if you know any musician who may like to participate to this project!
 
