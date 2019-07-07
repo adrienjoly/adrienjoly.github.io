@@ -14,14 +14,16 @@ I’m home in Montreuil, Paris area, France. (*Note: currently looking for a big
 
 - ✨ Learning about clean code from experienced software crafters, and practicing TDD (Test Driven Development) and pair programming. This article gives a good introduction to that topic: [How to Write a Good Piece of Code](https://dev.to/taillogs/how-to-write-a-good-piece-of-code-2gmj).
   
-- 🎓 [Teaching](/teaching) back-end programming with Node.js, tech leadership and how to collaborate on collaborative projects (including open source) using `git`.
+- 🎓 [Teaching](/teaching) back-end programming with Node.js in several schools in Paris.
   
 - 🌶 Always happy to accept concert opportunities for my band "[Harissa](https://www.facebook.com/harissaquartet)", now that our first EP "[Karabana](https://cabaneariff.com/harissa-karabana)" is available publicly on all music platforms (e.g. on Spotify). Please let me know if you think of someone who would enjoy to have us perform for them! 🤗
   
 - ⛑ Making sure that [openwhyd.org](https://openwhyd.org) ([open-source](https://github.com/openwhyd) music curation platform) keeps working as expected, and promoting it to developers through [Hackergarten](https://www.meetup.com/fr-FR/Paris-Hackergarten) and [ProgrammableWeb](https://www.programmableweb.com/api/openwhyd-user). We are open to [contributions](https://openwhyd.org/contribute) and/or [donations](https://openwhyd.org/donate).
 
-- 🛠 I also love developing [side projects](/prod). As explained in "[Make Game Boy music in JavaScript](https://www.youtube.com/watch?v=xsKB5bRKZ4Y&t=621s)" (10-minute video), I'm developing an [educational concert about chiptune music](https://hackmd.io/nszFj8pcTAynVP04-GUePw) during which musicians would perform 8-bit music from the Nintendo/NES era, live, using MIDI instruments plugged to a synthesizer. Please contact me if you know any musicians who may like to collaborate!
+- 🛠 I also love developing [side projects](/prod).
 
-> Last update was July 2nd, 2019. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+- 👾 As explained in "[Make Game Boy music in JavaScript](https://www.youtube.com/watch?v=xsKB5bRKZ4Y&t=621s)" (10-minute video), I'm developing an [educational concert about chiptune music](/chips) during which musicians would perform 8-bit music from the Nintendo/NES era, live, using MIDI instruments plugged to a synthesizer. Please contact me if you know any musicians who may like to collaborate!
+
+> Last update was July 7nd, 2019. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
