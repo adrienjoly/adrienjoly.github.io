@@ -2,13 +2,9 @@
 title: Ideas
 ---
 
-<!-- generated using wunderlist-to-md.js, from https://github.com/adrienjoly/ideas -->
-
-<link rel="stylesheet" href="tweet-btn.css">
-<style>
-  .hashtag{ color: #0366d6 }
-  .vote-button{ display:inline-block; opacity:0.5; }
-</style>
+> Ideas are worthless; only execution matter! => Feel free to *steal* any of my ideas!
+> 
+> Check out my practical tips and references on how to bring an idea to execution, and create a successful startup: [Startup Noob Guide](http://bit.ly/startupnoob).
 
 ## Concepts I'd like to prototype
 
@@ -22,11 +18,23 @@ title: Ideas
 
 Please contact me if you're working on any of these topics, or if you would like to discuss!
 
+## Recent ideas
+
+- A mobile (web) app to quickly take notes and update tasks in any card of my personal Trello board.
+  - Potential technical enabler: [open source markdown viewer and editor](https://hashnode.com/post/i-created-an-open-source-online-markdown-viewer-and-editor-cjxnae7td002yt6s1p88x9ssn)
+
+- A service to help me keep a history of the people I know, and make them sercheable from my inbox, by sending me a daily email listing what contacts I added or updated in my Google Contacts that day.
+  - Potential technical enabler: [REST Resource: people | People API | Google Developers](https://developers.google.com/people/api/rest/v1/people)
+
 ## Older ideas
 
-Ideas are worthless; only execution matter! => Feel free to *steal* any of them from me!
+<!-- generated using wunderlist-to-md.js, from https://github.com/adrienjoly/ideas -->
 
-> Check out my practical tips and references on how to bring an idea to execution, and create a successful startup: [Startup Noob Guide](http://bit.ly/startupnoob).
+<link rel="stylesheet" href="tweet-btn.css">
+<style>
+  .hashtag{ color: #0366d6 }
+  .vote-button{ display:inline-block; opacity:0.5; }
+</style>
 
 - Script to automatically backup book/reading highlights from <a href="https://app.blinkist.com/en/highlights/">app.blinkist.com</a> to google drive 
   <div id="2159980202" class="vote-button">
