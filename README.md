@@ -18,9 +18,9 @@ I was born and raised in the south of France. I lived in many different places, 
 
 I was lucky enough to discover my passions at a very young age: when I was 6, my father got a PC (a 386 with a 16 MHz CPU and 2 MB of RAM) at home and let me play with it, and I started taking drum lessons at the same time. As a child, I enjoyed spending time alone (in my bubble) or in very small groups of close friends, tidying up my bedroom to perfection and learning how to make cool stuff on my father's computer.
 
-As a teenager, I was excited about finally being able to leave high school and putting more focus on developing my career in computer science. I had initially planned to quickly get a Bachelor's degree and then start looking for a job as software developer, but ended up studying much longer. I became an engineer, and then got a PhD, just because I though that doing a thesis was the best way for me to innovate and "change the world". Once settled in Paris, I discovered that what I actually wanted was to join a start-up company, and maybe someday start my own.
+As a teenager, I was excited about finally being able to leave high school and putting more focus on developing my career in computer science. I had initially planned to quickly get a Bachelor's degree and then start looking for a job as a software developer, but ended up studying much longer. I became an engineer, and then got a PhD, just because I believed that doing a thesis was the best way for me to innovate and "change the world". Once settled in Paris, I discovered that what I actually wanted was to join a start-up company, and maybe someday start my own.
 
-Today, I share my time between many activities: leading a software development team at Algolia, teaching software in several schools, performing music with my band "Harissa", and developing several side-projects (mostly related to software and/or music) on my own.
+Today, I share my time between many activities: leading a software development team at Algolia, teaching software engineering in several schools, performing music with my band "Harissa", and developing several side-projects (mostly related to software and/or music) on my own.
 
 ### Random facts
 
@@ -28,7 +28,7 @@ Today, I share my time between many activities: leading a software development t
 - Some people think that I am cold. In reality, I just look very serious when I think, and I tend to think a lot. If I look cold while you're talking to me, it does not mean that I'm mad at you or that I don't care. It means that I'm actually listening and reflecting on what you're saying.
 - As an introvert, I need more alone time than most people to recharge and prepare for interactions with others. Indeed, I can easily feel uncomfortable when I face an unexpected situation in a social setting.
 - In conferences and meetups, I prefer giving a talk than attending one. Probably because it feels less awkward for me to know that, if people come talk to me, there's a higher chance that we discuss the topic I was presenting, rather than small talk.
-- My Bryers Miggs personality types is one of the rarest: INTJ. I like to think of it as a poisonous gift.
+- My Bryers Miggs personality types is one of the rarest: INTJ. I like to think of it as a cursed gift.
 
 ### What are my favorite things to work on
 
@@ -42,14 +42,14 @@ Today, I share my time between many activities: leading a software development t
 
 - Efficiency & conciseness. Life is too short to beat around the bush! 
 - Honesty. I despise bullshit. And I feel hurt when people that I trust lie to me or hide stuff from me.
-- Growth mindset. Nobody's perfect. The important thing to accept it and don't waste opportunities to improve.
-- Tracability. I used to work remotely, so I really appreciate it when my team-mates keep a written trace of notes and decisions that may have been taken in my absence.
+- Growth mindset. Nobody's ever perfect. The important thing to accept it and don't overlook opportunities to improve.
+- Traceability. I used to work remotely, so I really appreciate it when my team-mates keep a written trace of notes and decisions that may have been taken in my absence.
 
 ### What I think are my strengths
 
-- Accountability. If I say that I'm going do something, I will deliver. I hate to lie, disappoint, and I'm not afraid to be transparent.
-- Resourcefulness. I'm good at detecting improvement opportunities and coming up with creative solutions.
-- Pedagogy. I love to help people understand stuff.
+- Accountability. If I say that I'm going to do something, I will deliver. I hate to lie, to disappoint, and I'm not afraid to be transparent.
+- Resourcefulness. I believe I'm good at detecting improvement opportunities and coming up with creative solutions.
+- Pedagogy. I love to help people understand stuff, and the process of documenting and vulgarizing.
 
 ### Things I'm working to improve
 
@@ -63,14 +63,14 @@ Today, I share my time between many activities: leading a software development t
 - Environments that are noisy and/or crowded.
 - When I'm not sure if people that I don't know much are being sarcastic or not.
 - When I don't recognize people who clearly recognize me. It can take me some time to recognize faces of people I haven't seen in a long time. I really appreciate it when people go ahead and give me hints to help me recognize them: what they do, where we've met, who we know in common, what we've talked about.
-- Also, while I did help solving a few, I feel uncomfortable in front of conflicts between people. My fear of uncertainty, tension and immobilism can be enough to make me overcome that discomfort, though.
+- Also, while I did help solve a few of them, I feel uncomfortable in front of conflicts between people. My fear of uncertainty, tension and immobilism can be enough to make me overcome that discomfort, though.
 
 ### What makes me grumpy
 
 - Witnessing Injustice. When people are not acting in a fair way.
 - When people show disrespect towards me or anyone else.
 - Doing chores or things that don't scale.
-- Lack of order and consistency, especially when I have to get my hands dirty. (e.g. in a codebase that I find hard to understand)
+- Lack of order and consistency, especially when I have to get my hands dirty. (e.g. contribute to a codebase that I find hard to understand)
 
 ### How to know when I'm (really) grumpy
 
@@ -93,7 +93,7 @@ Great question! Unfortunately, it may be tricky to find out, at times... Especia
 
 ### Things I’d love to do in the future
 
-- Fly in a modern fighter aircraft, like the Rafale.
+- Fly in a fighter aircraft, like the Rafale.
 - Travel in Asia by train.
 - Maybe someday: create my own company.
 
