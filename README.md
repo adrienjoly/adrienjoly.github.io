@@ -32,8 +32,8 @@ Today, I share my time between many activities: leading a software development t
 
 ### What are my favorite things to work on
 
-- Coding. Shipping code that works.
-- Refactoring, to make code easier to read / troubleshoot / reason about.
+- Coding. Ship code that works.
+- Refactoring. Make code more reliable, sustainable and easier to read / troubleshoot / reason about.
 - Writing automated tests, both to document what the code is supposed to do and to detect regressions that may appear when updating it.
 - Writing course material and exercises for my students, so they can learn effectively, identify their shortcomings and overcome them.
 - Retrospect and discuss improvements.
