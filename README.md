@@ -67,7 +67,7 @@ Today, I share my time between many activities: leading a software development t
 
 ### What makes me grumpy
 
-- Witnessing Injustice. When people are not acting in a fair way.
+- Witnessing injustice and incivilities. When people are not acting in a fair way.
 - When people show disrespect towards me or anyone else.
 - Doing chores or things that don't scale.
 - Lack of order and consistency, especially when I have to get my hands dirty. (e.g. contribute to a codebase that I find hard to understand)
