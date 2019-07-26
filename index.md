@@ -6,10 +6,10 @@ Hi!
 
 My name is Adrien. I'm a French guy who currently lives in Montreuil, Paris area, France.
 
-As a software engineer, I **develop full-stack web products**: notably a [crawler for Algolia](https://www.algolia.com/solutions/site-search). I've also maintained several [side projects](/prod), mostly free to use and/or open source ([on GitHub](https://github.com/adrienjoly/)), including:
+As a software engineer, I **develop full-stack web products**: notably [Algolia's Custom Crawler](https://www.algolia.com/products/crawler/). I've also maintained several [side projects](/prod), mostly free to use and/or open source ([on GitHub](https://github.com/adrienjoly/)), including:
 - [Next Step for Trello](https://adrienjoly.com/chrome-next-step-for-trello), a Chrome extension I wrote to progress more efficiently on my projects;
 - [Startup Tour](https://www.udemy.com/startuptour/?couponCode=AJNOW20), a French MOOC co-authored with David Wise on how to create a Lean Startup company, from 0 to 1;
-- and [Openwhyd](https://github.com/openwhyd/openwhyd), a social music discovery platform that I developed in my ex-startup and open-sourced in 2016.
+- and [Openwhyd](https://openwhyd.org), a social music discovery platform that I developed in my ex-startup and open-sourced in 2016.
 
 I enjoy **sharing what I learn**: by [teaching](/teaching), giving [talks](/talks), writing [articles](/posts) and by replying to [questions on Quora](https://www.quora.com/profile/Adrien-Joly), occasionally. In the past, I organized [Angelhack](http://www.hackathon.io/angelhack18) and [fHACKtory](https://www.maddyness.com/?s=fhacktory) hackathons, in Paris and Lyon.
 
@@ -20,6 +20,7 @@ I also love **playing drums** with my band [Harissa](https://www.facebook.com/ha
 If you want to know more, you can:
 - check out what I'm doing [now](/now),
 - listen to [my musical discoveries](https://openwhyd.org/adrien) on Openwhyd,
+- read [my personal README](https://github.com/adrienjoly/adrienjoly.github.com/blob/master/README.md),
 - connect with me on [LinkedIn](https://www.linkedin.com/in/adrienjoly/),
 - and follow my updates on twitter: [@adrienjoly](http://twitter.com/adrienjoly).
 
