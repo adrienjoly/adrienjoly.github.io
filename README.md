@@ -113,10 +113,9 @@ I avoid working after-hours. If you send me a Slack message on Sunday, I may hav
 
 ### What my average week looks like
 
-- On Monday, I'm teaching to my students.
-- On Tuesday, I catch-up with my team, reply to support tickets, review Pull Requests, and remove a roadblock or two from our codebase. (e.g. flaky tests)
-- On Wednesday, I take a step back and retrospect, to think about what I should do next to support my team, and plan my tasks for the coming days.
-- On Thursday and Friday, I like to focus on developing features and fixes.
+- On Monday, I catch-up with the team, and remove roadblocks from our codebase. (e.g. flaky tests)
+- On Tuesday, I mostly review Pull Requests and reply to support tickets. When I can, I take a step back and retrospect, to think about what I achieved the previous week, what I should do next to support my team, and to plan my tasks for the coming days.
+- On Wednesday, Thursday and Friday, I like to focus on developing features and fixes.
 
 ### References
 
