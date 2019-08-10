@@ -6,6 +6,13 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
+- title: De Dev à Lead Dev à Tech Lead
+  date: 2019-08-08
+  event: Comment passer de Dev à Lead Dev - Meetup TheWarmUp.io
+  address: Kø Working, 62 rue Amelot, 75011 Paris
+  permalink: https://www.meetup.com/fr-FR/talks-formations-pour-freelances-startups-tech-by-thewarmup/events/263449869/
+  slides: https://docs.google.com/presentation/d/1yrca1gFkdeVkxnAhX36zA2kKE1ASvDdlJ8v6L9A5SJY/edit?usp=sharing
+
 - title: The Challenging Migration From Heroku to Google Kubernetes Engine
   date: 2019-03-27
   event: Paris.js meetup @ Toucan Toco
