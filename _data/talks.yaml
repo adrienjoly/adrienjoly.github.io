@@ -12,6 +12,16 @@
   address: Kø Working, 62 rue Amelot, 75011 Paris
   permalink: https://www.meetup.com/fr-FR/talks-formations-pour-freelances-startups-tech-by-thewarmup/events/263449869/
   slides: https://docs.google.com/presentation/d/1yrca1gFkdeVkxnAhX36zA2kKE1ASvDdlJ8v6L9A5SJY/edit?usp=sharing
+  url: https://www.meetup.com/fr-FR/talks-formations-pour-freelances-startups-tech-by-thewarmup/events/263449869/
+
+- title: Musique de Game Boy, comment ça marche ?
+  date: 2019-07-07
+  event: Sonic Makers Camp
+  address: Urban Boat, Darse du Millénaire, 20 Quai du Lot, 75019 Paris
+  desc_fr: Découvrons ensemble et au travers de nombreux exemples (enregistrés et live) ce qui rend la musique “chip tune / 8-bit” si reconnaissable, quelles sont les contraintes techniques de la puce audio des consoles vintage “Game Boy” et “NES” (Nintendo Entertainment System), et comment les musiciens et programmeurs les plus ingénieux ont réussi à composer des musiques qui dépassent ces contraintes.
+  permalink: https://hackmd.io/OzgqYYiQRweCB6MLpSyJxA?view
+  slides: https://hackmd.io/@adrienjoly/SJfLkHy-B
+  url: http://sonicmakerscamp.org
 
 - title: The Challenging Migration From Heroku to Google Kubernetes Engine
   date: 2019-03-27
