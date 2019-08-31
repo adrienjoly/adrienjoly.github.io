@@ -20,6 +20,8 @@ Please contact me if you're working on any of these topics, or if you would like
 
 ## Recent ideas
 
+- A good todo-list app ✅📲 (similar to [Swipes Personal](https://softwarerecs.stackexchange.com/questions/56985/alternative-to-swipesapp-swipes-personal)) for web and mobile that would be subscription-based if you want sync to work out of the box, and free to use if you setup your own back-end.
+
 - A mobile (web) app to quickly take notes and update tasks in any card of my personal Trello board.
   - Potential technical enabler: [open source markdown viewer and editor](https://hashnode.com/post/i-created-an-open-source-online-markdown-viewer-and-editor-cjxnae7td002yt6s1p88x9ssn)
 
