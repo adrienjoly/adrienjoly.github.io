@@ -26,7 +26,7 @@ Please contact me if you're working on any of these topics, or if you would like
   - Potential technical enabler: [open source markdown viewer and editor](https://hashnode.com/post/i-created-an-open-source-online-markdown-viewer-and-editor-cjxnae7td002yt6s1p88x9ssn)
 
 - A service to help me keep a history of the people I know, and make them sercheable from my inbox, by sending me a daily email listing what contacts I added or updated in my Google Contacts that day.
-  - Potential technical enabler: [REST Resource: people | People API | Google Developers](https://developers.google.com/people/api/rest/v1/people)
+  - Potential technical enabler: [People API - Google Developers](https://developers.google.com/people/api/rest/v1/people)
 
 ## Older ideas
 
