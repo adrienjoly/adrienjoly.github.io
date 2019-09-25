@@ -6,6 +6,14 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
+- title: Craft clean code with TDD and Mob Programming
+  date: 2019-09-19
+  event: Algolia Show & Tell (internal event)
+  address: Algolia, 55 rue d'Amsterdam, 75008 Paris
+  desc_en: An introduction to funny-looking (or at least misunderstood) methodologies that "Software Craft(wo)men" use to write sustainable code, e.g. 5 people working on the same computer. Discover different ways to develop software, learn and align team-members.
+  slides: https://docs.google.com/presentation/d/1ttQ4I-IpTzKcrCZuN7_FO3-307Sc4TylDLFkBiTimus/edit?usp=sharing
+  url: https://docs.google.com/presentation/d/1ttQ4I-IpTzKcrCZuN7_FO3-307Sc4TylDLFkBiTimus/edit?usp=sharing
+
 - title: De Dev à Lead Dev à Tech Lead
   date: 2019-08-08
   event: Comment passer de Dev à Lead Dev - Meetup TheWarmUp.io
