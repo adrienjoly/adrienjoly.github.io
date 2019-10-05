@@ -10,7 +10,7 @@ description: What I’m doing now
 
 I’m home in Montreuil, Paris area, France.
 
-- 🚚 I'm about to move to a new flat in Montreuil, so Camille and I are spending some time giving visits of our current flat, and filling paperwork.
+- 🚚 Camille and I are about to move to our new flat in Montreuil!
 
 - 💼 Developing [Algolia's Custom Crawler](https://www.algolia.com/solutions/crawler/) and maintaining it in production for our customers. <br/> I have been the Tech Lead of that project since January 2019. Read the story I wrote about [our migration to Kubernetes](https://blog.algolia.com/challenging-migration-heroku-google-kubernetes-engine/).
 
@@ -22,10 +22,8 @@ I’m home in Montreuil, Paris area, France.
   
 - ⛑ Making sure that [openwhyd.org](https://openwhyd.org) ([open-source](https://github.com/openwhyd) music curation platform) keeps working as expected, and promoting it to developers through [Hackergarten](https://www.meetup.com/fr-FR/Paris-Hackergarten) and [ProgrammableWeb](https://www.programmableweb.com/api/openwhyd-user). We are open to [contributions](https://openwhyd.org/contribute) and/or [donations](https://openwhyd.org/donate).
 
-- 🛠 I also love developing [other side projects](/prod).
+- 🎲 Between the development of my [side projects](/prod), I'm having a lot of fun trying out immersive experiences with my new Oculus Quest virtual reality headset!
 
-- 👾 As explained in "[Make Game Boy music in JavaScript](https://www.youtube.com/watch?v=xsKB5bRKZ4Y&t=621s)" (10-minute video), I'm developing an [educational concert about chiptune music](/chips) during which musicians would perform 8-bit music from the Nintendo/NES era, live, using MIDI instruments plugged to a synthesizer. Please contact me if you know any musicians who may like to collaborate!
-
-> Last update was July 26th, 2019. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was October 5th, 2019. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.

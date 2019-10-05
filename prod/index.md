@@ -9,9 +9,11 @@ description: Products I crafted and shipped with ♥️ love
 
 ## Recent side projects
 
-- 🎮 <a href="https://github.com/adrienjoly/webmidi-launchkey-mini">chiptune synth</a>, exploring the use of WebMidi and WebAudio to perform "chiptune" music (inspired by vintage game consoles like Nintendo Entertainment System) live, using MIDI instruments.
+- 🤖 [Scribe bot](https://github.com/adrienjoly/telegram-scribe-bot), a virtual assistant which allows me to quickly take some notes, save ToDos and/or bookmarks through Telegram.
 
-- 💿 <a href="https://github.com/adrienjoly/album-shelf">album-shelf</a>, an living web page on which I maintain a collection of my favorite music albums. Made with Jekyll and Github pages.
+- 👾 [chiptune synth](https://github.com/adrienjoly/webmidi-launchkey-mini), exploring the use of WebMidi and WebAudio to perform "chiptune" music (inspired by vintage game consoles like Nintendo Entertainment System) live, using MIDI instruments. As explained in "[Make Game Boy music in JavaScript](https://www.youtube.com/watch?v=xsKB5bRKZ4Y&t=621s)" (10-minute video), I'm thinking of using this to give an [educational concert about chiptune music](/chips). Please contact me if you know any musicians who may like to collaborate!
+
+- 💿 [album-shelf](https://github.com/adrienjoly/album-shelf), an living web page on which I maintain a collection of my favorite music albums. Made with Jekyll and Github pages.
 
 ## Products I've been maintaining for a while
 
@@ -55,6 +57,6 @@ Here is a list of what I shipped:
 {% endif %}
 {% endfor %}
 
-> Last update was August 18th, 2018. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/prod)
+> Last update was October 5th, 2019. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/prod)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
