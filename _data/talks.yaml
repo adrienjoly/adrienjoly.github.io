@@ -6,6 +6,15 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
+- title: SoCraTes France 2019, an (un)conference with Software Crafters
+  date: 2019-10-24
+  event: Algolia Show & Tell (internal event)
+  address: Algolia, 55 rue d'Amsterdam, 75008 Paris
+  desc_en: |
+    "Quick recap of my discovery and participation to the “SoCraTes France 2019” (un)conference (https://socrates-fr.github.io), and why I preferred it to all conference I've been to until then."
+  slides: https://drive.google.com/open?id=1MQTBAKmUjPtSdxS61KQUcCfAZRbLVb6PYvjJ4HlojvE
+  url: https://drive.google.com/open?id=1MQTBAKmUjPtSdxS61KQUcCfAZRbLVb6PYvjJ4HlojvE
+
 - title: Craft clean code with TDD and Mob Programming
   date: 2019-09-19
   event: Algolia Show & Tell (internal event)
