@@ -13,7 +13,8 @@
   desc_en: |
     "Quick recap of my discovery and participation to the “SoCraTes France 2019” (un)conference (https://socrates-fr.github.io), and why I preferred it to all conference I've been to until then."
   slides: https://drive.google.com/open?id=1MQTBAKmUjPtSdxS61KQUcCfAZRbLVb6PYvjJ4HlojvE
-  url: https://drive.google.com/open?id=1MQTBAKmUjPtSdxS61KQUcCfAZRbLVb6PYvjJ4HlojvE
+  video: https://youtu.be/wTjywTNB3S0
+  url: https://youtu.be/wTjywTNB3S0
 
 - title: Craft clean code with TDD and Mob Programming
   date: 2019-09-19
