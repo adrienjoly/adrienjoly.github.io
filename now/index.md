@@ -10,7 +10,7 @@ description: What I’m doing now
 
 I’m home in Montreuil, Paris area, France.
 
-- 🚚 Camille and I are about to move to our new flat in Montreuil!
+- 🚚 Camille and I recently moved to our new flat in Montreuil!
 
 - 💼 Developing [Algolia's Custom Crawler](https://www.algolia.com/solutions/crawler/) and maintaining it in production for our customers. <br/> I have been the Tech Lead of that project since January 2019. Read the story I wrote about [our migration to Kubernetes](https://blog.algolia.com/challenging-migration-heroku-google-kubernetes-engine/).
 
@@ -24,6 +24,6 @@ I’m home in Montreuil, Paris area, France.
 
 - 🎲 Between the development of my [side projects](/prod), I'm having a lot of fun trying out immersive experiences with my new Oculus Quest virtual reality headset!
 
-> Last update was October 5th, 2019. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was November 10th, 2019. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
