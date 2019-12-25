@@ -16,6 +16,6 @@
     "node-fetch": "2.1.2"
   },
   "devDependencies": {
-    "jest": "23.0.0"
+    "jest": "^25.0.0"
   }
 }
