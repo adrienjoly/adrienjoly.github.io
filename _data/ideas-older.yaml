@@ -1,196 +1,213 @@
 # Older ideas
 
-- idea: Script to automatically backup book/reading highlights from [app.blinkist.com](https://app.blinkist.com/en/highlights/) to google drive
-- idea: a Google-Inbox-inspired task management UI (with bundles and snooze) that also allows re-ordering tasks
-  tags: productivity
-- idea: Canned replies for any app (virtual keyboard + screen scraping, alternative to chatbots)
-  tags: app
-- idea: 'ProjectFarm: a dashboard that displays analytics (and other usage & interest feedback) of 12 projects on 1 screen'
-- idea: 'AlbumKeeper: a personal list of favorite music albums that can play from various streaming platforms. and a bookmarklet/extension for quickly adding an album found on the web.'
-  tags: music
-- idea: 'Whozzup: Share your availability status and propose fun plans to local friends, in order to meet up quickly!'
-  tags: comm
-- idea: A programming language/framework that allows overriding sub-components declaratively, like in CSS
-- idea: a CLI to share side-project ideas and be matched with other ideas to collaborate on
-  tags: WIP
-- idea: 'Tasks2agenda: a productivity app that "fills" remaining work timeslots of my calendar with tasks from my todolist, according to my objectives/rules and deadlines. so that I always know what I have to do, when.'
-  tags: productivity
-- idea: possibility to answer "can I finish report (2 hrs, for xxx) for Wednesday?", because it knows my planning, my time budget per project (big picture) and extras availabilities 
-  tags: productivity
-- idea: a Firebase/Parse wrapper that would implement Meteor reactive collections's API, without having to use Meteor as backend
-  tags: dev
-- idea: Collaborative Q&A notepad => chatbot that asks one question at a time?
-  tags: comm
-- idea: '"Freelance Directory": A chatbot or web ui in which freelancers can toggle technologies for which then would like to receive missions, and share missions to relevant colleagues depending on underlying technologies'
-  tags: WIP
-- idea: a search engine that allows users to explain the structure of the results they expect, like in GraphQL
-  tags: info
-- idea: A bookmarklet to grab inspiring quotes from any website + a mobile app that pushes one of those quotes every morning
-  tags: motivation
-- idea: A replacement to Facebook/Twitter's feed that displays interesting activities to undertake, instead of passive consumption of friends'  updates
-  tags: productivity
-- idea: '"Reason for call": Add "subject" to phone calls, like for email. => tells concisely to the callee why I''d like to talk to him, so that he can decide to take the call or not'
-  tags: comm
-- idea: Telegram-based task management bot
-  tags: productivity
-- idea: A way to explore my Wunderlist ToDo-lists from Apple TV 3, and play Youtube URLs from it.
-  tags: tv
-- idea: an IDE that proposes javascript snippets when I type "// want HTTP request with 3 retries" (or similar queries)
-  tags: dev
-- idea: '"Vinder": A Tinder-like dating app for vegetarian and vegan people.'
-  tags: app
-- idea: script qui m'annonce mes taches wunderlist du jour (today + deadline)
-  tags: productivity
-- idea: A fun public event in which speakers have to improvise a presentation, given a random set of slides
-  tags: afk
-- idea: '"The Second Chatroom": A way for a group of co-located people to share URLs and notes quickly and collectively from their smartphones, without having to sign up / install anything. (need expressed during a Meteor meetup)'
-  tags: comm
-- idea: A banner that offers to help you increase the quality of your Skype/Hangout call (eg. close apps, switch wifi)
-  tags: comm
-- idea: A wifi access-point that gives access to a local web server (that serves exercises for students) + shares limited internet access (e.g. no email, no chat). Using a Intel Edison / Arduino / Raspberry board ?
-  tags: hardware
-- idea: un chatbot slack / CLI (en ligne) a qui tu explique ton idée de startup, il la compare a des produits de product hunt en se basant sur les mots clés pour voir si tu te dégonfles
-  tags: dev
-- idea: un CLI a qui tu proposes des noms de domaine, et il te dit si c'est pris ou pas. sinon il te donne le tarif d'ovh.
-  tags: dev
-- idea: 'Compile multiple FAQ pages into a neat wiki-like summary (ex: a decision tree of solutions based on several specific cases)'
-  tags: info
-- idea: a mixpanel-like analytics tool that plugs into a service's back-end (instead of front-end trackers, as typically done)
-  tags: dev
-- idea: '"Hey…you!": A mobile app to recall names and faces of acquaintances / students / contacts, for each company / class / place. Would find and fetch photos from Linkedin, Google Images, and work offline.'
-  tags: app
-- idea: An infinite outliner that works offline, is easy to edit from phone, and auto-transforms URLs into their page title.
-  tags: info
-- idea: A language/format for expressing legal terms (e.g. terms of service) in a concise and clear manner, based on difference with "usual" terms
-  tags: info
-- idea: A 1poll-powered page that would allow visitors to submit (and vote on) feature requests, and be notified on their status
-- idea: '"Fair Date": A doodle-like service that recommends a central place to meet (e.g. for dinner) based on the current location of the guests, so that they spend the same amount of time getting there.'
-- idea: '"Picky VC": A form or chat bot that can tell if a startup idea is bullshit or not, based on its pitch'
-- idea: '"Fair Wifi": Routers that enforce Quality of Service (QoS) rules and fair bandwidth sharing between users, for "Free Wifi" spots in hotels, restaurants and bars.'
-  tags: hardware, biz
-- idea: that times speech of each participant of a vocal conversation, by recognizing their voice
-  tags: app
-- idea: '"Captain Log": A web platform for developers to keep (and optionally share) a diary/log of their learnings, like if they were tweeting while working.'
-  tags: info
-- idea: A browser extension that would measure how much time you spend reading and writing emails to each of your contacts <span class="hashtag">#timetracking</span>
-  tags: productivity
-- idea: a web service in which users would post a job they want to get done by a professional, and professionals would compete with public offers, so that the user can pick the most relevant/convincing one
-  tags: biz
-- idea: a shazam for finding a web/mobile app that would solve your need, based on a description of how the app would look like
-  tags: info
-- idea: a web browser that keeps and maintains a structured memory of the findings you made while browsing.
-  tags: info
-- idea: an alarm clock that would project weather report, agenda and inspirational quotes on my wall + good morning music
-  tags: hardware
-- idea: '"Gratefulness jar": a platform to share testimonials about people (e.g. name_of_person helped me solve my problem, thank you!", so that they can be displayed to others. => money-free alternative to "donate" buttons'
-  tags: comm
-- idea: 'A map of local bars, based on my preferences and activity: friends, business meeting, etc...'
-  tags: info
-- idea: '"Headphones Time": A popcorn-time-like app for collecting and playing playlists of tracks from various streaming services. (Youtube, Soundcloud, Bandcamp, Spotify…) (similarly to openwhyd.org)'
-  tags: music
-- idea: A simple way to stream nice indie films (i.e. a popcorn time for the kind of films that are accepted at the sundance festival)
-  tags: tv
-- idea: 'A service to regularly test other services, to make sure I can still rely on them. (ex: my data is still synchronized/indexed on those services)'
-  tags: info
-- idea: An Amazon-like web marketplace that would tell you where to find every product, in real stores near you, right now.
-  tags: biz
-- idea: '"Recipegram/recipechart": A book of recipes, in which each recipe is explained by a flowchart showing the combinations from its ingredients to the final result.'
-  tags: info
-- idea: A service that logs error 404 pages and other user browsing anomalies, in order for the developer to prioritize fixes to make on the site
-  tags: dev
-- idea: A service that allows visitors to fix typos on any blog, and get rewarded for it
-  tags: biz
-- idea: A service to print the pictures of a Pinterest board
-- idea: A series of short episodes representing famous film directors trying to convince a studio with a crazy script  idea, followed by and extract of the actual film <span class="hashtag">#tv</span> <span class="hashtag">#series</span> <span class="hashtag">#comedy</span>
-  tags: crea
-- idea: A "Zapping" of what happened (and what normal life looked like) for every year since 2000 B.C., in 3 minutes per episode <span class="hashtag">#tv</span> <span class="hashtag">#series</span>
-  tags: crea
-- idea: '"Next Task": A todo-list app that helps you split big/scary tasks into smaller steps, and emphasises the next step to take towards your goals'
-  tags: productivity
-- idea: '"5 minutes to kill": an app that fills 5 minutes (e.g. between two pomodoro tasks, or while waiting in line) with quick reads from pocket/readitlater, short videos from youtube, fun facts, and quizzes… <span class="hashtag">#procrastination</span>'
-  tags: tv
-- idea: Sorting TODO tasks by mood; e.g. "lazy", "creative", "quick-wins", "focus", "learning"...
-  tags: productivity
-- idea: A app-less phone based on a terminal/box that realizes fonctionality based on the nature of entered data, cf [medium.com](https://medium.com/@adrienjoly/un-telephone-sans-apps-ef4c49519674) <span class="hashtag">#nophone</span>
-- idea: '"First thing in the morning": an app that motivates you every morning to achieve the tasks you had planned for the day, by: - listing the tasks you have achieved yesterday - listing today''s tasks - displaying a motivational photo'
-  tags: motivation
-- idea: An offline map of closest HSBC ATMs, in the whole world (could be nicely done using polymer)
-  tags: info
-- idea: An algorithm to detect rhetorical abuse and bullshit in conversation, and would underline them in social media discussion. (like spell check)
-  tags: info
-- idea: Improve "Card this to trello" (Chome extension) so that it uploads a screenshot of the current page to the card. [chrome.google.com](https://chrome.google.com/webstore/detail/card-this-to-trello/llapjidoaciepmfjchefhhachlmehfdl)
-  tags: info
-- idea: '"Tea time": A thermometer-based device that could be put on a tea cup, and would ring when the tea is at optimal consumption temperature. (in order to not forget drinking the tea)'
-  tags: hardware
-- idea: A service to log data entries through a simple api, and allow real-time last-first display of logs.
-  tags: info
-- idea: A bookmarking tool that would capture content into a personal topic/project, and allow to integrate it later into an outline / hierarchical notepad (i.e. think "Evernote + Workflowy/Diigo") + mobile ui to "reply" easily to  some of the bullet points
-  tags: info
-- idea: A browser extension that recognizes all songs cited on a web page and allows to play them all.
-  tags: music
-- idea: A service that delivers all items that did not pass airport boarding security (e.g. Perfumes, food, knives) back to their owner's home
-  tags: biz
-- idea: '"Products around me": An "around me" app for searching a specific item to buy (e.g "scissors") in surrounding stores'
-  tags: biz
-- idea: 'a reprintable color e-print surface (ex: for album cover)'
-  tags: hardware
-- idea: A micro-blog of notes to keep track of personal activities
-  tags: info
-- idea: 'A notification engine that relies on two models: objectives (ex. make the user come back to the site within 2 days) and a user acceptance model (ex. don''t send 3 "XXX followed you" notifications in a row)'
-  tags: dev
-- idea: A yelp-like platform that boosts the visibility of new venues
-  tags: biz
-- idea: Spreadsheet in which new data is entered at the top (antichronological records)
-  tags: info
-- idea: Conceptual / semantically-linked wiki
-  tags: info
-- idea: Saas for aggregating and delivering (in a personalised manner, e.g. email digest) notifications from various apps
-  tags: dev
-- idea: '"Quodle" (Doodle for Q&A): quickly create a public page that can accept anonymous questions, and allows the recipient/company to give (official) replies publicly'
-  tags: comm
-- idea: 'Smart tasks agregation: only display a list of tasks that are actually TODO, from trello (and wunderlist too?), in a very clear and concise way. Possibility to say a task was done, in one click.'
-  tags: productivity
-- idea: Upload a directory (or set of web links) to the cloud in a grouped manner, so that they can safely be deleted from computer's desktop, or browser
-  tags: info
-- idea: Last.fm tab for Facebook band pages, to display the list of their next gigs/concerts
-  tags: info
-- idea: Multipurpose web-capture bookmarklet, to an "open" backend (e.g. google spreadsheet)
-  tags: info
-- idea: App to quickly add a freshly-met person (in order to keep in touch), by entering their twitter handle or email, and storing the location of encounter and common topic of interest
-  tags: info
-- idea: A music video jukebox that displays quick interesting facts about the artist, the song, or the period of time it was made. (could be a great feature for playem.org)
-  tags: tv
-- idea: '"My index": an efficient way to display and search links to my private documents across several platforms at once (e.g. wunderlist, gmail, gdocs, trello, diigo, evernote…)'
-  tags: info
-- idea: Bookmarklet that sends an article to Pocket or Kindle, and keeps the source so that it can be easily retweeted.
-  tags: info
-- idea: Mobile web app to watch series
-  tags: tv
-- idea: Simple and flexible task planning app that supports dependencies (e.g. when would C end, if I do A then B)
-  tags: productivity
-- idea: 'Tourism: Generation of cartoville-like city maps with recommended places based on personal preferences'
-  tags: info
-- idea: A recommender system for theatre plays, similar to last.fm
-  tags: info
-- idea: Find good concerts of local/emerging bands -> [www.ideaswatch.com](http://www.ideaswatch.com/startup-idea/find-good-concerts-of-local-bands)
-  tags: info
-- idea: Keyword-based local chatrooms -> [www.ideaswatch.com](http://www.ideaswatch.com/startup-idea/keyword-based-chatrooms)
-  tags: comm
-- idea: Service to help young music bands find gigs to open for ([www.ideaswatch.com](http://www.ideaswatch.com/startup-idea/facebook-social-app-for-musicians))
-- idea: Archival tool to store middle-resolution version of photos on Google Drive (free) + link to the hi-res version (e.g. stored on DVD)
-  tags: info
-- idea: App to quickly note/save bass lines / mélodies
-- Idea: a shortcut to paste (⌘V) a URL directly as a Markdown link
-- idea: A manifesto that startup owners would sign to promise that they would open-source their product whenever they decide to shut it down.
-- idea: Web-based bittorrent client (URL to direct download)
-- idea: A web-based remote control for openwhyd.org (for when playing music on another computer)
-- idea: A chrome extension that links each contact to their corresponding contact details form on contacts.google.com
-- idea: A way to group my incoming email based on my Google Contacts groups -> [productforums.google.com](https://productforums.google.com/forum/#!category-topic/gmail/share-and-discuss-with-others/reading-and-receiving-messages/mac/google-chrome/GE-C9h1r_UA)
-- idea: '"Done list", a service that would congratulate you for all the tasks that you checked today, in your favorite todo-list app.'
-- idea: A service that agregates opinions about topics (e.g. Technologies), and allows comparing one with another. e.g. Emberjs vs Angularjs?
-- 1poll: a simple doodle alternative that would allow participants to add dates (and vote for them) in a textual format, in a vertical list instead of a table
-- idea: '"Copy That": An app that would convert a screenshot into a PDF with OCR''ed / copy-paste-able text.'
-- idea: '"Upbeat50", a smart spotify 50-track playlist based on your favorite upbeat tracks. To sync for offline listening during commute to work. Would be updated every week or month.'
-  tags: music
-- idea: '"next step" for trello cards (chrome ext.): displays the next actionnable step under the title of each trello card'
-  tags: productivity
+- goal: Help humans achieve their goals
+  ideas:
+  - idea: a Google-Inbox-inspired task management UI (with bundles and snooze) that also allows re-ordering tasks
+    tags: productivity
+  - idea: 'Tasks2agenda: a productivity app that "fills" remaining work timeslots of my calendar with tasks from my todolist, according to my objectives/rules and deadlines. so that I always know what I have to do, when.'
+    tags: productivity
+  - idea: possibility to answer "can I finish report (2 hrs, for xxx) for Wednesday?", because it knows my planning, my time budget per project (big picture) and extras availabilities 
+    tags: productivity
+  - idea: Telegram-based task management bot
+    tags: productivity
+  - idea: script qui m'annonce mes taches wunderlist du jour (today + deadline)
+    tags: productivity
+
+- goal: Make personal knowledge easier to find and harder to loose
+  ideas:
+  - idea: Script to automatically backup book/reading highlights from [app.blinkist.com](https://app.blinkist.com/en/highlights/) to google drive
+  - idea: 'AlbumKeeper: a personal list of favorite music albums that can play from various streaming platforms. and a bookmarklet/extension for quickly adding an album found on the web.'
+    tags: music
+  - idea: a search engine that allows users to explain the structure of the results they expect, like in GraphQL
+    tags: info
+  - idea: A bookmarklet to grab inspiring quotes from any website + a mobile app that pushes one of those quotes every morning
+    tags: motivation
+
+- goal: Help product makers be more successful and efficient
+  ideas:
+  - idea: 'ProjectFarm: a dashboard that displays analytics (and other usage & interest feedback) of 12 projects on 1 screen'
+  - idea: A programming language/framework that allows overriding sub-components declaratively, like in CSS
+  - idea: a CLI to share side-project ideas and be matched with other ideas to collaborate on
+    tags: WIP
+  - idea: a Firebase/Parse wrapper that would implement Meteor reactive collections's API, without having to use Meteor as backend
+    tags: dev
+  - idea: an IDE that proposes javascript snippets when I type "// want HTTP request with 3 retries" (or similar queries)
+    tags: dev
+
+- goal: Life, leisure and entertainment
+  ideas:
+  - idea: A replacement to Facebook/Twitter's feed that displays interesting activities to undertake, instead of passive consumption of friends'  updates
+    tags: productivity
+  - idea: A way to explore my Wunderlist ToDo-lists from Apple TV 3, and play Youtube URLs from it.
+    tags: tv
+  - idea: 'Whozzup: Share your availability status and propose fun plans to local friends, in order to meet up quickly!'
+    tags: comm
+  - idea: '"Vinder": A Tinder-like dating app for vegetarian and vegan people.'
+    tags: app
+
+- goal: Enrich collaboration, interpersonal communication and interaction
+  ideas:
+  - idea: Canned replies for any app (virtual keyboard + screen scraping, alternative to chatbots)
+    tags: app
+  - idea: Collaborative Q&A notepad => chatbot that asks one question at a time?
+    tags: comm
+  - idea: '"Freelance Directory": A chatbot or web ui in which freelancers can toggle technologies for which then would like to receive missions, and share missions to relevant colleagues depending on underlying technologies'
+    tags: WIP
+  - idea: '"Reason for call": Add "subject" to phone calls, like for email. => tells concisely to the callee why I''d like to talk to him, so that he can decide to take the call or not'
+    tags: comm
+  - idea: '"The Second Chatroom": A way for a group of co-located people to share URLs and notes quickly and collectively from their smartphones, without having to sign up / install anything. (need expressed during a Meteor meetup)'
+    tags: comm
+
+- goal: (UNSORTED YET)
+  ideas:
+  - idea: A fun public event in which speakers have to improvise a presentation, given a random set of slides
+    tags: afk
+  - idea: A banner that offers to help you increase the quality of your Skype/Hangout call (eg. close apps, switch wifi)
+    tags: comm
+  - idea: A wifi access-point that gives access to a local web server (that serves exercises for students) + shares limited internet access (e.g. no email, no chat). Using a Intel Edison / Arduino / Raspberry board ?
+    tags: hardware
+  - idea: un chatbot slack / CLI (en ligne) a qui tu explique ton idée de startup, il la compare a des produits de product hunt en se basant sur les mots clés pour voir si tu te dégonfles
+    tags: dev
+  - idea: un CLI a qui tu proposes des noms de domaine, et il te dit si c'est pris ou pas. sinon il te donne le tarif d'ovh.
+    tags: dev
+  - idea: 'Compile multiple FAQ pages into a neat wiki-like summary (ex: a decision tree of solutions based on several specific cases)'
+    tags: info
+  - idea: a mixpanel-like analytics tool that plugs into a service's back-end (instead of front-end trackers, as typically done)
+    tags: dev
+  - idea: '"Hey…you!": A mobile app to recall names and faces of acquaintances / students / contacts, for each company / class / place. Would find and fetch photos from Linkedin, Google Images, and work offline.'
+    tags: app
+  - idea: An infinite outliner that works offline, is easy to edit from phone, and auto-transforms URLs into their page title.
+    tags: info
+  - idea: A language/format for expressing legal terms (e.g. terms of service) in a concise and clear manner, based on difference with "usual" terms
+    tags: info
+  - idea: A 1poll-powered page that would allow visitors to submit (and vote on) feature requests, and be notified on their status
+  - idea: '"Fair Date": A doodle-like service that recommends a central place to meet (e.g. for dinner) based on the current location of the guests, so that they spend the same amount of time getting there.'
+  - idea: '"Picky VC": A form or chat bot that can tell if a startup idea is bullshit or not, based on its pitch'
+  - idea: '"Fair Wifi": Routers that enforce Quality of Service (QoS) rules and fair bandwidth sharing between users, for "Free Wifi" spots in hotels, restaurants and bars.'
+    tags: hardware, biz
+  - idea: that times speech of each participant of a vocal conversation, by recognizing their voice
+    tags: app
+  - idea: '"Captain Log": A web platform for developers to keep (and optionally share) a diary/log of their learnings, like if they were tweeting while working.'
+    tags: info
+  - idea: A browser extension that would measure how much time you spend reading and writing emails to each of your contacts <span class="hashtag">#timetracking</span>
+    tags: productivity
+  - idea: a web service in which users would post a job they want to get done by a professional, and professionals would compete with public offers, so that the user can pick the most relevant/convincing one
+    tags: biz
+  - idea: a shazam for finding a web/mobile app that would solve your need, based on a description of how the app would look like
+    tags: info
+  - idea: a web browser that keeps and maintains a structured memory of the findings you made while browsing.
+    tags: info
+  - idea: an alarm clock that would project weather report, agenda and inspirational quotes on my wall + good morning music
+    tags: hardware
+  - idea: '"Gratefulness jar": a platform to share testimonials about people (e.g. name_of_person helped me solve my problem, thank you!", so that they can be displayed to others. => money-free alternative to "donate" buttons'
+    tags: comm
+  - idea: 'A map of local bars, based on my preferences and activity: friends, business meeting, etc...'
+    tags: info
+  - idea: '"Headphones Time": A popcorn-time-like app for collecting and playing playlists of tracks from various streaming services. (Youtube, Soundcloud, Bandcamp, Spotify…) (similarly to openwhyd.org)'
+    tags: music
+  - idea: A simple way to stream nice indie films (i.e. a popcorn time for the kind of films that are accepted at the sundance festival)
+    tags: tv
+  - idea: 'A service to regularly test other services, to make sure I can still rely on them. (ex: my data is still synchronized/indexed on those services)'
+    tags: info
+  - idea: An Amazon-like web marketplace that would tell you where to find every product, in real stores near you, right now.
+    tags: biz
+  - idea: '"Recipegram/recipechart": A book of recipes, in which each recipe is explained by a flowchart showing the combinations from its ingredients to the final result.'
+    tags: info
+  - idea: A service that logs error 404 pages and other user browsing anomalies, in order for the developer to prioritize fixes to make on the site
+    tags: dev
+  - idea: A service that allows visitors to fix typos on any blog, and get rewarded for it
+    tags: biz
+  - idea: A service to print the pictures of a Pinterest board
+  - idea: A series of short episodes representing famous film directors trying to convince a studio with a crazy script  idea, followed by and extract of the actual film <span class="hashtag">#tv</span> <span class="hashtag">#series</span> <span class="hashtag">#comedy</span>
+    tags: crea
+  - idea: A "Zapping" of what happened (and what normal life looked like) for every year since 2000 B.C., in 3 minutes per episode <span class="hashtag">#tv</span> <span class="hashtag">#series</span>
+    tags: crea
+  - idea: '"Next Task": A todo-list app that helps you split big/scary tasks into smaller steps, and emphasises the next step to take towards your goals'
+    tags: productivity
+  - idea: '"5 minutes to kill": an app that fills 5 minutes (e.g. between two pomodoro tasks, or while waiting in line) with quick reads from pocket/readitlater, short videos from youtube, fun facts, and quizzes… <span class="hashtag">#procrastination</span>'
+    tags: tv
+  - idea: Sorting TODO tasks by mood; e.g. "lazy", "creative", "quick-wins", "focus", "learning"...
+    tags: productivity
+  - idea: A app-less phone based on a terminal/box that realizes fonctionality based on the nature of entered data, cf [medium.com](https://medium.com/@adrienjoly/un-telephone-sans-apps-ef4c49519674) <span class="hashtag">#nophone</span>
+  - idea: '"First thing in the morning": an app that motivates you every morning to achieve the tasks you had planned for the day, by: - listing the tasks you have achieved yesterday - listing today''s tasks - displaying a motivational photo'
+    tags: motivation
+  - idea: An offline map of closest HSBC ATMs, in the whole world (could be nicely done using polymer)
+    tags: info
+  - idea: An algorithm to detect rhetorical abuse and bullshit in conversation, and would underline them in social media discussion. (like spell check)
+    tags: info
+  - idea: Improve "Card this to trello" (Chome extension) so that it uploads a screenshot of the current page to the card. [chrome.google.com](https://chrome.google.com/webstore/detail/card-this-to-trello/llapjidoaciepmfjchefhhachlmehfdl)
+    tags: info
+  - idea: '"Tea time": A thermometer-based device that could be put on a tea cup, and would ring when the tea is at optimal consumption temperature. (in order to not forget drinking the tea)'
+    tags: hardware
+  - idea: A service to log data entries through a simple api, and allow real-time last-first display of logs.
+    tags: info
+  - idea: A bookmarking tool that would capture content into a personal topic/project, and allow to integrate it later into an outline / hierarchical notepad (i.e. think "Evernote + Workflowy/Diigo") + mobile ui to "reply" easily to  some of the bullet points
+    tags: info
+  - idea: A browser extension that recognizes all songs cited on a web page and allows to play them all.
+    tags: music
+  - idea: A service that delivers all items that did not pass airport boarding security (e.g. Perfumes, food, knives) back to their owner's home
+    tags: biz
+  - idea: '"Products around me": An "around me" app for searching a specific item to buy (e.g "scissors") in surrounding stores'
+    tags: biz
+  - idea: 'a reprintable color e-print surface (ex: for album cover)'
+    tags: hardware
+  - idea: A micro-blog of notes to keep track of personal activities
+    tags: info
+  - idea: 'A notification engine that relies on two models: objectives (ex. make the user come back to the site within 2 days) and a user acceptance model (ex. don''t send 3 "XXX followed you" notifications in a row)'
+    tags: dev
+  - idea: A yelp-like platform that boosts the visibility of new venues
+    tags: biz
+  - idea: Spreadsheet in which new data is entered at the top (antichronological records)
+    tags: info
+  - idea: Conceptual / semantically-linked wiki
+    tags: info
+  - idea: Saas for aggregating and delivering (in a personalised manner, e.g. email digest) notifications from various apps
+    tags: dev
+  - idea: '"Quodle" (Doodle for Q&A): quickly create a public page that can accept anonymous questions, and allows the recipient/company to give (official) replies publicly'
+    tags: comm
+  - idea: 'Smart tasks agregation: only display a list of tasks that are actually TODO, from trello (and wunderlist too?), in a very clear and concise way. Possibility to say a task was done, in one click.'
+    tags: productivity
+  - idea: Upload a directory (or set of web links) to the cloud in a grouped manner, so that they can safely be deleted from computer's desktop, or browser
+    tags: info
+  - idea: Last.fm tab for Facebook band pages, to display the list of their next gigs/concerts
+    tags: info
+  - idea: Multipurpose web-capture bookmarklet, to an "open" backend (e.g. google spreadsheet)
+    tags: info
+  - idea: App to quickly add a freshly-met person (in order to keep in touch), by entering their twitter handle or email, and storing the location of encounter and common topic of interest
+    tags: info
+  - idea: A music video jukebox that displays quick interesting facts about the artist, the song, or the period of time it was made. (could be a great feature for playem.org)
+    tags: tv
+  - idea: '"My index": an efficient way to display and search links to my private documents across several platforms at once (e.g. wunderlist, gmail, gdocs, trello, diigo, evernote…)'
+    tags: info
+  - idea: Bookmarklet that sends an article to Pocket or Kindle, and keeps the source so that it can be easily retweeted.
+    tags: info
+  - idea: Mobile web app to watch series
+    tags: tv
+  - idea: Simple and flexible task planning app that supports dependencies (e.g. when would C end, if I do A then B)
+    tags: productivity
+  - idea: 'Tourism: Generation of cartoville-like city maps with recommended places based on personal preferences'
+    tags: info
+  - idea: A recommender system for theatre plays, similar to last.fm
+    tags: info
+  - idea: Find good concerts of local/emerging bands -> [www.ideaswatch.com](http://www.ideaswatch.com/startup-idea/find-good-concerts-of-local-bands)
+    tags: info
+  - idea: Keyword-based local chatrooms -> [www.ideaswatch.com](http://www.ideaswatch.com/startup-idea/keyword-based-chatrooms)
+    tags: comm
+  - idea: Service to help young music bands find gigs to open for ([www.ideaswatch.com](http://www.ideaswatch.com/startup-idea/facebook-social-app-for-musicians))
+  - idea: Archival tool to store middle-resolution version of photos on Google Drive (free) + link to the hi-res version (e.g. stored on DVD)
+    tags: info
+  - idea: App to quickly note/save bass lines / mélodies
+  - Idea: a shortcut to paste (⌘V) a URL directly as a Markdown link
+  - idea: A manifesto that startup owners would sign to promise that they would open-source their product whenever they decide to shut it down.
+  - idea: Web-based bittorrent client (URL to direct download)
+  - idea: A web-based remote control for openwhyd.org (for when playing music on another computer)
+  - idea: A chrome extension that links each contact to their corresponding contact details form on contacts.google.com
+  - idea: A way to group my incoming email based on my Google Contacts groups -> [productforums.google.com](https://productforums.google.com/forum/#!category-topic/gmail/share-and-discuss-with-others/reading-and-receiving-messages/mac/google-chrome/GE-C9h1r_UA)
+  - idea: '"Done list", a service that would congratulate you for all the tasks that you checked today, in your favorite todo-list app.'
+  - idea: A service that agregates opinions about topics (e.g. Technologies), and allows comparing one with another. e.g. Emberjs vs Angularjs?
+  - 1poll: a simple doodle alternative that would allow participants to add dates (and vote for them) in a textual format, in a vertical list instead of a table
+  - idea: '"Copy That": An app that would convert a screenshot into a PDF with OCR''ed / copy-paste-able text.'
+  - idea: '"Upbeat50", a smart spotify 50-track playlist based on your favorite upbeat tracks. To sync for offline listening during commute to work. Would be updated every week or month.'
+    tags: music
+  - idea: '"next step" for trello cards (chrome ext.): displays the next actionnable step under the title of each trello card'
+    tags: productivity

@@ -40,8 +40,10 @@ Please contact me if you're working on any of these topics, or if you would like
 </style>
 
 <!-- listed from _data/ideas-older.yaml -->
+{% for group in site.data.ideas-older %}
+### Goal: {{ group.goal }}
 <ul class="older-ideas">
-  {% for item in site.data.ideas-older %}
+  {% for item in group.ideas %}
     <li id="{{ forloop.index }}">
       {% for tag in item.tags %}
         <span class="hashtag">#{{ tag }}</span>
@@ -55,5 +57,7 @@ Please contact me if you're working on any of these topics, or if you would like
           </a>
         </div>
       </div>
-    </li>{% endfor %}
+    </li>
+  {% endfor %}
 </ul>
+{% endfor %}
