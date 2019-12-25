@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "dependencies": {
     "jsonresume-theme-modernfull": "adrienjoly/jsonresume-theme-modernfull",
-    "resume-cli": "^1.1.2"
+    "resume-cli": "^1.2.7"
   },
   "scripts": {
     "build": "./node_modules/.bin/resume export index.html -t modernfull",
