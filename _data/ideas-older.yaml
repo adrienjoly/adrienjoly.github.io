@@ -1,7 +1,25 @@
-# Older ideas
+- goal: Help humans grow towards a better society
+  ideas:
+  - idea: Empower smartphone users for pro-activity rather than consumption of apps and notifications, by designing a intent-based Smartphone UI.
+    tags: ui, mobile
+  - idea: Reduce stress, frustration and unmet expectations sometimes caused by digital discussion channels, by designing communication software that enable their users to convey a varying level of distance and/or engagement, whatever the modality. (SMS/messaging, collaboration platforms like Slack, community forums, email, video calls...)
+    tags: communication
+  - idea: Educate and train people more effectively, by providing accessible tools to create engaging learning and self-training material.
+    tags: education
+  - idea: Encourage our social circles to share honest, down-to-earth and passionate updates rather than showing off for popularity on social media. (join the discussion on [Pitchcard](https://www.pitchcard.io/cards/a-stream-of-honest-and-passionate-updates-from-people-we-care-about))
+    tags: social
+  - idea: A replacement to Facebook/Twitter's feed that displays interesting activities to undertake, instead of passive consumption of friends'  updates
+    tags: social
 
 - goal: Help humans achieve their goals
   ideas:
+  - idea: Make it easy and efficient to find the right professional, whatever the need. Yellow pages based on facts.
+  - idea: A productivity app in which ToDos, notes and journaling are interconnected.
+    tags: productivity
+  - idea: A good todo-list app ✅📲 (similar to [Swipes Personal](https://softwarerecs.stackexchange.com/questions/56985/alternative-to-swipesapp-swipes-personal)) for web and mobile that would be subscription-based if you want sync to work out of the box, and free to use if you setup your own back-end.
+    tags: productivity
+  - idea: 'A mobile (web) app to quickly take notes and update tasks in any card of my personal Trello board. Potential technical enabler: [open source markdown viewer and editor](https://hashnode.com/post/i-created-an-open-source-online-markdown-viewer-and-editor-cjxnae7td002yt6s1p88x9ssn)'
+    tags: productivity
   - idea: a Google-Inbox-inspired task management UI (with bundles and snooze) that also allows re-ordering tasks
     tags: productivity
   - idea: 'Tasks2agenda: a productivity app that "fills" remaining work timeslots of my calendar with tasks from my todolist, according to my objectives/rules and deadlines. so that I always know what I have to do, when.'
@@ -15,6 +33,7 @@
 
 - goal: Make personal knowledge easier to find and harder to loose
   ideas:
+  - idea: 'A service to help me keep a history of the people I know, and make them sercheable from my inbox, by sending me a daily email listing what contacts I added or updated in my Google Contacts that day. Potential technical enabler: [People API - Google Developers](https://developers.google.com/people/api/rest/v1/people)'
   - idea: Script to automatically backup book/reading highlights from [app.blinkist.com](https://app.blinkist.com/en/highlights/) to google drive
   - idea: 'AlbumKeeper: a personal list of favorite music albums that can play from various streaming platforms. and a bookmarklet/extension for quickly adding an album found on the web.'
     tags: music
@@ -36,12 +55,11 @@
 
 - goal: Life, leisure and entertainment
   ideas:
-  - idea: A replacement to Facebook/Twitter's feed that displays interesting activities to undertake, instead of passive consumption of friends'  updates
-    tags: productivity
-  - idea: A way to explore my Wunderlist ToDo-lists from Apple TV 3, and play Youtube URLs from it.
-    tags: tv
+  - idea: Minimal multiplayer games.
   - idea: 'Whozzup: Share your availability status and propose fun plans to local friends, in order to meet up quickly!'
     tags: comm
+  - idea: A way to explore my Wunderlist ToDo-lists from Apple TV 3, and play Youtube URLs from it.
+    tags: tv
   - idea: '"Vinder": A Tinder-like dating app for vegetarian and vegan people.'
     tags: app
 
