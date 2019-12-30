@@ -12,15 +12,15 @@ Please contact me if you're excited or curious about any of these topics. I'd be
 
 <link rel="stylesheet" href="tweet-btn.css">
 <style>
-  .hashtag{ color: #0366d6 }
-  .vote-button{ display:inline-block; opacity:0.5; }
-  .older-ideas p { display:inline }
+  .hashtag{ color: #0366d6; }
+  .vote-button{ display: inline-block; opacity: 0.5; }
+  .ideas p { display: inline; }
 </style>
 
-<!-- listed from _data/ideas-older.yaml -->
-{% for group in site.data.ideas-older %}
+<!-- listed from _data/ideas.yaml -->
+{% for group in site.data.ideas %}
 ### Goal: {{ group.goal }}
-<ul class="older-ideas">
+<ul class="ideas">
   {% for item in group.ideas %}
     <li id="{{ forloop.index }}">
       {% for tag in item.tags %}
