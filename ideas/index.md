@@ -6,7 +6,7 @@ title: Ideas
 > 
 > Check out my practical tips and references on how to bring an idea to execution, and create a successful startup: [Startup Noob Guide](http://bit.ly/startupnoob).
 
-## Ideas I'd love to experiment with, so day
+## Goals I'd love to contribute to
 
 Please contact me if you're excited or curious about any of these topics. I'd be happy to discuss!
 
