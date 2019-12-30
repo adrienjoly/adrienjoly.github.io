@@ -195,6 +195,7 @@
 
 - goal: Enablers for fairness and justice
   verb: Behave
+  ideas:
   - idea: '"Fair Wifi": Routers that enforce Quality of Service (QoS) rules and fair bandwidth sharing between users, for "Free Wifi" spots in hotels, restaurants and bars.'
     tags: hardware, biz
   - idea: App that times the duration of speech of each participant of a vocal conversation, by recognizing their voice.
