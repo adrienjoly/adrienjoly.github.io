@@ -65,7 +65,8 @@
     We, internet-connected citizens, use digital tools and consume digital media increasingly. This gives us access to an unprecedented amount of knowledge. The problem has shifted from "how to do X" to "what's the best resource to help me do X". In that context, my opinion is that: 1/ we need to improve the way we express our intents and preferences, and the way we discover, keep and find knowledge that is relevant to each of us, whatever the context; and 2/ data tracking done by Google and many other providers could actually help us achieve that, as long as we're able to access it. (See [How to Track Your YouTube Watching (And Understand It) - Mark Koester](http://www.markwk.com/youtube-tracking.html) and [How to Track the Articles You Read and Augment Your Digital Memory - Mark Koester](http://www.markwk.com/2016/11/tracking-article-reading.html))
   ideas:
   - idea: 'A service to help me keep a history of the people I know, and make them sercheable from my inbox, by sending me a daily email listing what contacts I added or updated in my Google Contacts that day. Potential technical enabler: [People API - Google Developers](https://developers.google.com/people/api/rest/v1/people)'
-  - idea: 'Retrospect on the topics I've been interested in, during the past months and years, based on the watching history of my YouTube account'
+  - idea: |
+      Retrospect on the topics I've been interested in, during the past months and years, based on the watching history of my YouTube account
     tags: info
   - idea: Script to automatically backup book/reading highlights from [app.blinkist.com](https://app.blinkist.com/en/highlights/) to google drive
   - idea: 'AlbumKeeper: a personal list of favorite music albums that can play from various streaming platforms. and a bookmarklet/extension for quickly adding an album found on the web.'
