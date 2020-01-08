@@ -1,5 +1,7 @@
+const fs = require('fs');
 const cheerio = require('cheerio');
 const request = require('request-promise-native');
+const readline = require('readline-sync');
 
 const MONTHS = {
   Jan: 0,
@@ -21,7 +23,10 @@ const fetchFrom = {
     const fetchPage = async (to) => {
       const pageUrl = `${url}/latest?format=json${to ? `&to=${to}` : ''}`;
       console.warn(pageUrl);
-      return JSON.parse((await request(pageUrl)).replace('])}while(1);</x>', ''));
+      // const text = await request(pageUrl);
+      readline.question(`Paste the response from ${pageUrl} into ./medium.json, then press ENTER`);
+      const text = fs.readFileSync('./medium.tmp', 'utf8');
+      return JSON.parse(text.replace('])}while(1);</x>', ''));
     };
     const extractPostsFrom = (json) => {
       const posts = json.payload.references.Post;
