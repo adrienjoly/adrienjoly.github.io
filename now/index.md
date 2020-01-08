@@ -12,7 +12,8 @@ I’m home in Montreuil, Paris area, France.
 
 - 🐈 Camille and I adopted two adorable kittens in our new flat, in Montreuil!
 
-- 💼 For 2 years, I have developed [Algolia's Custom Crawler](https://www.algolia.com/solutions/crawler/) and maintained it in production for our customers. In March, I will join [SHODO](https://shodo.io/), a consulting company specialized in Software Craft(wo)manship.
+- 💼 For 2 years, I have developed [Algolia's Custom Crawler](https://www.algolia.com/solutions/crawler/) and maintained it in production for our customers.  
+In March, I will join [SHODO](https://shodo.io/), a consulting company specialized in Software Craft(wo)manship.
 
   > Check out this [excellent overview of Software Craft by Yannick Grenzinger](https://www.youtube.com/watch?v=FzIuAImNcis)" (1-hour video presentation, in French)
 
