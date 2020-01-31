@@ -6,6 +6,13 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
+- title: How to *not* communicate with your squad mates
+  date: 2020-01-30
+  event: Algolia Show & Tell (internal event)
+  address: Algolia, 55 rue d'Amsterdam, 75008 Paris
+  desc_en: |
+    In this presentation, I share the story of three communication mistakes I made with my team, and how we resolved them. This is the last talk I gave at Algolia, before leaving.
+
 - title: SoCraTes France 2019, an (un)conference with Software Crafters
   date: 2019-10-24
   event: Algolia Show & Tell (internal event)
