@@ -4,14 +4,14 @@ title: Homepage
 
 Hi!
 
-My name is Adrien. I'm a French guy who currently lives in Montreuil, Paris area, France.
+My name is Adrien Joly (he/him). I live in Montreuil, Paris area, France.
 
-As a software engineer, I **develop full-stack web products**: notably [Algolia's Custom Crawler](https://www.algolia.com/products/crawler/). I've also maintained several [side projects](/prod), mostly free to use and/or open source ([on GitHub](https://github.com/adrienjoly/)), including:
-- [Next Step for Trello](https://adrienjoly.com/chrome-next-step-for-trello), a Chrome extension I wrote to progress more efficiently on my projects;
-- [Startup Tour](https://www.udemy.com/startuptour/?couponCode=AJNOW20), a French MOOC co-authored with David Wise on how to create a Lean Startup company, from 0 to 1;
-- and [Openwhyd](https://openwhyd.org), a social music discovery platform that I developed in my ex-startup and open-sourced in 2016.
+As a software engineer and tech lead, I **develop full-stack web applications** and operate them in production. (e.g. [Algolia's Crawler](https://www.algolia.com/products/crawler/)) I've also maintained several [projects](/prod), mostly free to use and/or open source ([on GitHub](https://github.com/adrienjoly/)), including:
+- productivity tools; (e.g. [Next Step for Trello](https://adrienjoly.com/chrome-next-step-for-trello) and [Scribe bot for Telegram](https://github.com/adrienjoly/telegram-scribe-bot))
+- education material; (e.g. [Startup Tour](https://www.udemy.com/startuptour/?couponCode=AJNOW20), [js-test](https://github.com/adrienjoly/js-test) and a [Node.js course](/teaching))
+- and products for music lovers and musicians. (e.g. [Openwhyd](https://openwhyd.org), [Album Shelf](https://github.com/adrienjoly/album-shelf) and [a chiptune synthesizer made with WebMIDI](https://github.com/adrienjoly/webmidi-launchkey-mini))
 
-I enjoy **sharing what I learn**: by [teaching](/teaching), giving [talks](/talks), writing [articles](/posts) and by replying to [questions on Quora](https://www.quora.com/profile/Adrien-Joly), occasionally. In the past, I organized [Angelhack](http://www.hackathon.io/angelhack18) and [fHACKtory](https://www.maddyness.com/?s=fhacktory) hackathons, in Paris and Lyon.
+I enjoy **sharing what I learn**: by [teaching](/teaching), giving [talks](/talks) and writing [articles](/posts). In the past, I organized [Angelhack](http://www.hackathon.io/angelhack18) and [fHACKtory](https://www.maddyness.com/?s=fhacktory) hackathons, in Paris and Lyon.
 
 I also love **playing drums** with my band [Harissa](https://www.facebook.com/harissaquartet/) and during jam sessions. Among various [musical adventures](/music), I recorded two albums:
 - [Karabana](https://ampl.ink/WknK7), with Harissa;
