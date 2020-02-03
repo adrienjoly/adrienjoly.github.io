@@ -3,7 +3,7 @@ title: Ideas
 description: Ideas are worthless. Execution matters! => Feel free to steal any of my ideas!
 ---
 
-> Ideas are worthless; only execution matter! => Feel free to *steal* any of my ideas!
+> Ideas are worthless. Execution matters! => Feel free to *steal* any of my ideas!
 > 
 > Check out my practical tips and references on how to bring an idea to execution, and create a successful startup: [Startup Noob Guide](http://bit.ly/startupnoob).
 
