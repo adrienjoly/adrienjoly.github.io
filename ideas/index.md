@@ -1,6 +1,6 @@
 ---
 title: Ideas
-description: Ideas are worthless; only execution matter! => Feel free to steal any of my ideas!
+description: Ideas are worthless. Execution matters! => Feel free to steal any of my ideas!
 ---
 
 > Ideas are worthless; only execution matter! => Feel free to *steal* any of my ideas!
