@@ -157,6 +157,8 @@
 - goal: Life, leisure and entertainment
   verb: Live
   ideas:
+  - idea: Discover bars and clubs based on your taste in music (e.g. based on listening history)
+    tags: music
   - idea: Minimal multiplayer games.
   - idea: 'Whozzup: Share your availability status and propose fun plans to local friends, in order to meet up quickly!'
     tags: comm
