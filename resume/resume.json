@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Adrien Joly",
-    "label": "Full-stack web product developer, Team leader, Teacher",
+    "label": "Full-stack web product developer, Tech leader, Teacher",
     "picture": "https://adrienjoly.com/img/photo.jpg",
     "email": "contact@adrienjoly.com",
     "website": "https://adrienjoly.com",
     "summary": "I lead the development and maintenance of scalable web apps in production. Product quality and sustainability come from a readable and predictable code base, great documentation, and a solid suite of automated tests. I love to share my experiences and learn from others.",
     "location": {
-      "address": "19 rue de la Fédération",
+      "address": "129 avenue du Président Wilson",
       "postalCode": "93100",
       "city": "Montreuil, France",
       "countryCode": "FR"
@@ -27,11 +27,6 @@
         "network": "LinkedIn",
         "username": "adrienjoly",
         "url": "https://www.linkedin.com/in/adrienjoly"
-      },
-      {
-        "network": "Medium",
-        "username": "adrienjoly",
-        "url": "https://medium.com/@adrienjoly"
       }
     ]
   },
@@ -41,10 +36,14 @@
       "position": "Senior Software Engineer / Tech Lead",
       "website": "https://www.algolia.com/products/crawler",
       "startDate": "2017-11-06",
+      "endDate": "2020-01-31",
       "summary": "I lead the development and maintenance of Algolia’s Custom Crawler, a scalable distributed system built with Node.js and running on Google Kubernetes Engine.",
       "highlights": [
-        "I helped my team turn a proof of concept into a robust product used by some of Algolia's most prestigious customers.",
-        "I wrote \"The Challenging Migration from Heroku to Google Kubernetes Engine\"."
+        "I lead my team to turn a proof of concept into a robust product used by some of Algolia's most prestigious customers.",
+        "I setup integration and end-to-end tests, user documentation and a playbook for maintenance and on-call diagnostic and mitigation procedures.",
+        "I trained my team-mates to write more atomic pull requests, to write non-flaky tests and to apply best practices in their code contributions.",
+        "I gave several internal talks, about testing, pair programming and team communication.",
+        "I wrote \"The Challenging Migration from Heroku to Google Kubernetes Engine\", published on Algolia's blog."
       ]
     },
     {
