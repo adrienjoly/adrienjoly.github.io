@@ -42,7 +42,7 @@ What did I learn from this story? To move forward in the same direction, we must
 
 ## *Let's All Pair!*
 
-The following quarter, I wanted to help my team-mates grow. One was intimidated by the maintenance of our Kubernetes clusters. Another needed help to define an action plan for the development of a big feature. And another was stuck on how to test a feature he had implemented. So I set up pair programming sessions with each of them.
+The following quarter, I wanted to help my team-mates grow. One was intimidated by the maintenance of [our Kubernetes clusters](https://blog.algolia.com/challenging-migration-heroku-google-kubernetes-engine/). Another needed help to define an action plan for the development of a big feature. And another was stuck on how to test a feature he had implemented. So I set up pair programming sessions with each of them.
 
 With the first two ones, sitting down and tackling the issues together went great. With the last one, it was more complicated.
 
