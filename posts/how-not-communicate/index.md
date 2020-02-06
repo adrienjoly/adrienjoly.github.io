@@ -16,7 +16,7 @@ description: The story of three communication mistakes I made with my team, and 
 
 Most of my career (so far), I have lead teams as a "[benevolent dictator](https://producingoss.com/en/benevolent-dictator.html)". Meaning that I have the vision of what we want to achieve as a team, but I am also the one prescribing the way we implement that vision. As a consequence, I expect my team to follow my lead, and to object just if I overlook anything important. Implementing this leadership style has been very effective, until I joined Algolia.
 
-Besides the fact that, at Algolia, my team and I had more years of experience than my previous teams, the culture of the company made it ineffective to keep implementing this leadership style. So, with help from my manager, I had to take a step back and develop my soft skills in order to lead effectively in that new organization.
+Besides the fact that, at Algolia, my team and I had more years of experience than my previous teams, the culture of the company made it ineffective to keep implementing this leadership style. So, with help from [my manager](https://www.linkedin.com/in/daguenet/), I had to take a step back and develop my soft skills in order to lead effectively in that new organization.
 
 In this article, I share three stories which show an objective that I failed to achieve with my team, and how I finally tackle it. Then, I present a few strategies that helped me better a more effective Tech Lead in that team.
 
@@ -24,7 +24,7 @@ My goal is to help you communicate effectively with your team and avoid making t
 
 ## *The Elephant in the Room*
 
-Two years ago, I joined Matthieu in the Crawler team. Matthieu had created the Crawler from scratch, 6 months prior. I had set a mission to myself: make the Crawler grow from a proof of concept into a product which our enterprise customers can confidently rely on.
+Two years ago, I joined Matthieu in the [Crawler](https://www.algolia.com/products/crawler/) team. Matthieu had created the Crawler from scratch, 6 months prior. I had set a mission to myself: make the Crawler grow from a proof of concept into a product which our enterprise customers can confidently rely on.
 
 ![clean all the things!](./assets/clean.png)
 
@@ -72,7 +72,7 @@ By chatting with my colleague after the meeting, I understood that the interrupt
 
 ![learning 3](./assets/learning3.jpg)
 
-Later, I learned a communication trick that would have avoided that situation: share my intent and expectations at the beginning of the meeting. By doing so, I could have defused the interruption by saying: “we agreed that I would welcome your feedback AFTER I'm done introducing the problem”, and then keep going.
+Later, I learned a communication technique that would have prevented that situation: share my intent and expectations at the beginning of the meeting. By doing so, I could have defused the interruption by saying: “we agreed that I would welcome your feedback AFTER I'm done introducing the problem”, and then keep going.
 
 ## Learnings
 
