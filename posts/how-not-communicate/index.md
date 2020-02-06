@@ -4,9 +4,17 @@ date: 2020-02-06
 description: The story of three communication mistakes I made with my team, and how we resolved them. This is the script of the last talk I gave at Algolia, before leaving.
 ---
 
+<style>
+  img {
+    display: block;
+    width: 600px;
+    margin: 32px auto;
+  }
+</style>
+
 # How *Not* to Communicate With Your Team
 
-Most of my career (so far), I have lead teams as a "benevolent dictator". Meaning that I have the vision of what we want to achieve as a team, but I am also the one prescribing the way we implement that vision. As a consequence, I expect my team to follow my lead, and to object just if I overlook anything important. Implementing this leadership style has been very effective, until I joined Algolia.
+Most of my career (so far), I have lead teams as a "[benevolent dictator](https://producingoss.com/en/benevolent-dictator.html)". Meaning that I have the vision of what we want to achieve as a team, but I am also the one prescribing the way we implement that vision. As a consequence, I expect my team to follow my lead, and to object just if I overlook anything important. Implementing this leadership style has been very effective, until I joined Algolia.
 
 Besides the fact that, at Algolia, my team and I had more years of experience than my previous teams, the culture of the company made it ineffective to keep implementing this leadership style. So, with help from my manager, I had to take a step back and develop my soft skills in order to lead effectively in that new organization.
 
@@ -18,6 +26,8 @@ My goal is to help you communicate effectively with your team and avoid making t
 
 Two years ago, I joined Matthieu in the Crawler team. Matthieu had created the Crawler from scratch, 6 months prior. I had set a mission to myself: make the Crawler grow from a proof of concept into a product which our enterprise customers can confidently rely on.
 
+![clean all the things!](./assets/clean.png)
+
 So I started challenging Matthieu on how to make the Crawler “rock-solid” for the long run. After adding automated tests, I suggested removing a feature that I thought was too complex to operate and maintain for a first version of the Crawler. Matthieu did not agree with me. And every time we talked about it, he looked very passionate about that feature.
 
 He was so passionate that, at the time, I thought that he wanted to keep that feature because he was attached to the code he wrote for it. After all, I could relate because I did feel passionately attached to code I wrote, more than once. So I tried hard to sell him the benefits of removing code despite the attachment. The dispute lasted for months. It became so big that we both avoided talking about it. This topic was known as taboo in the whole team. We could not come to a decision to satisfy us both, and this lack of decision was impacting other developments of the Crawler. So we were both frustrated, and this situation slowed down the development of the product.
@@ -26,17 +36,25 @@ It took me months to understand that I was making a mistake. When I officially b
 
 This advice worked better than I expected. First, we sat down to share our respective intentions, regrets and apologies. It was hard, but it helped us re-create trust and care between us. And after 3 discussions, I understood the vision that led Matthieu to create that feature, I agreed with it, and we finally converged to a decision that was working and motivating for both of us!
 
+![learning 1](./assets/learning1.jpg)
+
 What did I learn from this story? To move forward in the same direction, we must start by taking the time to *really* listen to each other. By understanding each other's vision, motivations and preferences, we can converge to solutions that will be implemented with care.
 
 ## *Let's All Pair!*
 
 The following quarter, I wanted to help my team-mates grow. One was intimidated by the maintenance of our Kubernetes clusters. Another needed help to define an action plan for the development of a big feature. And another was stuck on how to test a feature he had implemented. So I set up pair programming sessions with each of them.
 
-With the first two ones, sitting down and tackling the issues together went great. With the last one, it was more complicated. My colleague and I sat down, and I started to challenge him gently on what we wanted to test. I was struggling to get my colleague to come up with answers. This surprised and frustrated me, because I knew that he was very smart and saw no reason why he was not responding. In fact, we were both frustrated. I had not only failed to help him during that session, I had also created a bad experience between us.
+With the first two ones, sitting down and tackling the issues together went great. With the last one, it was more complicated.
+
+![Jim is not convinced](./assets/jim.jpg)
+
+My colleague and I sat down, and I started to challenge him gently on what we wanted to test. I was struggling to get my colleague to come up with answers. This surprised and frustrated me, because I knew that he was very smart and saw no reason why he was not responding. In fact, we were both frustrated. I had not only failed to help him during that session, I had also created a bad experience between us.
 
 Later, during a team building event, that colleague expressed two preferences towards the team: “I usually want to solve my problems on my own” and “if you want to ask me something specific, be straight to the point”. That explained why he did not respond to the way I challenged him, during our pair session!
 
 From that day, I stopped proposing pair sessions with him. Instead, I gave him clear and direct suggestions, mostly when I review his Pull Requests.
+
+![learning 2](./assets/learning2.jpg)
 
 What I learned from this experience is that there is no “one size fits all” way to lead a team. Everyone is different. So I must adapt my communication to each team-mate.
 
@@ -46,9 +64,13 @@ As a Tech Lead, one of my responsibilities is to challenge my team in order to r
 
 One day, I found a point of failure in our system. So I wrote down several ideas on how to fix it, shared them with the team, and set up a meeting to ask for feedback and suggestions.
 
+![Nope!](./assets/nope.jpg)
+
 As I was presenting the problem to the team, one of my colleagues interrupted me because he didn't agree with one of the points I was making. This interruption caught me off-guard. I lost the self-confidence I needed to properly deliver my message. So I was frustrated and a little bit mad at my colleague for not having let me finish.
 
 By chatting with my colleague after the meeting, I understood that the interruption was triggered by a misunderstanding that I could have avoided if I had been able to finish my intervention. Also, my colleague did not mean harm, he just wanted to save us some time. I could have anticipated his reaction. And therefore, I should have better prepared for it.
+
+![learning 3](./assets/learning3.jpg)
 
 Later, I learned a communication trick that would have avoided that situation: share my intent and expectations at the beginning of the meeting. By doing so, I could have defused the interruption by saying: “we agreed that I would welcome your feedback AFTER I'm done introducing the problem”, and then keep going.
 
@@ -59,6 +81,8 @@ In summary, these stories taught me three important lessons:
 - It's easier to converge to decisions with my team if I take the time to really understand their ideas, and why they believe in them, rather than pushing my own.
 - My communication is more effective when I adapt to the individual preferences, values, drivers and triggers, for each of my collaborators.
 - During meetings, my interventions are more effective when I start by sharing my intent and setting expectations.
+
+![learnings](./assets/learnings.jpg)
 
 In a nutshell, it's about getting to know your colleagues, and sharing your intent explicitly.
 
