@@ -28,6 +28,7 @@
   <!-- shamelessly forked from https://sivers.org/now -->
   <link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Serif' rel='stylesheet' type='text/css'>
   <link href='{{ "/assets/css/blog.css?v=" | append: site.github.build_revision | relative_url }}' rel='stylesheet' type='text/css'>
+  <link href='{{ "/assets/share-selected-text/shareSelectedText.min.css?v=" | append: site.github.build_revision | relative_url }}' rel='stylesheet' type='text/css'>
   
 </head>
 <body id="{{ page.bodyId }}">
@@ -55,5 +56,25 @@
     ga('create', '{{ site.google_analytics }}', 'auto');
     ga('send', 'pageview');
   </script>  
+
+  <script src='{{ "/assets/share-selected-text/shareSelectedText.js?v=" | append: site.github.build_revision | relative_url }}'></script>
+  <script>
+    // plugin initialization with default options
+    console.log('coucou', shareSelectedText);
+    shareSelectedText('#content', {
+        tooltipClass: '',    // cool, if you want to customize the tooltip
+        sanitize: true,      // will sanitize the user selection to respect the Twitter Max length (recommended) 
+        buttons: [           // services that you want to enable you can add : 
+            'twitter',       // - twitter, tumblr, buffer, stumbleupon, digg, reddit, linkedin, facebook
+            'linkedin',
+            'reddit'
+        ],
+        anchorsClass: '',    // class given to each tooltip's links
+        twitterUsername: 'adrienjoly', // for twitter widget, will add 'via @twitterUsername' at the end of the tweet.
+        facebookAppID: '', // Can also be an HTML element inside the <head> tag of your page : <meta property="fb:APP_ID" content="YOUR_APP_ID"/>
+        facebookDisplayMode: 'popup', //can be 'popup' || 'page'
+        tooltipTimeout: 250  //Timeout before that the tooltip appear in ms
+    });
+  </script>
 </body>
 </html>
