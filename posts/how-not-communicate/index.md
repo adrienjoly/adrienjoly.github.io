@@ -1,5 +1,5 @@
 ---
-title: How not to communicate with your team
+title: How *Not* to Communicate With Your Team
 date: 2020-02-07
 description: The story of three communication mistakes I made with my team, and how we resolved them. This is the script of the last talk I gave at Algolia, before leaving.
 layout: blog
@@ -12,8 +12,6 @@ layout: blog
     margin: 32px auto;
   }
 </style>
-
-# How *Not* to Communicate With Your Team
 
 Most of my career (so far), I have lead teams as a "[benevolent dictator](https://producingoss.com/en/benevolent-dictator.html)". Meaning that I have the vision of what we want to achieve as a team, but I am also the one prescribing the way we implement that vision. As a consequence, I expect my team to follow my lead, and to object just if I overlook anything important. Implementing this leadership style has been very effective, until I joined Algolia.
 
