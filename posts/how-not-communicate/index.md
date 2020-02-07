@@ -19,7 +19,7 @@ Most of my career (so far), I have lead teams as a "[benevolent dictator](https:
 
 Besides the fact that, at Algolia, my team and I had more years of experience than my previous teams, the culture of the company made it ineffective to keep implementing this leadership style. So, with help from [my manager](https://www.linkedin.com/in/daguenet/), I had to take a step back and develop my soft skills in order to lead effectively in that new organization.
 
-In this article, I share three stories which show an objective that I failed to achieve with my team, and how I finally tackle it. Then, I present a few strategies that helped me better a more effective Tech Lead in that team.
+In this article, I share three stories which show an objective that I failed to achieve with my team, and how I finally tackle it. Then, I present a few strategies that helped me become a more effective Tech Lead in that team.
 
 My goal is to help you communicate effectively with your team and avoid making the same mistakes as me. As a Tech Lead, or as a regular Individual Contributor.
 
@@ -33,9 +33,9 @@ So I started challenging Matthieu on how to make the Crawler “rock-solid” fo
 
 He was so passionate that, at the time, I thought that he wanted to keep that feature because he was attached to the code he wrote for it. After all, I could relate because I did feel passionately attached to code I wrote, more than once. So I tried hard to sell him the benefits of removing code despite the attachment. The dispute lasted for months. It became so big that we both avoided talking about it. This topic was known as taboo in the whole team. We could not come to a decision to satisfy us both, and this lack of decision was impacting other developments of the Crawler. So we were both frustrated, and this situation slowed down the development of the product.
 
-It took me months to understand that I was making a mistake. When I officially became the Tech Lead of the team and Raphaël became our manager, he advised us to listen to each other's point of view with an open mind. Without assuming anything. Without proposing alternatives. The goal was to walk into each other's shoes. To understand the deep motivations that drove us to our opinions.
+It took me months to understand that I was making a mistake. When I officially became the Tech Lead of the team and Raphaël became our manager, he advised us to listen to each other's point of view with an open mind. Without assuming anything. Without proposing alternatives. The goal was to walk in each other's shoes. To understand the deep motivations that drove us to our opinions.
 
-This advice worked better than I expected. First, we sat down to share our respective intentions, regrets and apologies. It was hard, but it helped us re-create trust and care between us. And after 3 discussions, I understood the vision that led Matthieu to create that feature, I agreed with it, and we finally converged to a decision that was working and motivating for both of us!
+This advice worked better than I expected. First, we sat down to share our respective intentions, regrets and apologies. It was hard, but it helped us re-create trust and care between us. And after three discussions, I understood the vision that led Matthieu to create that feature, I agreed with it, and we finally converged to a decision that was working and motivating for both of us!
 
 ![learning 1](./assets/learning1.jpg)
 
