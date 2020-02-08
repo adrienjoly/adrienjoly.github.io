@@ -133,6 +133,6 @@ Also, don't hesitate to share your learnings and/or ask questions [on Twitter](h
 > I would like to thank:
 >
 > - [Raphaël Daguenet](https://www.linkedin.com/in/daguenet/) for supporting and helping me grow in my Tech Lead role, and for co-writing this post with me;
-> - AlexC for having told me about Personal README, and sharing some tips;
+> - [Alexandre Collin](https://www.linkedin.com/in/alexandrecollin) for having told me about Personal README, and sharing some tips;
 > - PeterV for helping me improve the quality of this talk, before it was a blog post;
 > - And the Crawler team for their patience and understanding while I was figuring out my communication with them. Also, for having shared their Personal README and having accepted that I share these stories.
