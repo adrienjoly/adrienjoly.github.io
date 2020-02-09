@@ -13,7 +13,7 @@ layout: blog
   }
 </style>
 
-Most of my career (so far), I have lead teams as a "[benevolent dictator](https://producingoss.com/en/benevolent-dictator.html)". Meaning that I have the vision of what we want to achieve as a team, but I am also the one prescribing the way we implement that vision. As a consequence, I expect my team to follow my lead, and to object just if I overlook anything important. Implementing this leadership style has been very effective, until I joined Algolia.
+Most of my career (so far), I have lead teams as a "[benevolent dictator](https://wiki.p2pfoundation.net/Benevolent_Dictator)". Meaning that I have the vision of what we want to achieve as a team, but I am also the one prescribing the way we implement that vision. As a consequence, I expect my team to follow my lead, and to object just if I overlook anything important. Implementing this leadership style has been very effective, until I joined Algolia.
 
 Besides the fact that, at Algolia, my team and I had more years of experience than my previous teams, the culture of the company made it ineffective to keep implementing this leadership style. So, with help from [my manager](https://www.linkedin.com/in/daguenet/), I had to take a step back and develop my soft skills in order to lead effectively in that new organization.
 
