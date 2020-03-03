@@ -11,6 +11,8 @@
     tags: social
   - idea: A replacement to Facebook/Twitter's feed that displays interesting activities to undertake, instead of passive consumption of friends'  updates
     tags: social
+  - idea: Tourists to experience how historic places used to look and feel, by exploring them in Augmented Reality
+    tags: ar, vr, xr, tourism
   - idea: A wifi access-point that gives access to a local web server (that serves exercises for students) + shares limited internet access (e.g. no email, no chat). Using a Intel Edison / Arduino / Raspberry board ?
     tags: hardware, teaching
   - idea: '"Picky VC": A form or chat bot that can tell if a startup idea is bullshit or not, based on its pitch'
