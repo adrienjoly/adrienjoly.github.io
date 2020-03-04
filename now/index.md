@@ -12,7 +12,7 @@ I’m home in Montreuil, Paris area, France.
 
 - 🐈 Camille and I are enjoying our new flat and taking care of our two adorable kittens, in Montreuil.
 
-- 💼 I just left Algolia. In March, I will join [SHODO](https://shodo.io/), a consulting company specialized in Software Crafts(wo)manship.
+- 💼 I left Algolia to join [SHODO](https://shodo.io/), a consulting company specialized in Software Crafts(wo)manship.
 
   > Check out this [excellent overview of Software Craft by Yannick Grenzinger](https://www.youtube.com/watch?v=FzIuAImNcis)" (1-hour video presentation, in French)
 
@@ -28,6 +28,6 @@ I’m home in Montreuil, Paris area, France.
 
 - 🎲 Between the development of my [side projects](/prod), I'm having a lot of fun trying out immersive experiences (including VR fitness 🥊) with my Oculus Quest virtual reality headset!
 
-> Last update was February 1st, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was March 4th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
