@@ -10,24 +10,24 @@ description: What I’m doing now
 
 I’m home in Montreuil, Paris area, France.
 
-- 🐈 Camille and I are enjoying our new flat and taking care of our two adorable kittens, in Montreuil.
+- 🏠 Since Thursday, March 12th, Camille and I are confined at home, to reduce the spread of the COVID-19/Coronavirus. Fortunately, we have a great fiber connection to the Internet and two adorable 🐈 kittens to join us in this fight!
 
-- 💼 I left Algolia to join [SHODO](https://shodo.io/), a consulting company specialized in Software Crafts(wo)manship.
-
-  > Check out this [excellent overview of Software Craft by Yannick Grenzinger](https://www.youtube.com/watch?v=FzIuAImNcis)" (1-hour video presentation, in French)
-
-- 🎓 [Teaching](/teaching) back-end programming with Node.js at EEMI and ESGI, in Paris.
+- 🎓 I'm still [teaching](/teaching) back-end / API programming with Node.js. Last week, I gave a 5-day class to 20 students, from home! It was challenging but it went well. 😌
   
-- 🌶 Recording an album with my band "[Harissa](https://www.facebook.com/harissaquartet)", as a sequel to our first EP: "[Karabana](https://cabaneariff.com/harissa-karabana)".
+- 💼 On March 2nd, I joined [SHODO](https://shodo.io/) as a consultant. And I started my first mission on March 23rd, at [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html), a startup company that developed a data pipeline to detect which companies may need financial support from the government. I'm very happy to join this team, and I've enjoyed practicing TDD and pair programming with them!
+
+  > If you want to know more about Software Crafts(wo)manship, check out this [excellent overview of Software Craft by Yannick Grenzinger](https://www.youtube.com/watch?v=FzIuAImNcis)" (1-hour video presentation, in French)
+
+- 🌶 With my band "[Harissa](https://www.facebook.com/harissaquartet)", we finished recording our album and we are currently discussing the recoding of videos!
 
   > We also love giving concerts. Opportunities are welcome! 🤗
   
-- ⛑ Making sure that [openwhyd.org](https://openwhyd.org) ([open-source](https://github.com/openwhyd) music curation platform) keeps working as expected, and promoting it to developers through [Hackergarten](https://www.meetup.com/fr-FR/Paris-Hackergarten) and [ProgrammableWeb](https://www.programmableweb.com/api/openwhyd-user).
+- ⛑ Besides, I'm still spending some spare time on [side projects](/prod), notably [openwhyd.org](https://openwhyd.org) ([open-source](https://github.com/openwhyd) music curation platform), to make sure that it keeps working as expected and promote it to potential contributors.
 
   > We are open to [contributions](https://openwhyd.org/contribute) and/or [donations](https://openwhyd.org/donate).
 
-- 🎲 Between the development of my [side projects](/prod), I'm having a lot of fun trying out immersive experiences (including VR fitness 🥊) with my Oculus Quest virtual reality headset!
+- 🎲 Now that I can't go out much, I'm happy to use my Oculus Quest every day, for my daily VR 🥊 exercise routine, but also to play games with my friends. (e.g. Crisis VRigade is awesome, I recommend it!)
 
-> Last update was March 4th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was March 26th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
