@@ -45,10 +45,6 @@ a {
   clear:both;
 }
 
-iframe {
-  width: 100%;
-}
-
 .author-and-date {
   color: #6a737d;
 }
@@ -66,4 +62,9 @@ img, .img {
   display: block;
   width: 600px;
   margin: 32px auto;
+}
+
+iframe {
+  max-width: 100%;
+  box-sizing: content-box;
 }

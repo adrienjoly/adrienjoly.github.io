@@ -4,7 +4,7 @@ date: 2020-03-29
 layout: blog
 ---
 
-<iframe class="img" width="560" height="315" src="https://www.youtube.com/embed/_yfizXzgswM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="img" src="https://www.youtube.com/embed/_yfizXzgswM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Nous en sommes à deux semaines de confinement pour ralentir la contagion du coronavirus (voir [cette vidéo de Paris, vide](https://www.youtube.com/watch?v=_yfizXzgswM)). Dans ces circonstances, on ne rate pas d'occasion de s'échanger les nouvelles. Et surtout, on ne manque pas de choses à se dire. On découvre (presque) tous une nouvelle façon de vivre et de travailler. Notre quotidien, nos habitudes et même nos réflexes sont chamboulés. Les plateformes de communication par internet n'ont probablement jamais été aussi utilisées qu'en ce moment.
 
@@ -33,7 +33,7 @@ Notamment, le plaisir d'être câliné par nos chats à notre réveil, et de pou
 
 Au niveau professional, je suis passé par quelques changements assez substantiels. Ces dernières semaines, bien sur, mais aussi ces derniers mois.
 
-<iframe class="img" width="560" height="315" src="https://www.youtube.com/embed/CpFqPVmMeaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="img" src="https://www.youtube.com/embed/CpFqPVmMeaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Fin Janvier, j'ai quitté Algolia. J'y ai travaillé un peu plus de deux ans, pour développer un système d'indexation de pages web (aussi appelé "web crawler") pour nos clients, et pour conduire l'équipe de développement. Algolia étant une belle startup (fondée en France) en pleine croissance internationale, le rythme y était encore plus effréné que quand j'étais en charge du développement de la startup Whyd (jusqu'en 2015).
 
