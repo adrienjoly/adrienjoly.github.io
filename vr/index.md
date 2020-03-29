@@ -29,6 +29,7 @@ Here are a few tips and recommendations for you:
   3. tighten the top strap first, so the bottom cord holds under the very back bone of the rear of your skull. (to take on some of the weight of the headset off the front of your head)
   4. then, tighten the side straps, so the headset remains in position even when you move your head.
   5. if needed, tilt the front, to balance the pressure equally between your forehead and your cheek bones.
+- Chat and discover experiences with other Oculus Quest users from all around the world, on the ["Oculus Quest" Facebook group](https://www.facebook.com/groups/vrmai/).
 
 ## My favorite SideQuest games and experience
 
