@@ -15,15 +15,15 @@ If you recently bought an Oculus Quest, welcome to the club!
 
 Here are a few tips and recommendations for you:
 
-- You can play seated, either by changing game settings or reducing your height in your Oculus profile
-- Long-press Oculus button to re-center the view in direction of your choice
-- You "side load" games and experiences that are not listed on your Oculus store (including Oculus Go games) by installing SideQuest on PC or Mac
-- moonrider.xyz = Bear Saber for free
-- Try climbing in VRChat (free)
-- Play paintball with your friends in RecRoom (free)
-- Try zero-gravity exploration of the ISS (free)
-- Don't scratch lenses, clean them only with microfiber cloth. If you usually wear glasses, use the provided spacer, or (like me) don't wear them while you're in the headset.
-- Set the headset in a comfortable position:
+- You can play **seated**, either by changing game settings or reducing your height in your Oculus profile
+- Long-press Oculus button to **re-center the view** in direction of your choice
+- You "side load" games and experiences that are not listed on your Oculus store (including Oculus Go games) by [installing SideQuest](https://sidequestvr.com/#/setup-howto) on PC or Mac
+- [moonrider.xyz](https://moonrider.xyz/) = **Beat Saber** for free
+- Try **climbing** in [VRChat](https://www.oculus.com/experiences/quest/1856672347794301/) (free)
+- Play **paintball** with your friends in [RecRoom](https://www.oculus.com/experiences/quest/2173678582678296) (free)
+- Try **zero-gravity** exploration of the [ISS](https://www.oculus.com/experiences/quest/2094303753986147) (free)
+- Don't scratch **lenses**, clean them only with microfiber cloth. If you usually wear glasses, use the provided spacer, or (like me) don't wear them while you're in the headset.
+- Set the headset in a **comfortable position**:
   1. loose all the straps
   2. wear the headset, and hold it with one hand, in a position in which you see the screen clearly. Adjust the distance between eyes if necessary.
   3. tighten the top strap first, so the bottom cord holds under the very back bone of the rear of your skull. (to take on some of the weight of the headset off the front of your head)
