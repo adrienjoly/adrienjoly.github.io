@@ -4,22 +4,6 @@ date: 2020-03-29
 layout: blog
 ---
 
-<style>
-  .caption {
-    display: block;
-    position: relative;
-    top: -16px;
-    color: grey;
-    font-size: small;
-    text-align: center;
-  }
-  img, .img {
-    display: block;
-    width: 600px;
-    margin: 32px auto;
-  }
-</style>
-
 <iframe class="img" width="560" height="315" src="https://www.youtube.com/embed/_yfizXzgswM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Nous en sommes à deux semaines de confinement pour ralentir la contagion du coronavirus (voir [cette vidéo de Paris, vide](https://www.youtube.com/watch?v=_yfizXzgswM)). Dans ces circonstances, on ne rate pas d'occasion de s'échanger les nouvelles. Et surtout, on ne manque pas de choses à se dire. On découvre (presque) tous une nouvelle façon de vivre et de travailler. Notre quotidien, nos habitudes et même nos réflexes sont chamboulés. Les plateformes de communication par internet n'ont probablement jamais été aussi utilisées qu'en ce moment.

@@ -4,14 +4,6 @@ date: 2020-03-29
 layout: blog
 ---
 
-<style>
-  img {
-    display: block;
-    width: 600px;
-    margin: 32px auto;
-  }
-</style>
-
 Suite de [partie 1](/posts/2020-03-29-confinement).
 
 ## Les Projets
