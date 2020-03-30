@@ -10,6 +10,8 @@ description: What I’m doing now
 
 I’m home in Montreuil, Paris area, France.
 
+- 🇫🇷 Je viens de publier un article en Français pour donner des nouvelles plus détaillées: [Confinement, entre autres nouvelles](/posts/2020-03-29-confinement).
+
 - 🏠 Since Thursday, March 12th, Camille and I are confined at home, to reduce the spread of the COVID-19/Coronavirus. Fortunately, we have a great fiber connection to the Internet and two adorable 🐈 kittens to join us in this fight!
 
 - 🎓 I'm still [teaching](/teaching) back-end / API programming with Node.js. Last week, I gave a 5-day class to 20 students, from home! It was challenging but it went well. 😌
@@ -26,8 +28,8 @@ I’m home in Montreuil, Paris area, France.
 
   > We are open to [contributions](https://openwhyd.org/contribute) and/or [donations](https://openwhyd.org/donate).
 
-- 🎲 Now that I can't go out much, I'm happy to use my Oculus Quest every day, for my daily VR 🥊 exercise routine, but also to play games with my friends. (e.g. Crisis VRigade is awesome, I recommend it!)
+- 🎲 Now that I can't go out much, I'm happy to use my Oculus Quest every day, for my daily VR 🥊 exercise routine, but also to play games with my friends. (e.g. Crisis VRigade is awesome, I recommend it! Also check out a [list of other experiences I recommend on the Oculus Quest](/vr))
 
-> Last update was March 26th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was March 30th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
