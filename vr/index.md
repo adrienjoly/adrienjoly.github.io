@@ -40,5 +40,6 @@ After [setting up SideQuest](https://sidequestvr.com/#/setup-howto) on your comp
 - [Tea For God](https://sidequestvr.com/#/app/65) is a futuristic shooting game that will adapt to your playing room, so you can move into rooms and elevators by actually walking infinitely, without ever running into a wall. It's very hard to describe, you gotta experience it yourself!
 - [QuakeQuest](https://sidequestvr.com/#/app/93) and [Quake2Quest](https://sidequestvr.com/#/app/353) are ports of the well-known 1st-person shooters on Oculus Quest. The six degrees of freedom enabled by Oculus Quest bring them to another level!
 - [Lambda1 VR](https://sidequestvr.com/#/app/124) is a port of Half-Life on Oculus Quest. Like for Quake and Quake 2, you will have to upload the data files from the PC game. (I think it works with the free demo, too)
+- [Descent Alps](https://sidequestvr.com/#/app/668) is a ski simulator in which you turn by leaning your weight in the direction of the turn.
 
 <!-- also, the list of games and experiences I bought/downloaded from the Oculus store: https://drive.google.com/open?id=1V0CjTnBa8r1AYe91zLCthasnfXB4Mso9 -->
