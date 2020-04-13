@@ -20,17 +20,17 @@ Please contact me if you're excited or curious about any of these topics. I'd be
 
 <!-- listed from _data/ideas.yaml -->
 {% for group in site.data.ideas %}
-### Goal: {{ group.goal }}
+### {{ group.goal }}
 <ul class="ideas">
   {% for item in group.ideas %}
-    <li id="{{ forloop.index }}">
+    <li>
       {% for tag in item.tags %}
         <span class="hashtag">#{{ tag }}</span>
       {% endfor %}
       {{ item.idea | markdownify }}
       <div class="vote-button">
         <div class="btn-o" data-scribe="component:button" style="width: 61px;">
-          <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%20{% for tag in item.tags %}%23{{ tag | url_encode }}%20{% endfor %}{{ item.idea | url_encode }}&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%23{{ forloop.index }}&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
+          <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%20{% for tag in item.tags %}%23{{ tag | url_encode }}%20{% endfor %}{{ item.idea | url_encode }}&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%23{{ group.goal | slugify }}&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
             <i></i>
             <span class="label">Tweet</span>
           </a>
