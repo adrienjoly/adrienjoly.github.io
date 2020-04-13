@@ -13,8 +13,16 @@ Please contact me if you're excited or curious about any of these topics. I'd be
 
 <link rel="stylesheet" href="tweet-btn.css">
 <style>
-  .hashtag{ color: #0366d6; }
-  .vote-button{ display: inline-block; opacity: 0.5; }
+  .hashtag{ color: #d0d0d0; }
+  .vote-button {
+    display: inline-block;
+    opacity: 0.2;
+    vertical-align: text-top;
+    margin-left: 8px;
+  }
+  .vote-button:hover {
+    opacity: 0.5;
+  }
   .ideas p { display: inline; }
 </style>
 
