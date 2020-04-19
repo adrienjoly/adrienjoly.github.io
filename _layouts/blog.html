@@ -50,6 +50,7 @@
     </script>
     {% endif %}
 
+    <!--
     <script src='{{ "/assets/share-selected-text/shareSelectedText.js?v=" | append: site.github.build_revision | relative_url }}'></script>
     <script>
       // plugin initialization with default options
@@ -67,6 +68,16 @@
           facebookDisplayMode: 'popup', //can be 'popup' || 'page'
           tooltipTimeout: 250  //Timeout before that the tooltip appear in ms
       });
+    </script>
+    -->
+    <script src="https://unpkg.com/sharect@2.0.0/dist/sharect.js"></script>
+    <script>
+      Sharect.config({
+        facebook: true,
+        twitter: true,
+        twitterUsername: 'adrienjoly',
+        selectableElements: ['p', 'h1', 'h2', 'li']
+      }).init();
     </script>
 
   </body>
