@@ -106,7 +106,7 @@ Alors, oui, cette pause temporaire d'activité a mis des millions de personnes d
 
 Mais est-ce vraiment la faute d'un virus trop agressif ? Ou est-ce celle d'un modèle social souffrant d'un **manque de résilience** ?
 
-Une chose est certaine: nous venons de prouver que le ciel de Los Angeles pouvait redevenir bleu en un mois et que la Chine pouvait réduire son taux de particules fines de 20 à 30% en trois mois.
+Une chose est certaine: nous venons de prouver que le ciel de Los Angeles pouvait redevenir bleu en un mois et que la Chine pouvait [réduire son taux de particules fines](https://www.forbes.fr/environnement/lincroyable-video-de-levolution-de-la-pollution-en-chine-pendant-la-crise/) de 20 à 30% en trois mois.
 
 Maintenant que nous disposons de preuves que la situation environnementale peut s'améliorer en peu de temps, nous n'avons plus d'excuses: nous devons trouver des solutions pour réduire notre empreinte carbone sans faire payer l'addition aux citoyens les plus démunis.
 
