@@ -1,5 +1,5 @@
 ---
-title: Confinement, entre autres nouvelles – Partie 2 (brouillon / notes / WIP)
+title: Confinement, entre autres nouvelles – Partie 3 (brouillon / notes / WIP)
 date: 2020-03-29
 layout: blog
 ---
@@ -25,14 +25,7 @@ Suite de [partie 1](/posts/2020-03-29-confinement).
     - profs ont besoin de (mes) outils (https://twitter.com/adrienjoly/status/1243550702644928513)
     - opportunité de tester méthodologies craft à distance
 
-### conclusions tirées pendant le confinement
-
-- densité de population: risque augmenté de contamination
-- empreinte carbone: la chine a prouvé qu'on pouvait avoir un impact énorme à sa réduction, en très peu de temps
-- des métiers peu valorisés se sont révélés être critiques pour les citoyens
-- en situation de crise, les entreprises doivent pouvoir compter sur l'aide de l'état, et les citoyens (notamment ceux qui ont perdu leur activité) sur la sécurité sociale
-
-### mes espoirs sociétaux post-confinement
+## Reflexions / espoirs post-covid
 
 - revaloriser les métiers qui contribuent aux besoins essentiels des citoyens: personnel hopitalier/sanitaire, approvisionnement et distrubution alimentaire, usines, mais aussi éducation.
 - donner une sécurité financière à tous les citoyens (revenu de base)
@@ -40,3 +33,17 @@ Suite de [partie 1](/posts/2020-03-29-confinement).
 - explorer les opportunités pour éviter le rassemblement de personnes en physique => meetups et conférences à distance, utilisation de VR...
 - moins de densité dans les grandes villes
 - moins de voyages longue distance (cf https://ecolab.ademe.fr/transport), pour réduire les risques d'épidémie, l'empreinte carbone, mais aussi pour inciter à mieux se renseigner et s'intéresser à la culture de sa destination avant d'y aller et ne pas encorager le tourisme "ludique" (ex: nouvel an / EVG / weekend à barcelone)
+
+1/ which are the countries that dealt best with the pandemic? What have they built? How? What for? Do we see ourselves fit into their values, their motivations, their culture? Do we want to follow their example?
+
+6/ instead of building more, I hope that we, citizens, will live, work, consume and contribute more locally, at the neighborhood level, to increase solidarity, emergence and sustain of modest but viable businesses, and optimize our time for health, happiness and sustainability.
+
+7/ I hope that we’ll be more mindful about mobility: does it make sense to pack millions of workers on roads, buses, and trains during « rush hours », wasting time, energy and health, just so office workers can sit together in huge buildings that become useless at night?
+
+8/ Does it make sense to spend a weekend in another country just because it’s cheap to fly? I believe that travelling is good. But traveling less would make each travel more worthwhile, make us invest more time learning about where we’re going and appreciating their culture.
+
+9/ I believe that we, as a society, should slow down and re-think our priorities towards health, happiness and sustainability. I believe that living « more local » is key.
+
+UBI
+
+=> I believe that building things is not the answer.
