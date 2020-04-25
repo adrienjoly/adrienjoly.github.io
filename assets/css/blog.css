@@ -58,7 +58,7 @@ a {
   text-align: center;
 }
 
-img, .img {
+img, .img, twitter-widget {
   display: block;
   width: 600px;
   margin: 32px auto;
