@@ -2,7 +2,7 @@
 title: Teaching
 ---
 
-> 📌 Also check out my list of [talks](/talks).
+> 📌 Also check out my [talks](/talks) and [blog posts](/posts).
 
 ## 2019-2020
 
@@ -40,6 +40,6 @@ Between October 2015 and June 2018, I was giving a Web Programming Basics with J
 - Course material: [Cours JavaScript](https://adrienjoly.com/cours-javascript/)
 - My learnings, as a teacher: [Enseigner le développement web à 85 étudiants sans s’arracher les cheveux](https://medium.com/scribe/enseigner-le-d%C3%A9veloppement-web-%C3%A0-85-%C3%A9tudiants-sans-sarracher-les-cheveux-%EF%B8%8F-e518274f7063) (French)
 
-> Last update was March 27th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/teaching)
+> Last update was May 25th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/teaching)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
