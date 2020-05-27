@@ -43,3 +43,7 @@ After [setting up SideQuest](https://sidequestvr.com/#/setup-howto) on your comp
 - [Descent Alps](https://sidequestvr.com/#/app/668) is a ski simulator in which you turn by leaning your weight in the direction of the turn.
 
 <!-- also, the list of games and experiences I bought/downloaded from the Oculus store: https://drive.google.com/open?id=1V0CjTnBa8r1AYe91zLCthasnfXB4Mso9 -->
+
+## Other useful resources
+
+- [How To Clean VR Headset Lenses Properly + Stop Fogging - YouTube](https://www.youtube.com/watch?v=Q_weiJGXQs0)
