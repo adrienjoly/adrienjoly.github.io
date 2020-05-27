@@ -2,6 +2,10 @@
 title: Projects
 ---
 
+> This page is getting old! 😓
+> 
+> Check out my [open-source projects](/prod), or my [homepage](/).
+
 <h1>Recent projects</h1>
 
 <ul class="items thumbs">

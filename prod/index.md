@@ -3,7 +3,13 @@ title: Products & side projects
 description: Products I crafted and shipped with ♥️ love
 ---
 
-> Previously, I worked 4.5 years for [Whyd](https://medium.com/openwhyd/music-amongst-other-topics-a4f41657d6d), freelanced for 1.5 years, and [developed my own products](https://hackernoon.com/12-months-to-become-an-indie-hacker-ad0c916c1f5f) for 1 year.
+> In a nutshell, I've been maintaining several projects (most of them are [open source](https://github.com/adrienjoly/)):
+> 
+> - productivity tools; (e.g. [Next Step for Trello](https://adrienjoly.com/chrome-next-step-for-trello) and [Scribe bot for Telegram](https://github.com/adrienjoly/telegram-scribe-bot))
+> - education material; (e.g. [Startup Tour](https://www.udemy.com/startuptour/?couponCode=AJNOW20), [js-test](https://github.com/adrienjoly/js-test) and a [Node.js course](/teaching))
+> - and products for music lovers and musicians. (e.g. [Openwhyd](https://openwhyd.org), [Album Shelf](https://github.com/adrienjoly/album-shelf) and [a chiptune synthesizer made with WebMIDI](https://github.com/adrienjoly/webmidi-launchkey-mini))
+> 
+> I developed many of them while I was experimenting [life as a Indie Hacker](https://hackernoon.com/12-months-to-become-an-indie-hacker-ad0c916c1f5f), for 1 year.
 >
 > Also check out [my now page](/now) and my [list of ideas](/ideas).
 
@@ -19,7 +25,11 @@ description: Products I crafted and shipped with ♥️ love
 
 - 🎵 [Openwhyd](https://github.com/openwhyd/openwhyd) (*formerly known as Whyd*), an open-source and crowdfunded web app for music lovers to discover, collect and play music tracks found on popular streaming platforms: Youtube, Soundcloud, Deezer, Bandcamp...
 
-## Products I shipped in 2016-2017
+- ☑️ <a href="https://adrienjoly.com/chrome-next-step-for-trello">Next Step for Trello</a>, an extension for Google Chrome that displays pending checklist items of each card, directly on the board view.
+
+- 🚜 <a href="https://www.npmjs.com/package/pdfreader">pdfreader</a>, a `npm` module to read text and parse tables from PDF files, with automatic column detection, and rule-based parsing.
+
+## Other products I shipped in 2016-2017
 
 Between 2016 and 2017, I spent most of my time crafting my own products. Some of them were hunted <a href="https://www.producthunt.com/@adrienjoly/made">on ProductHunt</a>.
 
@@ -30,8 +40,6 @@ Here is a list of what I shipped:
 - 💯 <a href="https://github.com/adrienjoly/classroom-submissions-to-pdf">Classroom submissions to PDF</a>, an open-source script that extracts codepen/jsfiddle/jsbin links from Google Classroom submissions, and converts them to PDF files, for paper-less annotation and grading. (<a href="https://www.youtube.com/watch?v=L7NQNe72Jec">demo video</a>)
 
 - 📂 <a href="https://info.trello.com/power-ups/comment-editor">Comment Editor by AJ</a>, a Trello Power-up that adds WYSIWYG and outliner-like editing to comments, in order to take notes more efficiently.<br />Read "<a href="https://medium.com/@adrienjoly/using-trello-as-a-living-notebook-79cb22aab81f">Using Trello as a living notebook</a>", if you want to know how I use it.
-
-- ☑️ <a href="https://adrienjoly.com/chrome-next-step-for-trello">Next Step for Trello</a>, an extension for Google Chrome that displays pending checklist items of each card, directly on the board view.
 
 - 💁 <a href="https://chrome.google.com/webstore/detail/contacts-for-google-inbox/onifklcfhbdjpkejffijcejbgoipcdmk?hl=en-US">Contacts for Google Inbox</a>, an extension for Google Chrome that allows to view and edit a sender's (or recipient's) contact details by just clicking on it.
 
@@ -57,6 +65,6 @@ Here is a list of what I shipped:
 {% endif %}
 {% endfor %}
 
-> Last update was October 5th, 2019. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/prod)
+> Last update was May 27th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/prod)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.

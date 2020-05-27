@@ -1,21 +1,15 @@
 # Recent projects
 
 - title: Algolia Site Search
-  date: (2017-NOW)
+  date: (2017-2020)
   desc:
     I lead the development of Algolia's internal Web Crawler, a scalable distributed system built in <b>Node.js</b>.
-  url: https://www.algolia.com/enterprise
+  url: https://www.algolia.com/products/crawler
   img: /img/prj_crawler_by_sebastien_navizet.png
   links:
-    - title: This is how we generate our API doc
-      url: https://docs.google.com/presentation/d/e/2PACX-1vTHuvHaqnXFDG5zxEHb7xGc4aSygAvhYYdVMJbOFSaZ9cmkiaBvg76dVbgz1L2GENaLAQUodRHQ2gx4/pub?start=false&loop=false&delayms=3000
+    - title: The Challenging Migration from Heroku to Google Kubernetes Engine
+      url: https://blog.algolia.com/challenging-migration-heroku-google-kubernetes-engine/
       className: news
-    - title: Illustration by Sébastien Navizet
-      url: https://dribbble.com/shots/3461880-Algolia-Crawler
-      className: ideas
-    - title: We're hiring!
-      url: https://jobs.lever.co/algolia/7e5b5379-30c2-4fc2-9e80-4e19893ace30
-      className: github
 
 - title: Teaching @ EEMI
   date: (2015-NOW)
