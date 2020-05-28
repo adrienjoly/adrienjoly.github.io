@@ -17,6 +17,7 @@
   title: "How *Not* to Communicate With Your Team"
   description: The story of three communication mistakes I made with my team, and how we resolved them. This is the script of the last talk I gave at Algolia, before leaving.
   url: "/posts/how-not-communicate/"
+  featured: true
 
 - date: "2019-06-02"
   title: "How to configure the HH65 hi-hat pedal on Yamaha DTX Multi-12"
@@ -37,6 +38,7 @@
   title: "The Challenging Migration from Heroku to Google Kubernetes Engine"
   url: "https://blog.algolia.com/challenging-migration-heroku-google-kubernetes-engine/"
   source: "blog.algolia.com"
+  featured: true
 
 - date: "2018-09-29"
   title: "First steps with Yamaha’s DTX Multi 12 drum pads"
@@ -57,6 +59,7 @@
   title: "Les indispensables bases du marketing pour indie hackers"
   url: "https://medium.com/@adrienjoly/les-indispensables-bases-du-marketing-pour-indie-hackers-745082472164"
   source: "medium.com"
+  featured: true
 
 - date: "2018-07-03"
   title: "Highlights from “How to Transform Your Ideas into Software Products”, by Poornima Vijayashanker"
@@ -112,6 +115,7 @@
   title: "What I learned while working as an indie developer for 2 years"
   url: "https://medium.com/@adrienjoly/what-i-learned-while-working-as-an-indie-developer-for-2-years-53619fafa81f"
   source: "medium.com"
+  featured: true
 
 - date: "2017-09-25"
   title: "Ce que j’ai appris en travaillant à mon compte pendant 2 ans"
@@ -287,6 +291,7 @@
   title: "6 erreurs à éviter en tant que développeur freelance"
   url: "https://medium.com/@adrienjoly/enseignements-après-1-an-d-erreurs-en-tant-que-développeur-freelance-916f855efd9b"
   source: "medium.com"
+  featured: true
 
 - date: "2016-03-24"
   title: "Je te passerai le bouquin"
@@ -302,6 +307,7 @@
   title: "Why Email does not stink"
   url: "https://medium.com/@adrienjoly/why-email-does-not-stink-9267c948f3f9"
   source: "medium.com"
+  featured: true
 
 - date: "2016-01-20"
   title: "Why Agile is better for getting your app or website delivered"
@@ -412,5 +418,3 @@
   title: "Accept Google Calendar invites from your other email address"
   url: "https://medium.com/@adrienjoly/"
   source: "medium.com"
-
-

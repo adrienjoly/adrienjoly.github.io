@@ -2,9 +2,17 @@
 title: Posts
 ---
 
-> 📌 Also check out my [talks](/talks) and [research publications](https://scholar.google.fr/citations?user=BI3HXcsAAAAJ).
+> Also check out my [talks](/talks) and [research publications](https://scholar.google.fr/citations?user=BI3HXcsAAAAJ).
 
-## Blog Posts
+## ⭐️ Top Blog Posts
+
+{% assign featured_posts = site.data.posts | where: "featured", true %}
+{% for post in featured_posts %}
+- [{{ post.title }}]({{ post.url }})<br/>
+  <small style="color:gray;">{{ post.date | date: "%b %-d, %Y" }}, {{ post.source }}</small>
+{% endfor %}
+
+## Recent Blog Posts
 
 {% for post in site.data.posts %}
 - [{{ post.title }}]({{ post.url }})<br/>
