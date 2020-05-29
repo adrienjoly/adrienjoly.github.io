@@ -2,7 +2,7 @@
 title: Posts
 ---
 
-> Also check out my [talks](/talks) and [research publications](https://scholar.google.fr/citations?user=BI3HXcsAAAAJ).
+> Also check out my [talks](/talks), [research publications](https://scholar.google.fr/citations?user=BI3HXcsAAAAJ) and [homepage](/).
 
 ## ⭐️ Top Blog Posts
 
@@ -26,6 +26,6 @@ title: Posts
   <small style="color:gray;">{{ post.date | date: "%b %-d, %Y" }}, {{ post.source }}</small>
 {% endfor %}
 
-> Last update was May 25th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/talks)
+> Last update was May 29th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/talks)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.

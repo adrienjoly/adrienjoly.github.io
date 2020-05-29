@@ -2,21 +2,25 @@
   title: "Espoirs pour notre société post-COVID"
   description: Suite de "Confinement, entre autres nouvelles" et "Après le COVID, qu'aurons-nous à Construire"
   url: "/posts/2020-04-25-espoirs/"
+  source: "adrienjoly.com"
 
 - date: "2020-04-19"
   title: "Après le COVID, qu'aurons-nous à Construire"
   description: Suite de "Confinement, entre autres nouvelles – Partie 1"
   url: "/posts/2020-04-19-construire/"
+  source: "adrienjoly.com"
 
 - date: "2020-03-29"
   title: "Confinement, entre autres nouvelles – Partie 1"
   description: Quelques nouvelles. Sur mon expérience de confinement, mais pas que !
   url: "/posts/2020-03-29-confinement/"
+  source: "adrienjoly.com"
 
 - date: "2020-02-07"
   title: "How *Not* to Communicate With Your Team"
   description: The story of three communication mistakes I made with my team, and how we resolved them. This is the script of the last talk I gave at Algolia, before leaving.
   url: "/posts/how-not-communicate/"
+  source: "adrienjoly.com"
   featured: true
 
 - date: "2019-06-02"
@@ -418,3 +422,9 @@
   title: "Accept Google Calendar invites from your other email address"
   url: "https://medium.com/@adrienjoly/"
   source: "medium.com"
+
+- date: "2007-07-25"
+  title: "How Semantic Technologies can rule the Web"
+  url: "https://www.facebook.com/notes/adrien-joly/how-semantic-technologies-can-rule-the-web/2887296797/"
+  source: "facebook.com"
+  featured: true
