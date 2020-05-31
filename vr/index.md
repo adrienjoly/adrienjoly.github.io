@@ -84,3 +84,5 @@ After doing so, check out these awesome games and experiences:
 - Learn how to create your own VR game or experience with A-Frame (WebXR framework): [Learn A-Frame (WebVR) - YouTube](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV)
 
 - You can also create VR games and experiences with Unity, or create rooms directly in VR (e.g. in RecRoom or VRChat), but I've not tried that yet.
+
+- Other resources: [msurguy/awesome-webxr: Compilation of links for WebXR](https://github.com/msurguy/awesome-webxr)
