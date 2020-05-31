@@ -15,7 +15,7 @@ The **Oculus Quest VR headset is a game changer** because:
 
 - Overall, it's a **great compromise** between cardboard-based VR headsets and the most immersive (but expensive) VR equipment available to date. It allows the best level of immersion. The only (minor) drawback compared to higher-end headsets is that the quality of graphics is a bit lower, both in terms of resolution and in terms of details of the 3D environments.
 
-- For ~$400 (i.e. cheaper than most VR headsets), you can experience **6 degrees of freedom** (a.k.a. "6DoF", as illustrated on the image below), meaning that the VR experiences respond not only to the movements of your head, but also to the movement of your whole body. I.e. when physically *walk* forward, the character you incarnate in the experience also walks forward. The same applied to your hands, thanks to the 3d-positioned controllers.
+- For ~$400 (i.e. cheaper than most VR headsets), you can experience **6 degrees of freedom** (a.k.a. "6DoF", as illustrated on the image below), meaning that the VR experiences respond not only to the movements of your head, but also to the movement of your whole body. I.e. when physically *walk* forward, the character you incarnate in the experience also walks forward. The same applies to your hands, thanks to the 3d-positioned controllers.
 
 - You don't need to own a gaming PC (which is usually the case with higher-end VR headsets), the Oculus Quest is as **self-contained** as a game console. As long as it's connected to WiFi, you can turn it on and play immediately.
 
@@ -75,10 +75,12 @@ After doing so, check out these awesome games and experiences:
 ## Create your own VR experiences
 
 - Create a (basic) VR space that can be explored by anyone, in 5 minutes!
-  1. Follow the tutorial on https://hubs.mozilla.com/spoke on your computer's web browser, publish it;
-  2. Open https://hub.link on the headset's browser;
+  1. Follow the tutorial on [hubs.mozilla.com/spoke](https://hubs.mozilla.com/spoke) on your computer's web browser, publish it;
+  2. Open [hub.link](https://hub.link) on the headset's web browser;
   3. Type the 4-letter code from step 1 => You're in!
 
-- Remix an existing game ([Spider-Physics](https://glitch.com/~spider-physics)) coded in a-frame / JavaScript, using [Glitch](https://glitch.com/search?q=vr) ([tutorial video](https://youtu.be/HqslsydOTvg))
+- Remix an existing game (e.g. [Spider-Physics](https://glitch.com/~spider-physics)) coded JavaScript/WebXR ([tutorial video](https://youtu.be/HqslsydOTvg))
 
-- Learn how to create your own VR game or experience with the a-frame framework: [Learn A-Frame (WebVR) - YouTube](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV)
+- Learn how to create your own VR game or experience with A-Frame (WebXR framework): [Learn A-Frame (WebVR) - YouTube](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV)
+
+- You can also create VR games and experiences with Unity, or create rooms directly in VR (e.g. in RecRoom or VRChat), but I've not tried that yet.
