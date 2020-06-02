@@ -9,7 +9,7 @@ description: What I’m doing now
 
 I’m home in Montreuil, Paris area, France.
 
-- 📝 I published news about confinement and my hopes for our post-COVID future. Check out my [posts](/posts) and [talks](/talks) pages.
+- 📝 I recently published news about work, confinement and my hopes for our post-COVID future. Check out my [posts](/posts) and [talks](/talks) pages. (Some of them are in 🇫🇷 French)
 
 - 💼 As a consultant for [SHODO](https://shodo.io/), I'm currently helping [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) refactor their data pipeline, using TDD and pair programming.
 
@@ -25,6 +25,6 @@ I’m home in Montreuil, Paris area, France.
 
 - 🎲 I enjoy my daily VR 🥊 exercise routine and playing [VR games](/vr) with friends thanks to my Oculus Quest.
 
-> Last update was May 25th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was June 2nd, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
