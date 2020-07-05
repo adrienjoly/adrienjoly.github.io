@@ -78,10 +78,14 @@ After doing so, check out these awesome games and experiences:
   1. Follow the tutorial on [hubs.mozilla.com/spoke](https://hubs.mozilla.com/spoke) on your computer's web browser, publish it;
   2. Open [hub.link](https://hub.link) on the headset's web browser;
   3. Type the 4-letter code from step 1 => You're in!
+  
+- Create (or remix) a VR experience with HTML and JavaScript code, thanks to [A-Frame](https://aframe.io) (WebXR framework).
 
-- Remix an existing game (e.g. [Spider-Physics](https://glitch.com/~spider-physics)) coded JavaScript/WebXR ([tutorial video](https://youtu.be/HqslsydOTvg))
+  - Remix an existing game (e.g. [Spider-Physics](https://glitch.com/~spider-physics)) coded JavaScript/WebXR ([tutorial video](https://youtu.be/HqslsydOTvg))
 
-- Learn how to create your own VR game or experience with A-Frame (WebXR framework): [Learn A-Frame (WebVR) - YouTube](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV)
+  - Learn how to create your own VR game or experience with A-Frame: [Learn A-Frame (WebVR) - YouTube](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV)
+  
+  - For instance, I'm learning it step by step, by developing a space exploration and shooting game inspired by "Descent": [glitch.com/~pitch-gaudy-acai](https://glitch.com/~pitch-gaudy-acai).
 
 - You can also create VR games and experiences with Unity, or create rooms directly in VR (e.g. in RecRoom or VRChat), but I've not tried that yet.
 
