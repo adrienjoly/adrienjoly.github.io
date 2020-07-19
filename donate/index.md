@@ -14,7 +14,7 @@ desc: That's where you can tip me if you want! :-)
 
 If you want to delight me with a craft beer, a game for my VR headset or a tasty dinner:
 
-- [Donate with PaylPal](https://www.paypal.me/adrienjoly)
+- [Donate with PayPal](https://www.paypal.me/adrienjoly)
 - [Donate by credit card](https://donorbox.org/next-step-for-trello)
 
 <!--
