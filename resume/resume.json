@@ -32,6 +32,17 @@
   },
   "work": [
     {
+      "company": "SHODO",
+      "position": "Senior Software Engineer / Tech Lead",
+      "website": "https://www.shodo.io/",
+      "startDate": "2020-03-02",
+      "summary": "I joined SHODO to nurture my \"software craft\" skills with like-minded professionals and apply them during missions.",
+      "highlights": [
+        "I have lead the refactoring of a JavaScript-based data integration pipeline for « Signaux Faibles », a governmental startup to detect companies that need help to avoid bankruptcy. #TypeScript #TDD #CI #Documentation",
+        "I wrote and published \"Comment rendre un code legacy à nouveau maintenable\" – How to make legacy code maintainable again – on SHODO's blog."
+      ]
+    },
+    {
       "company": "Algolia",
       "position": "Senior Software Engineer / Tech Lead",
       "website": "https://www.algolia.com/products/crawler",
