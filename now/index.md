@@ -13,7 +13,9 @@ I’m home in Montreuil, Paris area, France.
 
 - 💼 As a consultant for [SHODO](https://shodo.io/), I'm currently helping [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) refactor their data pipeline, using TDD and pair programming.
 
-  > If you want to know more about Software Crafts(wo)manship, check out this [excellent overview of Software Craft by Yannick Grenzinger](https://www.youtube.com/watch?v=FzIuAImNcis)" (1-hour video presentation, in French)
+  > If you want to know more about Software Crafts(wo)manship, watch:
+  > - [Thinking in tests, by James Shore](https://www.youtube.com/watch?v=UOOuW5tqT8M)" (31m)
+  > - [L'Artisanat Logiciel, par Yannick Grenzinger](https://www.youtube.com/watch?v=FzIuAImNcis)" (1h)
 
 - 🎓 Besides, I'm still [teaching](/teaching) back-end / API programming with Node.js. 😌
   
@@ -25,6 +27,6 @@ I’m home in Montreuil, Paris area, France.
 
 - 🎲 I enjoy my daily VR 🥊 exercise routine and playing [VR games](/vr) with friends thanks to my Oculus Quest.
 
-> Last update was June 2nd, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was August 14th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
