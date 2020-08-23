@@ -89,6 +89,12 @@ After doing so, check out these awesome games and experiences:
   
   - For instance, I'm learning it step by step, by developing a space exploration and shooting game inspired by "Descent": [glitch.com/~pitch-gaudy-acai](https://glitch.com/~pitch-gaudy-acai).
 
+  - Learning how to find, create and/or import 3D models into a a-frame scene:
+    - [Where to Find Models – A-Frame](https://aframe.io/docs/1.0.0/introduction/models.html#where-to-find-models)
+    - [Creating Custom 3D Objects for use with Three.js](https://www.youtube.com/watch?v=-gipbcWCifc), using [Vectary](https://www.vectary.com/) (3D modeling web app)
+    - [Upload GLTF GLB 3D Model Animation to A-frame WebVR from Sketchfab](https://www.youtube.com/watch?v=mPiFPv9WzOw)
+    - [Modeling a DeLorean in VR // GravitySketch + TiltBrush - YouTube](https://www.youtube.com/watch?v=HG3bzTwIuHc)
+
 - You can also create VR games and experiences with Unity, or create rooms directly in VR (e.g. in RecRoom or VRChat), but I've not tried that yet.
 
 - Other resources: [msurguy/awesome-webxr: Compilation of links for WebXR](https://github.com/msurguy/awesome-webxr)

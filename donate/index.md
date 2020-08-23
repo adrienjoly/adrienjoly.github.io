@@ -14,8 +14,9 @@ desc: That's where you can tip me if you want! :-)
 
 If you want to delight me with a craft beer, a game for my VR headset or a tasty dinner:
 
-- [Donate with PaylPal](https://www.paypal.me/adrienjoly)
+- [Donate with PayPal](https://www.paypal.me/adrienjoly)
 - [Donate by credit card](https://donorbox.org/next-step-for-trello)
+- [Become a sponsor on GitHub](https://github.com/sponsors/adrienjoly)
 
 <!--
   <p><a href="https://www.amazon.fr/gp/registry/wishlist/26MSJZAHFCAYV">...or send me a gift, from my Amazon wishlist ^^</a></p>

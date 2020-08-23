@@ -5,7 +5,7 @@
     "picture": "https://adrienjoly.com/img/photo.jpg",
     "email": "contact@adrienjoly.com",
     "website": "https://adrienjoly.com",
-    "summary": "I lead the development and maintenance of scalable web apps in production. Product quality and sustainability come from a readable and predictable code base, great documentation, and a solid suite of automated tests. I love to share my experiences and learn from others.",
+    "summary": "I develop and maintain scalable web software in production. To sustain quality and velocity, I help teams write readable and predictable code, effective documentation, and ever-running automated tests. I love to share what I've learned and learn from others.",
     "location": {
       "address": "129 avenue du Président Wilson",
       "postalCode": "93100",
@@ -32,6 +32,17 @@
   },
   "work": [
     {
+      "company": "SHODO",
+      "position": "Senior Software Engineer / Tech Lead",
+      "website": "https://www.shodo.io/",
+      "startDate": "2020-03-02",
+      "summary": "I joined SHODO to nurture my \"software craft\" skills with like-minded professionals and apply them during missions.",
+      "highlights": [
+        "Lead the refactoring of a JavaScript-based data integration pipeline for « Signaux Faibles », a startup helping companies prevent bankruptcy.",
+        "Wrote and published \"Comment rendre un code legacy à nouveau maintenable\" – How to make legacy code maintainable again – on SHODO's blog."
+      ]
+    },
+    {
       "company": "Algolia",
       "position": "Senior Software Engineer / Tech Lead",
       "website": "https://www.algolia.com/products/crawler",
@@ -39,11 +50,11 @@
       "endDate": "2020-01-31",
       "summary": "I lead the development and maintenance of Algolia’s Custom Crawler, a scalable distributed system built with Node.js and running on Google Kubernetes Engine.",
       "highlights": [
-        "I lead my team to turn a proof of concept into a robust product used by some of Algolia's most prestigious customers.",
-        "I setup integration and end-to-end tests, user documentation and a playbook for maintenance and on-call diagnostic and mitigation procedures.",
-        "I trained my team-mates to write more atomic pull requests, to write non-flaky tests and to apply best practices in their code contributions.",
-        "I gave several internal talks, about testing, pair programming and team communication.",
-        "I wrote \"The Challenging Migration from Heroku to Google Kubernetes Engine\", published on Algolia's blog."
+        "Turned a PoC into a robust product used by prestigious customers.",
+        "Put up automated tests and production maintenance recipes.",
+        "Trained team-mates to write atomic PRs, and sustainable code and tests.",
+        "Gave talks about testing, pair programming and team communication.",
+        "Wrote \"The Challenging Migration from Heroku to Google Kubernetes Engine\"."
       ]
     },
     {
@@ -52,49 +63,41 @@
       "website": "https://adrienjoly.com/teaching",
       "startDate": "2015-08-01",
       "highlights": [
-        "Previously, I taught JavaScript programming to 12 groups of 1st-year students.",
-        "More recently, I've taught back-end programming with Node.js and other courses related to technical leadership and project management."
+        "Authored and gave a course on back-end / API programming with Node.js.",
+        "Previously, I taught JavaScript programming to 12 groups of 1st-year students."
       ]
     },
     {
-      "company": "Independant Product Developer",
+      "company": "Independant Product Maker",
       "position": "(Self-Employed)",
       "website": "https://adrienjoly.com",
       "startDate": "2015-10-01",
       "endDate": "2017-11-05",
       "highlights": [
+        "Co-authored \"Startup Tour\", a 2-hour MOOC on the Lean Startup method.",
+        "Developed and launched several products and browser extensions, including \"Next Step for Trello\" (5/5 rating, 30k+ users)",
+        "Published my challenges and learnings regularly on Medium, YouTube and Twitch."
+      ],
+      "other": [
         "Developed a commercial student evaluation software with automatic code grading",
-        "Developed and launched several productivity tools and browser extensions, including \"Next Step for Trello\" (5/5 rating, 27k users)",
         "Produced and published several product demo videos on Youtube",
-        "Broadcasted a dozen of public live coding sessions on Twitch",
-        "Blogged my results, struggles and learnings on Medium.com"
-      ]
-    },
-    {
-      "company": "Startup Tour (MOOC)",
-      "position": "Co-author and teacher",
-      "website": "https://www.udemy.com/startuptour",
-      "startDate": "2015-08-01",
-      "endDate": "2016-08-01",
-      "summary": "After co-presenting Startup Tour, a free 2-hour Lean Startup course that we gave at NUMA in August 2015, David Wise and I adapted it into a MOOC / blended e-learning course in French. I explain Agile/Scrum project management, and how to build a MVP without coding.",
-      "highlights": [
-        "Co-presented a 2-hour conference at NUMA",
-        "Authored and presented 2 hours of video content"
+        "Broadcasted a dozen of public live coding sessions on Twitch"
       ]
     },
     {
       "company": "Freelance",
-      "position": "Full-stack Node/Meteor/JavaScript web application developer",
+      "position": "Full-stack Node.js / Meteor / JavaScript web application developer",
       "startDate": "2015-03-01",
-      "summary": "I built full-stack web applications and data processing scripts (see my projects and open-source libraries on github) in JavaScript/Meteor/Node.js. I also enjoyed to coach promising young developers with an entrepreneurial spirit, to help them through strategic decisions (e.g. best software stack for the foundations of the software product to be built upon), and day-to-day technical problems as they start building their product.",
+      "endDate": "2017-11-05",
+      "summary": "I built full-stack web applications and data processing scripts. See my work on https://github.com/adrienjoly.",
       "highlights": [
-        "Apr. 2015: Built a web dashboard to display charts from CSV files uploaded by users, for Deepki",
-        "Jun. 2015: Contributed to the development of a marketplace of freelancers, and provided Agile team management advice to improve efficiency and quality of production, for FreelanceRepublik",
-        "Jul. 2015: Wrote a script to extract and convert data tables from PDF files into CSV files, for Deepki",
-        "Sep. 2015: Built a web application to curate and promote hackathons, using Node.js and jQuery, for BeMyApp",
-        "2015-2016: Built the MVP of a e-commerce website to rent designer clothes, powered by Meteor.js 1.2, for Panoply",
-        "2015-2016: Managed the Agile development team of a young startup company: Ayni",
-        "Sep. 2016: Coached a young developer while he was building two Meteor.js apps for clients, for Simplon.co",
+        "Apr. 2015: Built a dashboard to visualize data from uploaded CSV files, for Deepki",
+        "Jun. 2015: Helped a team build a marketplace, for FreelanceRepublik",
+        "Jul. 2015: Wrote a script to convert data tables from PDF to CSV files, for Deepki",
+        "Sep. 2015: Built a web app. to curate and promote hackathons, for BeMyApp",
+        "2015-2016: Built a e-commerce website to rent designer clothes, for Panoply",
+        "2015-2016: Coached the Agile development team of a startup company: Ayni",
+        "Sep. 2016: Coached a young developer building Meteor.js apps, for Simplon.co",
         "Sep. 2017: Gave a 8-hour workshop on Lean Management, at ESGI"
       ]
     },
@@ -103,31 +106,30 @@
       "position": "Lead Software Engineer",
       "startDate": "2010-10-01",
       "endDate": "2015-02-01",
-      "summary": "Lead developer of a web product, from its inception.",
+      "summary": "Lead developer of a B2C startup product, from its inception. The product peaked at 100000 users, after press releases on Techcrunch, Lifehacker, and Engadget.",
       "highlights": [
-        "Discussed objectives with the founding team and proposed adequate technical solutions",
-        "Lead the development team: 1 designer, 1 iOS developer (remote) and 1 web developer",
-        "Developed the front-end in HTML+jQuery, and the back-end in Node.js, starting at v0.3",
-        "Designed the data model, populated from a big semantic graph to a MongoDB database",
-        "Also in charge of quality analysis and user support",
-        "The product peaked at 100000 users, after press releases on Techcrunch, Lifehacker, and Engadget"
+        "Discussed objectives with founders and proposed adequate technical solutions",
+        "Lead 1 designer, 1 iOS developer (remote) and 1 web developer",
+        "Developed the front-end and back-end, starting with Node.js v0.3",
+        "Projected a large semantic graph into our production MongoDB database",
+        "Open-sourced as \"Openwhyd\" after I left the company, in 2016."
       ]
     },
     {
       "company": "Alcatel-Lucent Bell Labs",
-      "position": "PhD, researcher in Context-Aware Social Networking",
+      "position": "PhD, Researcher in Context-Aware Social Networking",
       "startDate": "2007-09-01",
       "endDate": "2010-10-01",
-      "summary": "(see the \"Education\" and \"Publications\" section for more information about my PhD thesis)"
+      "summary": "(see \"Education\" section for more information about my PhD thesis)"
     },
     {
       "company": "Atos Origin",
       "position": "Mobile Software Engineer",
       "startDate": "2006-11-01",
       "endDate": "2007-08-01",
+      "summary": "Consultant in the Mobile Devices team. (Pocket PC, Windows Mobile, J2ME)",
       "highlights": [
-        "Developed R&D software for mobile devices.",
-        "Technologies: Pocket PC, Windows Mobile, .net Compact Framework, J2ME"
+        "Developed a HTTP-SmartTP proxy to run on a SIM card, for Gemalto."
       ]
     },
     {
@@ -136,8 +138,7 @@
       "startDate": "2005-12-01",
       "endDate": "2006-02-01",
       "highlights": [
-        "Development of a interoperable users management module for Joomla",
-        "Synchronization of Joomla's users repository with other open source applications (including cPanel and vTiger CRM) in the SauceOpen platform. Extensible for new applications."
+        "Developed a Joomla module to synchronize users with cPanel and vTiger CRM"
       ]
     },
     {
@@ -145,49 +146,37 @@
       "position": "Software Developer (intern)",
       "startDate": "2005-04-01",
       "endDate": "2005-06-01",
+      "summary": "Dispatching software used by firefighters' HQ in the south of France.",
       "highlights": [
-        "Made a monolithical C/C++ codebase more modulable and customizable, by extracting some of it into an external DLL library.",
-        "Resulting I/CAD software is used by firefighters' HQ in the south of France."
-      ]
-    },
-    {
-      "company": "Isotools",
-      "position": "Software Developer (intern)",
-      "startDate": "2004-06-01",
-      "endDate": "2004-08-31",
-      "highlights": [
-        "Built v2 of the cartography component, for use in production",
-        "New features: modularity, dynamic access to resources, new vector language"
+        "Extracted a DLL library from a monolithical C/C++ codebase."
       ]
     },
     {
       "company": "Isotools",
       "position": "Software Developer (intern)",
       "startDate": "2003-04-01",
-      "endDate": "2003-08-31",
+      "endDate": "2004-08-31",
+      "summary": "R&D project: integrate interative map-based charts in their CMS.",
       "highlights": [
-        "Built an interactive cartography component for a CMS",
-        "Built a compiler to store vector data into binary SWF files",
-        "Technologies: Flash, XML, Javascript, ActiveX ATL components"
+        "Built a compiler in C++ to store vector data into Flash/SWF binaries."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Openwhyd",
+      "organization": "Openwhyd.org",
       "position": "Open Source Lead Developer and Coordinator",
       "website": "https://openwhyd.org",
       "startDate": "2016-08-01",
       "summary": "After leading the development of the product formerly known as whyd.com during 3 years, I migrated its codebase into an open-source project. Today, I'm contributing to the development of Openwhyd, and coordinating other contributors.",
       "highlights": [
         "Turned ex-startup product into an open-source project",
-        "Maintains the service, talks to users, fixes bugs, and coordinates volunteers/contributors",
         "Migrated the service to better-adjusted production instance on DigitalOcean",
         "Launched a successful OpenCollective campaign to crowdfund hosting fees"
       ]
     },
     {
-      "organization": "fHACKtory",
+      "organization": "fHACKtory Hackathons",
       "position": "President, organiser, presenter",
       "website": "http://fhacktory.com/",
       "startDate": "2013-09-01",
@@ -195,25 +184,26 @@
       "summary": "Organised 4 tech-focused hackathons in Paris and Lyon."
     },
     {
-      "organization": "Angelhack",
+      "organization": "Angelhack Paris Hackathon",
       "position": "Ambassador, organiser, presenter",
       "startDate": "2013-01-01",
       "endDate": "2013-05-09",
-      "summary": "Organised the second edition of Angelhack hackathon in France, at Cifacom, Montreuil. ~100 participants."
+      "summary": "Organised the 2nd edition of Angelhack Paris, at Cifacom, for ~100 participants."
     }
   ],
   "education": [
     {
       "institution": "INSA Lyon - Institut National des Sciences Appliquées de Lyon",
-      "area": "Information Retrieval",
+      "area": "Information Retrieval • Context Awareness",
       "studyType": "PhD",
       "startDate": "2007-09-01",
       "endDate": "2010-09-01",
+      "summary": "CIFRE PhD thesis in partnership with Alcatel-Lucent Bell Labs France.",
       "highlights": [
         "Designed, prototyped and experimented a solution to match distant colleagues based on the similarity of the topics they are currently working on.",
-        "The prototype was composed of: a Firefox extension to gather the URLs of the users' currently opened tabs + a crawler to extract meaningful keywords from these URLs + a matchmaking server",
-        "Wrote about my contributions in 7 papers, published in international conferences and journals",
-        "Also contributed to a European research project, and co-authored 3 patents"
+        "Developed and deployed a Firefox extension + a matchmaking server.",
+        "Published 7 papers in international conferences and journals. https://scholar.google.fr/citations?user=BI3HXcsAAAAJ",
+        "Contributed to a ITEA2 European research project, and co-authored 3 patents"
       ]
     },
     {
@@ -223,61 +213,51 @@
       "startDate": "2003-09-01",
       "endDate": "2006-09-01",
       "highlights": [
-        "Exchange student: spent my last year at Queensland University of Technology, in Brisbane, Australia",
-        "Research internship: developed a prototype for Dr. Tjondronegoro, and co-authored 3 publications"
+        "Final year at Queensland University of Technology, in Brisbane, Australia.",
+        "Developed a PoC for Dr. Tjondronegoro, and co-authored 3 research publications."
       ]
-    }
-  ],
-  "publications": [
-    {
-      "name": "A Context Management Framework based on Wisdom of Crowds for Social Awareness applications",
-      "publisher": "PhD Thesis @ INSA Lyon - Institut National des Sciences Appliquées de Lyon",
-      "releaseDate": "2010",
-      "website": "https://www.theses.fr/2010ISAL0081",
-      "summary": "At a time when social networking sites revolutionize the usages on the Web 2.0, it has become rich, easy, and fun to share private or professional content. Sharing personal information in real-time (such as news, moods, etc ), supports the maintenance of social ties at a high scale. However, the information overload which emerged from the growing quantity of signals exchanged on these services, often in real-time, motivates a regulation of these signals (called \"mediated interactions\"), in order to reduce the temporal cost for maintaining social networks, and implied interruptions, which have a negative impact on productivity on tasks that require long-lasting attention. In the frame of this thesis, we have developed a filtering and recommendation system that relies on contextual similarity between users that produce and consume social signals, as relevance criteria. In our approach, contextual information is aggregated and interpreted on users' terminal(s), before being submitted on-demand to a server in the form of a set of weighted tags. In this thesis, we present a broad state of the art on context-awareness, social networks and information retrieval, we propose a formalization of our filtering problem, and we implement and evaluate its application for enterprise social networking."
     }
   ],
   "skills": [
     {
-      "name": "Full-stack Web Development",
-      "level": "Master",
+      "name": "Software Craft",
+      "level": "Advanced",
       "keywords": [
-        "Node.js",
-        "Express.js",
-        "JavaScript",
-        "HTML + CSS",
-        "React.js",
-        "Vue.js"
+        "TDD / BDD",
+        "Pair / Mob programming",
+        "Legacy Refactoring",
+        "Clean Code",
+        "SOLID"
       ]
     },
     {
-      "name": "Automated Testing & Continuous Integration",
+      "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "Jest",
-        "Ava",
-        "Mocha",
-        "Webdriver.io",
-        "Circle CI",
-        "Travis CI"
+        "Node.js / Express",
+        "JavaScript / TypeScript",
+        "React / Vue.js",
+        "Git",
+        "Go"
       ]
     },
     {
-      "name": "Developer Operations & Maintenance",
+      "name": "Testing & CI",
+      "level": "Master",
+      "keywords": [
+        "Jest / Ava / Mocha",
+        "Cypress / Webdriver",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "name": "DevOps & Maintenance",
       "level": "Advanced",
       "keywords": [
         "Docker",
         "Kubernetes",
         "Google Cloud Platform"
       ]
-    },
-    {
-      "name": "Technical Leadership",
-      "level": "Advanced"
-    },
-    {
-      "name": "Agile Project Management",
-      "level": "Advanced"
     }
   ],
   "languages": [
@@ -302,14 +282,6 @@
   ],
   "references": [
     {
-      "name": "Anthony Hymes",
-      "reference": "With an unwavering attention to the user experience, Adrien has built Whyd into the popular platform it is today. His thoroughness, ingenuity, and ability to respond rapidly to issues makes him an indispensable member of our team. But he more than just a programmer, his business intuition and entrepreneurial spirit bode very well for whatever future projects he chooses to embark upon."
-    },
-    {
-      "name": "Nasreddine Bouzada",
-      "reference": "Reliable, pleasant, creative, passionate, strong technical/communication skills, tough on problem solving, end user satisfaction oriented. He managed to create an overall group cohesion in the team because of his constant good humor, never hesitating to lend a hand by sharing his knowledge with his colleagues. It has been a great pleasure working with Adrien."
-    },
-    {
       "name": "Fabien Bataille",
       "reference": "Adrien is a very focused and self powered person and always pushing new ideas and solutions."
     },
@@ -318,8 +290,12 @@
       "reference": "Adrien is a reliable and collaborative colleague, responsive, methodical and efficient in his interactions. He has good ideas and is able to develop them both at theoretical and practical levels. He works well in a team, is open minded, and very friendly."
     },
     {
-      "name": "Julien Robinson",
-      "reference": "I found Adrien to be proactive, autonomous, very competent in all things software, all-in-all a passionate character. Adrien is a valuable asset for any team in research, development or innovation, for his large scope of ideas, dynamism and open mind. He is also a very good drummer!"
+      "name": "Anthony Hymes",
+      "reference": "His thoroughness, ingenuity, and ability to respond rapidly to issues makes him an indispensable member of our team. But he is more than just a programmer, his business intuition and entrepreneurial spirit bode very well for whatever future projects he chooses to embark upon."
+    },
+    {
+      "name": "Nasreddine Bouzada",
+      "reference": "Reliable, pleasant, creative, passionate, strong technical/communication skills, tough on problem solving, end user satisfaction oriented. He managed to create an overall group cohesion in the team because of his constant good humor, never hesitating to lend a hand by sharing his knowledge with his colleagues. It has been a great pleasure working with Adrien."
     },
     {
       "name": "Johann Stan",
