@@ -70,6 +70,8 @@ After doing so, check out these awesome games and experiences:
 - [Lambda1 VR](https://sidequestvr.com/#/app/124) is a port of Half-Life on Oculus Quest. Like for Quake and Quake 2, you will have to upload the data files from the PC game. (I think it works with the free demo, too)
 - [Descent Alps](https://sidequestvr.com/#/app/668) is a ski simulator in which you turn by leaning your weight in the direction of the turn.
 
+- Also check out [10 Other Awesome Things You Can Do In VR](https://youtu.be/KecTUGt-ATA) (by Cas and Chary, on YouTube)
+
 <!-- also, the list of games and experiences I bought/downloaded from the Oculus store: https://drive.google.com/open?id=1V0CjTnBa8r1AYe91zLCthasnfXB4Mso9 -->
 
 ## Create your own VR experiences
