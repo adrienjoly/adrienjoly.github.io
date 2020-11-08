@@ -13,17 +13,15 @@ Please contact me if you're excited or curious about any of these topics. I'd be
 
 <link rel="stylesheet" href="tweet-btn.css">
 <style>
-  .hashtag{ color: #d0d0d0; }
-  .vote-button {
-    display: inline-block;
-    opacity: 0.2;
-    vertical-align: text-top;
-    margin-left: 8px;
+  .hashtag {
+    color: #b7b7b7;
   }
-  .vote-button:hover {
-    opacity: 0.5;
+  .ideas p {
+    display: inline;
   }
-  .ideas p { display: inline; }
+  ul.ideas > li {
+    margin-top: 1.25em;
+  }
 </style>
 
 <!-- listed from _data/ideas.yaml -->
@@ -32,11 +30,15 @@ Please contact me if you're excited or curious about any of these topics. I'd be
 <ul class="ideas">
   {% for item in group.ideas %}
     <li>
+      {{ item.idea | markdownify }}
       {% for tag in item.tags %}
         <span class="hashtag">#{{ tag }}</span>
       {% endfor %}
-      {{ item.idea | markdownify }}
     </li>
   {% endfor %}
 </ul>
 {% endfor %}
+
+> Last update was November 8th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
+>
+> Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
