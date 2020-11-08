@@ -17,6 +17,7 @@
 
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/default.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link href='{{ "/assets/share-selected-text/shareSelectedText.min.css?v=" | append: site.github.build_revision | relative_url }}' rel='stylesheet' type='text/css'>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
@@ -41,6 +42,17 @@
 
     <script src="{{ "assets/javascript/anchor-js/anchor.min.js" | relative_url }}"></script>
     <script>anchors.add();</script>
+
+    <script src="https://unpkg.com/sharect@2.0.0/dist/sharect.js"></script>
+    <script>
+      /* plugin to ease the sharing of text currently selected on the page */
+      Sharect.config({
+        facebook: true,
+        twitter: true,
+        twitterUsername: 'adrienjoly',
+        selectableElements: ['p', 'h1', 'h2', 'li']
+      }).init();
+    </script>
 
     {% if site.google_analytics %}
     <script type="text/javascript">
