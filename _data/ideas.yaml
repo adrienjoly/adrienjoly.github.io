@@ -144,10 +144,19 @@
 - goal: Help product makers be more successful and efficient
   verb: Make
   ideas:
+  - idea: a way to visually represent the impact of refactoring software on the structure of the source code
+    note: we could leverage Doxygen, sourcetrail and/or tools mentioned Lilienthal' "legacy" talk
+    tags: software-craft
+  - idea: an language-agnostic – but CI-compatible – way to setup, run and cleanup automated end-to-end API tests
+    note: |
+      - éviter la repetition de code dans les fichiers .sh, sans nuire à la lisibilité => améliorer la lisibilité des tests
+      - ne pas imposer le téléchargement de dépendances juste pour l'exécution des tests (sauf peut-être docker ?)
+      - assurer que chaque test sera exécuté en local (test-all) et en CI (github actions .yml) => tenir les scripts en synchro, tout en conservant un step de CI par test
+      - exemple: https://github.com/signaux-faibles/opensignauxfaibles/blob/master/test-all.sh
   - idea: 'ProjectFarm: a dashboard that displays analytics (and other usage & interest feedback) of 12 projects on 1 screen'
   - idea: A programming language/framework that allows overriding sub-components declaratively, like in CSS
   - idea: a CLI to share side-project ideas and be matched with other ideas to collaborate on
-    tags: WIP
+    tags: dev
   - idea: a Firebase/Parse wrapper that would implement Meteor reactive collections's API, without having to use Meteor as backend
     tags: dev
   - idea: an IDE that proposes javascript snippets when I type "// want HTTP request with 3 retries" (or similar queries)

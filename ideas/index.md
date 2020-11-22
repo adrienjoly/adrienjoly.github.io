@@ -39,6 +39,6 @@ Please contact me if you're excited or curious about any of these topics. I'd be
 </ul>
 {% endfor %}
 
-> Last update was November 8th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
+> Last update was November 22th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
