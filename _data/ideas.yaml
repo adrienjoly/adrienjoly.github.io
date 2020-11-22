@@ -153,6 +153,12 @@
       - ne pas imposer le téléchargement de dépendances juste pour l'exécution des tests (sauf peut-être docker ?)
       - assurer que chaque test sera exécuté en local (test-all) et en CI (github actions .yml) => tenir les scripts en synchro, tout en conservant un step de CI par test
       - exemple: https://github.com/signaux-faibles/opensignauxfaibles/blob/master/test-all.sh
+    tags: software-craft
+  - idea: a GitHub Action to list the TODO comments that were added and removed in a Pull Request
+    note: |
+      - example of talking to GA API in javascript: https://github.com/adriangodong/actions-todo-bot/blob/master/src/main.ts#L24
+      - another GA that adds comments to a PR: https://github.com/dtinth/todo-actions
+    tags: dev
   - idea: 'ProjectFarm: a dashboard that displays analytics (and other usage & interest feedback) of 12 projects on 1 screen'
   - idea: A programming language/framework that allows overriding sub-components declaratively, like in CSS
   - idea: a CLI to share side-project ideas and be matched with other ideas to collaborate on
