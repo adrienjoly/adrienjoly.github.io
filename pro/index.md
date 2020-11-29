@@ -52,7 +52,10 @@ Always fascinated by computers, I wrote my first scripts and programs at the age
 - **Teacher** in several schools, including EEMI, ESGI and Web School Factory; (in Paris)
 - and I have **developed** and maintained many products as a contractor and entrepreneur – mostly open-source.
 
-In terms of stack, I've been developing software with Node.js (mostly) since 2012, but I'm eager to learn new technologies and adapt to different environments.
+In terms of technical stack and skills:
+
+- I've been developing software with Node.js (mostly) since 2012, but I'm used to learn new technologies and to adapt to different environments and constraints.
+- I know how to setup, develop and maintain a Web application across the stack: back-end & front-end development, automated testing, debugging, continuous integration, deployment, monitoring and other operations in production.
 
 ### Values
 
@@ -78,7 +81,7 @@ You want to work together? [Contact me](mailto:adrien.joly@shodo.io)
 
 ### References
 
-- Professional experience: [resume](/resume) · [teaching](/teaching) · [LinkedIn](https://www.linkedin.com/in/adrienjoly/)
+- Professional experience: [resume](/resume) · [teaching](/teaching) · [LinkedIn](https://www.linkedin.com/in/adrienjoly/) · [GitHub](https://github.com/adrienjoly)
 - Talks and publications: [talks](/talks) · [posts](/posts) · [research publications](https://scholar.google.fr/citations?user=BI3HXcsAAAAJ)
 - Side projects, ideas and hobbies: [side projects](/prod) · [list of business/software ideas](/ideas) · [album shelf](https://adrienjoly.com/album-shelf) · [musical discoveries](https://openwhyd.org/adrien) · [VR experiences](/vr)
 - Learn about Software Crafts(wo)manship: [Thinking in tests, by James Shore](https://www.youtube.com/watch?v=UOOuW5tqT8M)" (31m) · [L'Artisanat Logiciel, par Yannick Grenzinger](https://www.youtube.com/watch?v=FzIuAImNcis)" (1h)
