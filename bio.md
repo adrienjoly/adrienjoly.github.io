@@ -1,7 +1,7 @@
 quick facts:
 
 - [adrienjoly.com](adrienjoly.com), 33 y.o.
-- INTJ => intuitive **introvert** who thinks (but also judges) a lot. rare breed.
+- ~~INTJ~~ INFJ => intuitive **introvert** who thinks (but also judges) a lot. rare breed.
 - ex-lead dev of [a startup](http://whyd.com), now **freelance** full-stack web developer (javascript-based stack)
 - got a PhD in information retrieval in 2010 but prefers crafting **software** than research
 - loves [**experimenting** with his freelance life](https://medium.com/@adrienjoly/enseignements-apr%C3%A8s-1-an-d-erreurs-en-tant-que-d%C3%A9veloppeur-freelance-916f855efd9b#.nhcgtt461)
