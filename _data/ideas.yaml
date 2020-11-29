@@ -57,7 +57,7 @@
   - idea: Simple and flexible task planning app that supports dependencies (e.g. when would C end, if I do A then B)
     tags: productivity
   - idea: '"Done list", a service that would congratulate you for all the tasks that you checked today, in your favorite todo-list app.'
-  - Idea: a shortcut to paste (⌘V) a URL directly as a Markdown link
+  - idea: a shortcut to paste (⌘V) a URL directly as a Markdown link
   - idea: Web-based bittorrent client (URL to direct download)
   - idea: '"Copy That": An app that would convert a screenshot into a PDF with OCR''ed / copy-paste-able text.'
 
@@ -144,10 +144,25 @@
 - goal: Help product makers be more successful and efficient
   verb: Make
   ideas:
+  - idea: a way to visually represent the impact of refactoring software on the structure of the source code
+    note: we could leverage Doxygen, sourcetrail and/or tools mentioned Lilienthal' "legacy" talk
+    tags: software-craft
+  - idea: an language-agnostic – but CI-compatible – way to setup, run and cleanup automated end-to-end API tests
+    note: |
+      - éviter la repetition de code dans les fichiers .sh, sans nuire à la lisibilité => améliorer la lisibilité des tests
+      - ne pas imposer le téléchargement de dépendances juste pour l'exécution des tests (sauf peut-être docker ?)
+      - assurer que chaque test sera exécuté en local (test-all) et en CI (github actions .yml) => tenir les scripts en synchro, tout en conservant un step de CI par test
+      - exemple: https://github.com/signaux-faibles/opensignauxfaibles/blob/master/test-all.sh
+    tags: software-craft
+  - idea: a GitHub Action to list the TODO comments that were added and removed in a Pull Request
+    note: |
+      - example of talking to GA API in javascript: https://github.com/adriangodong/actions-todo-bot/blob/master/src/main.ts#L24
+      - another GA that adds comments to a PR: https://github.com/dtinth/todo-actions
+    tags: dev
   - idea: 'ProjectFarm: a dashboard that displays analytics (and other usage & interest feedback) of 12 projects on 1 screen'
   - idea: A programming language/framework that allows overriding sub-components declaratively, like in CSS
   - idea: a CLI to share side-project ideas and be matched with other ideas to collaborate on
-    tags: WIP
+    tags: dev
   - idea: a Firebase/Parse wrapper that would implement Meteor reactive collections's API, without having to use Meteor as backend
     tags: dev
   - idea: an IDE that proposes javascript snippets when I type "// want HTTP request with 3 retries" (or similar queries)
@@ -245,6 +260,6 @@
   - idea: Keyword-based local chatrooms -> [www.ideaswatch.com](http://www.ideaswatch.com/startup-idea/keyword-based-chatrooms)
     tags: comm
   - idea: Service to help young music bands find gigs to open for ([www.ideaswatch.com](http://www.ideaswatch.com/startup-idea/facebook-social-app-for-musicians))
-  - 1poll: a simple doodle alternative that would allow participants to add dates (and vote for them) in a textual format, in a vertical list instead of a table
+  - idea: "1poll: a simple doodle alternative that would allow participants to add dates (and vote for them) in a textual format, in a vertical list instead of a table"
   - idea: A service that allows visitors to fix typos on any blog, and get rewarded for it
     tags: biz
