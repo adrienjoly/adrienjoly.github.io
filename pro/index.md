@@ -30,18 +30,24 @@ containerClass: "container-md"
 </div>
 -->
 
-My name is Adrien Joly (_he/him_), I have been a professional software engineer since 2006.
+My name is Adrien Joly (_he/him_), based in Paris, France (CET).
+
+I have been a professional software engineer since 2006.
 
 I have also been teaching back-end web development in several schools, since 2015.
+
+I care about producing software this is both durable and useful, by aligning and retrospecting regularly with technical and functional collaborators.
+
+On this page, I share the types of services I can provide to your business, my background, values and availability.
 
 ### Services
 
 I can help your business by providing the following services:
 
 - **Software development**: I design, develop and maintain web-based software products and data processing scripts;
-- **Software Craft**: I refactor code, apply TDD/DDD/BDD methodologies and pair/mob programming to reduce technical debt, to align functional logic and processes with business requirements and constraints, and to maintain a healthy development velocity;
-- **Tech leadership**: I help team-members grow and align their practices, to make sure that they can work efficiently and that the codebase stays healthy;
-- **Strategic software consulting**: I can act as an _on-demand CTO_, to audit your business technical assets and provide recommendations on how to bootstrap or grow your start-up company efficiently.
+- **Software Craft**: I refactor legacy code, apply TDD/DDD/BDD methodologies and pair/mob programming to reduce technical debt, to align the code with business expectations and constraints, and to maintain (or reach) a healthy development velocity;
+- **Tech leadership**: I help team-members grow and align their practices, to make sure that they can work efficiently and that the codebase stays clean;
+- **Strategic software consulting**: I can act as an _on-demand CTO_, to audit your technical assets and provide recommendations on how to bootstrap or grow your business efficiently.
 
 ### Experience
 
@@ -54,28 +60,30 @@ Always fascinated by computers, I wrote my first scripts and programs at the age
 
 In terms of technical stack and skills:
 
-- I've been developing software with Node.js (mostly) since 2012, but I'm used to learn new technologies and to adapt to different environments and constraints.
-- I know how to setup, develop and maintain a Web application across the stack: back-end & front-end development, automated testing, debugging, continuous integration, deployment, monitoring and other operations in production.
+- I've been developing software with **Node.js** (mostly) since 2012, but I'm used to learn new technologies and to adapt to different environments and constraints.
+- I know how to setup, develop and maintain a Web application **across the stack**: back-end & front-end development, automated testing, debugging, continuous integration, deployment, monitoring and other operations in production.
 
 ### Values
 
-All my career, I've strived to grow as an **efficient and accountable** professional, and did my best to pick projects that were aligned with my passions and/or values.
+All my career, I've strived to grow as an **efficient and accountable** professional. As a person, I'm honest, open-minded and seek harmony – rather than competition – with my peers. I value people who share my thirst for life-long learning and sharing of knowledge.
 
-I deeply care about contributing to **make the world a better place**, by writing sustainable software and by declining projects that contribute to the development of social precarity, violence, pollution and waste, more generally. When it's possible, I particularly enjoy contributing to projects related to music, education and improving people's lives.
+I'm driven by:
 
-I join teams:
+- Writing software that is **useful**, by taking the time to listen and understand the vision and goal of its owners and end-users;
+- Writing software **efficiently**, by discussing what's the most impactful and lean next step we can implement towards reaching that goal;
+- Writing software that **works as expected**, by clarifying iteratively the underlying expectations and implementing them as automated tests and/or documentation;
+- Writing software that is **sustainable to maintain**, by helping the team commit to shared programming and communication guidelines, and by promoting practices like TDD and pair/mob programming;
+- Writing software that contributes to **making the world a better place**, by declining projects that contribute to the development of social precarity, violence, pollution and waste, more generally.
 
-- who **care** about mutual respect, personal well-being and emotional safety;
-- who are **honest and transparent** about their goals and intentions;
-- who are **open** to new ideas and opinions, and seek harmony rather than competition;
-- who are eager to keep **growing and learning**, as professionals and human beings;
-- who **embrace the uncertainty** of developing a project, while doing the best they can.
+My objective is to help your software team (re)gain **confidence, autonomy and serenity** while creating (or sustaining) **value** for your business.
+
+Note: I particularly enjoy contributing to projects related to music, education and improving people's lives.
 
 ### Availability
 
-In March, 2020, I decided to join the consulting agency [SHODO](https://shodo.io/) in order to practice my skills as a Software Crafter, to grow with like-minded professionals. As such, I am not looking for _permanent_ work opportunities at the moment.
+In March, 2020, I decided to join the consulting agency [SHODO](https://shodo.io/) in order to grow with a community of like-minded professionals and practice my skills as a Software Crafter.
 
-Based in Paris, France (CET), I'm available for remote missions.
+I'm available for missions as a contractor (through SHODO), up to 4 days per week.
 
 You want to work together? [Contact me](mailto:adrien.joly@shodo.io)
 
