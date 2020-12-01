@@ -92,8 +92,9 @@ You want to work together? [Contact me](mailto:adrien.joly@shodo.io)
 ### References
 
 - Professional experience: [resume](/resume) · [teaching](/teaching) · [LinkedIn](https://www.linkedin.com/in/adrienjoly/) · [GitHub](https://github.com/adrienjoly)
+- Examples of production code I've been refactoring: [Signaux Faibles](https://github.com/signaux-faibles/opensignauxfaibles/pulls?q=is%3Apr+is%3Aclosed+author%3Aadrienjoly) · [Openwhyd](https://github.com/openwhyd/openwhyd/pulls?q=is%3Aclosed+author%3Aadrienjoly)
 - Talks and publications: [talks](/talks) · [posts](/posts) · [research publications](https://scholar.google.fr/citations?user=BI3HXcsAAAAJ)
-- Side projects, ideas and hobbies: [side projects](/prod) · [list of business/software ideas](/ideas) · [album shelf](https://adrienjoly.com/album-shelf) · [musical discoveries](https://openwhyd.org/adrien) · [VR experiences](/vr)
+- Side projects, ideas and hobbies: [side projects](/prod) · [list of business/software ideas](/ideas) · [musical projects](/music) · [album shelf](https://adrienjoly.com/album-shelf) · [musical discoveries](https://openwhyd.org/adrien) · [VR experiences](/vr)
 - Learn about Software Crafts(wo)manship: [Thinking in tests, by James Shore](https://www.youtube.com/watch?v=UOOuW5tqT8M)" (31m) · [L'Artisanat Logiciel, par Yannick Grenzinger](https://www.youtube.com/watch?v=FzIuAImNcis)" (1h)
 
 <!--
