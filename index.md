@@ -6,7 +6,7 @@ Hi!
 
 My name is Adrien Joly (he/him). I live in Montreuil, Paris area, France.
 
-As a **Software Crafter** and **Tech Lead**, I develop full-stack web applications (mostly with TypeScript and Node.js), operate them in production and help teams fight against legacy code and technical debt. (see [my LinkedIn profile](https://www.linkedin.com/in/adrienjoly/))
+As a **Software Crafter** and **Tech Lead**, I develop full-stack web applications (mostly with TypeScript and Node.js), operate them in production and help teams fight against legacy code and technical debt. (see [my services](/pro) 🇬🇧 / 🇫🇷 [prestations](/pro/fr))
 
 I enjoy **sharing what I've learned**, by:
 
@@ -21,7 +21,7 @@ Read more: [what I'm doing now](/now).
 
 Contact: contact @ this domain name. (I prefer [email](https://medium.com/@adrienjoly/why-email-does-not-stink-9267c948f3f9#.g63r0gqsu) to [phone calls](https://byrslf.co/why-i-don-t-answer-most-phone-calls-4a71e1418854)) 😇
 
-> Last update was May 27th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
+> Last update was December 1st, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
 

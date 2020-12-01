@@ -4,11 +4,11 @@ description: Consulting services I can provide for your business.
 containerClass: "container-md"
 ---
 
-<!--
 <style>
   .language-flags {
     text-align: center;
-    height: 20px;
+    height: 50px;
+    margin: 20px;
   }
   .language-flags img {
     width: 24px;
@@ -28,7 +28,6 @@ containerClass: "container-md"
   <a href="/pro/" class="active"><img alt="English / Anglais" id="lang-en" src="/img/lang-en.svg"></a>
   <a href="/pro/fr"><img alt="French / Français" id="lang-fr" src="/img/lang-fr.svg"></a>
 </div>
--->
 
 My name is Adrien Joly (_he/him_), based in Paris, France (CET).
 
@@ -96,9 +95,3 @@ You want to work together? [Contact me](mailto:adrien.joly@shodo.io)
 - Talks and publications: [talks](/talks) · [posts](/posts) · [research publications](https://scholar.google.fr/citations?user=BI3HXcsAAAAJ)
 - Side projects, ideas and hobbies: [side projects](/prod) · [list of business/software ideas](/ideas) · [musical projects](/music) · [album shelf](https://adrienjoly.com/album-shelf) · [musical discoveries](https://openwhyd.org/adrien) · [VR experiences](/vr)
 - Learn about Software Crafts(wo)manship: [Thinking in tests, by James Shore](https://www.youtube.com/watch?v=UOOuW5tqT8M)" (31m) · [L'Artisanat Logiciel, par Yannick Grenzinger](https://www.youtube.com/watch?v=FzIuAImNcis)" (1h)
-
-<!--
-Passionné par la programmation depuis son enfance, Adrien Joly est ingénieur logiciel depuis 2007. Il a contribué à plusieurs projets de recherche et développement (chez Gemalto, Alcatel-Lucent Bell Labs et Algolia), a dirigé le développement de la start-up Whyd dont il maintient toujours le produit (devenu "Openwhyd" en 2016), et a développé plusieurs applications web en tant que freelance et entrepreneur indépendant.
-Parallèlement, et depuis 2015, Adrien donne des cours de développement logiciel dans plusieurs écoles parisiennes.
-Enfin, depuis Mars 2020, Adrien propose des prestations de développement et de conseil "craft" via l'ESN "SHODO".
--->
