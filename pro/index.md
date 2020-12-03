@@ -31,9 +31,7 @@ containerClass: "container-md"
 
 My name is Adrien Joly (_he/him_), based in Paris, France (CET).
 
-I have been a professional software engineer since 2006.
-
-I have also been teaching back-end web development in several schools, since 2015.
+I have been a professional software engineer since 2006, and teaching back-end web development in several schools, since 2015.
 
 I care about producing software this is both durable and useful, by aligning and retrospecting regularly with technical and functional collaborators.
 
@@ -71,8 +69,7 @@ I'm driven by:
 - Writing software that is **useful**, by taking the time to listen and understand the vision and goal of its owners and end-users;
 - Writing software **efficiently**, by discussing what's the most impactful and lean next step we can implement towards reaching that goal;
 - Writing software that **works as expected**, by clarifying iteratively the underlying expectations and implementing them as automated tests and/or documentation;
-- Writing software that is **sustainable to maintain**, by helping the team commit to shared programming and communication guidelines, and by promoting practices like TDD and pair/mob programming;
-- Writing software that contributes to **making the world a better place**, by declining projects that contribute to the development of social precarity, violence, pollution and waste, more generally.
+- Writing software that is **sustainable to maintain**, by helping the team commit to shared programming and communication guidelines, and by promoting practices like TDD and pair/mob programming.
 
 My objective is to help your software team (re)gain **confidence, autonomy and serenity** while creating (or sustaining) **value** for your business.
 

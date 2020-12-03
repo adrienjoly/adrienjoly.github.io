@@ -31,9 +31,7 @@ containerClass: "container-md"
 
 Je m'appelle Adrien Joly (_il/lui_), basé en région Parisienne, France.
 
-Je suis ingénieur en développement logiciel depuis 2006.
-
-J'enseigne le développement web _back-end_ dans plusieurs écoles Parisiennes depuis 2015.
+Ingénieur en développement logiciel depuis 2006, j'enseigne le développement web _back-end_ dans plusieurs écoles Parisiennes depuis 2015.
 
 Je suis sensible à l'utilité et à la durabilité du code auquel je contribue, ainsi qu'à l'amélioration continue de notre manière de le produire.
 
@@ -75,8 +73,7 @@ Les principes qui m'animent:
 - Écrire des logiciels **utiles**, en prenant le temps d'écouter et comprendre la vision et l'objectif visé par leurs commanditaires et utilisateurs;
 - Écrire des logiciels de manière **efficace**, en définissant régulièrement _la_ prochaine étape la plus simple à effectuer pour apporter le plus de valeur possible au développement du projet;
 - Écrire des logiciels qui **fonctionnent comme prévu**, en clarifiant de manière itérative les attentes puis en les reformulant sous forme de tests automatisés et/ou de documentation;
-- Écrire des logiciels **durablement maintenables**, en aidant l'équipe technique à s'engager sur des manière communes de programmer et communiquer, et en promouvant l'usage de techniques _craft_ comme TDD et la programmation collaborative (_pair/mob programming_);
-- Écrire des logiciels qui contribuent à **rendre le monde meilleur**, en déclinant mon implication dans des projets qui participent à augmenter la précarité, la violence, la pollution ou le gaspillage de ressources.
+- Écrire des logiciels **durablement maintenables**, en aidant l'équipe technique à s'engager sur des manière communes de programmer et communiquer, et en promouvant l'usage de techniques _craft_ comme TDD et la programmation collaborative (_pair/mob programming_).
 
 Mon but est d'aider votre équipe à (re)trouver **sa confiance, son autonomie et sa sérénité** tout en créant de la valeur pour votre entreprise.
 
