@@ -33,7 +33,7 @@ My name is Adrien Joly (_he/him_), based in Paris, France (CET).
 
 I have been a professional software engineer since 2006, and teaching back-end web development in several schools, since 2015.
 
-I care about producing software this is both durable and useful, by aligning and retrospecting regularly with technical and functional collaborators.
+I care about producing software that is both durable and useful, by aligning and retrospecting regularly with technical and functional collaborators.
 
 On this page, I share the types of services I can provide to your business, my background, values and availability.
 
