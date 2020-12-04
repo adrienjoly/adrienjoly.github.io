@@ -9,24 +9,24 @@ description: What I’m doing now
 
 I’m home in Montreuil, Paris area, France.
 
-- 📝 I recently published news about work, confinement and my hopes for our post-COVID future. Check out my [posts](/posts) and [talks](/talks) pages. (Some of them are in 🇫🇷 French)
+- 💼 I'm still working with [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) but I'm preparing my transition to new missions.
 
-- 💼 As a consultant for [SHODO](https://shodo.io/), I'm currently helping [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) refactor their data pipeline, using TDD and pair programming.
+  > Check out my new "pro" page: [adrienjoly.com/pro](/pro)
 
-  > If you want to know more about Software Crafts(wo)manship, watch:
-  > - [Thinking in tests, by James Shore](https://www.youtube.com/watch?v=UOOuW5tqT8M)" (31m)
-  > - [L'Artisanat Logiciel, par Yannick Grenzinger](https://www.youtube.com/watch?v=FzIuAImNcis)" (1h)
+- 🎓 I've started [teaching](/teaching) Node.js programming to 4 classes, remotely.
 
-- 🎓 Besides, I'm still [teaching](/teaching) back-end / API programming with Node.js. 😌
+  > Most recent victory: a successful mob programming session! Check out [this happy tweet](https://twitter.com/adrienjoly/status/1334413690477703168).
+
+  > Also, I'm developing a new tool to help me assess my students remotely: [_Énoncé_](https://github.com/adrienjoly/enonce).
   
-- 🌶 With my band "[Harissa](https://www.facebook.com/harissaquartet)", we finished recording our album and we are currently discussing the recoding of videos!
+- 🌶 With my band "[Harissa](https://www.facebook.com/harissaquartet)", we finished recording our album "[Radio Désert](https://harissa.bandcamp.com/album/radio-d-sert)" and we are currently discussing the recoding of videos!
 
-  > We also love giving concerts. Opportunities are welcome! 🤗
+- ⛑ During locked-down weekends, I enjoy working on [side projects](/prod). Recently, I've been spending quite some time fixing and refactoring [Openwhyd](https://github.com/openwhyd/openwhyd).
 
-- ⛑ I'm also maintaining several [side projects](/prod), notably [openwhyd.org](https://openwhyd.org) ([open-source](https://github.com/openwhyd) music curation platform, open to [contributions](https://openwhyd.org/contribute) and/or [donations](https://openwhyd.org/donate)).
+- 🥊 To stay fit and energized, I still enjoy my daily VR exercise routine on the [Oculus Quest](/vr). I've been mostly playing with "Rush", "Pistol Whip" and "Synth Riders", lately.
 
-- 🎲 I enjoy my daily VR 🥊 exercise routine and playing [VR games](/vr) with friends thanks to my Oculus Quest.
+- 🛋 And, to relax, I also enjoy playing games using Google Stadia: "Grid" and "Tomb Raider", from the comfort of my couch ^^
 
-> Last update was August 14th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was December 4th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
