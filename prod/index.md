@@ -1,25 +1,18 @@
 ---
 title: Products & side projects
-description: Products I crafted and shipped with ♥️ love
+description: Products I've crafted and shipped with ♥️ love
+containerClass: "container-md"
 ---
 
-> In a nutshell, I've been maintaining several projects (most of them are [open source](https://github.com/adrienjoly/)):
-> 
-> - productivity tools; (e.g. [Next Step for Trello](https://adrienjoly.com/chrome-next-step-for-trello) and [Scribe bot for Telegram](https://github.com/adrienjoly/telegram-scribe-bot))
-> - education material; (e.g. [Startup Tour](https://www.udemy.com/startuptour/?couponCode=AJNOW20), [js-test](https://github.com/adrienjoly/js-test) and a [Node.js course](/teaching))
-> - and products for music lovers and musicians. (e.g. [Openwhyd](https://openwhyd.org), [Album Shelf](https://github.com/adrienjoly/album-shelf) and [a chiptune synthesizer made with WebMIDI](https://github.com/adrienjoly/webmidi-launchkey-mini))
-> 
-> I developed many of them while I was experimenting [life as a Indie Hacker](https://hackernoon.com/12-months-to-become-an-indie-hacker-ad0c916c1f5f), for 1 year.
->
-> Also check out [my now page](/now) and my [list of ideas](/ideas).
+I've been maintaining various types of projects:
 
-## Recent side projects
+- productivity tools; (e.g. [Next Step for Trello](https://adrienjoly.com/chrome-next-step-for-trello) and [Scribe bot for Telegram](https://github.com/adrienjoly/telegram-scribe-bot))
+- education material and tools; (e.g. [Startup Tour](https://www.udemy.com/startuptour/?couponCode=AJNOW20), [gclass-cli](https://github.com/adrienjoly/classroom-assignments-cli), [énoncé](https://github.com/adrienjoly/enonce) and a [Node.js course](/teaching))
+- and apps for music lovers and musicians. (e.g. [Openwhyd](https://openwhyd.org), [Album Shelf](https://github.com/adrienjoly/album-shelf) and [a chiptune synth.](https://github.com/adrienjoly/webmidi-launchkey-mini))
 
-- 🤖 [Scribe bot](https://github.com/adrienjoly/telegram-scribe-bot), a virtual assistant which allows me to quickly take some notes, save ToDos and/or bookmarks through Telegram.
+Most of them are [open source](https://github.com/adrienjoly/). And I developed many of them while I was experimenting [life as a Indie Hacker](https://hackernoon.com/12-months-to-become-an-indie-hacker-ad0c916c1f5f). If I had more time, I would probably bootstrap dozens of new projects, from my [list of ideas](/ideas).
 
-- 👾 [chiptune synth](https://github.com/adrienjoly/webmidi-launchkey-mini), exploring the use of WebMidi and WebAudio to perform "chiptune" music (inspired by vintage game consoles like Nintendo Entertainment System) live, using MIDI instruments. As explained in "[Make Game Boy music in JavaScript](https://www.youtube.com/watch?v=xsKB5bRKZ4Y&t=621s)" (10-minute video), I'm thinking of using this to give an [educational concert about chiptune music](/chips). Please contact me if you know any musicians who may like to collaborate!
-
-- 💿 [album-shelf](https://github.com/adrienjoly/album-shelf), an living web page on which I maintain a collection of my favorite music albums. Made with Jekyll and Github pages.
+Would these skills be valuable for your business? See [what services I can provide](/pro).
 
 ## Products I've been maintaining for a while
 
@@ -29,11 +22,17 @@ description: Products I crafted and shipped with ♥️ love
 
 - 🚜 <a href="https://www.npmjs.com/package/pdfreader">pdfreader</a>, a `npm` module to read text and parse tables from PDF files, with automatic column detection, and rule-based parsing.
 
-## Other products I shipped in 2016-2017
+## Other side projects
 
-Between 2016 and 2017, I spent most of my time crafting my own products. Some of them were hunted <a href="https://www.producthunt.com/@adrienjoly/made">on ProductHunt</a>.
+- 💯 I'm developing [énoncé](https://github.com/adrienjoly/enonce) and [classroom-assignments-cli](https://github.com/adrienjoly/classroom-assignments-cli) to help me evaluate the understanding and progress of my students, fairly and efficiently.
 
-Here is a list of what I shipped:
+- 🛰 With [a-frame-descent-vr](https://github.com/adrienjoly/a-frame-descent-vr), I'm learning how to create a VR version of "Descent" using the "a-frame" WebXR framework.
+
+- 🤖 [Scribe bot](https://github.com/adrienjoly/telegram-scribe-bot), a virtual assistant which allows me to quickly take some notes, save ToDos and/or bookmarks through Telegram.
+
+- 👾 [chiptune synth](https://github.com/adrienjoly/webmidi-launchkey-mini), exploring the use of WebMidi and WebAudio to perform "chiptune" music (inspired by vintage game consoles like Nintendo Entertainment System) live, using MIDI instruments. As explained in "[Make Game Boy music in JavaScript](https://www.youtube.com/watch?v=xsKB5bRKZ4Y&t=621s)" (10-minute video), I'm thinking of using this to give an [educational concert about chiptune music](/chips). Please contact me if you know any musicians who may like to collaborate!
+
+- 💿 [album-shelf](https://github.com/adrienjoly/album-shelf), an living web page on which I maintain a collection of my favorite music albums. Made with Jekyll and Github pages.
 
 - 🤖 <a href="https://github.com/adrienjoly/js-test">EVAL / JS-TEST</a>, an open-source suite of software tools (including quizzes and auto-graded code exercises) to help me evaluate my students more efficiently. (see my <a href="https://www.youtube.com/playlist?list=PLmzn1C-VN6G7DsJb9wn29Pv2XkrF8aI6Q">6  videos</a>)
 
@@ -57,14 +56,12 @@ Here is a list of what I shipped:
   
 - ✍️ <a href="https://hackernoon.com/12-months-to-become-an-indie-hacker-ad0c916c1f5f">12 months to become an Indie Hacker</a> and <a href="https://hackernoon.com/what-i-learned-while-working-as-an-indie-developer-for-2-years-53619fafa81f">What I learned while working as an indie developer for 2 years</a>, retrospectives of my entrepreneurial experience (and experiments).
 
-## A selection of older projects
-
 {% for proj in site.data.side-projects %}
 {% if proj.date != "(2017)" %}
 - [{{ proj.title }}]({{ proj.url }}) {{ proj.date }}: {{ proj.desc }}
 {% endif %}
 {% endfor %}
 
-> Last update was May 27th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/prod)
+> Last update was December 5th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/prod)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
