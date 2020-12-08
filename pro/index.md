@@ -31,7 +31,7 @@ containerClass: "container-md"
 
 My name is Adrien Joly (_he/him_), based in Paris, France (CET).
 
-I have been a professional software engineer since 2006, and teaching back-end web development in several schools, since 2015.
+Software engineer since 2006, and having worked mainly with start-up companies, I've been teaching back-end web development in several schools since 2015.
 
 I care about producing software that is both durable and useful, by aligning and retrospecting regularly with technical and functional collaborators.
 
@@ -41,10 +41,11 @@ On this page, I share the types of services I can provide to your business, my b
 
 I can help your business by providing the following services:
 
-- **Software development**: I design, develop and maintain web-based software products and data processing scripts;
-- **Software Craft**: I refactor legacy code, apply TDD/DDD/BDD methodologies and pair/mob programming to reduce technical debt, to align the code with business expectations and constraints, and to maintain (or reach) a healthy development velocity;
+- **Software Craft**: I design, develop and maintain web-based software products and data processing scripts;
+- **Renovation and maintenance of existing software**: I refactor legacy code, apply TDD/DDD/BDD methodologies and pair/mob programming to reduce technical debt, to align the code with business expectations and constraints, and to maintain (or reach) a healthy development velocity;
 - **Tech leadership**: I help team-members grow and align their practices, to make sure that they can work efficiently and that the codebase stays clean;
 - **Strategic software consulting**: I can act as an _on-demand CTO_, to audit your technical assets and provide recommendations on how to bootstrap or grow your business efficiently.
+- **Technical coaching**: I can support the planning and animation of the cultural transformation of software teams. Custom training, pair coding on _katas_ then on production code and/or coaching while contributing to an ongoing project.
 
 ### Experience
 

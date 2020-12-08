@@ -31,7 +31,7 @@ containerClass: "container-md"
 
 Je m'appelle Adrien Joly (_il/lui_), basé en région Parisienne, France.
 
-Ingénieur en développement logiciel depuis 2006, j'enseigne le développement web _back-end_ dans plusieurs écoles Parisiennes depuis 2015.
+Développeur depuis 2006, principalement dans le monde des startups, j'enseigne le développement web _back-end_ dans plusieurs écoles Parisiennes depuis 2015.
 
 Je suis sensible à l'utilité et à la durabilité du code auquel je contribue, ainsi qu'à l'amélioration continue de notre manière de le produire.
 
@@ -41,10 +41,11 @@ Sur cette page, je présente les types de prestations que je propose à mes clie
 
 Voici les services que je propose à mes clients:
 
-- **Développement logiciel**: Je conçois, développe et maintiens des applications Web ainsi que des scripts de traitement de données;
-- **Artisanat logiciel**: Je ré-usine les projets logiciels désuets (aussi appelés _legacy code_), applique les méthodes TDD/DDD/BDD et la programmation à plusieurs (_pair/mob programming_) pour réduire la dette technique, pour aligner le code avec les attentes et contraintes métier, et pour tenir (ou atteindre) un cycle de développement fluide;
-- **_Leadership_ technique**: J'aide les membres de l'équipe technique à s'améliorer et à aligner leurs manières de faire, afin d'assurer un travail d'équipe efficace, un produit stable et un code source propre;
+- **Artisanat logiciel**: Je conçois, développe et maintiens des applications Web ainsi que des scripts de traitement de données;
+- **Reprise de l’existant applicatif**: Je ré-usine les projets logiciels désuets (aussi appelés _legacy code_), applique les méthodes TDD/DDD/BDD et la programmation à plusieurs (_pair/mob programming_) pour réduire la dette technique, pour aligner le code avec les attentes et contraintes métier, et pour tenir (ou atteindre) un cycle de développement fluide.
+- **_Leadership_ technique**: J'aide les membres de l'équipe technique à s'améliorer et à aligner leurs manières de faire, afin d'assurer un travail d'équipe efficace, un produit stable et un code source propre.
 - **Conseil stratégique**: Je peux intervenir comme _CTO provisoire_, pour auditer le code existant et apporter des recommandations pour démarrer ou développer efficacement votre projet.
+- **Coaching technique**: Je peux accompagner la définition et l'animation d'un plan de transformation de la culture d'une ou plusieurs équipes de développement. Formations sur mesure, programmation à plusieurs sur des _katas_ puis sur du code de production et/ou coaching embarqué en tant que contributeur d'un projet en cours.
 
 ### Expérience
 
@@ -55,7 +56,7 @@ Au cours de ma carrière, j'ai adopté des rôles variés au sein d'environnemen
 - **Chercheur** et ingénieur en recherche et développement, respectivement chez Alcatel-Lucent Bell Labs et Gemalto;
 - **Responsable des développements** (_Tech Lead_) dans plusieurs startups, dont Whyd et Algolia;
 - **Enseignant** dans plusieurs écoles, dont l'EEMI, l'ESGI et Web School Factory; (Paris)
-- j'ai **développé** et maintenu nombreux produits, en tant que prestataire et entrepreneur – souvent open-source.
+- j'ai **développé** et maintenu de nombreux produits, en tant que prestataire et entrepreneur – souvent open-source.
 
 En terme de compétences:
 
