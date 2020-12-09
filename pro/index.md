@@ -80,7 +80,7 @@ Note: I particularly enjoy contributing to projects related to music, education 
 
 In March, 2020, I joined the consulting agency [SHODO](https://shodo.io/) to grow with a community of like-minded professionals and practice my skills as a Software Crafter.
 
-I'm available for missions as a contractor (through SHODO), up to 4 days per week.
+I'm available for missions as a contractor (through SHODO), up to 1 day per week. (_last update: 2020-12-09_)
 
 I am accustomed to work remotely, from Montreuil ~ Paris, France – in the CET timezone.
 

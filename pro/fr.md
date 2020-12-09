@@ -84,7 +84,7 @@ Note: J'aime particulièrement contribuer aux projets liés à la musique, l'éd
 
 En Mars 2020, j'ai rejoint l'agence [SHODO](https://shodo.io/) pour continuer de m'améliorer en pratiquant de nouvelles techniques au sein d'une communauté de professionnels qui me ressemblent.
 
-Je suis disponible en qualité de prestataire (via SHODO), pour des missions ponctuelles ou longues. (jusqu'à 4 jours par semaine)
+Je suis disponible en qualité de prestataire (via SHODO), pour des missions ponctuelles. (jusqu'à 1 jour par semaine. _dernière mise à jour: 2020-12-09_)
 
 J'ai l'habitude de télétravailler depuis chez moi, à Montreuil, France.
 
