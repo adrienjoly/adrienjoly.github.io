@@ -159,6 +159,8 @@
       - example of talking to GA API in javascript: https://github.com/adriangodong/actions-todo-bot/blob/master/src/main.ts#L24
       - another GA that adds comments to a PR: https://github.com/dtinth/todo-actions
     tags: dev
+  - idea: a visual regression plugin for Cypress that retries until the snapshot of the page matches the expected state
+    note: See https://github.com/openwhyd/openwhyd/pull/413#issuecomment-735399255 for more context.
   - idea: 'ProjectFarm: a dashboard that displays analytics (and other usage & interest feedback) of 12 projects on 1 screen'
   - idea: A programming language/framework that allows overriding sub-components declaratively, like in CSS
   - idea: a CLI to share side-project ideas and be matched with other ideas to collaborate on
