@@ -2,34 +2,37 @@
   verb: Learn
   ideas:
   - idea: Empower smartphone users for pro-activity rather than consumption of apps and notifications, by designing a intent-based Smartphone UI.
-    tags: ui, mobile
+    tags: ui, mobile,empowerment
   - idea: Reduce stress, frustration and unmet expectations sometimes caused by digital discussion channels, by designing communication software that enable their users to convey a varying level of distance and/or engagement, whatever the modality. (SMS/messaging, collaboration platforms like Slack, community forums, email, video calls...)
     tags: communication
   - idea: Educate and train people more effectively, by providing accessible tools to create engaging learning and self-training material.
     tags: education
   - idea: Encourage our social circles to share honest, down-to-earth and passionate updates rather than showing off for popularity on social media. (join the discussion on [Pitchcard](https://www.pitchcard.io/cards/a-stream-of-honest-and-passionate-updates-from-people-we-care-about))
-    tags: social
+    tags: social, communication
   - idea: A replacement to Facebook/Twitter's feed that displays interesting activities to undertake, instead of passive consumption of friends'  updates
-    tags: social
+    tags: social, empowerment
   - idea: Tourists to experience how historic places used to look and feel, by exploring them in Augmented Reality
-    tags: ar, vr, xr, tourism
+    tags: ar, vr, xr, tourism, education
   - idea: A wifi access-point that gives access to a local web server (that serves exercises for students) + shares limited internet access (e.g. no email, no chat). Using a Intel Edison / Arduino / Raspberry board ?
     tags: hardware, teaching
   - idea: '"Picky VC": A form or chat bot that can tell if a startup idea is bullshit or not, based on its pitch'
+    tags: business, education
   - idea: '"Recipegram/recipechart": A book of recipes, in which each recipe is explained by a flowchart showing the combinations from its ingredients to the final result.'
-    tags: info
+    tags: knowledge
 
 - goal: Help humans achieve their goals
   verb: Achieve
   ideas:
-  - idea: A app-less phone based on a terminal/box that realizes fonctionality based on the nature of entered data, cf [medium.com](https://medium.com/@adrienjoly/un-telephone-sans-apps-ef4c49519674) <span class="hashtag">#nophone</span>
+  - idea: A app-less phone based on a terminal/box that realizes fonctionality based on the nature of entered data, cf [medium.com](https://medium.com/@adrienjoly/un-telephone-sans-apps-ef4c49519674)
+    tags: nophone, hardware, communication, empowerment, knowledge-management
   - idea: Make it easy and efficient to find the right professional, whatever the need. Yellow pages based on facts.
+    tags: matchmaking, knowledge-management
   - idea: a web service in which users would post a job they want to get done by a professional, and professionals would compete with public offers, so that the user can pick the most relevant/convincing one
-    tags: biz
-  - idea: a shazam for finding a web/mobile app that would solve your need, based on a description of how the app would look like
-    tags: info
+    tags: business, discovery
+  - idea: a shazam-like app to find the right web/mobile app for your current need, based on a description of how the app would look like
+    tags: empowerment, discovery
   - idea: A productivity app in which ToDos, notes and journaling are interconnected.
-    tags: productivity
+    tags: productivity, knowledge-management, empowerment 
   - idea: A good todo-list app ✅📲 (similar to [Swipes Personal](https://softwarerecs.stackexchange.com/questions/56985/alternative-to-swipesapp-swipes-personal)) for web and mobile that would be subscription-based if you want sync to work out of the box, and free to use if you setup your own back-end.
     tags: productivity
   - idea: 'A mobile (web) app to quickly take notes and update tasks in any card of my personal Trello board. Potential technical enabler: [open source markdown viewer and editor](https://hashnode.com/post/i-created-an-open-source-online-markdown-viewer-and-editor-cjxnae7td002yt6s1p88x9ssn)'
@@ -45,21 +48,21 @@
   - idea: script qui m'annonce mes taches wunderlist du jour (today + deadline)
     tags: productivity
   - idea: a web browser that keeps and maintains a structured memory of the findings you made while browsing.
-    tags: info
+    tags: knowledge-management
   - idea: '"Next Task": A todo-list app that helps you split big/scary tasks into smaller steps, and emphasises the next step to take towards your goals'
     tags: productivity
   - idea: Sorting TODO tasks by mood; e.g. "lazy", "creative", "quick-wins", "focus", "learning"...
     tags: productivity
   - idea: '"First thing in the morning": an app that motivates you every morning to achieve the tasks you had planned for the day, by: - listing the tasks you have achieved yesterday - listing today''s tasks - displaying a motivational photo'
     tags: motivation
-  - idea: 'Smart tasks agregation: only display a list of tasks that are actually TODO, from trello (and wunderlist too?), in a very clear and concise way. Possibility to say a task was done, in one click.'
-    tags: productivity
   - idea: Simple and flexible task planning app that supports dependencies (e.g. when would C end, if I do A then B)
     tags: productivity
   - idea: '"Done list", a service that would congratulate you for all the tasks that you checked today, in your favorite todo-list app.'
+    tags: motivation, well-being
   - idea: a shortcut to paste (⌘V) a URL directly as a Markdown link
-  - idea: Web-based bittorrent client (URL to direct download)
+    tags: productivity
   - idea: '"Copy That": An app that would convert a screenshot into a PDF with OCR''ed / copy-paste-able text.'
+    tags: interoperability
 
 - goal: Make (personal) knowledge easier to find and harder to loose
   verb: Find
@@ -67,6 +70,7 @@
     We, internet-connected citizens, use digital tools and consume digital media increasingly. This gives us access to an unprecedented amount of knowledge. The problem has shifted from "how to do X" to "what's the best resource to help me do X". In that context, my opinion is that: 1/ we need to improve the way we express our intents and preferences, and the way we discover, keep and find knowledge that is relevant to each of us, whatever the context; and 2/ data tracking done by Google and many other providers could actually help us achieve that, as long as we're able to access it. (See [How to Track Your YouTube Watching (And Understand It) - Mark Koester](http://www.markwk.com/youtube-tracking.html) and [How to Track the Articles You Read and Augment Your Digital Memory - Mark Koester](http://www.markwk.com/2016/11/tracking-article-reading.html))
   ideas:
   - idea: 'A service to help me keep a history of the people I know, and make them sercheable from my inbox, by sending me a daily email listing what contacts I added or updated in my Google Contacts that day. Potential technical enabler: [People API - Google Developers](https://developers.google.com/people/api/rest/v1/people)'
+    tags: knowledge-management, journaling
   - idea: |
       My dream #productivity app:
       - overview of projects; ~ Trello + Next Step
@@ -75,52 +79,54 @@
       - journaling + history; ~ Git commits
       - web clipper; ~ Evernote
       - bookmarks; ~Diggo
-    tags: productivity
+    tags: productivity, knowledge-management
   - idea: A browser extension to create a Google Contact (with photo) from a LinkedIn profile page
+    tags: knowledge-management, interoperability
   - idea: |
       Retrospect on the topics I've been interested in, during the past months and years, based on the watching history of my YouTube account
-    tags: info
+    tags: knowledge-management, journaling
   - idea: Script to automatically backup book/reading highlights from [app.blinkist.com](https://app.blinkist.com/en/highlights/) to google drive
+    tags: knowledge-management, journaling
   - idea: 'AlbumKeeper: a personal list of favorite music albums that can play from various streaming platforms. and a bookmarklet/extension for quickly adding an album found on the web.'
-    tags: music
+    tags: music, curation, journaling
   - idea: a search engine that allows users to explain the structure of the results they expect, like in GraphQL
-    tags: info
+    tags: knowledge-management, discovery, information-retrieval
   - idea: A bookmarklet to grab inspiring quotes from any website + a mobile app that pushes one of those quotes every morning
-    tags: motivation
+    tags: motivation, curation
   - idea: 'Compile multiple FAQ pages into a neat wiki-like summary (ex: a decision tree of solutions based on several specific cases)'
-    tags: info
+    tags: knowledge-management
   - idea: '"Hey…you!": A mobile app to recall names and faces of acquaintances / students / contacts, for each company / class / place. Would find and fetch photos from Linkedin, Google Images, and work offline.'
-    tags: app
+    tags: knowledge-management
   - idea: An infinite outliner that works offline, is easy to edit from phone, and auto-transforms URLs into their page title.
-    tags: info
+    tags: knowledge-management
   - idea: A language/format for expressing legal terms (e.g. terms of service) in a concise and clear manner, based on difference with "usual" terms
-    tags: info
+    tags: knowledge-management
   - idea: '"Captain Log": A web platform for developers to keep (and optionally share) a diary/log of their learnings, like if they were tweeting while working.'
-    tags: info
-  - idea: A browser extension that would measure how much time you spend reading and writing emails to each of your contacts <span class="hashtag">#timetracking</span>
+    tags: knowledge-management, journaling
+  - idea: A browser extension that would measure how much time you spend reading and writing emails to each of your contacts
     tags: productivity
   - idea: 'A map of local bars, based on my preferences and activity: friends, business meeting, etc...'
-    tags: info
+    tags: discovery
   - idea: '"Headphones Time": A popcorn-time-like app for collecting and playing playlists of tracks from various streaming services. (Youtube, Soundcloud, Bandcamp, Spotify…) (similarly to openwhyd.org)'
-    tags: music
+    tags: music, curation, discovery
   - idea: A simple way to stream nice indie films (i.e. a popcorn time for the kind of films that are accepted at the sundance festival)
-    tags: tv
+    tags: tv, discovery
   - idea: 'A service to regularly test other services, to make sure I can still rely on them. (ex: my data is still synchronized/indexed on those services)'
-    tags: info
+    tags: business
   - idea: An Amazon-like web marketplace that would tell you where to find every product, in real stores near you, right now.
-    tags: biz
+    tags: business, discovery, information-retrieval
   - idea: An offline map of closest ATMs, in the whole world
-    tags: info
+    tags: business, information-retrieval
   - idea: Improve "Card this to trello" (Chome extension) so that it uploads a screenshot of the current page to the card. [chrome.google.com](https://chrome.google.com/webstore/detail/card-this-to-trello/llapjidoaciepmfjchefhhachlmehfdl)
-    tags: info
+    tags: curation, productivity, tools
   - idea: A bookmarking tool that would capture content into a personal topic/project, and allow to integrate it later into an outline / hierarchical notepad (i.e. think "Evernote + Workflowy/Diigo") + mobile ui to "reply" easily to some of the bullet points
-    tags: info
+    tags: knowledge-management, curation, journaling
   - idea: '"Products around me": An "around me" app for searching a specific item to buy (e.g "scissors") in surrounding stores'
-    tags: biz
+    tags: business, information-retrieval
   - idea: A micro-blog of notes to keep track of personal activities
-    tags: info
+    tags: journaling
   - idea: Spreadsheet in which new data is entered at the top (antichronological records)
-    tags: info
+    tags: tools
   - idea: Conceptual / semantically-linked wiki
     tags: info
   - idea: Upload a directory (or set of web links) to the cloud in a grouped manner, so that they can safely be deleted from computer's desktop, or browser
