@@ -6,7 +6,7 @@ Hi!
 
 My name is Adrien Joly (he/him). I live in Montreuil, Paris area, France.
 
-As a **Software Crafter** and **Tech Lead**, I develop full-stack web applications (mostly with TypeScript and Node.js), operate them in production and help teams fight against legacy code and technical debt. (see [my services](/pro) 🇬🇧 / 🇫🇷 [prestations](/pro/fr))
+As a **Software Crafter** and **Tech Lead**, I develop full-stack web applications (mostly with TypeScript and Node.js), operate them in production and help my team grow. Lately, I've particularly enjoyed refactoring legacy codebases, to reduce technical debt, increase robustness and development velocity. (see [my services](/pro) 🇬🇧 / 🇫🇷 [prestations](/pro/fr))
 
 I enjoy **sharing what I've learned**, by:
 
@@ -15,13 +15,13 @@ I enjoy **sharing what I've learned**, by:
 - writing [articles](/posts)
 - and maintaining [open-source projects](/prod).
 
-I also love **playing drums** with my band [Harissa](https://www.facebook.com/harissaquartet/) and during jam sessions. Among various [musical adventures](/music), I recorded two albums: [Radio Désert](https://harissa.bandcamp.com/album/radio-d-sert) and [Survived The Great Flood](https://www.discogs.com/fr/Man-Is-Not-A-Bird-Survived-The-Great-Flood/master/870529). (with my previous band: Man Is Not A Bird)
+As a **musician**, I have been **playing drums** for [various bands and other musical projects](/music). I participated to the composition and recording of two albums: [Radio Désert](https://harissa.bandcamp.com/album/radio-d-sert) (with my band [Harissa](https://www.facebook.com/harissaquartet/)) and [Survived The Great Flood](https://www.discogs.com/fr/Man-Is-Not-A-Bird-Survived-The-Great-Flood/master/870529). (with my previous band: Man Is Not A Bird)
 
 Read more: [what I'm doing now](/now).
 
 Contact: contact @ this domain name. (I prefer [email](https://medium.com/@adrienjoly/why-email-does-not-stink-9267c948f3f9#.g63r0gqsu) to [phone calls](https://byrslf.co/why-i-don-t-answer-most-phone-calls-4a71e1418854)) 😇
 
-> Last update was December 4st, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
+> Last update was January 5th, 2021. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
 

@@ -9,9 +9,9 @@ description: What I’m doing now
 
 I’m home in Montreuil, Paris area, France.
 
-- 💼 I'm still working with [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) but I'm preparing my transition to new missions.
+- 💼 I'm still working with [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) but I'm available for short consulting missions.
 
-  > Check out my new "pro" page: [adrienjoly.com/pro](/pro)
+  > For more information about what I can do for your business, check out [adrienjoly.com/pro](/pro).
 
 - 🎓 I've started [teaching](/teaching) Node.js programming to 4 classes, remotely.
 
@@ -19,14 +19,12 @@ I’m home in Montreuil, Paris area, France.
 
   > Also, I'm developing a new tool to help me assess my students remotely: [_Énoncé_](https://github.com/adrienjoly/enonce).
   
-- 🌶 With my band "[Harissa](https://www.facebook.com/harissaquartet)", we finished recording our album "[Radio Désert](https://harissa.bandcamp.com/album/radio-d-sert)" and we are currently discussing the recoding of videos!
+- 🌶 With my band "[Harissa](https://www.facebook.com/harissaquartet)", we released our album "[Radio Désert](https://harissa.bandcamp.com/album/radio-d-sert)" and we are currently discussing the recoding of several music videos!
 
 - ⛑ During locked-down weekends, I enjoy working on [side projects](/prod). Recently, I've been spending quite some time fixing and refactoring [Openwhyd](https://github.com/openwhyd/openwhyd).
 
-- 🥊 To stay fit and energized, I still enjoy my daily VR exercise routine on the [Oculus Quest](/vr). I've been mostly playing with "Rush", "Pistol Whip" and "Synth Riders", lately.
+- 🥊 To relax and entertain myself, I enjoy immersing myself into VR games and experiences such as "Rush" (base-jumping), "Ultrawings" (flight simulator) and "Half-Life: Alyx" (survival/FPS), on my [Oculus Quest](/vr).
 
-- 🛋 And, to relax, I also enjoy playing games using Google Stadia: "Grid" and "Tomb Raider", from the comfort of my couch ^^
-
-> Last update was December 4th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was January 5th, 2021. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
