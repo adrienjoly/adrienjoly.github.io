@@ -6,6 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Adrien Joly  </title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    
+    <style>
+      hr {
+        clear: both;
+      }
+      .section-skills hr {
+        position: relative;
+        top: 12px;
+      }
+      .section-about > div,
+      .section-references > div {
+        margin-top: 24px;
+      }
+    </style>
+    
     <style media="print">
       html {
         zoom: 78%;
@@ -26,6 +41,7 @@
         float: left !important;
       }
     </style>
+    
   </head>
   <body>
   <div class="container">
@@ -43,22 +59,23 @@
         </div>
         </div>
       <hr style="color: #ccc; height: 4px;" />
-      <section class="row">
+      <section class="row section-about">
         <header class="col-md-3">
           <h3>About</h3>
         </header>
         <div class="col-md-9">
-        <p>I develop and maintain scalable web software in production. To sustain quality and velocity, I help teams write readable and predictable code, effective documentation, and ever-running automated tests. I love to share what I&#39;ve learned and learn from others.</p>
-        <strong>Email:</strong> contact@adrienjoly.com<br />
+          <p>I develop and maintain scalable web software in production. To sustain quality and velocity, I help teams write readable and predictable code, effective documentation, and ever-running automated tests. I love to share what I&#39;ve learned and learn from others.</p>
+          <strong>Email:</strong> contact@adrienjoly.com<br />
+          <hr />
         </div>
       </section>
       
-      <section class="row">
+      <section class="row section-work">
         <header class="col-md-3">
           <h3>Work Experience</h3>
         </header>
         <div class="col-md-9">
-          <div class="skills">
+          <div>
             <h3>SHODO</h3>
             <strong>Senior Software Engineer &#x2F; Tech Lead</strong>
             <p>2020 - Present</p>
@@ -159,12 +176,12 @@
         </div>
       </section>
 
-      <section class="row">
+      <section class="row section-volunteer">
         <header class="col-md-3">
           <h3>Volunteer projects</h3>
         </header>
         <div class="col-md-9">
-          <div class="skills">
+          <div>
             <h3>Openwhyd.org</h3>
             <strong>Open Source Lead Developer and Coordinator</strong>
             <p>2016 - Present</p>
@@ -191,12 +208,12 @@
         </div>
       </section>
 
-      <section class="row">
+      <section class="row section-education">
         <header class="col-md-3">
           <h3>Education</h3>
         </header>
         <div class="col-md-9">
-          <div class="skills">
+          <div>
             <h3>INSA Lyon - Institut National des Sciences Appliquées de Lyon</h3>
             <h4>Information Retrieval • Context Awareness, PhD</h4>
             <p>2007 - 2010</p>
@@ -222,14 +239,13 @@
       </section>
       
       
-      <section class="row">
+      <section class="row section-skills">
         <header class="col-md-3">
           <h3>Skills</h3>
         </header>
         <div class="col-md-9">
-          <div class="row-fluid skills">
+          <div class="row-fluid">
             <ul class="col-md-6">
-
               <li>
                 <h4>Software Craft</h4>
                 <ul>
@@ -242,7 +258,6 @@
               </li>
             </ul>
             <ul class="col-md-6">
-
               <li>
                 <h4>Web Development</h4>
                 <ul>
@@ -255,7 +270,6 @@
               </li>
             </ul>
             <ul class="col-md-6">
-
               <li>
                 <h4>Testing &amp; CI</h4>
                 <ul>
@@ -266,7 +280,6 @@
               </li>
             </ul>
             <ul class="col-md-6">
-
               <li>
                 <h4>DevOps &amp; Maintenance</h4>
                 <ul>
@@ -277,34 +290,31 @@
               </li>
             </ul>
           </div>
+          <hr />
         </div>
       </section>
       
-      <section class="row">
+      <section class="row section-references">
         <header class="col-md-3">
           <h3>References</h3>
         </header>
         <div class="col-md-9">
-          <div class="row-fluid skills">
+          <div class="row-fluid">
 
-            <p>Adrien is a very focused and self powered person and always pushing new ideas and solutions. -
-              <strong>Fabien Bataille</strong>
-            </p>
-
-            <p>Adrien is a reliable and collaborative colleague, responsive, methodical and efficient in his interactions. He has good ideas and is able to develop them both at theoretical and practical levels. He works well in a team, is open minded, and very friendly. -
-              <strong>Jérôme Picault</strong>
+            <p>Le travail d’Adrien est irréprochable, le code produit est de qualité et répond très exactement à l’objectif fixé. Adrien est ouvert d’esprit, créatif et la communication a été très fluide au sein de l’équipe. On remarque immédiatement qu’il est passionné par ce qu’il fait et son enthousiasme est communicatif. En somme, il m’a appris beaucoup de choses, j’ai pris un réel plaisir à travailler quotidiennement avec lui et j’espère que nous aurons de nouveau l’occasion de travailler ensemble. -
+              <strong>Pierre Camilleri – Data Scientist, Signaux Faibles &#x2F; Banque de France</strong>
             </p>
 
             <p>His thoroughness, ingenuity, and ability to respond rapidly to issues makes him an indispensable member of our team. But he is more than just a programmer, his business intuition and entrepreneurial spirit bode very well for whatever future projects he chooses to embark upon. -
-              <strong>Anthony Hymes</strong>
+              <strong>Anthony Hymes – Digital Marketing Manager, Whyd</strong>
             </p>
 
             <p>Reliable, pleasant, creative, passionate, strong technical&#x2F;communication skills, tough on problem solving, end user satisfaction oriented. He managed to create an overall group cohesion in the team because of his constant good humor, never hesitating to lend a hand by sharing his knowledge with his colleagues. It has been a great pleasure working with Adrien. -
-              <strong>Nasreddine Bouzada</strong>
+              <strong>Nasreddine Bouzada – Software Architect, Atos</strong>
             </p>
 
             <p>Adrien&#39;s capacity to ask the right questions, his motivation to define new scenarios that help people in their communication needs were key in the success of my Master thesis and the resulting publication. By having Adrien as a supervisor you have the certainty of fully enjoying each moment of your work. -
-              <strong>Johann Stan</strong>
+              <strong>Johann Stan – Research Engineer &#x2F; PhD Candidate, Alcatel-Lucent Bell Labs</strong>
             </p>
           </div>
         </div>
