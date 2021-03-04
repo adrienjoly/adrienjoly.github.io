@@ -71,20 +71,20 @@ D'un naturel honnête et ouvert d'esprit, je cherche l'harmonie avec mes pairs p
 
 Les principes qui m'animent:
 
-- Écrire des logiciels **utiles**, en prenant le temps d'écouter et comprendre la vision et l'objectif visé par leurs commanditaires et utilisateurs;
-- Écrire des logiciels de manière **efficace**, en définissant régulièrement _la_ prochaine étape la plus simple à effectuer pour apporter le plus de valeur possible au développement du projet;
-- Écrire des logiciels qui **fonctionnent comme prévu**, en clarifiant de manière itérative les attentes puis en les reformulant sous forme de tests automatisés et/ou de documentation;
-- Écrire des logiciels **durablement maintenables**, en aidant l'équipe technique à s'engager sur des manière communes de programmer et communiquer, et en promouvant l'usage de techniques _craft_ comme TDD et la programmation collaborative (_pair/mob programming_).
+- Pertinence: Écrire des logiciels **utiles**, en prenant le temps d'écouter et comprendre la vision et l'objectif visé par leurs commanditaires et utilisateurs;
+- Pragmatisme: Écrire des logiciels de manière **efficace**, en définissant régulièrement _la_ prochaine étape la plus simple à effectuer pour apporter le plus de valeur possible au développement du projet;
+- Rigueur: Écrire des logiciels qui **fonctionnent comme prévu**, en clarifiant de manière itérative les attentes puis en les reformulant sous forme de tests automatisés et/ou de documentation;
+- Pérennité: Écrire des logiciels **durablement maintenables**, en aidant l'équipe technique à s'engager sur des manière communes de programmer et communiquer, et en promouvant l'usage de techniques _craft_ comme TDD et la programmation collaborative (_pair/mob programming_).
 
 Mon but est d'aider votre équipe à (re)trouver **sa confiance, son autonomie et sa sérénité** tout en créant de la valeur pour votre entreprise.
 
-Note: J'aime particulièrement contribuer aux projets liés à la musique, l'éducation et/ou au bien-être.
+Note: J'apprécie particulièrement contribuer aux projets open source et/ou liés à la musique ou l'éducation.
 
 ### Disponibilité
 
 En Mars 2020, j'ai rejoint l'agence [SHODO](https://shodo.io/) pour continuer de m'améliorer en pratiquant de nouvelles techniques au sein d'une communauté de professionnels qui me ressemblent.
 
-Je suis disponible en qualité de prestataire (via SHODO), pour des missions ponctuelles. (jusqu'à 1 jour par semaine. _dernière mise à jour: 2020-12-09_)
+Je suis disponible en qualité de prestataire (via SHODO), jusqu'à 4 jours par semaine, à partir de début Avril. (_dernière mise à jour: 2021-03-04_)
 
 J'ai l'habitude de télétravailler depuis chez moi, à Montreuil, France.
 

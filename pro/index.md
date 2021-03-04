@@ -67,20 +67,20 @@ All my career, I've strived to grow as an **efficient and accountable** professi
 
 I'm driven by:
 
-- Writing software that is **useful**, by taking the time to listen and understand the vision and goal of its owners and end-users;
-- Writing software **efficiently**, by discussing what's the most impactful and lean next step we can implement towards reaching that goal;
-- Writing software that **works as expected**, by clarifying iteratively the underlying expectations and implementing them as automated tests and/or documentation;
-- Writing software that is **sustainable to maintain**, by helping the team commit to shared programming and communication guidelines, and by promoting practices like TDD and pair/mob programming.
+- Relevance: Writing software that is **useful**, by taking the time to listen and understand the vision and goal of its owners and end-users;
+- Pragmatism: Writing software **efficiently**, by discussing what's the most impactful and lean next step we can implement towards reaching that goal;
+- Rigor: Writing software that **works as expected**, by clarifying iteratively the underlying expectations and implementing them as automated tests and/or documentation;
+- Durability: Writing software that is **sustainable to maintain**, by helping the team commit to shared programming and communication guidelines, and by promoting practices like TDD and pair/mob programming.
 
 My objective is to help your software team (re)gain **confidence, autonomy and serenity** while creating (or sustaining) **value** for your business.
 
-Note: I particularly enjoy contributing to projects related to music, education and improving people's lives.
+Note: I particularly enjoy contributing to open aource projects and/or projects related to music or education.
 
 ### Availability
 
 In March, 2020, I joined the consulting agency [SHODO](https://shodo.io/) to grow with a community of like-minded professionals and practice my skills as a Software Crafter.
 
-I'm available for missions as a contractor (through SHODO), up to 1 day per week. (_last update: 2020-12-09_)
+I'm available for missions as a contractor (through SHODO), up to 4 days per week, starting in April. (_last update: 2021-03-04_)
 
 I am accustomed to work remotely, from Montreuil ~ Paris, France – in the CET timezone.
 
