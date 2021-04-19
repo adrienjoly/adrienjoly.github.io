@@ -9,22 +9,18 @@ description: What I’m doing now
 
 I’m home in Montreuil, Paris area, France.
 
-- 💼 I'm still working with [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) but I'm available for short consulting missions.
+- 💼 I'm transitioning from a year-long mission for [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) to a new client: [Choose](https://appchoose.io/).
 
   > For more information about what I can do for your business, check out [adrienjoly.com/pro](/pro).
 
-- 🎓 I've started [teaching](/teaching) Node.js programming to 4 classes, remotely.
+- 🎓 After I'm done with my [teaching](/teaching) engagements for this year, I've decided to move on to other projects.
 
-  > Most recent victory: a successful mob programming session! Check out [this happy tweet](https://twitter.com/adrienjoly/status/1334413690477703168).
+- 🌶 I miss rehearsing and giving concerts with my band "[Harissa](https://www.facebook.com/harissaquartet)"...
 
-  > Also, I'm developing a new tool to help me assess my students remotely: [_Énoncé_](https://github.com/adrienjoly/enonce).
-  
-- 🌶 With my band "[Harissa](https://www.facebook.com/harissaquartet)", we released our album "[Radio Désert](https://harissa.bandcamp.com/album/radio-d-sert)" and we are currently discussing the recoding of several music videos!
+  > Our album, "[Radio Désert](https://harissa.bandcamp.com/album/radio-d-sert)", is available on most music platforms.
 
-- ⛑ During locked-down weekends, I enjoy working on [side projects](/prod). Recently, I've been spending quite some time fixing and refactoring [Openwhyd](https://github.com/openwhyd/openwhyd).
+- 🥊 To escape from this long COVID-19 lockdown, I've enjoyed exploring planets in [No Man's Sky](https://www.nomanssky.com/), on my [Oculus Quest](/vr).
 
-- 🥊 To relax and entertain myself, I enjoy immersing myself into VR games and experiences such as "Rush" (base-jumping), "Ultrawings" (flight simulator) and "Half-Life: Alyx" (survival/FPS), on my [Oculus Quest](/vr).
-
-> Last update was January 5th, 2021. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was April 19th, 2021. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
