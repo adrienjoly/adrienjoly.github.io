@@ -74,6 +74,66 @@ After doing so, check out these awesome games and experiences:
 
 <!-- also, the list of games and experiences I bought/downloaded from the Oculus store: https://drive.google.com/open?id=1V0CjTnBa8r1AYe91zLCthasnfXB4Mso9 -->
 
+## Play PCVR games from Steam
+
+The Oculus Quest is a standalone VR headset, meaning that it does not need to be connected to a PC in order to work.
+
+That said, there is a much wider selection of VR games available on Steam, and you can experience them with your Oculus Quest if you have a Windows-based PC computer (including cloud-based, e.g. [Shadow](https://shadow.tech/)).
+
+Here is a selection of PCVR games I've enjoyed: [No Man's Sky](https://store.steampowered.com/app/275850/No_Mans_Sky/), [Windlands 2](https://store.steampowered.com/app/458580/Windlands_2/), [VTOL VR](https://store.steampowered.com/app/667970/VTOL_VR/), [STAR WARS™: Squadrons](https://store.steampowered.com/app/1222730/STAR_WARS_Squadrons/), [American Truck Simulator](https://store.steampowered.com/app/270880/American_Truck_Simulator/), and [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/), 
+
+### How
+
+There are several ways to connect the headset with the PR, including Oculus Link and [Virtual Desktop](https://www.vrdesktop.net/). I've been very satisfied by the latter.
+
+Requirements: a PC powerful enough to run VR experiences, Steam running on Windows, a very good WiFi router.
+
+To play PCVR games running on my Shadow (cloud-based PC) via Virtual Desktop, I followed the following tutorials:
+
+- [Tuto Shadow Oculus quest et Virtual desktop - VR-gamerz.fr](https://www.vr-gamerz.fr/2020/08/21/tuto-shadow-oculus-quest-et-virtual-desktop/)
+- [How to Setup Shadow PC With Oculus Quest: Cloud Gaming PC!](https://arvrtips.com/setup-shadow-pc-with-oculus-quest/)
+
+### Good to know: the situation with controllers
+
+Unfortunately, playing PCVR games on the Oculus Quest usually requires more setup than native games installed from the Oculus store. The most frustrating problems I've faced were about setting up controls. Indeed, there there different cases:
+
+- ideal: VR games that directly support "Oculus Touch" controllers, e.g. Half-Life: Alyx => they will work right away!
+- workable: games that support VR with regular game controllers (e.g. XBox / PlayStation), e.g. STAR WARS™: Squadrons => you can either use a regular USB controller, or emulate such controller with your Oculus Touch controllers (that's a feature of [Virtual Desktop](https://www.vrdesktop.net/))
+- complicated: games that allow the use of a VR headset but expect to be controlled with a keyboard and mouse, e.g. American Truck Simulator and Elite Dangerous => playing with your Oculus Touch controllers (for best immersion) is possible but it will take some effort. (see below)
+
+### Tips & Tricks
+
+#### My game does not support my Oculus Touch controllers!
+
+First, try to enable "gamepad emulation" in Virtual Desktop and restart the game.
+
+If the emulated layout is not practical enough, follow these steps:
+
+0. quit the game and disable "gamepad emulation" in Virtual Desktop (for now)
+1. in Steam, activate the "Big Picture" mode
+2. in Virtual Desktop, re-enable "gamepad emulation"
+3. back in Steam's Big Picture mode, use your controllers to navigate to your game
+4. on the game's page, navigate to the "Manage" (or "Settings") tab
+5. if it's not yet active, activate "Steam Input"
+6. navigate to "configure controls"
+7. bind the game controls to each button, trigger and stick of your Oculus Touch controllers
+8. start the game to try these controls, and refine them if necessary
+
+If you are trying to play a game which has many more controls than the Oculus Touch controllers provides, there are other options:
+
+- Setup vocal commands with [VoiceAttack - Voice Recognition for your Games and Apps](https://voiceattack.com/)
+- For flight simulators: use your Oculus Touch controllers as a HOTAS, with [ocujoy](https://github.com/lyneca/ocujoy) (experimental)
+
+#### The game has started but I hear no sound, or I can't control anything!
+
+When you start a game from Steam (or from Virtual Desktop) right after booting your PC, the game will start SteamVR, and SteamVR will steal the focus (or foreground) of the user interface, putting the game in the background. The easiest way to prevent this is to run SteamVR manually before starting the game. Otherwise, switch back to the "Desktop" and click on the game's icon, from Window's taskbar, to put the game back into the foreground.
+
+#### The game has started but my character is much too high / the user interface is far below!
+
+When your Oculus Quest is in "stationary" mode (i.e. not in "room scale"), it happens that the height of the headset is not sent correctly to the game by Virtual Desktop. In that case, switch the Oculus Quest to "room scale", and then back to "stationary" mode. When you go back to the game, the height of your POV (point of view) should be fixed.
+
+Otherwise: if you have not enabled "gamepad emulation" in Virtual Desktop, you can use SteamVR's shortcut to reset the view: push both sticks for ~2 seconds.
+
 ## Create your own VR experiences
 
 - Create a (basic) VR space that can be explored by anyone, in 5 minutes!
