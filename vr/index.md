@@ -84,9 +84,9 @@ Here is a selection of PCVR games I've enjoyed: [No Man's Sky](https://store.ste
 
 ### How
 
-There are several ways to connect the headset with the PR, including Oculus Link and [Virtual Desktop](https://www.vrdesktop.net/). I've been very satisfied by the latter.
+There are several ways to connect the headset with the PC, including Oculus Link and [Virtual Desktop](https://www.vrdesktop.net/). I've been very satisfied by the latter.
 
-Requirements: a PC powerful enough to run VR experiences, Steam running on Windows, a very good WiFi router.
+Requirements: a PC powerful enough to run VR experiences, Steam running on Windows, a good 5 GHz WiFi router.
 
 To play PCVR games running on my Shadow (cloud-based PC) via Virtual Desktop, I followed the following tutorials:
 
@@ -95,7 +95,7 @@ To play PCVR games running on my Shadow (cloud-based PC) via Virtual Desktop, I 
 
 ### Good to know: the situation with controllers
 
-Unfortunately, playing PCVR games on the Oculus Quest usually requires more setup than native games installed from the Oculus store. The most frustrating problems I've faced were about setting up controls. Indeed, there there different cases:
+Unfortunately, playing PCVR games on the Oculus Quest usually requires more setup than native games installed from the Oculus store. The most frustrating problems I've faced were about setting up controls. Indeed, there are different cases:
 
 - ideal: VR games that directly support "Oculus Touch" controllers, e.g. Half-Life: Alyx => they will work right away!
 - workable: games that support VR with regular game controllers (e.g. XBox / PlayStation), e.g. STAR WARS™: Squadrons => you can either use a regular USB controller, or emulate such controller with your Oculus Touch controllers (that's a feature of [Virtual Desktop](https://www.vrdesktop.net/))
@@ -118,6 +118,8 @@ If the emulated layout is not practical enough, follow these steps:
 6. navigate to "configure controls"
 7. bind the game controls to each button, trigger and stick of your Oculus Touch controllers
 8. start the game to try these controls, and refine them if necessary
+
+![steam input](assets/steam-input.jpg)
 
 If you are trying to play a game which has many more controls than the Oculus Touch controllers provides, there are other options:
 
