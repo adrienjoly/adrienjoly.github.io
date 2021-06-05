@@ -1,6 +1,7 @@
 ---
 title: Pro
 description: Services proposés aux entreprises.
+lang: fr-FR
 ---
 
 <div class="language-flags">
