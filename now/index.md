@@ -9,18 +9,20 @@ description: What I’m doing now
 
 I’m home in Montreuil, Paris area, France.
 
-- 💼 I'm transitioning from a year-long mission for [Signaux Faibles](https://beta.gouv.fr/startups/signaux-faibles.html) to a new client: [Choose](https://appchoose.io/).
+- 👞  One month after foot surgery, I'm finally able to get back on my feet and walk! \o/
+
+- 💼  I've been working with the technical team of [Choose](https://appchoose.io/) since April 2021, to help them industrialize some parts of their back-end software.
 
   > For more information about what I can do for your business, check out [adrienjoly.com/pro](/pro).
 
-- 🎓 After I'm done with my [teaching](/teaching) engagements for this year, I've decided to move on to other projects.
+- 🎓  Now that I'm freed from my [teaching](/teaching) engagements, I'm working on new projects with some colleagues from SHODO. I will make announcements on Twitter and LinkedIn soon!
 
-- 🌶 I miss rehearsing and giving concerts with my band "[Harissa](https://www.facebook.com/harissaquartet)"...
+- 🌶  I can't wait to be able to give concerts again, with my band "[Harissa](https://www.facebook.com/harissaquartet)"!
 
   > Our album, "[Radio Désert](https://harissa.bandcamp.com/album/radio-d-sert)", is available on most music platforms.
 
-- 🥊 To escape from this long COVID-19 lockdown, I've enjoyed exploring planets in [No Man's Sky](https://www.nomanssky.com/), on my [Oculus Quest](/vr).
+- 🛰  To relax, I still enjoy playing (almost) everyday on my [Oculus Quest](/vr), mostly exploring planets in [No Man's Sky](https://www.nomanssky.com/) and flying with the Resistance in [Star Wars Squadrons](https://www.ea.com/games/starwars/squadrons).
 
-> Last update was April 19th, 2021. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was June 5th, 2021. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
