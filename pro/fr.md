@@ -11,7 +11,7 @@ containerClass: "container-md"
 
 Je m'appelle Adrien Joly (_il/lui_), basé en région Parisienne, France.
 
-Développeur depuis 2006, principalement dans le monde des startups, j'enseigne le développement web _back-end_ dans plusieurs écoles Parisiennes depuis 2015.
+Développeur depuis 2006, je travaille principalement avec des startups.
 
 Je suis sensible à l'utilité et à la durabilité du code auquel je contribue, ainsi qu'à l'amélioration continue de notre manière de le produire.
 

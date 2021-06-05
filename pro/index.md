@@ -11,7 +11,7 @@ containerClass: "container-md"
 
 My name is Adrien Joly (_he/him_), based in Paris, France (CET).
 
-Software engineer since 2006, and having worked mainly with start-up companies, I've been teaching back-end web development in several schools since 2015.
+Software engineer since 2006, I have worked mainly with start-up companies.
 
 I care about producing software that is both durable and useful, by aligning and retrospecting regularly with technical and functional collaborators.
 
