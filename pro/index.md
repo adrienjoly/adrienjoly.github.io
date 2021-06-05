@@ -25,8 +25,8 @@ containerClass: "container-md"
   }
 </style>
 <div class="language-flags">
-  <a href="/pro/" class="active"><img alt="English / Anglais" id="lang-en" src="/img/lang-en.svg"></a>
-  <a href="/pro/fr"><img alt="French / Français" id="lang-fr" src="/img/lang-fr.svg"></a>
+  <a href="/pro/" class="active"><img alt="English / Anglais" id="lang-en" src="/img/lang-en.png"></a>
+  <a href="/pro/fr"><img alt="French / Français" id="lang-fr" src="/img/lang-fr.png"></a>
 </div>
 
 My name is Adrien Joly (_he/him_), based in Paris, France (CET).
