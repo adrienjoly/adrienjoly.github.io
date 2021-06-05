@@ -1,7 +1,6 @@
 ---
 title: Pro
 description: Services proposés aux entreprises.
-containerClass: "container-md"
 ---
 
 <div class="language-flags">

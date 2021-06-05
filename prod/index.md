@@ -1,7 +1,6 @@
 ---
 title: Products & side projects
 description: Products I've crafted and shipped with ♥️ love
-containerClass: "container-md"
 ---
 
 I've been maintaining various types of projects:

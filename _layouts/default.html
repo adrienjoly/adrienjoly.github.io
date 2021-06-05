@@ -20,7 +20,7 @@
     <link href='{{ "/assets/share-selected-text/shareSelectedText.min.css?v=" | append: site.github.build_revision | relative_url }}' rel='stylesheet' type='text/css'>
   </head>
   <body>
-    <div class="{{ page.containerClass | default: 'container-lg' }} px-3 my-5 markdown-body">
+    <div class="{{ page.containerClass | default: 'container-md' }} px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
       <h1>
         <a href="{{ "/" | absolute_url }}">

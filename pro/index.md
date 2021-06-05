@@ -1,7 +1,6 @@
 ---
 title: Pro
 description: Consulting services I can provide for your business.
-containerClass: "container-md"
 ---
 
 <div class="language-flags">
