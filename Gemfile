@@ -4,3 +4,4 @@ source 'https://rubygems.org'
 gem 'dotenv'
 gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-seo-tag'
+gem 'webrick' # cf https://github.com/imagej/imagej.github.io/pull/133
