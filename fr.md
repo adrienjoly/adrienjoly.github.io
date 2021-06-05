@@ -1,5 +1,6 @@
 ---
 title: Page d'accueil
+description: Basé à Montreuil (France), je suis un Artisan Logiciel qui joue aussi de la batterie. 🥁
 ---
 
 <div class="language-flags">
