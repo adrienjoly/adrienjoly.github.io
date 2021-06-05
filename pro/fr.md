@@ -4,26 +4,6 @@ description: Services proposés aux entreprises.
 containerClass: "container-md"
 ---
 
-<style>
-  .language-flags {
-    text-align: center;
-    height: 50px;
-    margin: 20px;
-  }
-  .language-flags img {
-    width: 24px;
-    height: 24px;
-    border-radius: 24px;
-    margin: 10px;
-    border: 2px solid transparent;
-    opacity: 0.5;
-    cursor: pointer;
-  }
-  .language-flags .active img {
-    border: 2px solid #101010;
-    opacity: 0.9;
-  }
-</style>
 <div class="language-flags">
   <a href="/pro/"><img alt="English / Anglais" id="lang-en" src="/img/lang-en.png"></a>
   <a href="/pro/fr" class="active"><img alt="French / Français" id="lang-fr" src="/img/lang-fr.png"></a>

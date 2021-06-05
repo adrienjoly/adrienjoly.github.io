@@ -232,3 +232,24 @@ h1 img {
   background: url('/img/lastfm.png') left center no-repeat;
   padding-left: 22px;
 }
+
+.language-flags {
+  text-align: center;
+  height: 50px;
+  margin: 20px;
+}
+
+.language-flags img {
+  width: 24px;
+  height: 24px;
+  border-radius: 24px;
+  margin: 10px;
+  border: 2px solid transparent;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.language-flags .active img {
+  border: 2px solid #101010;
+  opacity: 0.9;
+}
