@@ -53,7 +53,7 @@ I'm driven by:
 
 My objective is to help your software team (re)gain **confidence, autonomy and serenity** while creating (or sustaining) **value** for your business.
 
-Note: I particularly enjoy contributing to open aource projects and/or projects related to music or education.
+Note: I particularly enjoy contributing to open source projects and/or projects related to music or education.
 
 ### Availability
 
