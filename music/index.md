@@ -25,11 +25,11 @@ description: List of bands I played drums with.
 <ul class="items thumbs">
 
 	<li class="project">
-		<a class="screenshot" href="http://manisnotabird.bandcamp.com/album/survived-the-great-flood-2" target="_blank">
+		<a class="screenshot" href="https://open.spotify.com/album/5acWZQPiULxgupTkAIdWbw" target="_blank">
 			<img src="/img/band_minab.jpg" alt="man is not a bird (minab)">
 		</a>
-		<h2><a href="http://manisnotabird.bandcamp.com/album/survived-the-great-flood-2" target="_blank">Man Is Not A Bird</a><small>(2012-2014)</small></h2>
-		<p><b>Instrumental</b> band between <b>post-rock</b> and <b>math-rock</b>. Forming drummer until summer 2014. Performed 12+ gigs, recorded the album <a href="http://manisnotabird.bandcamp.com/album/survived-the-great-flood-2">"Survived the great flood" (Bandcamp)</a>.</p>
+		<h2><a href="https://open.spotify.com/album/5acWZQPiULxgupTkAIdWbw" target="_blank">Man Is Not A Bird</a><small>(2012-2014)</small></h2>
+		<p><b>Instrumental</b> band between <b>post-rock</b> and <b>math-rock</b>. Forming drummer until summer 2014. Performed 12+ gigs, recorded the album <a href="https://open.spotify.com/album/5acWZQPiULxgupTkAIdWbw">"Survived the great flood" (Spotify)</a>.</p>
 	</li>
 	
 	<li class="project">
