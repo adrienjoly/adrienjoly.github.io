@@ -7,22 +7,22 @@ description: What I’m doing now
 
 ## What I’m doing these days
 
-I’m home in Montreuil, Paris area, France.
+<!--I’m home in Montreuil, Paris area, France.-->
 
-- 👞 &nbsp; One month after foot surgery, I'm finally able to get back on my feet and walk! \o/
+- 🏖  &nbsp; I'm enjoying my vacation at Ventabren (south of France), with my parents and siblings.
 
 - 💼  &nbsp; I've been working with the technical team of [Choose](https://appchoose.io/) since April 2021, to help them industrialize some parts of their back-end software.
 
   > For more information about what I can do for your business, check out [adrienjoly.com/pro](/pro).
 
-- 🎓  &nbsp; Now that I'm freed from my [teaching](/teaching) engagements, I'm working on new projects with some colleagues from SHODO. I will make announcements on Twitter and LinkedIn soon!
+- 🎓  &nbsp; Now that I'm freed from my [teaching](/teaching) engagements, I gave 2 live coding streams on Twitch with Julien Topçu (see [/talks](/talks)) and I'm preparing a talk about clean code for DevFest Nantes 2021.
 
-- 🌶  &nbsp; I can't wait to be able to give concerts again, with my band "[Harissa](https://www.facebook.com/harissaquartet)"!
+- 🌶  &nbsp; I can't wait to be able to give concerts again, with my band "[Harissa](https://www.facebook.com/harissaquartet)" and/or with a new rock cover band I've recently joined!
 
   > Our album, "[Radio Désert](https://harissa.bandcamp.com/album/radio-d-sert)", is available on most music platforms.
 
-- 🛰  &nbsp; To relax, I still enjoy playing (almost) everyday on my [Oculus Quest](/vr), mostly exploring planets in [No Man's Sky](https://www.nomanssky.com/) and flying with the Resistance in [Star Wars Squadrons](https://www.ea.com/games/starwars/squadrons).
+- 🛰  &nbsp; To relax, I still enjoy playing (almost) everyday on my [Oculus Quest](/vr), mostly exploring planets in [No Man's Sky](https://www.nomanssky.com/).
 
-> Last update was June 5th, 2021. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was July 30th, 2021. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
