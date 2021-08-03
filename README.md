@@ -28,7 +28,7 @@ Today, I share my time between many activities: leading a software development t
 - Some people think that I am cold. In reality, I just look very serious when I think, and I tend to think a lot. If I look cold while you're talking to me, it does not mean that I'm mad at you or that I don't care. It means that I'm actually listening and reflecting on what you're saying.
 - As an introvert, I need more alone time than most people to recharge and prepare for interactions with others. Indeed, I can easily feel uncomfortable when I face an unexpected situation in a social setting.
 - In conferences and meetups, I prefer giving a talk than attending one. Probably because it feels less awkward for me to know that, if people come talk to me, there's a higher chance that we discuss the topic I was presenting, rather than small talk.
-- My Bryers Miggs personality types is one of the rarest: ~~INTJ~~ INFJ. I like to think of it as a cursed gift.
+- My Myers Briggs personality type is somewhere between INTJ and INFJ. I like to think of it as a cursed gift.
 
 ### What are my favorite things to work on
 
