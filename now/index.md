@@ -7,9 +7,7 @@ description: What I’m doing now
 
 ## What I’m doing these days
 
-<!--I’m home in Montreuil, Paris area, France.-->
-
-- 🏖  &nbsp; I'm enjoying my vacation at Ventabren (south of France), with my parents and siblings.
+I’m home in Montreuil, Paris area, France.
 
 - 💼  &nbsp; I've been working with the technical team of [Choose](https://appchoose.io/) since April 2021, to help them industrialize some parts of their back-end software.
 
@@ -23,6 +21,6 @@ description: What I’m doing now
 
 - 🛰  &nbsp; To relax, I still enjoy playing (almost) everyday on my [Oculus Quest](/vr), mostly exploring planets in [No Man's Sky](https://www.nomanssky.com/).
 
-> Last update was July 30th, 2021. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was August 6th, 2021. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
