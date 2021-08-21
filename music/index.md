@@ -116,4 +116,19 @@ I wrote Wolfentrap as an attempt to mix chip-tune (from a classic PC/MS-DOS game
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245733345&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/adrienjoly" title="adrienjoly" target="_blank" style="color: #cccccc; text-decoration: none;">adrienjoly</a> · <a href="https://soundcloud.com/adrienjoly/wolfentrap-3d" title="Wolfentrap 3D" target="_blank" style="color: #cccccc; text-decoration: none;">Wolfentrap 3D</a></div>
 
+## Favorite tools
 
+Here are apps I use with my band:
+
+- I compose musical ideas with [GarageBand](https://www.apple.com/mac/garageband/) for Mac.
+- I use [‎Voice Record Pro](https://apps.apple.com/us/app/voice-record-pro/id546983235) for iPhone to record rehearsals and quickly upload all tracks in MP3 format to our shared Google Drive folder, at the end of the rehearsal.
+- I practice my tempo with [Soundbrenner's metronome](https://www.soundbrenner.com/the-metronome-app) for iPhone.
+- I use [Jamulus](https://jamulus.io/) to jam with remote musicians, from home.
+
+Here is a selection of tools I enjoy using to experiment with musical creation:
+
+- [Chord AI](https://www.chordai.net/) is a free mobile app that records what is being played through the phone's microphone and detects the chords in real time. After your performance, you can listen to it and see the chords on the recorded waveform. Very handy to keep musical notes and learn the name of chords! (Before it was killed by Apple, I was using "[Mémo Musical](https://support.apple.com/fr-fr/HT211824)" for that)
+- [Yamaha Synth Book](https://fr.yamaha.com/fr/products/music_production/apps/yamaha_synth_book/index.html) is a free mobile app that makes it easy to play beats & predefined chord pads on the go, using the touchscreen.
+- I use [Ableton Live](https://www.ableton.com/en/live/) as a DAW when I want to build songs without interacting with my computer, by pressing the record/playback buttons of my MIDI controller.
+- [SimpleSynth](https://notahat.com/simplesynth/) is handy when I want to play something quickly with my MIDI controller, without starting a DAW.
+- [Synthesia](https://synthesiagame.com/) is great to learn how to play any song (from a MIDI file) on the piano, and it feels like a video game.
