@@ -16,11 +16,5 @@
   date: (2018-NOW)
   desc:
     I explore the use of WebMidi and WebAudio to perform "chiptune" music (inspired by vintage game consoles like Nintendo Entertainment System) live, using MIDI instruments.
-  url: "https://github.com/adrienjoly/webmidi-launchkey-mini"
+  url: "https://adrienjoly.com/music/#musical-experiments"
   img: /img/prj_chiptune.jpg
-
-- title: In'Jam
-  date: (2018-NOW)
-  desc:
-    As a member of the Im'Jam collective, I contribute to the creation of a performance. More details soon.
-  img: /img/prj_injam.jpg

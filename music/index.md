@@ -85,3 +85,35 @@ description: List of bands I played drums with.
 <div class="clear"></div>
 
 <!--<a class="button" href="http://www.last.fm/user/roly/library" target="_blank"><span class="lastfm"/>My favorite bands</a>-->
+
+## Musical experiments
+
+As a nostalgic of vintage PC/MS-DOS games from my youth, I've mostly enjoyed experimenting the recreation of their peculiar audio esthetic.
+
+### WebMIDI-based chiptune synth (2018)
+
+I developed this mini web application to explore the use of WebMidi and WebAudio to perform "chiptune" music (inspired by vintage game consoles like Nintendo Entertainment System) live, using MIDI instruments.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w-BsTGGIlwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+You can find [its source code on GitHub](https://github.com/adrienjoly/webmidi-launchkey-mini) and a quick talk in which I explain how it works: [Make "Game Boy" music in JavaScript - YouTube](https://www.youtube.com/watch?v=xsKB5bRKZ4Y&t=616s).
+
+### Finger-drumming with OPL3 samples (2018)
+
+After I bought my Yamaha DTX Multi-12, I wondered if I could reproduce the feel of vintage PC/MS-DOS games playing music through a Adlib/OPL3-based soundcard ... with my fingers!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_GVbGXrMLJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Soundtracking vintage VGM (2018)
+
+To test the Deflemask soundtracker, I reprogrammed a song from Bio Menace (originally composed by Bobby Prince for the Adlib/OPL3 chip), for the Sega Genesis' YM2612.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/klMi90nF7J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Chiptune meets Trap music (2016)
+
+I wrote Wolfentrap as an attempt to mix chip-tune (from a classic PC/MS-DOS game) and trap music, using GarageBand.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245733345&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/adrienjoly" title="adrienjoly" target="_blank" style="color: #cccccc; text-decoration: none;">adrienjoly</a> · <a href="https://soundcloud.com/adrienjoly/wolfentrap-3d" title="Wolfentrap 3D" target="_blank" style="color: #cccccc; text-decoration: none;">Wolfentrap 3D</a></div>
+
+
