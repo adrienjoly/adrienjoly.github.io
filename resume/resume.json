@@ -3,9 +3,9 @@
     "name": "Adrien Joly",
     "label": "Full-stack web product developer, Tech leader, Teacher",
     "picture": "https://adrienjoly.com/img/photo.jpg",
-    "email": "contact@adrienjoly.com",
+    "email": "adrien.joly@shodo.io",
     "website": "https://adrienjoly.com",
-    "summary": "I develop and maintain scalable web software in production. To sustain quality and velocity, I help teams write readable and predictable code, effective documentation, and ever-running automated tests. I love to share what I've learned and learn from others.",
+    "summary": "I develop and maintain scalable software in production. To sustain quality and velocity, I help teams write readable and predictable code, effective documentation, and ever-running automated tests. I love to share what I've learned and learn from others.",
     "location": {
       "address": "129 avenue du Président Wilson",
       "postalCode": "93100",
@@ -33,11 +33,12 @@
   "work": [
     {
       "company": "SHODO",
-      "position": "Senior Software Engineer / Tech Lead",
+      "position": "Software Crafter / Tech Lead",
       "website": "https://www.shodo.io/",
       "startDate": "2020-03-02",
       "summary": "I joined SHODO to nurture my \"software craft\" skills with like-minded professionals and apply them during missions.",
       "highlights": [
+        "Setup Continuous Integration, SQL Migrations, Deployment and Monitoring processes and clean code practices within the development team of « Choose », an e-commerce startup company.",
         "Lead the refactoring of a JavaScript-based data integration pipeline for « Signaux Faibles », a startup helping companies prevent bankruptcy.",
         "Wrote and published \"Comment rendre un code legacy à nouveau maintenable\" – How to make legacy code maintainable again – on SHODO's blog."
       ]
@@ -223,11 +224,11 @@
       "name": "Software Craft",
       "level": "Advanced",
       "keywords": [
-        "TDD / BDD",
+        "TDD / BDD / DDD",
         "Pair / Mob programming",
         "Legacy Refactoring",
-        "Clean Code",
-        "SOLID"
+        "Clean Code / SOLID",
+        "Hexagonal Architecture"
       ]
     },
     {
