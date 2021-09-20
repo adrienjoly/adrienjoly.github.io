@@ -23,8 +23,8 @@ I can help your business by providing the following services:
 - **Software Craft**: I design, develop and maintain durable web-based software products and data integration pipelines, by applying TDD/DDD/BDD methodologies and pair/mob programming;
 - **Renovation and maintenance of legacy software**: I industrialize and modernize production software by reducing their technical debt, in order to increase their robustness, performance and/or improve the efficiency of development;
 - **Tech leadership**: I help team-members grow and align their practices, to make sure that they can work efficiently and that the codebase stays clean;
-- **Strategic software consulting**: I can act as an _on-demand CTO_, to audit your technical assets and provide recommendations on how to bootstrap or grow your business efficiently.
 - **Technical coaching**: I can support the planning and animation of the cultural transformation of software teams. Custom training, pair coding on _katas_ then on production code and/or coaching while contributing to an ongoing project.
+- **Strategic software consulting**: I can act as an _on-demand CTO_, to audit your technical assets and provide recommendations on how to bootstrap or grow your business efficiently.
 
 ### Experience
 
@@ -38,7 +38,7 @@ Always fascinated by computers, I wrote my first scripts and programs at the age
 In terms of technical stack and skills:
 
 - I've been developing software with **Node.js** (mostly) since 2012, but I'm used to learn new technologies and to adapt to different environments and constraints.
-- I know how to setup, develop and maintain a Web application **across the stack**: back-end & front-end development, automated testing, debugging, continuous integration, deployment, monitoring and other operations in production.
+- I know how to setup, develop and maintain a software application **across the stack**: web and data pipeline development, automated testing, debugging, continuous integration, deployment, monitoring and other operations in production.
 
 ### Values
 
@@ -53,13 +53,13 @@ I'm driven by:
 
 My objective is to help your software team (re)gain **confidence, autonomy and serenity** while creating (or sustaining) **value** for your business.
 
-Note: I particularly enjoy contributing to open source projects and/or projects related to music or education.
+Note: I particularly enjoy contributing to open source projects.
 
 ### Availability
 
 In March, 2020, I joined the consulting agency [SHODO](https://shodo.io/) to grow with a community of like-minded professionals and practice my skills as a Software Crafter.
 
-As a contractor (through SHODO), I'm currently available for short missions only, until July 2021. (_last update: 2021-04-19_)
+As a contractor (through SHODO), I'm currently available for short missions only, until January 2022. (_last update: 2021-09-20_)
 
 I am accustomed to work remotely, from Montreuil ~ Paris, France – in the CET timezone.
 

@@ -24,8 +24,8 @@ Voici les services que je propose à mes clients:
 - **Artisanat logiciel**: Je conçois, développe et maintiens des applications Web ainsi que des chaînes de traitement de données de manière durable, en applicant les méthodes TDD/DDD/BDD et la programmation à plusieurs (_pair/mob programming_);
 - **Reprise/refonte/rénovation de l’existant applicatif**: J'industrialise et modernise les produits logiciels existants en réduisant leur dette technique, pour les rendre plus robustes, plus performants et/ou rendre leur développement plus efficace;
 - **_Leadership_ technique**: J'aide les membres de l'équipe technique à s'améliorer et à aligner leurs manières de faire, afin d'assurer un travail d'équipe efficace, un produit stable et un code source propre.
+- **Coaching technique**: J'accompagner la définition et l'animation d'un plan de transformation de la culture d'une ou plusieurs équipes de développement. Formations sur mesure, programmation à plusieurs sur des _katas_ puis sur du code de production et/ou coaching embarqué en tant que contributeur d'un projet en cours.
 - **Conseil stratégique**: Je peux intervenir comme _CTO provisoire_, pour auditer le code existant et apporter des recommandations pour démarrer ou développer efficacement votre projet.
-- **Coaching technique**: Je peux accompagner la définition et l'animation d'un plan de transformation de la culture d'une ou plusieurs équipes de développement. Formations sur mesure, programmation à plusieurs sur des _katas_ puis sur du code de production et/ou coaching embarqué en tant que contributeur d'un projet en cours.
 
 ### Expérience
 
@@ -41,7 +41,7 @@ Au cours de ma carrière, j'ai adopté des rôles variés au sein d'environnemen
 En terme de compétences:
 
 - Je développe majoritairement en **Node.js** depuis 2012, mais je m'adapte volontiers à l'usage d'autres langages et technologies, en fonction des besoins et contraintes de mes clients.
-- Je maîtrise la conception, le développement et la maintenance d'applications Web sur toute la chaîne de valeur technique: développement _back-end_ & _front-end_, écriture de tests automatisés, déboggage, intégration continue, déploiement et suivi, entre autres opérations liées à l'infrastructure de production.
+- Je maîtrise la conception, le développement et la maintenance d'applications logicielles sur toute la chaîne de valeur technique: développement, écriture de tests automatisés, déboggage, intégration continue, déploiement et suivi, entre autres opérations liées à l'infrastructure de production.
 
 ### Valeurs
 
@@ -54,17 +54,17 @@ Les principes qui m'animent:
 - Pertinence: Écrire des logiciels **utiles**, en prenant le temps d'écouter et comprendre la vision et l'objectif visé par leurs commanditaires et utilisateurs;
 - Pragmatisme: Écrire des logiciels de manière **efficace**, en définissant régulièrement _la_ prochaine étape la plus simple à effectuer pour apporter le plus de valeur possible au développement du projet;
 - Rigueur: Écrire des logiciels qui **fonctionnent comme prévu**, en clarifiant de manière itérative les attentes puis en les reformulant sous forme de tests automatisés et/ou de documentation;
-- Pérennité: Écrire des logiciels **durablement maintenables**, en aidant l'équipe technique à s'engager sur des manière communes de programmer et communiquer, et en promouvant l'usage de techniques _craft_ comme TDD et la programmation collaborative (_pair/mob programming_).
+- Pérennité: Écrire des logiciels **durablement maintenables**, en aidant l'équipe technique à s'engager sur des manières communes de programmer et communiquer, et en promouvant l'usage de techniques _craft_ comme TDD et la programmation collaborative (_pair/mob programming_).
 
 Mon but est d'aider votre équipe à (re)trouver **sa confiance, son autonomie et sa sérénité** tout en créant de la valeur pour votre entreprise.
 
-Note: J'apprécie particulièrement contribuer aux projets open source et/ou liés à la musique ou l'éducation.
+Note: J'apprécie particulièrement contribuer aux projets open source.
 
 ### Disponibilité
 
 En Mars 2020, j'ai rejoint l'agence [SHODO](https://shodo.io/) pour continuer de m'améliorer en pratiquant de nouvelles techniques au sein d'une communauté de professionnels qui me ressemblent.
 
-En qualité de prestataire (via SHODO), je ne suis actuellement disponible que pour des missions ponctuelles/courtes, jusqu'à Juillet 2021. (_dernière mise à jour: 2021-04-19_)
+En qualité de prestataire (via SHODO), je ne suis actuellement disponible que pour des missions ponctuelles/courtes, jusqu'à Janvier 2022. (_dernière mise à jour: 2021-09-20_)
 
 J'ai l'habitude de télétravailler depuis chez moi, à Montreuil, France.
 
