@@ -24,7 +24,7 @@ Voici les services que je propose à mes clients:
 - **Artisanat logiciel**: Je conçois, développe et maintiens des applications Web ainsi que des chaînes de traitement de données de manière durable, en applicant les méthodes TDD/DDD/BDD et la programmation à plusieurs (_pair/mob programming_);
 - **Reprise/refonte/rénovation de l’existant applicatif**: J'industrialise et modernise les produits logiciels existants en réduisant leur dette technique, pour les rendre plus robustes, plus performants et/ou rendre leur développement plus efficace;
 - **_Leadership_ technique**: J'aide les membres de l'équipe technique à s'améliorer et à aligner leurs manières de faire, afin d'assurer un travail d'équipe efficace, un produit stable et un code source propre.
-- **Coaching technique**: J'accompagner la définition et l'animation d'un plan de transformation de la culture d'une ou plusieurs équipes de développement. Formations sur mesure, programmation à plusieurs sur des _katas_ puis sur du code de production et/ou coaching embarqué en tant que contributeur d'un projet en cours.
+- **Coaching technique**: J'accompagne la définition et l'animation d'un plan de transformation de la culture d'une ou plusieurs équipes de développement. Formations sur mesure, programmation à plusieurs sur des _katas_ puis sur du code de production et/ou coaching embarqué en tant que contributeur d'un projet en cours.
 - **Conseil stratégique**: Je peux intervenir comme _CTO provisoire_, pour auditer le code existant et apporter des recommandations pour démarrer ou développer efficacement votre projet.
 
 ### Expérience
