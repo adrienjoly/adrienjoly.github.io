@@ -19,8 +19,8 @@ I’m home in Montreuil, Paris area, France.
 
   > Our album, "[Radio Désert](https://harissa.bandcamp.com/album/radio-d-sert)", is available on most music platforms.
 
-- 🛰  &nbsp; To relax, I enjoy playing on my [Oculus Quest](/vr), mostly exploring planets in [No Man's Sky](https://www.nomanssky.com/).
+- 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr), mostly Swarm and Pistol Whip. On Stadia, mostly Assassin's Creed: Odyssey.
 
-> Last update was December 1th, 2021. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was December 21th, 2021. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
