@@ -8,6 +8,14 @@ description: Consulting services I can provide for your business.
   <a href="/pro/fr"><img alt="French / Français" id="lang-fr" src="/img/lang-fr.png"></a>
 </div>
 
+<!--
+tl;dr (500 characters)
+As a Software Craft consultant, I help startup companies:
+- develop their web backend and/or data integration pipeline, by applying TDD/DDD/BDD methodologies and pair/mob programming.
+- industrialize and modernize production software by reducing their technical debt, in order to increase their robustness, performance and/or improve the efficiency of development.
+- grow and align the practices of their members, to make sure that they can work efficiently and that the codebase stays clean.
+-->
+
 My name is Adrien Joly (_he/him_), based in Paris, France (CET).
 
 Software engineer since 2006, I have worked mainly with start-up companies.
