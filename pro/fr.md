@@ -64,7 +64,7 @@ Note: J'apprécie particulièrement contribuer aux projets open source.
 
 En Mars 2020, j'ai rejoint l'agence [SHODO](https://shodo.io/) pour continuer de m'améliorer en pratiquant de nouvelles techniques au sein d'une communauté de professionnels qui me ressemblent.
 
-En qualité de prestataire (via SHODO), je ne suis actuellement disponible que pour des missions ponctuelles/courtes, jusqu'à Janvier 2022. (_dernière mise à jour: 2021-09-20_)
+En qualité de prestataire (via SHODO), je serai disponible que pour des missions ponctuelles/courtes, jusqu'à Avril 2022. (_dernière mise à jour: 2022-03-09)
 
 J'ai l'habitude de télétravailler depuis chez moi, à Montreuil, France.
 

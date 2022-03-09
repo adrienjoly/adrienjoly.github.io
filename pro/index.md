@@ -67,7 +67,7 @@ Note: I particularly enjoy contributing to open source projects.
 
 In March, 2020, I joined the consulting agency [SHODO](https://shodo.io/) to grow with a community of like-minded professionals and practice my skills as a Software Crafter.
 
-As a contractor (through SHODO), I'm currently available for short missions only, until January 2022. (_last update: 2021-09-20_)
+As a contractor (through SHODO), I'm currently available for short missions only, until April 2022. (_last update: 2022-03-09_)
 
 I am accustomed to work remotely, from Montreuil ~ Paris, France – in the CET timezone.
 
