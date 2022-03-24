@@ -1,3 +1,9 @@
+- title: Writing Automated Tests on a Legacy Node.js Back-end
+  date: 2022-03-24
+  url: https://www.infoq.com/articles/testing-legacy-nodejs-app/
+  source: "infoq.com"
+  featured: true
+
 - date: "2020-06-02"
   title: "Comment rendre un code legacy à nouveau maintenable"
   url: "https://medium.com/shodo-io/comment-rendre-un-code-legacy-%C3%A0-nouveau-maintenable-3a9d1094e0df"
