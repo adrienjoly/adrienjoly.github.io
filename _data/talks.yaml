@@ -6,10 +6,15 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
-- title: Things We Wish We Knew When We Started
-  date: 2022-03-20
-  event: SoCraTes France 2022
-  url: https://dev.to/adrienjoly/things-we-wish-we-knew-when-we-started-h53
+- title: "⏭ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu et Jordan Nourry"
+  date: 2022-04-20
+  event: "Devoxx France 2022"
+  url: "https://cfp.devoxx.fr/2022/talk/ILE-6714/Architecturoplastie_hexagonale_d%E2%80%99un_backend_Node.js_:_Operation_a_code_ouvert"
+
+- title: "Comment réécrire du code JS imbitable, sans régression ni perte de cheveux"
+  date: 2022-03-30
+  event: "Paris.JS #97 chez Contentsquare"
+  url: https://www.meetup.com/fr-FR/Paris-js/events/284673204/
 
 - title: "Coupable de code legacy en JS: comment s'en sortir ? (live-coding + interview, 45m)"
   date: 2022-03-09

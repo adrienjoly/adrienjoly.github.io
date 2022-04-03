@@ -4,6 +4,11 @@
   source: "infoq.com"
   featured: true
 
+- title: Things We Wish We Knew When We Started
+  date: 2022-03-20
+  url: https://dev.to/adrienjoly/things-we-wish-we-knew-when-we-started-h53
+  source: "dev.to"
+
 - date: "2020-06-02"
   title: "Comment rendre un code legacy à nouveau maintenable"
   url: "https://medium.com/shodo-io/comment-rendre-un-code-legacy-%C3%A0-nouveau-maintenable-3a9d1094e0df"
