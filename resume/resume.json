@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Adrien Joly",
-    "label": "Full-stack web product developer, Tech leader, Teacher",
     "picture": "https://adrienjoly.com/img/photo.jpg",
     "email": "adrien.joly@shodo.io",
     "website": "https://adrienjoly.com",
@@ -9,7 +8,7 @@
     "location": {
       "address": "129 avenue du Président Wilson",
       "postalCode": "93100",
-      "city": "Montreuil, France",
+      "city": "Montreuil / Paris, France",
       "countryCode": "FR"
     },
     "profiles": [
@@ -33,14 +32,14 @@
   "work": [
     {
       "company": "SHODO",
-      "position": "Software Crafter / Tech Lead",
+      "position": "Software Crafter / Tech Coach",
       "website": "https://www.shodo.io/",
       "startDate": "2020-03-02",
       "summary": "I joined SHODO to nurture my \"software craft\" skills with like-minded professionals and apply them during missions.",
       "highlights": [
-        "Setup Continuous Integration, SQL Migrations, Deployment and Monitoring processes and clean code practices within the development team of « Choose », an e-commerce startup company.",
-        "Lead the refactoring of a JavaScript-based data integration pipeline for « Signaux Faibles », a startup helping companies prevent bankruptcy.",
-        "Wrote and published \"Comment rendre un code legacy à nouveau maintenable\" – How to make legacy code maintainable again – on SHODO's blog."
+        "Setup Continuous Integration, SQL Migrations, Continuous Improvement processes, Domain-Driven Design and Clean Code practices within the back-end development team of « Choose », an e-commerce startup company.",
+        "Lead the refactoring and documentation of a TypeScript-based data integration pipeline for « Signaux Faibles », a startup helping companies prevent bankruptcy.",
+        "Gave several conference talks and published articles, including \"Writing Automated Tests on a Legacy Node.js Back-End\" on InfoQ.com."
       ]
     },
     {
@@ -169,7 +168,7 @@
       "position": "Open Source Lead Developer and Coordinator",
       "website": "https://openwhyd.org",
       "startDate": "2016-08-01",
-      "summary": "After leading the development of the product formerly known as whyd.com during 3 years, I migrated its codebase into an open-source project. Today, I'm contributing to the development of Openwhyd, and coordinating other contributors.",
+      "summary": "After leading the development of the product formerly known as whyd.com during 3 years, I migrated its codebase into an open-source project. Today, I'm still maintaining it.",
       "highlights": [
         "Turned ex-startup product into an open-source project",
         "Migrated the service to better-adjusted production instance on DigitalOcean",
