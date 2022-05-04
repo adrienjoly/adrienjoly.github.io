@@ -6,10 +6,11 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
-- title: "⏭ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu et Jordan Nourry"
+- title: "🧑‍⚕️ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu et Jordan Nourry"
   date: 2022-04-20
   event: "Devoxx France 2022"
   url: "https://cfp.devoxx.fr/2022/talk/ILE-6714/Architecturoplastie_hexagonale_d%E2%80%99un_backend_Node.js_:_Operation_a_code_ouvert"
+  video: "https://www.youtube.com/watch?v=r2XMwAUqZBA"
 
 - title: "Comment réécrire du code JS imbitable, sans régression ni perte de cheveux"
   date: 2022-03-30
@@ -21,17 +22,17 @@
   event: "Émission \"L'Heure Du Dev\", présentée par François Tonic"
   url: https://www.youtube.com/watch?v=58qKkfut2PQ
 
-- title: "Coupable de code legacy en JS: comment s'en sortir ? (live-coding, 45m)"
+- title: "😱 Coupable de code legacy en JS: comment s'en sortir ? (live-coding, 45m)"
   date: 2021-10-22
   event: DevFest Nantes 2021
   url: https://www.youtube.com/watch?v=vJUl8SCf5Yg
 
-- title: 🔴 Développer en NodeJS avec le Domain-Driven Design – partie 2
+- title: Développer en NodeJS avec le Domain-Driven Design – partie 2
   date: 2021-07-20
   event: (session de live coding sur Twitch, avec Julien Topçu)
   url: https://www.youtube.com/watch?v=VMgFozpPSkM
 
-- title: 🔴 Développer en NodeJS avec le Domain-Driven Design – partie 1
+- title: Développer en NodeJS avec le Domain-Driven Design – partie 1
   date: 2021-06-29
   event: (session de live coding sur Twitch, avec Julien Topçu)
   url: https://www.youtube.com/watch?v=01G9YqAOQFg
@@ -43,7 +44,7 @@
     J’ai eu le plaisir de participer à un épisode du podcast « Le Joboscope », pour parler du métier de Dévelopeur Back-end. Il est dispo sur les plateformes de podcast.
   url: https://podcast.ausha.co/le-joboscope/developpeur-developpeuse-backend
 
-- title: How to *not* communicate with your squad mates
+- title: "🤡 How to *not* communicate with your squad mates"
   date: 2020-01-30
   event: Algolia Show & Tell (internal event)
   address: Algolia, 55 rue d'Amsterdam, 75008 Paris
