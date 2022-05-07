@@ -80,7 +80,6 @@
   title: "Les indispensables bases du marketing pour indie hackers"
   url: "https://medium.com/@adrienjoly/les-indispensables-bases-du-marketing-pour-indie-hackers-745082472164"
   source: "medium.com"
-  featured: true
 
 - date: "2018-07-03"
   title: "Highlights from “How to Transform Your Ideas into Software Products”, by Poornima Vijayashanker"
@@ -312,7 +311,6 @@
   title: "6 erreurs à éviter en tant que développeur freelance"
   url: "https://medium.com/@adrienjoly/enseignements-après-1-an-d-erreurs-en-tant-que-développeur-freelance-916f855efd9b"
   source: "medium.com"
-  featured: true
 
 - date: "2016-03-24"
   title: "Je te passerai le bouquin"
@@ -328,7 +326,6 @@
   title: "Why Email does not stink"
   url: "https://medium.com/@adrienjoly/why-email-does-not-stink-9267c948f3f9"
   source: "medium.com"
-  featured: true
 
 - date: "2016-01-20"
   title: "Why Agile is better for getting your app or website delivered"
