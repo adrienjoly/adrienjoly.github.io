@@ -13,14 +13,14 @@ I’m home in Montreuil, Paris area, France.
 
   > For more information about what I can do for your business, check out [adrienjoly.com/pro](/pro).
 
-- 🎓  &nbsp; I enjoyed giving a 45-mn live-coding session at DevFest Nantes 2021 (see [/talks](/talks)) and I'm planning to give shorter versions at other events soon.
+- 🎓  &nbsp; I had a lot of fun co-presenting a 3-hour talk at Devoxx France with Julien Topçu and Jordan Nourry (see [/talks](/talks)) and I'm quite proud of the result: [« Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert »](https://www.youtube.com/watch?v=r2XMwAUqZBA).
 
-- 🌶  &nbsp; I recently gave concerts with "[Harissa](https://www.facebook.com/harissaquartet)" and "The Rag Dolls", a new pop/rock cover band I've recently joined!
+- 🌶  &nbsp; I’m exciting about the upcoming concerts we’re giving with "[Harissa](https://www.facebook.com/harissaquartet)" and "The Rag Dolls", the rock cover band I've recently joined!
 
-  > Our album, "[Radio Désert](https://harissa.bandcamp.com/album/radio-d-sert)", is available on most music platforms.
+  > Harissa‘s album, "[Radio Désert](https://harissa.bandcamp.com/album/radio-d-sert)", is available on most music platforms.
 
-- 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr), mostly Swarm and Pistol Whip. On Stadia, mostly Assassin's Creed: Odyssey.
+- 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr), mostly Swarm and Pistol Whip. On my couch, I’m currently enjoying GTA 5.
 
-> Last update was December 21th, 2021. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was May 7th, 2022. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
