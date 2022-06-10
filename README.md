@@ -2,6 +2,7 @@
 
 ℹ️ [This repository](https://github.com/adrienjoly/adrienjoly.github.com) contains the source code of my personal website: [adrienjoly.com](https://adrienjoly.com).
 
+
 ## Personal README
 
 This is not the README of my website. It's rather my own README, as a person!
