@@ -12,9 +12,16 @@
     - title: "Read a review of our 1st EP: Karabana"
       url: https://cabaneariff.com/harissa-karabana
 
-- title: Chiptune synth
-  date: (2018-NOW)
+- title: The Rag Dolls
+  date: (2021-NOW)
   desc:
-    I explore the use of WebMidi and WebAudio to perform "chiptune" music (inspired by vintage game consoles like Nintendo Entertainment System) live, using MIDI instruments.
-  url: "https://adrienjoly.com/music/#musical-experiments"
-  img: /img/prj_chiptune.jpg
+    Stadium Rock band from Paris, France. We cover epic songs from Aerosmith, Queen, MJ and others!
+  url: https://linktr.ee/ragdolls
+  img: /img/band_theragdolls.jpg
+
+# - title: Chiptune synth
+#   date: (2018-NOW)
+#   desc:
+#     I explore the use of WebMidi and WebAudio to perform "chiptune" music (inspired by vintage game consoles like Nintendo Entertainment System) live, using MIDI instruments.
+#   url: "https://adrienjoly.com/music/#musical-experiments"
+#   img: /img/prj_chiptune.jpg
