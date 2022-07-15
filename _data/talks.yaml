@@ -9,8 +9,9 @@
 - title: "🧑‍⚕️ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu et Jordan Nourry"
   date: 2022-04-20
   event: "Devoxx France 2022"
-  url: "https://cfp.devoxx.fr/2022/talk/ILE-6714/Architecturoplastie_hexagonale_d%E2%80%99un_backend_Node.js_:_Operation_a_code_ouvert"
+  url: "https://www.youtube.com/watch?v=r2XMwAUqZBA"
   video: "https://www.youtube.com/watch?v=r2XMwAUqZBA"
+  permalink: "https://cfp.devoxx.fr/2022/talk/ILE-6714/Architecturoplastie_hexagonale_d%E2%80%99un_backend_Node.js_:_Operation_a_code_ouvert"
 
 - title: "Comment réécrire du code JS imbitable, sans régression ni perte de cheveux"
   date: 2022-03-30
