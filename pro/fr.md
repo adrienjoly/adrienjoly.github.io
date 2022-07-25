@@ -11,9 +11,9 @@ lang: fr-FR
 
 Je m'appelle Adrien Joly (_il/lui_), basé en région Parisienne, France.
 
-Développeur depuis 2006, je travaille principalement avec des startups.
+Développeur depuis 2006, j'accompagne principalement des startups en croissance.
 
-Je suis sensible à l'utilité et à la durabilité du code auquel je contribue, ainsi qu'à l'amélioration continue de notre manière de le produire.
+Je suis sensible à la production de code utile et durable, ainsi qu'à l'amélioration continue de notre manière de le produire.
 
 Sur cette page, je présente les types de prestations que je propose à mes clients, mon parcours, mes valeurs et ma disponibilité.
 
@@ -21,11 +21,12 @@ Sur cette page, je présente les types de prestations que je propose à mes clie
 
 Voici les services que je propose à mes clients:
 
-- **Artisanat logiciel**: Je conçois, développe et maintiens des applications Web ainsi que des chaînes de traitement de données de manière durable, en applicant les méthodes TDD/DDD/BDD et la programmation à plusieurs (_pair/mob programming_);
-- **Reprise/refonte/rénovation de l’existant applicatif**: J'industrialise et modernise les produits logiciels existants en réduisant leur dette technique, pour les rendre plus robustes, plus performants et/ou rendre leur développement plus efficace;
-- **_Leadership_ technique**: J'aide les membres de l'équipe technique à s'améliorer et à aligner leurs manières de faire, afin d'assurer un travail d'équipe efficace, un produit stable et un code source propre.
-- **Coaching technique**: J'accompagne la définition et l'animation d'un plan de transformation de la culture d'une ou plusieurs équipes de développement. Formations sur mesure, programmation à plusieurs sur des _katas_ puis sur du code de production et/ou coaching embarqué en tant que contributeur d'un projet en cours.
+- **Reprise/refonte/rénovation de l’existant applicatif**: J'accompagne l'équipe technique dans l'industrialisation et la modernisation de produits logiciels existants (dont applications Web et chaînes de traitement de données) en réduisant leur dette technique et complexité accidentelle, pour les rendre plus robustes, plus performants et/ou rendre leur processus de développement plus efficace.
+- **_Leadership_ Technique**: J'aide les membres de l'équipe technique (ainsi que leur collaborateurs) à assurer un travail d'équipe efficace, à livrer des fonctionnalités stables et à maintenir un code source propre. J'anime pour celà des séances de relecture de code, des retrospectives d'équipe, et le suivi de chantiers techniques sur la base des problèmes et craintes remonté·e·s par les développeur·euse·s de l'équipe.
+- **Coaching technique**: J'accompagne la définition et l'animation d'un plan de transformation de la culture d'une ou plusieurs équipes de développement. Formations sur mesure aux méthodes d'Artisanat Logiciel (TDD/DDD/BDD, clean code, tests automatisés, intégration continue, livraison continue, pratiques DevOps), programmation à plusieurs (_pair/mob programming_) sur des _katas_ puis sur du code de production, coaching embarqué en tant que contributeur d'un projet en cours.
 - **Conseil stratégique**: Je peux intervenir comme _CTO provisoire_, pour auditer le code existant et apporter des recommandations pour démarrer ou développer efficacement votre projet.
+
+Motivé par la volonté de transmettre mon savoir-faire et d'apporter des changements qui s'inscriront dans la durée, j'œuvre à me rendre dispensable au sein des équipes que j'intègre temporairement, le temps de ma mission. Ainsi, je refuse de réaliser seul des tâches de développement "produit" qui sont habituellement assignées aux membres de l'équipe. En revanche, j'accepte de me charger de chantiers purements techniques sur lesquels l'équipe ne dispose pas du temps et/ou des compétences nécessaires.
 
 ### Expérience
 
@@ -49,7 +50,7 @@ Tout au long de ma carrière, j'ai mis un point d'honneur à travailler de mani�
 
 D'un naturel honnête et ouvert d'esprit, je cherche l'harmonie avec mes pairs plutôt que la compétition. J'accorde beaucoup d'importance à m'améliorer sans cesse et à transmettre ce que j'ai appris.
 
-Les principes qui m'animent:
+Les principes que je transmets par l'exemple:
 
 - Pertinence: Écrire des logiciels **utiles**, en prenant le temps d'écouter et comprendre la vision et l'objectif visé par leurs commanditaires et utilisateurs;
 - Pragmatisme: Écrire des logiciels de manière **efficace**, en définissant régulièrement _la_ prochaine étape la plus simple à effectuer pour apporter le plus de valeur possible au développement du projet;
@@ -58,15 +59,13 @@ Les principes qui m'animent:
 
 Mon but est d'aider votre équipe à (re)trouver **sa confiance, son autonomie et sa sérénité** tout en créant de la valeur pour votre entreprise.
 
-Note: J'apprécie particulièrement contribuer aux projets open source.
-
 ### Disponibilité
 
 En Mars 2020, j'ai rejoint l'agence [SHODO](https://shodo.io/) pour continuer de m'améliorer en pratiquant de nouvelles techniques au sein d'une communauté de professionnels qui me ressemblent.
 
-En qualité de prestataire (via SHODO), je serai disponible que pour des missions ponctuelles/courtes, jusqu'à Avril 2022. (_dernière mise à jour: 2022-03-09)
+En qualité de prestataire (via SHODO), je serai disponible que pour des missions ponctuelles/courtes, à partir de Septembre 2022. (_dernière mise à jour: 2022-07-25)
 
-J'ai l'habitude de télétravailler depuis chez moi, à Montreuil, France.
+J'ai l'habitude de télétravailler depuis chez moi, à Montreuil, France. Je préfère m'engager sur des missions d'accompagnement technique pendant plusieurs mois (entre 6 mois et 2 ans), à raison de 4 jours par semaine. Pour ce genre de prestation, mon TJM est de 850€/jour.
 
 Je peux vous aider ? [Contactez-moi](mailto:adrien.joly@shodo.io)
 
