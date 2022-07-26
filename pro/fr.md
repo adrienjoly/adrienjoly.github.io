@@ -63,7 +63,7 @@ Mon but est d'aider votre équipe à (re)trouver **sa confiance, son autonomie e
 
 En Mars 2020, j'ai rejoint l'agence [SHODO](https://shodo.io/) pour continuer de m'améliorer en pratiquant de nouvelles techniques au sein d'une communauté de professionnels qui me ressemblent.
 
-En qualité de prestataire (via SHODO), je serai disponible que pour des missions ponctuelles/courtes, à partir de Septembre 2022. (_dernière mise à jour: 2022-07-25)
+En qualité de prestataire (via SHODO), je serai disponible à partir de Septembre 2022. (_dernière mise à jour: 2022-07-25)
 
 J'ai l'habitude de télétravailler depuis chez moi, à Montreuil, France. Je préfère m'engager sur des missions d'accompagnement technique pendant plusieurs mois (entre 6 mois et 2 ans), à raison de 4 jours par semaine. Pour ce genre de prestation, mon TJM est de 850€/jour.
 
