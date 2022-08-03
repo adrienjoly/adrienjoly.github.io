@@ -59,6 +59,19 @@ Les principes que je transmets par l'exemple:
 
 Mon but est d'aider votre équipe à (re)trouver **sa confiance, son autonomie et sa sérénité** tout en créant de la valeur pour votre entreprise.
 
+### Témoignage client
+
+<div style="float: right; width: 128px; margin-left: 32px; text-align: center; font-size: small;">
+  <img src="/pro/assets/thibaut_gensollen.jpg">
+  <p>Thibaut Gensollen<br>CTO, Choose</p>
+</div>
+
+_« Adrien est venu chez Choose pour: faire monter en compétences nos équipes, notamment sur les bonnes pratiques (craft), et la mise en place d’une roadmap permettant le refactoring d’un monolithe (codebase de 4 ans) sans CI/CD ni tests unitaires et avec des soucis de performances et de maintenabilité. »_
+
+_« Sa capacité à comprendre et à parfaitement mixer les besoins business, techniques et humains, a permit aujourd’hui à Choose d’avoir une codebase propre, stable et performante, sur laquelle n’importe quel nouveau développeur peut interagir rapidement. Nos développeurs sont aussi devenus très impliqués sur les notions Crafts, TDD ou DDD. »_
+
+_« Depuis son arrivée, [...] notre risque face au déploiement a été considérablement réduit. Je ne peux que recommander Adrien pour ce genre de problématiques. »_
+
 ### Disponibilité
 
 En Mars 2020, j'ai rejoint l'agence [SHODO](https://shodo.io/) pour continuer de m'améliorer en pratiquant de nouvelles techniques au sein d'une communauté de professionnels qui me ressemblent.
