@@ -26,13 +26,14 @@ On this page, I share the types of services I can provide to your business, my b
 
 ### Services
 
-I can help your business by providing the following services:
+I provide the following services:
 
-- **Software Craft**: I design, develop and maintain durable web-based software products and data integration pipelines, by applying TDD/DDD/BDD methodologies and pair/mob programming;
-- **Renovation and maintenance of legacy software**: I industrialize and modernize production software by reducing their technical debt, in order to increase their robustness, performance and/or improve the efficiency of development;
-- **Tech leadership**: I help team-members grow and align their practices, to make sure that they can work efficiently and that the codebase stays clean;
-- **Technical coaching**: I can support the planning and animation of the cultural transformation of software teams. Custom training, pair coding on _katas_ then on production code and/or coaching while contributing to an ongoing project.
+- **Renovation and maintenance of legacy software**: I help teams (re)gain confidence and efficiency on the maintenance and development of their production software (incl. web applications and data pipelines), by reducing technical debt and accidental complexity that builds up over time.
+- **Tech leadership**: I help team-members ship high quality software with a healthy velocity, by aligning their practices, challenging architecture proposals, conducting code reviews & team retrospectives and following up on technical projects.
+- **Technical coaching**: I support the planning and animation of the cultural transformation of software teams. Custom training on software craft practices (TDD/DDD/BDD, clean code, automated testing, continuous integration, DevOps), pair/mob programming on _katas_ then on production code and/or coaching while contributing to an ongoing project.
 - **Strategic software consulting**: I can act as an _on-demand CTO_, to audit your technical assets and provide recommendations on how to bootstrap or grow your business efficiently.
+
+My approach consists of making myself dispensable and making teams autonomous as soon as possible. I continuously transfer my know-how, lead by example and make sure that teams integrate the right habits, so they can apply them autonomously, for the long run. For that reason, I never work alone on product development tasks that are usually tackled by team members. That being said, I'm happy to take care of some technical tasks for which the team lacks the necessary skills and/or time to achieve correctly.
 
 ### Experience
 
@@ -63,15 +64,28 @@ My objective is to help your software team (re)gain **confidence, autonomy and s
 
 Note: I particularly enjoy contributing to open source projects.
 
+### Testimonial
+
+<div style="float: right; width: 128px; margin-left: 32px; text-align: center; font-size: small;">
+  <img src="/pro/assets/thibaut_gensollen.jpg">
+  <p>Thibaut Gensollen<br>CTO, Choose</p>
+</div>
+
+_« Adrien helped Choose grow the skills of the development team, notably on best practices (software craft), setup a roadmap to refactor a monolith (4-year-old codebase) without CI/CD nor automated tests, and crippled by performance and maintenance issues. »_
+
+_« His ability to understand business, technical et human needs enabled Choose to reach a clean, stable et well-performing codebase, on which it's easy to onboard new developers. Also, our developers are now at ease with software craft practices, including TDD and DDD. »_
+
+_« We now feel confident everytime we deploy a new version. I recommend Adrien to lead this kind of improvements. »_
+
 ### Availability
 
 In March, 2020, I joined the consulting agency [SHODO](https://shodo.io/) to grow with a community of like-minded professionals and practice my skills as a Software Crafter.
 
-As a contractor (through SHODO), I'm currently available for short missions only, until April 2022. (_last update: 2022-03-09_)
+As a contractor (through SHODO), I'll be available from September 2022. (_last update: 2022-07-25_)
 
 I am accustomed to work remotely, from Montreuil ~ Paris, France – in the CET timezone.
 
-You want to work together? [Contact me](mailto:adrien.joly@shodo.io)
+Any question? [Contact me](mailto:adrien.joly@shodo.io)
 
 ### References
 
