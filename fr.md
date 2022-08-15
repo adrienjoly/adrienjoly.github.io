@@ -13,10 +13,10 @@ Bonjour !
 
 Je m'appelle Adrien Joly, basé à Montreuil, en région Parisienne.
 
-En tant qu'**Artisan Logiciel**:
-- Je conçois, produis et maintiens des applications web et des chaines de traitement de données;
-- J'aide mes collègues et clients à devenir des développeurs plus épanouis et efficaces, en les accompagnant dans l'amélioration de leur code existant (ex: dette technique), en conduisant des sessions de travail en groupe et/ou en donnant des formations;
-- TypeScript et Node.js sont mes outils de prédilection, mais j'ai plaisir à me former à l'usage de nouveaux langages et nouvelles pratiques.
+En tant qu'**Artisan Logiciel** et **Tech Lead**:
+- J'aide les équipes de développement à maintenir leur backend complexe (web et données), à assurer leur bon fonctionnement en production et à monter en charge.
+- J'aide mes collègues et clients à devenir des développeurs plus épanouis et efficaces, en les accompagnant dans l'amélioration de leur code existant (ex: bonne pratiques pour réduire dette technique et/ou complexité accidentelle), en conduisant des ateliers et/ou en donnant des formations;
+- TypeScript et Node.js sont mes outils de prédilection, mais j'ai plaisir à me former à l'usage de nouveaux langages et nouvelles pratiques, quand cela a du sens.
 
 J'aime **partager ce que j'apprends**:
 
@@ -34,4 +34,4 @@ Pour suivre mon actualité récente:
 
 Je suis joignable via Twitter ou par email. (_contact arobase adrienjoly point com_)
 
-> Dernière mise à jour: 5 Juin 2021. [Historique des modifications](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
+> Dernière mise à jour: 15 Août 2022. [Historique des modifications](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
