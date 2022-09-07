@@ -1,6 +1,6 @@
 ---
 title: Page d'accueil
-description: Basé à Montreuil (France), je suis un Artisan Logiciel qui joue aussi de la batterie. 🥁
+description: Basé à Montreuil (France), je suis un Coach Craft qui joue aussi de la batterie. 🥁
 lang: fr-FR
 ---
 
@@ -13,9 +13,9 @@ Bonjour !
 
 Je m'appelle Adrien Joly, basé à Montreuil, en région Parisienne.
 
-En tant qu'**Artisan Logiciel** et **Tech Lead**:
-- J'aide les équipes de développement à maintenir leur backend complexe (web et données), à assurer leur bon fonctionnement en production et à monter en charge.
-- J'aide mes collègues et clients à devenir des développeurs plus épanouis et efficaces, en les accompagnant dans l'amélioration de leur code existant (ex: bonne pratiques pour réduire dette technique et/ou complexité accidentelle), en conduisant des ateliers et/ou en donnant des formations;
+En tant que **Tech Lead** et **Coach Craft**:
+- J'aide les équipes de développement à monter en compétence, pour maintenir plus efficacement leur backend complexe (web et données) et assurer leur bon fonctionnement en production.
+- J'aide mes collègues et clients à devenir des développeurs plus épanouis et efficaces, en les accompagnant dans l'amélioration de leur code existant (ex: bonne pratiques pour réduire dette technique et/ou complexité accidentelle), en conduisant des ateliers et/ou en donnant des formations.
 - TypeScript et Node.js sont mes outils de prédilection, mais j'ai plaisir à me former à l'usage de nouveaux langages et nouvelles pratiques, quand cela a du sens.
 
 J'aime **partager ce que j'apprends**:

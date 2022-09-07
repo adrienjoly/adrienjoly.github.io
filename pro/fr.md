@@ -11,9 +11,9 @@ lang: fr-FR
 
 Je m'appelle Adrien Joly (_il/lui_), basé en région Parisienne, France.
 
-Développeur depuis 2006, j'accompagne principalement des startups en croissance.
+J'aide les équipes de développement logiciel à produire du code **utile et pérenne**, par l'**amélioration continue** des pratiques techniques et de collaboration, y compris sur du **code legacy**.
 
-Je suis sensible à la production de code utile et durable, ainsi qu'à l'amélioration continue de notre manière de le produire.
+Motivé par la volonté de transmettre mon savoir-faire et d'apporter des changements qui s'inscriront dans la durée, en toute **autonomie**, j'œuvre à me rendre dispensable au sein des équipes que j'intègre temporairement, le temps de ma mission.
 
 Sur cette page, je présente les types de prestations que je propose à mes clients, mon parcours, mes valeurs et ma disponibilité.
 
@@ -22,11 +22,8 @@ Sur cette page, je présente les types de prestations que je propose à mes clie
 Voici les services que je propose à mes clients:
 
 - **Reprise/refonte/rénovation de l’existant applicatif**: J'accompagne l'équipe technique dans l'industrialisation et la modernisation de produits logiciels existants (dont applications Web et chaînes de traitement de données) en réduisant leur dette technique et complexité accidentelle, pour les rendre plus robustes, plus performants et/ou rendre leur processus de développement plus efficace.
-- **_Leadership_ Technique**: J'aide les membres de l'équipe technique (ainsi que leurs collaborateurs) à assurer un travail d'équipe efficace, à livrer des fonctionnalités stables et à maintenir un code source propre. J'anime pour celà des séances de relecture de code, des retrospectives d'équipe, des ateliers de co-conception et le suivi de chantiers techniques sur la base des problèmes et craintes remonté·e·s par les développeur·euse·s de l'équipe. En prenant progressivement une posture de facilitateur, je veille à ce que les développeurs fassent preuve d’initiative, de méthode, d’entraide et de consolidation puis partage de leurs apprentissages.
 - **Coaching technique**: J'accompagne la définition et l'animation d'un plan de transformation de la culture d'une ou plusieurs équipes de développement. Formations sur mesure aux méthodes d'Artisanat Logiciel (TDD/DDD/BDD, clean code, tests automatisés, intégration continue, livraison continue, pratiques DevOps), programmation à plusieurs (_pair/mob programming_) sur des _katas_ puis sur du code de production, coaching embarqué en tant que contributeur d'un projet en cours.
 - **Conseil stratégique**: Je peux intervenir comme _CTO provisoire_, pour auditer le code existant et apporter des recommandations pour démarrer ou développer efficacement votre projet.
-
-Motivé par la volonté de transmettre mon savoir-faire et d'apporter des changements qui s'inscriront dans la durée, j'œuvre à me rendre dispensable au sein des équipes que j'intègre temporairement, le temps de ma mission. Ainsi, je refuse de réaliser seul des tâches de développement "produit" qui sont habituellement assignées aux membres de l'équipe. En revanche, j'accepte de me charger de chantiers purements techniques sur lesquels l'équipe ne dispose pas du temps et/ou des compétences nécessaires.
 
 ### Expérience
 

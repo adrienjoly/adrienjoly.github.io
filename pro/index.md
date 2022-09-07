@@ -18,9 +18,9 @@ As a Software Craft consultant, I help startup companies:
 
 My name is Adrien Joly (_he/him_), based in Paris, France (CET).
 
-Software engineer since 2006, I have worked mainly with start-up companies.
+I help development teams produce software that is both **durable and useful**, by bringing a **continuous improvement** mindset on technical and collaboration practices, including on **legacy code**.
 
-I care about producing software that is both durable and useful, by aligning and retrospecting regularly with technical and functional collaborators.
+My approach consists of making myself dispensable and making teams **autonomous** as soon as possible. I continuously transfer my know-how, lead by example and make sure that teams integrate the right habits, so they can apply them autonomously, for the long run. 
 
 On this page, I share the types of services I can provide to your business, my background, values and availability.
 
@@ -29,11 +29,8 @@ On this page, I share the types of services I can provide to your business, my b
 I provide the following services:
 
 - **Renovation and maintenance of legacy software**: I help teams (re)gain confidence and efficiency on the maintenance and development of their production software (incl. web applications and data pipelines), by reducing technical debt and accidental complexity that builds up over time.
-- **Tech leadership**: I help team-members ship high quality software with a healthy velocity, by aligning their practices, challenging architecture proposals, conducting code reviews & team retrospectives and following up on technical projects.
 - **Technical coaching**: I support the planning and animation of the cultural transformation of software teams. Custom training on software craft practices (TDD/DDD/BDD, clean code, automated testing, continuous integration, DevOps), pair/mob programming on _katas_ then on production code and/or coaching while contributing to an ongoing project.
 - **Strategic software consulting**: I can act as an _on-demand CTO_, to audit your technical assets and provide recommendations on how to bootstrap or grow your business efficiently.
-
-My approach consists of making myself dispensable and making teams autonomous as soon as possible. I continuously transfer my know-how, lead by example and make sure that teams integrate the right habits, so they can apply them autonomously, for the long run. For that reason, I never work alone on product development tasks that are usually tackled by team members. That being said, I'm happy to take care of some technical tasks for which the team lacks the necessary skills and/or time to achieve correctly.
 
 ### Experience
 

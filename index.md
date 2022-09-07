@@ -11,7 +11,7 @@ Hi!
 
 My name is Adrien Joly (he/him). I live in Montreuil, Paris area, France.
 
-As a **Software Crafter** and **Tech Lead**, I help development teams maintain complex back-end software (mostly with TypeScript and Node.js), operate it in production and scale. I love renovating codebases, to reduce technical debt, increase robustness and development velocity. (see [my services](/pro) 🇬🇧 / 🇫🇷 [prestations](/pro/fr))
+As a **Tech Lead** and **Coach**, I help development teams maintain complex back-end software (mostly with TypeScript and Node.js), operate it in production and scale. I love renovating codebases, to reduce technical debt, increase robustness and development velocity. (see [my services](/pro) 🇬🇧 / 🇫🇷 [prestations](/pro/fr))
 
 I enjoy **sharing what I've learned**, by:
 
