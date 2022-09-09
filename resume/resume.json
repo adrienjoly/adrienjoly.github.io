@@ -4,7 +4,7 @@
     "picture": "https://adrienjoly.com/img/photo.jpg",
     "email": "adrien.joly@shodo.io",
     "website": "https://adrienjoly.com",
-    "summary": "I develop and maintain scalable software in production. To sustain quality and velocity, I help teams write readable and predictable code, effective documentation, and ever-running automated tests. I love to share what I've learned and learn from others.",
+    "summary": "I help development teams produce software that is both durable and useful, by bringing a continuous improvement mindset on technical and collaboration practices, including on legacy code.",
     "location": {
       "address": "129 avenue du Président Wilson",
       "postalCode": "93100",
@@ -32,7 +32,7 @@
   "work": [
     {
       "company": "SHODO",
-      "position": "Software Crafter / Tech Coach",
+      "position": "Tech Coach",
       "website": "https://www.shodo.io/",
       "startDate": "2020-03-02",
       "summary": "I joined SHODO to nurture my \"software craft\" skills with like-minded professionals and apply them during missions.",
@@ -234,7 +234,7 @@
       "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "Node.js / Express",
+        "Node.js / Express / Fastify",
         "JavaScript / TypeScript",
         "React / Vue.js",
         "Git",
@@ -246,7 +246,7 @@
       "level": "Master",
       "keywords": [
         "Jest / Ava / Mocha",
-        "Cypress / Webdriver",
+        "Cypress / Selenium / Cucumber",
         "GitHub Actions"
       ]
     },
@@ -256,7 +256,8 @@
       "keywords": [
         "Docker",
         "Kubernetes",
-        "Google Cloud Platform"
+        "Google Cloud Platform",
+        "Terraform"
       ]
     }
   ],
