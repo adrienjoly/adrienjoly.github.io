@@ -1,3 +1,5 @@
+Based in Paris, France, Adrien Joly (he/him) started as a Software engineer in 2006. Ten years after writing his first Node.js-based full-stack web application (openwhyd.org), he's still maintaining it in production and using it to practice legacy code refactoring techniques. In March, 2020, Adrien joined the consulting agency SHODO to grow with a community of like-minded professionals and practice his skills as a Software Crafter and Tech Coach. You can follow Adrien and/or contact him on Twitter: @adrienjoly.
+
 quick facts:
 
 - [adrienjoly.com](adrienjoly.com), 33 y.o.
