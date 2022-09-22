@@ -22,7 +22,7 @@ Sur cette page, je présente les types de prestations que je propose à mes clie
 Voici les services que je propose à mes clients:
 
 - **Reprise/refonte/rénovation de l’existant applicatif**: J'accompagne l'équipe technique dans l'industrialisation et la modernisation de produits logiciels existants (dont applications Web et chaînes de traitement de données) en réduisant leur dette technique et complexité accidentelle, pour les rendre plus robustes, plus performants et/ou rendre leur processus de développement plus efficace.
-- **Coaching technique**: J'accompagne la définition et l'animation d'un plan de transformation de la culture d'une ou plusieurs équipes de développement. Formations sur mesure aux méthodes d'Artisanat Logiciel (TDD/DDD/BDD, clean code, tests automatisés, intégration continue, livraison continue, pratiques DevOps), programmation à plusieurs (_pair/mob programming_) sur des _katas_ puis sur du code de production, coaching embarqué en tant que contributeur d'un projet en cours.
+- **Coaching technique**: J'accompagne la définition et l'animation d'un plan de transformation de la culture d'une ou plusieurs équipes de développement. Formations sur mesure aux méthodes d'Artisanat Logiciel (TDD/DDD/BDD, clean code, clean architecture, tests automatisés, intégration continue, livraison continue, pratiques DevOps), programmation à plusieurs (_pair/mob programming_) sur des _katas_ puis sur du code de production, coaching embarqué en tant que contributeur d'un projet en cours.
 - **Conseil stratégique**: Je peux intervenir comme _CTO provisoire_, pour auditer le code existant et apporter des recommandations pour démarrer ou développer efficacement votre projet.
 
 ### Expérience
@@ -73,7 +73,7 @@ _« Depuis son arrivée, [...] notre risque face au déploiement a été consid�
 
 En Mars 2020, j'ai rejoint l'agence [SHODO](https://shodo.io/) pour continuer de m'améliorer en pratiquant de nouvelles techniques au sein d'une communauté de professionnels qui me ressemblent.
 
-En qualité de prestataire (via SHODO), je serai disponible à partir de Septembre 2022. (_dernière mise à jour: 2022-07-25)
+En qualité de prestataire (via SHODO), je serai disponible à partir de Septembre 2022. (_dernière mise à jour: 2022-07-25_)
 
 J'ai l'habitude de télétravailler depuis chez moi, à Montreuil, France. Je préfère m'engager sur des missions d'accompagnement technique au sein d'une équipe de développement, pendant plusieurs mois (entre 6 mois et 2 ans), à raison de 4 jours par semaine. Pour ce genre de prestation, mon TJM est de 850€/jour.
 

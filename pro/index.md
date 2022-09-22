@@ -29,7 +29,7 @@ On this page, I share the types of services I can provide to your business, my b
 I provide the following services:
 
 - **Renovation and maintenance of legacy software**: I help teams (re)gain confidence and efficiency on the maintenance and development of their production software (incl. web applications and data pipelines), by reducing technical debt and accidental complexity that builds up over time.
-- **Technical coaching**: I support the planning and animation of the cultural transformation of software teams. Custom training on software craft practices (TDD/DDD/BDD, clean code, automated testing, continuous integration, DevOps), pair/mob programming on _katas_ then on production code and/or coaching while contributing to an ongoing project.
+- **Technical coaching**: I support the planning and animation of the cultural transformation of software teams. Custom training on software craft practices (TDD/DDD/BDD, clean code, clean architecture, automated testing, continuous integration, DevOps), pair/mob programming on _katas_ then on production code and/or coaching while contributing to an ongoing project.
 - **Strategic software consulting**: I can act as an _on-demand CTO_, to audit your technical assets and provide recommendations on how to bootstrap or grow your business efficiently.
 
 ### Experience
