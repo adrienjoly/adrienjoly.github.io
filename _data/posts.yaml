@@ -1,3 +1,9 @@
+- title: Turning a Node.js Monolith Into a Monorepo Without Disrupting the Team
+  date: 2022-10-12
+  url: https://www.infoq.com/articles/nodejs-monorepo/
+  source: "infoq.com"
+  featured: true
+
 - title: How to regain control in a legacy codebase
   date: 2022-07-22
   url: https://medium.com/shodo-io/how-to-regain-control-in-a-legacy-codebase-ee1b874e351b
