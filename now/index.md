@@ -9,13 +9,15 @@ description: What I’m doing now
 
 I’m home in Montreuil, Paris area, France.
 
-- 💼  &nbsp; After helping [Choose](https://appchoose.io/)'s technical team scale their back-end software and development processes, I'm now open to new consulting opportunities.
+- 💼  &nbsp; As a Tech Coach, I’m currently helping Omie’s technical team improve the quality of their products and software development processes.
 
   > For more information about what I can do for your business, check out [adrienjoly.com/pro](/pro).
 
-- 🎓  &nbsp; I'm preparing two conference talks and a second article for infoq.com, stay tuned!
+- 🎓  &nbsp; A second article I wrote was freshly published on infoq.com, and I'm preparing two conference talks. Stay tuned!
 
   > Check out my list of [talks](/talks) and [posts](/posts).
+  
+- 🎸  &nbsp; With my rock cover band « The Rag Dolls », we’re giving a concert during the night of November 11th, at 1am, at Supersonic, Paris. Can’t wait!
 
 <!--
 
@@ -25,8 +27,8 @@ I’m home in Montreuil, Paris area, France.
 
 -->
 
-- 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr), mostly The Climb 2. On my couch, I’m currently enjoying SpiritFairer.
+- 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr), mostly The Climb 2. On my couch, I’m currently enjoying Celeste and XCOM 2.
 
-> Last update was September 7th, 2022. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was October 15th, 2022. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
