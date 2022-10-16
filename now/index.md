@@ -17,7 +17,7 @@ I’m home in Montreuil, Paris area, France.
 
   > Check out my list of [talks](/talks) and [posts](/posts).
   
-- 🎸  &nbsp; With my rock cover band « The Rag Dolls », we’re giving a concert during the night of November 11th, at 1am, at Supersonic, Paris. Can’t wait!
+- 🎸  &nbsp; With my rock cover band « The Rag Dolls », we’re giving a [concert](https://www.facebook.com/events/1120603685556319/) during the night of November 11th, at 1am, at Supersonic, Paris. Can’t wait!
 
 <!--
 
