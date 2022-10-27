@@ -6,6 +6,12 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
+- title: "Tests Unitaires sans galères, grâce à l'Inversion de Dépendances"
+  date: 2022-10-26
+  event: "Paris.js Meetup"
+  url: "https://github.com/parisjs/talks/issues/146"
+  slides: "https://docs.google.com/presentation/d/19ur2jkmcYm9xzPEuyqakjrSRZj3HTilOjIp5G78V3fo/mobilepresent?slide=id.p"
+
 - title: "Co-conception pérenne avec Domain Driven Design, retour d'expérience"
   date: 2022-09-08
   event: "Cheerz - Tech Meetup"
