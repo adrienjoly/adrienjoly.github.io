@@ -9,8 +9,10 @@
 - title: "Tests Unitaires sans galères, grâce à l'Inversion de Dépendances"
   date: 2022-10-26
   event: "Paris.js Meetup"
-  url: "https://github.com/parisjs/talks/issues/146"
+  url: https://youtu.be/-UvsPx2KC1k
+  video: https://youtu.be/-UvsPx2KC1k
   slides: "https://docs.google.com/presentation/d/19ur2jkmcYm9xzPEuyqakjrSRZj3HTilOjIp5G78V3fo/mobilepresent?slide=id.p"
+  permalink: "https://github.com/parisjs/talks/issues/146"
 
 - title: "Co-conception pérenne avec Domain Driven Design, retour d'expérience"
   date: 2022-09-08
