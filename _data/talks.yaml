@@ -6,9 +6,18 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
+- title: "Décommissionnement progressif de code legacy à l’aide d’AST"
+  date: 2023-01-19
+  event: "Touraine Tech 2023"
+
+- title: "Coder seul·e == vélocité optimale ?"
+  date: 2022-12-13
+  event: "HumanTalks Paris (Meetup)"
+  slides: https://docs.google.com/presentation/d/1GXerr8gctcschmjjLmogmWS_cYnbwRMFlijx_JcqoSw
+
 - title: "Tests Unitaires sans galères, grâce à l'Inversion de Dépendances"
   date: 2022-10-26
-  event: "Paris.js Meetup"
+  event: "Paris.js (Meetup)"
   url: https://youtu.be/-UvsPx2KC1k
   video: https://youtu.be/-UvsPx2KC1k
   slides: "https://docs.google.com/presentation/d/19ur2jkmcYm9xzPEuyqakjrSRZj3HTilOjIp5G78V3fo/mobilepresent?slide=id.p"
