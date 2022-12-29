@@ -13,6 +13,8 @@
 - title: "Coder seul·e == vélocité optimale ?"
   date: 2022-12-13
   event: "HumanTalks Paris (Meetup)"
+  url: https://www.youtube.com/watch?v=gjXk7VP1fuw
+  video: https://www.youtube.com/watch?v=gjXk7VP1fuw
   slides: https://docs.google.com/presentation/d/1GXerr8gctcschmjjLmogmWS_cYnbwRMFlijx_JcqoSw
 
 - title: "Tests Unitaires sans galères, grâce à l'Inversion de Dépendances"
