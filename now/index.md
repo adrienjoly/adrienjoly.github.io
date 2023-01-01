@@ -9,15 +9,15 @@ description: What I’m doing now
 
 I’m home in Montreuil, Paris area, France.
 
-- 💼  &nbsp; As a Tech Coach, I’m currently helping Omie’s technical team improve the quality of their products and software development processes.
+- 💼  &nbsp; As a Tech Coach, I’m helping Omie’s technical team improve the quality of their software products and development processes.
 
-  > For more information about what I can do for your business, check out [adrienjoly.com/pro](/pro).
+  > For more information about what I can do for your business, check out [adrienjoly.com/pro](/pro). Don’t hesitate to reach out if you have coaching and/or training needs.
 
 - 🎓  &nbsp; A second article I wrote was freshly published on infoq.com, and I'm preparing two conference talks. Stay tuned!
 
   > Check out my list of [talks](/talks) and [posts](/posts).
   
-- 🎸  &nbsp; With my rock cover band « The Rag Dolls », we’re giving a [concert](https://www.facebook.com/events/1120603685556319/) during the night of November 11th, at 1am, at Supersonic, Paris. Can’t wait!
+- 🎸  &nbsp; Until we find concert opportunities with « [Harissa](https://www.facebook.com/harissaquartet) » and « The Rag Dolls », I’m learning to play the guitar.
 
 <!--
 
@@ -27,8 +27,8 @@ I’m home in Montreuil, Paris area, France.
 
 -->
 
-- 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr), mostly The Climb 2. On my couch, I’m currently enjoying Celeste and XCOM 2.
+- 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr), mostly The Climb 2 and Tales of the galaxy’s edge (Star Wars). On my couch, I’m currently enjoying Horizon zero dawn.
 
-> Last update was October 15th, 2022. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was January 1st, 2023. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
