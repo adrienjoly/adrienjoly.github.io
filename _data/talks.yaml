@@ -6,10 +6,12 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
-- title: "[WIP] 🚧 Décommissionnement progressif de code legacy à l’aide d’AST"
-  date: 2023-01-19
+- title: "🚧 Décommissionnement progressif de code legacy à l’aide d’AST"
+  date: 2023-01-20
   event: "Touraine Tech 2023"
   slides: https://docs.google.com/presentation/d/1H5s2MMqhNGSA_Y_HDxFtFyuKZHwU5uyy1trwJnmJlEs
+  permalink: https://github.com/openwhyd/openwhyd/pull/580
+  url: https://github.com/openwhyd/openwhyd/pull/580
 
 - title: "🧑‍💻 Coder seul·e == vélocité optimale ?"
   date: 2022-12-13
