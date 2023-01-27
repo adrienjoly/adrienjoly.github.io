@@ -19,7 +19,7 @@
   img: /img/prj_thesis.png
   links:
   - title: Publications
-    url: http://liris.cnrs.fr/publis/?mode=liste&amp;author=2771&amp;order=a
+    url: https://hal.science/search/index/?q=%2A&rows=30&authFullName_s=Adrien+Joly&level0_domain_s=info
     className: liris
 
 - title: Masters thesis
