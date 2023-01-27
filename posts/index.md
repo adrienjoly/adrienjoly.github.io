@@ -26,6 +26,6 @@ title: Posts
   <small style="color:gray;">{{ post.date | date: "%b %-d, %Y" }}, {{ post.source }}</small>
 {% endfor %}
 
-> Last update was May 29th, 2020. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/talks)
+> Last update was {{ site.data.posts[0].date | date: "%b %-d, %Y" }}. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/talks)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
