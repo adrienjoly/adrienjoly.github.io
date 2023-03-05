@@ -23,7 +23,7 @@ I’m home in Montreuil, Paris area, France.
 
 - 🌶  &nbsp; I’m exciting about the upcoming concerts we’re giving with "[Harissa](https://www.facebook.com/harissaquartet)" and "The Rag Dolls", the rock cover band I've recently joined!
 
-  > Harissa‘s album, "[Radio Désert](https://harissa.bandcamp.com/album/radio-d-sert)", is available on most music platforms.
+  > Harissa‘s album, "[Radio Désert](https://ampl.ink/harissa-radio-desert)", is available on most music platforms.
 
 -->
 

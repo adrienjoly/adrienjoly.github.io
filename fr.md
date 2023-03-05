@@ -25,7 +25,7 @@ J'aime **partager ce que j'apprends**:
 
 Pour plus d'informations, voir la page: [mes services](/pro/fr).
 
-En tant que **musicien**, j'ai été **batteur** de [projets musicaux divers et variés](/music). J'ai notamment participé à la composition et l'enregistrement de deux albums: [Radio Désert](https://harissa.bandcamp.com/album/radio-d-sert) (avec mon groupe [Harissa](https://www.facebook.com/harissaquartet/)) et [Survived The Great Flood](https://www.discogs.com/fr/Man-Is-Not-A-Bird-Survived-The-Great-Flood/master/870529). (avec mon précédent groupe: Man Is Not A Bird)
+En tant que **musicien**, j'ai été **batteur** de [projets musicaux divers et variés](/music). J'ai notamment participé à la composition et l'enregistrement de deux albums: [Radio Désert](https://ampl.ink/harissa-radio-desert) (avec mon groupe [Harissa](https://www.facebook.com/harissaquartet/)) et [Survived The Great Flood](https://www.discogs.com/fr/Man-Is-Not-A-Bird-Survived-The-Great-Flood/master/870529). (avec mon précédent groupe: Man Is Not A Bird)
 
 Pour suivre mon actualité récente:
 - consultez ma page "[now](/now)";

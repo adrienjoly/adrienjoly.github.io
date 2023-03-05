@@ -20,7 +20,7 @@ I enjoy **sharing what I've learned**, by:
 - writing [articles](/posts)
 - and maintaining [open-source projects](/prod).
 
-As a **musician**, I have been **playing drums** for [various bands and other musical projects](/music). I participated to the composition and recording of two albums: [Radio Désert](https://harissa.bandcamp.com/album/radio-d-sert) (with my band [Harissa](https://www.facebook.com/harissaquartet/)) and [Survived The Great Flood](https://www.discogs.com/fr/Man-Is-Not-A-Bird-Survived-The-Great-Flood/master/870529). (with my previous band: Man Is Not A Bird)
+As a **musician**, I have been **playing drums** for [various bands and other musical projects](/music). I participated to the composition and recording of two albums: [Radio Désert](https://ampl.ink/harissa-radio-desert) (with my band [Harissa](https://www.facebook.com/harissaquartet/)) and [Survived The Great Flood](https://www.discogs.com/fr/Man-Is-Not-A-Bird-Survived-The-Great-Flood/master/870529). (with my previous band: Man Is Not A Bird)
 
 Read more: [what I'm doing now](/now).
 
