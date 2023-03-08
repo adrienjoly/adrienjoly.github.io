@@ -9,9 +9,10 @@
 - title: "🚧 Décommissionnement progressif de code legacy à l’aide d’AST"
   date: 2023-01-20
   event: "Touraine Tech 2023"
-  slides: https://docs.google.com/presentation/d/1H5s2MMqhNGSA_Y_HDxFtFyuKZHwU5uyy1trwJnmJlEs
+  url: https://youtube.com/watch?v=DhXB7lDsmw4
+  video: https://youtube.com/watch?v=DhXB7lDsmw4
   permalink: https://github.com/openwhyd/openwhyd/pull/580
-  url: https://github.com/openwhyd/openwhyd/pull/580
+  slides: https://docs.google.com/presentation/d/1AKkmx7kb21bJrNLunGeIYqSw70WI8J0Kl9j6PHGrRi8
 
 - title: "🧑‍💻 Coder seul·e == vélocité optimale ?"
   date: 2022-12-13
