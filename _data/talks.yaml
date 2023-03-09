@@ -6,6 +6,16 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
+- title: "🚧 Decommissioning a legacy module progressively, using AST traversal"
+  date: 2023-05-10
+  event: "MenderCon 2023"
+  permalink: https://mendercon.com/schedule/#session-10
+
+- title: "🚧 Décommissionnement progressif de code legacy à l’aide d’AST"
+  date: 2023-03-29
+  event: "Paris.js (Meetup)"
+  permalink: https://github.com/parisjs/talks/issues/158
+
 - title: "🚧 Décommissionnement progressif de code legacy à l’aide d’AST"
   date: 2023-01-20
   event: "Touraine Tech 2023"
