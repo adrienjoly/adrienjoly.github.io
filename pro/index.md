@@ -78,7 +78,7 @@ _« We now feel confident everytime we deploy a new version. I recommend Adrien 
 
 In March, 2020, I joined the consulting agency [SHODO](https://shodo.io/) to grow with a community of like-minded professionals and practice my skills as a Software Crafter.
 
-As a contractor (through SHODO), I'll be available from September 2022. (_last update: 2022-07-25_)
+As a contractor (through SHODO), I'll be available from Spring 2023. (_last update: 2023-03-16_)
 
 I am accustomed to work remotely, from Montreuil ~ Paris, France – in the CET timezone.
 
