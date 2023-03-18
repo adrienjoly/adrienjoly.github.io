@@ -13,7 +13,7 @@ Bonjour !
 
 Je m'appelle Adrien Joly, basé à Montreuil, en région Parisienne.
 
-En tant que **Tech Lead** et **Coach Craft**:
+En tant que **Coach Technique**:
 - J'aide les équipes de développement à monter en compétence, pour maintenir plus efficacement leur backend complexe (web et données) et assurer leur bon fonctionnement en production.
 - J'aide mes collègues et clients à devenir des développeurs plus épanouis et efficaces, en les accompagnant dans l'amélioration de leur code existant (ex: bonnes pratiques pour réduire dette technique et/ou complexité accidentelle), en conduisant des ateliers et/ou en donnant des formations.
 
@@ -33,4 +33,4 @@ Pour suivre mon actualité récente:
 
 Je suis joignable via Twitter ou par email. (_contact arobase adrienjoly point com_)
 
-> Dernière mise à jour: 9 Septembre 2022. [Historique des modifications](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
+> Dernière mise à jour: 18 Mars 2023. [Historique des modifications](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
