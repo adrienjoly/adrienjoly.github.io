@@ -188,6 +188,8 @@
     tags: info
   - idea: 'A notification engine that relies on two models: objectives (ex. make the user come back to the site within 2 days) and a user acceptance model (ex. don''t send 3 "XXX followed you" notifications in a row)'
     tags: dev
+  - idea: 'A script that can prove that a set of changes on a codebase (e.g. git commits) do not imply any functional change (I.e. the exact same things happen before/after the change, at runtime), by comparing their AST. This could make code reviews useless, when refactoring.'
+    tags: refactoring
 
 - goal: Life, leisure and entertainment
   verb: Live
