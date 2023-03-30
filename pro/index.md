@@ -29,7 +29,8 @@ On this page, I share the types of services I can provide to your business, my b
 I provide the following services:
 
 - **Renovation and maintenance of legacy software**: I help teams (re)gain confidence and efficiency on the maintenance and development of their production software (incl. web applications and data pipelines), by reducing technical debt and accidental complexity that builds up over time.
-- **Technical coaching**: I support the planning and animation of the cultural transformation of software teams. Custom training on software craft practices (TDD/DDD/BDD, clean code, clean architecture, automated testing, continuous integration, DevOps), pair/mob programming on _katas_ then on production code and/or coaching while contributing to an ongoing project.
+- **Technical coaching**: I support the planning and animation of the cultural transformation of software teams. I coordinate technical projects in which all developers contribute to improve the codebase, in a way to grow mastery and autonomy. Pair/mob programming on katas and/or on production code.
+- **Teaching/training/workshops** on software craft practices (TDD/DDD/BDD, clean code, clean architecture, automated testing, continuous integration, DevOps), pair/mob programming and problem solving techniques.
 - **Strategic software consulting**: I can act as an _on-demand CTO_, to audit your technical assets and provide recommendations on how to bootstrap or grow your business efficiently.
 
 ### Experience
@@ -45,6 +46,7 @@ In terms of technical stack and skills:
 
 - I've been developing software with **Node.js** (mostly) since 2012, but I'm used to learn new technologies and to adapt to different environments and constraints.
 - I know how to setup, develop and maintain a software application **across the stack**: web and data pipeline development, automated testing, debugging, continuous integration, deployment, monitoring and other operations in production.
+- I’ve trained and improve my pedagogical skills by teaching hundreds of students in various computer science schools, for five years. And by speaking in international conferences.
 
 ### Values
 

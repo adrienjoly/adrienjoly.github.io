@@ -22,7 +22,8 @@ Sur cette page, je présente les types de prestations que je propose à mes clie
 Voici les services que je propose à mes clients:
 
 - **Reprise/refonte/rénovation de l’existant applicatif**: J'accompagne l'équipe technique dans l'industrialisation et la modernisation de produits logiciels existants (dont applications Web et chaînes de traitement de données) en réduisant leur dette technique et complexité accidentelle, pour les rendre plus robustes, plus performants et/ou rendre leur processus de développement plus efficace.
-- **Coaching technique**: J'accompagne la définition et l'animation d'un plan de transformation de la culture d'une ou plusieurs équipes de développement. Formations sur mesure aux méthodes d'Artisanat Logiciel (TDD/DDD/BDD, clean code, clean architecture, tests automatisés, intégration continue, livraison continue, pratiques DevOps), programmation à plusieurs (_pair/mob programming_) sur des _katas_ puis sur du code de production, coaching embarqué en tant que contributeur d'un projet en cours.
+- **Coaching technique embarqué**: J'accompagne la définition et l'animation d'un plan de transformation de la culture d'une ou plusieurs équipes de développement. J’anime le lancement et suivi de chantiers techniques visant à faire participer toute l’équipe à l’amélioration de la codebase, en vue d’augmenter leur maîtrise en autonomie. Programmation à plusieurs (_pair/mob programming_) sur des _katas_ et/ou sur du code de production.
+- **Formation et ateliers pratiques sur mesure**, sur bonnes pratiques d'Artisanat Logiciel (TDD/DDD/BDD, clean code, clean architecture, tests automatisés, intégration continue, livraison continue, pratiques DevOps), techniques de programmation à plusieurs (_pair/mob programming_) et résolution de problèmes.
 - **Conseil stratégique**: Je peux intervenir comme _CTO provisoire_, pour auditer le code existant et apporter des recommandations pour démarrer ou développer efficacement votre projet.
 
 ### Expérience
@@ -40,6 +41,7 @@ En terme de compétences:
 
 - Je développe majoritairement en **Node.js** depuis 2012, mais je m'adapte volontiers à l'usage d'autres langages et technologies, en fonction des besoins et contraintes de mes clients.
 - Je maîtrise la conception, le développement et la maintenance d'applications logicielles sur toute la chaîne de valeur technique: développement, écriture de tests automatisés, déboggage, intégration continue, déploiement et suivi, entre autres opérations liées à l'infrastructure de production.
+- J’ai développé mes qualités de pédagogue en donnant cours à des centaines d’apprenants en école d’informatique, sur une période de 5 ans. Et en donnant des dizaines de présentations en conférences (dont internationales) et meetups.
 
 ### Valeurs
 
