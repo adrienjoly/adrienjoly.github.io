@@ -11,12 +11,15 @@
   event: "MenderCon 2023"
   permalink: https://mendercon.com/schedule/#session-10
 
-- title: "🚧 Décommissionnement progressif de code legacy à l’aide d’AST"
+- title: "🧟 Décommissionnement progressif de code legacy – Comment s’en débarrasser sans tout casser ?"
   date: 2023-03-29
   event: "Paris.js (Meetup)"
+  url: https://www.youtube.com/watch?v=Tpt3kh0ssUw
+  video: https://www.youtube.com/watch?v=Tpt3kh0ssUw
   permalink: https://github.com/parisjs/talks/issues/158
+  slides: https://docs.google.com/presentation/d/1FpQKQuywyCbt1Rbr2Blq3G_lSd7b4dvuhyt6PvqyAZw/edit?usp=sharing
 
-- title: "🚧 Décommissionnement progressif de code legacy à l’aide d’AST"
+- title: "Décommissionnement progressif de code legacy à l’aide d’AST"
   date: 2023-01-20
   event: "Touraine Tech 2023"
   url: https://youtube.com/watch?v=DhXB7lDsmw4
