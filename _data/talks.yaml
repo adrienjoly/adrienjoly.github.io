@@ -47,6 +47,7 @@
   event: "Cheerz - Tech Meetup"
   url: "https://www.youtube.com/watch?v=7zvDQ8QA1Vk"
   video: "https://www.youtube.com/watch?v=7zvDQ8QA1Vk"
+  slides: "https://docs.google.com/presentation/d/1CF5Zey05pb7q6Cm4W73Py6aWypbHreMKnbovBzsCOSQ/edit?usp=sharing"
 
 - title: "🧑‍⚕️ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu et Jordan Nourry"
   date: 2022-04-20
