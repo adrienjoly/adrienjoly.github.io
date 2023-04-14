@@ -19,7 +19,7 @@ I’m home in Montreuil, Paris area, France.
   
 - 🎸  &nbsp; We're composing [Harissa](https://www.facebook.com/harissaquartet)'s second album, open for concert opportunities with [The Rag Dolls](https://linktr.ee/ragdolls), and I’m learning to play the guitar.
 
-  > My next concert: [Gimme Shelter / La Nuit Classic Rock du Supersonic | Facebook](https://www.facebook.com/events/741773497563280) (24/03).
+  > My next concert: [I Was Made For Lovin' U / Nuit Hard & Glam du Supersonic](https://www.facebook.com/events/605980398068430/) (14/04).
   
 <!--
 
@@ -29,8 +29,8 @@ I’m home in Montreuil, Paris area, France.
 
 -->
 
-- 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr), mostly FitXR, Rush and Pistol Whip. On my couch, I’m currently enjoying Horizon Zero Dawn.
+- 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr), mostly FitXR, Rush and Pistol Whip. On my couch, I’m currently enjoying Bioshock.
 
-> Last update was March 18th, 2023. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was April 14th, 2023. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
