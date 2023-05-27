@@ -16,6 +16,16 @@ Selection d’expériences passées, en vrac:
 
 Based in Paris, France, Adrien Joly (he/him) started as a Software engineer in 2006. Ten years after writing his first Node.js-based full-stack web application (openwhyd.org), he's still maintaining it in production and using it to practice legacy code refactoring techniques. In March, 2020, Adrien joined the consulting agency SHODO to grow with a community of like-minded professionals and practice his skills as a Software Crafter and Tech Coach. You can follow Adrien and/or contact him on Twitter: @adrienjoly.
 
+Based in Paris, France, Adrien Joly (he/him) started as a Software engineer in 2006. With more than 12 years of experience working with early-stage and mature start-up companies, he has become an expert on helping teams craft successful products, by finding the right compromise between development velocity and software sustainability. In March, 2020, he joined the consulting agency SHODO to grow with a community of like-minded professionals and continuously develop his skills as a Technical Coach. You can follow Adrien and/or contact him on Twitter: @adrienjoly.
+
+Here's a selection of recent talks:
+- "Decommissioning a legacy module progressively, using AST traversal", at MenderCon (remote), May 2023
+- "Coder seul·e == vélocité optimale ?" (translation: "coding alone == optimal velocity ?"), HumanTalks Paris, December 2022
+- "Co-conception pérenne avec Domain Driven Design, retour d’expérience" (translation: "sustainable and collaborative design using DDD"), Cheerz Tech Meetup, September 2022
+- "Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert" (3-hour live renovation/modernization of a legacy codebase, with Julien Topçu and Jordan Nourry), Devoxx France, April 2022
+
+You can find links to video recordings on: https://adrienjoly.com/talks/
+
 quick facts:
 
 - [adrienjoly.com](adrienjoly.com), 33 y.o.
