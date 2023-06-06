@@ -9,17 +9,17 @@ description: What I’m doing now
 
 I’m home in Montreuil, Paris area, France.
 
-- 💼  &nbsp; As a Tech Coach, I’m helping Omie’s technical team improve the quality of their software products and development processes.
+- 💼  &nbsp; As a Tech Coach, I’m currently working with several clients to help them improve the quality of their software products and development processes. I still have some availability left for other clients.
 
   > For more information about what I can do for your business, check out [adrienjoly.com/pro](/pro). Don’t hesitate to reach out if you have coaching and/or training needs.
 
-- 🎓  &nbsp; I'm gonna give a talk at [MenderCon 2023](https://mendercon.com/schedule/#session-10) on how to use Abstract Syntax Trees to decommission a deprecated function. Also, I'm preparing content for a training about how to regain control of a legacy JavaScript/TypeScript codebase. Feel free to contact me if you want to know more.
+- 🎓  &nbsp; I'm excited about giving 3 talks this month, for [Human Talks Paris](https://humantalks.com/cities/paris), [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/) and [Sunny Tech](https://sunny-tech.io)
 
   > Check out my list of [talks](/talks) and [posts](/posts).
   
 - 🎸  &nbsp; We're composing [Harissa](https://www.facebook.com/harissaquartet)'s second album, open for concert opportunities with [The Rag Dolls](https://linktr.ee/ragdolls), and I’m learning to play the guitar.
 
-  > My next concert: [I Was Made For Lovin' U / Nuit Hard & Glam du Supersonic](https://www.facebook.com/events/605980398068430/) (14/04).
+  > My last concert: [I Was Made For Lovin' U / Nuit Hard & Glam du Supersonic](https://www.facebook.com/events/605980398068430/) (14/04).
   
 <!--
 
@@ -29,8 +29,8 @@ I’m home in Montreuil, Paris area, France.
 
 -->
 
-- 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr), mostly FitXR, Rush and Pistol Whip. On my couch, I’m currently enjoying Bioshock.
+- 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr), mostly FitXR, Rush and Pistol Whip. On my couch, I’m currently enjoying Sable.
 
-> Last update was April 14th, 2023. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was June 6th, 2023. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
