@@ -6,10 +6,25 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
+- title: "Décommissionnement progressif de code legacy à l’aide d’AST"
+  date: 2023-06-29
+  event: "Sunny Tech 2023"
+  url: https://sunny-tech.io/sessions/decommissionnement-progressif-
+
+- title: "🧑‍⚕️ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu"
+  date: 2022-06-21
+  event: "Voxxed Days Luxembourg 2023"
+  url: "https://cfp-voxxed-lux.yajug.org/2023/talk/QJB-1203/Architecturoplastie_hexagonale_d%E2%80%99un_backend_legacy_en_Node.js_:_Operation_a_code_ouvert"
+
+- title: "🔑 Code legacy: les clés pour s'en sortir !"
+  date: 2023-06-13
+  event: "Human Talks (Meetup)"
+  url: https://www.meetup.com/fr-FR/humantalks-paris/
+
 - title: "🚧 Decommissioning a legacy module progressively, using AST traversal"
   date: 2023-05-10
   event: "MenderCon 2023"
-  permalink: https://mendercon.com/schedule/#session-10
+  url: https://mendercon.com/schedule/#session-10
 
 - title: "🧟 Décommissionnement progressif de code legacy – Comment s’en débarrasser sans tout casser ?"
   date: 2023-03-29
