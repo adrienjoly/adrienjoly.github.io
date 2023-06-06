@@ -24,7 +24,7 @@ Voici les services que je propose à mes clients:
 - **Reprise/refonte/rénovation de l’existant applicatif**: J'accompagne l'équipe technique dans l'industrialisation et la modernisation de produits logiciels existants (dont applications Web et chaînes de traitement de données) en réduisant leur dette technique et complexité accidentelle, pour les rendre plus robustes, plus performants et/ou rendre leur processus de développement plus efficace.
 - **Coaching technique embarqué**: J'accompagne la définition et l'animation d'un plan de transformation de la culture d'une ou plusieurs équipes de développement. J’anime le lancement et suivi de chantiers techniques visant à faire participer toute l’équipe à l’amélioration de la codebase, en vue d’augmenter leur maîtrise en autonomie. Programmation à plusieurs (_pair/mob programming_) sur des _katas_ et/ou sur du code de production.
 - **Formation et ateliers pratiques sur mesure**, sur bonnes pratiques d'Artisanat Logiciel (TDD/DDD/BDD, clean code, clean architecture, tests automatisés, intégration continue, livraison continue, pratiques DevOps), techniques de programmation à plusieurs (_pair/mob programming_) et résolution de problèmes.
-- **Conseil stratégique**: Je peux intervenir comme _CTO provisoire_ ou _VP Engineering_, pour auditer l'existant et apporter des recommandations pour démarrer ou développer efficacement votre projet.
+- **Conseil stratégique**: Je peux intervenir comme _CTO provisoire_ ou _VP Engineering_, pour auditer l'existant et apporter des recommandations pour démarrer ou développer efficacement votre projet, dans le sens des [capabilités DORA](https://dora.dev/devops-capabilities/).
 
 ### Expérience
 

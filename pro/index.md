@@ -31,7 +31,7 @@ I provide the following services:
 - **Renovation and maintenance of legacy software**: I help teams (re)gain confidence and efficiency on the maintenance and development of their production software (incl. web applications and data pipelines), by reducing technical debt and accidental complexity that builds up over time.
 - **Technical coaching**: I support the planning and animation of the cultural transformation of software teams. I coordinate technical projects in which all developers contribute to improve the codebase, in a way to grow mastery and autonomy. Pair/mob programming on katas and/or on production code.
 - **Teaching/training/workshops** on software craft practices (TDD/DDD/BDD, clean code, clean architecture, automated testing, continuous integration, continuous delivery, DevOps), pair/mob programming and problem solving techniques.
-- **Strategic software consulting**: I can act as an _on-demand CTO_ or _VP Engineering_, to audit your technical assets and provide recommendations on how to bootstrap or grow your business efficiently.
+- **Strategic software consulting**: I can act as an _on-demand CTO_ or _VP Engineering_, to audit your technical assets and provide recommendations on how to bootstrap or grow your business efficiently, according to [DORA capabilities](https://dora.dev/devops-capabilities/).
 
 ### Experience
 
