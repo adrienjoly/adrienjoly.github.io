@@ -11,7 +11,7 @@ lang: fr-FR
 
 Je m'appelle Adrien Joly (_il/lui_), basé en région Parisienne, France.
 
-J'aide les équipes de développement logiciel à produire du code **utile et pérenne**, par l'**amélioration continue** des pratiques techniques et de collaboration, y compris sur du **code legacy**.
+J'aide les équipes de développement logiciel à produire du code **utile et pérenne**, par l'**amélioration continue** des pratiques techniques et de collaboration, incluant intégration continue (CI) et livraison continue (CD), y compris sur du **code legacy**.
 
 Motivé par la volonté de transmettre mon savoir-faire et d'apporter des changements qui s'inscriront dans la durée, en toute **autonomie**, j'œuvre à me rendre dispensable au sein des équipes que j'intègre temporairement, le temps de ma mission.
 

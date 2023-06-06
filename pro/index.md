@@ -18,7 +18,7 @@ As a Software Craft consultant, I help startup companies:
 
 My name is Adrien Joly (_he/him_), based in Paris, France (CET).
 
-I help development teams produce software that is both **durable and useful**, by bringing a **continuous improvement** mindset on technical and collaboration practices, including on **legacy code**.
+I help development teams produce software that is both **durable and useful**, by bringing a **continuous improvement** mindset on technical and collaboration practices, including Continuous Integration (CI) and Continuous Deployment (CD), also on **legacy code**.
 
 My approach consists of making myself dispensable and making teams **autonomous** as soon as possible. I continuously transfer my know-how, lead by example and make sure that teams integrate the right habits, so they can apply them autonomously, for the long run. 
 
@@ -30,7 +30,7 @@ I provide the following services:
 
 - **Renovation and maintenance of legacy software**: I help teams (re)gain confidence and efficiency on the maintenance and development of their production software (incl. web applications and data pipelines), by reducing technical debt and accidental complexity that builds up over time.
 - **Technical coaching**: I support the planning and animation of the cultural transformation of software teams. I coordinate technical projects in which all developers contribute to improve the codebase, in a way to grow mastery and autonomy. Pair/mob programming on katas and/or on production code.
-- **Teaching/training/workshops** on software craft practices (TDD/DDD/BDD, clean code, clean architecture, automated testing, continuous integration, DevOps), pair/mob programming and problem solving techniques.
+- **Teaching/training/workshops** on software craft practices (TDD/DDD/BDD, clean code, clean architecture, automated testing, continuous integration, continuous delivery, DevOps), pair/mob programming and problem solving techniques.
 - **Strategic software consulting**: I can act as an _on-demand CTO_, to audit your technical assets and provide recommendations on how to bootstrap or grow your business efficiently.
 
 ### Experience
