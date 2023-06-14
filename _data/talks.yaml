@@ -19,7 +19,8 @@
 - title: "🔑 Code legacy: les clés pour s'en sortir !"
   date: 2023-06-13
   event: "Human Talks (Meetup)"
-  url: https://www.meetup.com/fr-FR/humantalks-paris/
+  url: https://www.meetup.com/fr-FR/humantalks-paris/events/294012140/
+  slides: https://adrienjoly.com/slides-legacy-humantalks
 
 - title: "🚧 Decommissioning a legacy module progressively, using AST traversal"
   date: 2023-05-10
