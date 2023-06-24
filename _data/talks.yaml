@@ -11,10 +11,11 @@
   event: "Sunny Tech 2023"
   url: https://sunny-tech.io/sessions/decommissionnement-progressif-
 
-- title: "🧑‍⚕️ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu"
+- title: "🧑‍⚕️🧑‍⚕️ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu"
   date: 2022-06-21
   event: "Voxxed Days Luxembourg 2023"
   url: "https://cfp-voxxed-lux.yajug.org/2023/talk/QJB-1203/Architecturoplastie_hexagonale_d%E2%80%99un_backend_legacy_en_Node.js_:_Operation_a_code_ouvert"
+  slides: https://slides.com/julientopcu/architecturoplastie-hexagonale-dun-backend-nodejs-operation-code-ouvert
 
 - title: "🔑 Code legacy: les clés pour s'en sortir !"
   date: 2023-06-13
@@ -65,7 +66,7 @@
   video: "https://www.youtube.com/watch?v=7zvDQ8QA1Vk"
   slides: "https://docs.google.com/presentation/d/1CF5Zey05pb7q6Cm4W73Py6aWypbHreMKnbovBzsCOSQ/edit?usp=sharing"
 
-- title: "🧑‍⚕️ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu et Jordan Nourry"
+- title: "🧑‍⚕️🧑‍⚕️🧑‍⚕️ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu et Jordan Nourry"
   date: 2022-04-20
   event: "Devoxx France 2022"
   url: "https://www.youtube.com/watch?v=r2XMwAUqZBA"
