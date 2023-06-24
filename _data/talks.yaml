@@ -1,0 +1,37 @@
+- title: "🧟 Décommissionnement progressif de code legacy à l’aide d’AST"
+  date: 2023-01-20
+  event: "Touraine Tech 2023"
+  url: https://youtube.com/watch?v=DhXB7lDsmw4
+  video: https://youtube.com/watch?v=DhXB7lDsmw4
+  permalink: https://github.com/openwhyd/openwhyd/pull/580
+  slides: https://docs.google.com/presentation/d/1AKkmx7kb21bJrNLunGeIYqSw70WI8J0Kl9j6PHGrRi8
+
+- title: "🧑‍💻 Coder seul·e == vélocité optimale ?"
+  date: 2022-12-13
+  event: "HumanTalks Paris (Meetup)"
+  url: https://www.youtube.com/watch?v=gjXk7VP1fuw
+  video: https://www.youtube.com/watch?v=gjXk7VP1fuw
+  slides: https://docs.google.com/presentation/d/1GXerr8gctcschmjjLmogmWS_cYnbwRMFlijx_JcqoSw
+
+- title: "🔀 Tests Unitaires sans galères, grâce à l'Inversion de Dépendances"
+  date: 2022-10-26
+  event: "Paris.js (Meetup)"
+  url: https://youtu.be/-UvsPx2KC1k
+  video: https://youtu.be/-UvsPx2KC1k
+  slides: "https://docs.google.com/presentation/d/19ur2jkmcYm9xzPEuyqakjrSRZj3HTilOjIp5G78V3fo/mobilepresent?slide=id.p"
+  permalink: "https://github.com/parisjs/talks/issues/146"
+
+- title: "🤝 Co-conception pérenne avec Domain Driven Design, retour d'expérience"
+  date: 2022-09-08
+  event: "Cheerz - Tech Meetup"
+  url: "https://www.youtube.com/watch?v=7zvDQ8QA1Vk"
+  video: "https://www.youtube.com/watch?v=7zvDQ8QA1Vk"
+  slides: "https://docs.google.com/presentation/d/1CF5Zey05pb7q6Cm4W73Py6aWypbHreMKnbovBzsCOSQ/edit?usp=sharing"
+
+- title: "🧑‍⚕️🧑‍⚕️🧑‍⚕️ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu et Jordan Nourry"
+  date: 2022-04-20
+  event: "Devoxx France 2022"
+  url: "https://www.youtube.com/watch?v=r2XMwAUqZBA"
+  video: "https://www.youtube.com/watch?v=r2XMwAUqZBA"
+  permalink: "https://cfp.devoxx.fr/2022/talk/ILE-6714/Architecturoplastie_hexagonale_d%E2%80%99un_backend_Node.js_:_Operation_a_code_ouvert"
+  slides: "https://github.com/openwhyd/openwhyd-solo/issues/7#issue-1155654345"
