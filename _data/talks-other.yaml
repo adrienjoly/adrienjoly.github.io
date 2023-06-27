@@ -77,6 +77,8 @@
   address: Algolia, 55 rue d'Amsterdam, 75008 Paris
   desc_en: |
     In this presentation, I share the story of three communication mistakes I made with my team, and how we resolved them. This is the last talk I gave at Algolia, before leaving.
+  slides: https://docs.google.com/presentation/d/17WXXwC9dCJFbXodGfqzmOQQSltctni4bAdLfrJLTx9s/edit?usp=sharing
+  url: https://docs.google.com/presentation/d/17WXXwC9dCJFbXodGfqzmOQQSltctni4bAdLfrJLTx9s/edit?usp=sharing
 
 - title: SoCraTes France 2019, an (un)conference with Software Crafters
   date: 2019-10-24
