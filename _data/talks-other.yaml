@@ -10,6 +10,7 @@
   date: 2023-06-29
   event: "Sunny Tech 2023"
   url: https://sunny-tech.io/sessions/decommissionnement-progressif-
+  slides: https://docs.google.com/presentation/d/15zbXI01k1km-u3g4GfE29baJjgtXoFuNKYJ_XnG_OQw/edit?usp=sharing
 
 - title: "🧑‍⚕️🧑‍⚕️ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu"
   date: 2022-06-21
