@@ -15,8 +15,10 @@
 - title: "🧑‍⚕️🧑‍⚕️ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu"
   date: 2022-06-21
   event: "Voxxed Days Luxembourg 2023"
-  url: "https://cfp-voxxed-lux.yajug.org/2023/talk/QJB-1203/Architecturoplastie_hexagonale_d%E2%80%99un_backend_legacy_en_Node.js_:_Operation_a_code_ouvert"
+  url: https://www.youtube.com/watch?v=r_x_sEDCV1Y
+  video: https://www.youtube.com/watch?v=r_x_sEDCV1Y
   slides: https://slides.com/julientopcu/architecturoplastie-hexagonale-dun-backend-nodejs-operation-code-ouvert
+  permalink: https://cfp-voxxed-lux.yajug.org/2023/talk/QJB-1203/Architecturoplastie_hexagonale_d%E2%80%99un_backend_legacy_en_Node.js_:_Operation_a_code_ouvert
 
 - title: "🔑 Code legacy: les clés pour s'en sortir !"
   date: 2023-06-13
