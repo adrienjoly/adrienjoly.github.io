@@ -18,6 +18,8 @@ Based in Paris, France, Adrien Joly (he/him) started as a Software engineer in 2
 
 Based in Paris, France, Adrien Joly (he/him) started as a Software engineer in 2006. With more than 12 years of experience working with early-stage and mature start-up companies, he has become an expert on helping teams craft successful products, by finding the right compromise between development velocity and software sustainability. In March, 2020, he joined the consulting agency SHODO to grow with a community of like-minded professionals and continuously develop his skills as a Technical Coach. You can follow Adrien and/or contact him on Twitter: @adrienjoly.
 
+Basé à Paris, France, Adrien Joly a commencé sa carrière en tant qu'ingénieur logiciel en 2006. Que ce soit au sein de startups en phase de démarrage ou de croissance (scale-up), il aide les équipes à développer et maintenir des produits logiciels de qualité en améliorant leurs pratiques. En mars 2020, il a rejoint l'agence de conseil SHODO pour évoluer au sein d'une communauté de professionnels partageant les mêmes valeurs et développer continuellement ses compétences en tant que Coach Technique. Vous pouvez suivre Adrien et/ou le contacter sur Twitter : @adrienjoly.
+
 Here's a selection of recent talks:
 - "Decommissioning a legacy module progressively, using AST traversal", at MenderCon (remote), May 2023
 - "Coder seul·e == vélocité optimale ?" (translation: "coding alone == optimal velocity ?"), HumanTalks Paris, December 2022
