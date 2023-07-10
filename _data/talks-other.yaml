@@ -9,8 +9,10 @@
 - title: "Décommissionnement progressif de code legacy à l’aide d’AST"
   date: 2023-06-29
   event: "Sunny Tech 2023"
-  url: https://sunny-tech.io/sessions/decommissionnement-progressif-
+  url: https://www.youtube.com/watch?v=QzN29TM4s2o
+  video: https://www.youtube.com/watch?v=QzN29TM4s2o
   slides: https://docs.google.com/presentation/d/15zbXI01k1km-u3g4GfE29baJjgtXoFuNKYJ_XnG_OQw/edit?usp=sharing
+  permalink: https://sunny-tech.io/sessions/decommissionnement-progressif-
 
 - title: "🧑‍⚕️🧑‍⚕️ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu"
   date: 2022-06-21
