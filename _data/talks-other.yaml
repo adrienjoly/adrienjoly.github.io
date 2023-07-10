@@ -6,16 +6,8 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
-- title: "Décommissionnement progressif de code legacy à l’aide d’AST"
-  date: 2023-06-29
-  event: "Sunny Tech 2023"
-  url: https://www.youtube.com/watch?v=QzN29TM4s2o
-  video: https://www.youtube.com/watch?v=QzN29TM4s2o
-  slides: https://docs.google.com/presentation/d/15zbXI01k1km-u3g4GfE29baJjgtXoFuNKYJ_XnG_OQw/edit?usp=sharing
-  permalink: https://sunny-tech.io/sessions/decommissionnement-progressif-
-
 - title: "🧑‍⚕️🧑‍⚕️ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu"
-  date: 2022-06-21
+  date: 2023-06-21
   event: "Voxxed Days Luxembourg 2023"
   url: https://www.youtube.com/watch?v=r_x_sEDCV1Y
   video: https://www.youtube.com/watch?v=r_x_sEDCV1Y
@@ -42,6 +34,14 @@
   video: https://www.youtube.com/watch?v=Tpt3kh0ssUw
   permalink: https://github.com/parisjs/talks/issues/158
   slides: https://docs.google.com/presentation/d/1FpQKQuywyCbt1Rbr2Blq3G_lSd7b4dvuhyt6PvqyAZw/edit?usp=sharing
+
+- title: "🧟 Décommissionnement progressif de code legacy à l’aide d’AST"
+  date: 2023-01-20
+  event: "Touraine Tech 2023"
+  url: https://youtube.com/watch?v=DhXB7lDsmw4
+  video: https://youtube.com/watch?v=DhXB7lDsmw4
+  permalink: https://github.com/openwhyd/openwhyd/pull/580
+  slides: https://docs.google.com/presentation/d/1AKkmx7kb21bJrNLunGeIYqSw70WI8J0Kl9j6PHGrRi8
 
 - title: "Comment réécrire du code JS imbitable, sans régression ni perte de cheveux"
   date: 2022-03-30
