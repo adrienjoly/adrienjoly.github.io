@@ -75,9 +75,7 @@ _« Depuis son arrivée, [...] notre risque face au déploiement a été consid�
 
 En Mars 2020, j'ai rejoint l'agence [SHODO](https://shodo.io/) pour continuer de m'améliorer en pratiquant de nouvelles techniques au sein d'une communauté de professionnels qui me ressemblent.
 
-En qualité de prestataire (via SHODO), je serai disponible à partir du printemps 2023. (_dernière mise à jour: 2023-03-16_)
-
-J'ai l'habitude de télétravailler depuis chez moi, à Montreuil, France. Je préfère m'engager sur des missions d'accompagnement technique au sein d'une équipe de développement, pendant plusieurs mois (entre 6 mois et 2 ans), à raison de 4 jours par semaine. Pour ce genre de prestation, mon TJM est de 900€/jour.
+En qualité de prestataire (via SHODO), je serai disponible à partir de fin Juillet 2023, à raison de 4 jours par semaine. (_dernière mise à jour: 2023-07-21_)
 
 Une question ? [Contactez-moi](mailto:adrien.joly@shodo.io)
 
