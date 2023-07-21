@@ -29,6 +29,12 @@
   slides: https://adrienjoly.com/slides-legacy-humantalks
   permalink: https://www.meetup.com/fr-FR/humantalks-paris/events/294012140/
 
+# - title: "Sholegacy & Refactoring"
+#   date: 2023-05-22
+#   event: "SHODay (Internal Meetup)"
+#   slides: https://adrienjoly.com/sholegacy-slides/
+#   permalink: https://www.notion.so/shodo/ShoLegacy-Refactoring-97a3c0eedb3e469fa7503fc708b9ef32
+
 - title: "🚧 Decommissioning a legacy module progressively, using AST traversal"
   date: 2023-05-10
   event: "MenderCon 2023"
