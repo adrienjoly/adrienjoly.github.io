@@ -47,3 +47,9 @@ I value:
 - **Sustainable efficiency** in the development process;
 - **Transparency** in my intents, my communication, and my code;
 - **Integrity** with my interests and convictions.
+
+--
+
+- In 2016, I started writing (good) automated tests and practicing my refactoring skills, by open sourcing the codebase of a startup company which I mostly wrote between 2012 and 2015. Yes, it was the first legacy code I saw in my life, and I was its author. 😅
+- In 2018, I discovered TDD and the software craft mindset while working in a team which didn't care about the increasing number of bugs that they produced.
+- Since 2020, I've worked as a consultant (thru SHODO) to help startup companies (re)gain mastery over their codebase and software development process.
