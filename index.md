@@ -11,13 +11,12 @@ Hi!
 
 My name is Adrien Joly (he/him). I live in Montreuil, Paris area, France.
 
-As a **Tech Coach**, I help development teams maintain and scale complex software. I love renovating legacy codebases, to reduce technical debt, increase robustness and development velocity. (see [my services](/pro) 🇬🇧 / 🇫🇷 [prestations](/pro/fr))
+As a passionate software engineer who loves prototyping, developing, maintaining and scaling complex software, I enjoy **sharing what I've learned**, by:
 
-I enjoy **sharing what I've learned**, by:
-
-- [teaching](/teaching),
-- giving [talks](/talks),
+- hosting a podcast: [le SAV de la Tech](https://podcasts-francais.fr/podcast/le-sav-de-la-tech),
 - writing [articles](/posts)
+- giving [talks](/talks),
+- [teaching](/teaching),
 - and maintaining [open-source projects](/prod).
 
 As a **musician**, I have been **playing drums** for [various bands and other musical projects](/music). I participated to the composition and recording of two albums: [Radio Désert](https://ampl.ink/harissa-radio-desert) (with my band [Harissa](https://www.facebook.com/harissaquartet/)) and [Survived The Great Flood](https://www.discogs.com/fr/Man-Is-Not-A-Bird-Survived-The-Great-Flood/master/870529). (with my previous band: Man Is Not A Bird)
@@ -26,8 +25,8 @@ Read more: [what I'm doing now](/now).
 
 Contact: contact @ this domain name. (I prefer [email](https://medium.com/@adrienjoly/why-email-does-not-stink-9267c948f3f9#.g63r0gqsu) to [phone calls](https://byrslf.co/why-i-don-t-answer-most-phone-calls-4a71e1418854)) 😇
 
-> Last update was March 18th, 2023. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
+> Last update was October 4th, 2023. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
 >
-> Follow [@adrienjoly](https://twitter.com/adrienjoly) on Twitter.
+> Follow me [on Twitter](https://twitter.com/adrienjoly) and [on Bluesky](https://bsky.app/profile/adrienjoly.com).
 
 <!-- the content of this page was inspired by https://vickylai.com/ -->
