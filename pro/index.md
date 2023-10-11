@@ -16,6 +16,10 @@ As a Software Craft consultant, I help startup companies:
 - grow and align the practices of their members, to make sure that they can work efficiently and that the codebase stays clean.
 -->
 
+> [IMPORTANT]
+> I left SHODO in September 2023. I am not taking consulting gigs anymore.
+> Please send consulting requests over to contact@shodo.io.
+
 My name is Adrien Joly (_he/him_), based in Paris, France (CET).
 
 I help development teams produce software that is both **durable and useful**, by bringing a **continuous improvement** mindset on technical and collaboration practices, including Continuous Integration (CI) and Continuous Deployment (CD), also on **legacy code**.
@@ -78,13 +82,13 @@ _« We now feel confident everytime we deploy a new version. I recommend Adrien 
 
 ### Availability
 
-In March, 2020, I joined the consulting agency [SHODO](https://shodo.io/) to grow with a community of like-minded professionals and practice my skills as a Software Crafter.
+~~In March, 2020, I joined the consulting agency [SHODO](https://shodo.io/) to grow with a community of like-minded professionals and practice my skills as a Software Crafter.~~
 
-As a contractor (through SHODO), I'll be available from the end of July 2023, 4 days per week. (_last update: 2023-07-21_)
+~~As a contractor (through SHODO), I'll be available from the end of July 2023, 4 days per week.~~ (_last update: 2023-10-11_)
 
 I am accustomed to work remotely, from Montreuil ~ Paris, France – in the CET timezone.
 
-Any question? [Contact me](mailto:adrien.joly@shodo.io)
+Any question? [Contact me](mailto:contact@adrienjoly.com)
 
 ### References
 

@@ -9,6 +9,10 @@ lang: fr-FR
   <a href="/pro/fr" class="active"><img alt="French / Français" id="lang-fr" src="/img/lang-fr.png"></a>
 </div>
 
+> [IMPORTANT]
+> J’ai quitté mon poste de consultant chez SHODO en septembre 2023. Je ne prends donc plus de demandes de missions depuis.
+> Merci d’envoyer vos besoins à contact@shodo.io.
+
 Je m'appelle Adrien Joly (_il/lui_), basé en région Parisienne, France.
 
 J'aide les équipes de développement logiciel à produire du code **utile et pérenne**, par l'**amélioration continue** des pratiques techniques et de collaboration, incluant intégration continue (CI) et livraison continue (CD), y compris sur du **code legacy**.
@@ -73,11 +77,11 @@ _« Depuis son arrivée, [...] notre risque face au déploiement a été consid�
 
 ### Disponibilité
 
-En Mars 2020, j'ai rejoint l'agence [SHODO](https://shodo.io/) pour continuer de m'améliorer en pratiquant de nouvelles techniques au sein d'une communauté de professionnels qui me ressemblent.
+~~En Mars 2020, j'ai rejoint l'agence [SHODO](https://shodo.io/) pour continuer de m'améliorer en pratiquant de nouvelles techniques au sein d'une communauté de professionnels qui me ressemblent.~~
 
-En qualité de prestataire (via SHODO), je serai disponible à partir de fin Juillet 2023, à raison de 4 jours par semaine. (_dernière mise à jour: 2023-07-21_)
+~~En qualité de prestataire (via SHODO), je serai disponible à partir de fin Juillet 2023, à raison de 4 jours par semaine.~~ (_dernière mise à jour: 2023-10-11_)
 
-Une question ? [Contactez-moi](mailto:adrien.joly@shodo.io)
+Une question ? [Contactez-moi](mailto:contact@adrienjoly.com)
 
 ### Références
 
