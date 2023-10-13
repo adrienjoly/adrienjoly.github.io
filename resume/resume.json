@@ -2,9 +2,9 @@
   "basics": {
     "name": "Adrien Joly",
     "picture": "https://adrienjoly.com/img/photo.jpg",
-    "email": "adrien.joly@shodo.io",
+    "email": "contact@adrienjoly.com",
     "website": "https://adrienjoly.com",
-    "summary": "I help development teams produce software that is both durable and useful, by bringing a continuous improvement mindset on technical and collaboration practices, including on legacy code.",
+    "summary": "I help development teams produce useful, bug-free software for the long term.",
     "location": {
       "address": "129 avenue du Président Wilson",
       "postalCode": "93100",
@@ -35,6 +35,7 @@
       "position": "Tech Coach",
       "website": "https://www.shodo.io/",
       "startDate": "2020-03-02",
+      "endDate": "2023-09-29",
       "summary": "I joined SHODO to nurture my \"software craft\" skills with like-minded professionals and apply them during missions.",
       "highlights": [
         "Setup Continuous Integration, SQL Migrations, Continuous Improvement processes, Domain-Driven Design and Clean Code practices within the back-end development team of « Choose », an e-commerce startup company.",
