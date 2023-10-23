@@ -1,3 +1,10 @@
+- title: How to Sustain Quality and Velocity in a JavaScript or TypeScript Project?
+  date: 2023-10-20
+  url: https://www.infoq.com/articles/javascript-typescript-quality-velocity/
+  source: "infoq.com"
+  featured: true
+  description: JavaScript and its ever-changing ecosystem can make codebases quickly become hard to maintain and affect developer productivity. In this article, we analyze a few best practices to help avoid that.
+
 - title: Turning a Node.js Monolith Into a Monorepo Without Disrupting the Team
   date: 2022-10-12
   url: https://www.infoq.com/articles/nodejs-monorepo/
