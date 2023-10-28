@@ -11,7 +11,7 @@ I’m home in Montreuil, Paris area, France.
 
 - 💼  &nbsp; I recently left SHODO to join a new startup company. I'll provide more details soon!
 
-- 🎙️  &nbsp; Jérémie Girault and I are starting a podcast in which we answer to listeners' questions related to soft-skills and career development in the tech workspace: [le SAV de la Tech](https://podcasts-francais.fr/podcast/le-sav-de-la-tech).
+- 🎙️  &nbsp; Jérémie Girault and I are starting a podcast in which we answer to listeners' questions related to soft-skills and career development in the tech workspace: [le SAV de la Tech](https://podcasters.spotify.com/pod/show/sav-de-la-tech).
 
 - 🎓  &nbsp; I'll give a fun talk at BDX/IO in November: "[Composer de la musique 8-bit en JavaScript, avec WebAudio](https://bdxio.fr/talks/606)".
 

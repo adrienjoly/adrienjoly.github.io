@@ -13,7 +13,7 @@ My name is Adrien Joly (he/him). I live in Montreuil, Paris area, France.
 
 As a passionate **software engineer** who loves prototyping, developing, maintaining and scaling complex software, I enjoy sharing what I've learned, by:
 
-- hosting a podcast: [le SAV de la Tech](https://podcasts-francais.fr/podcast/le-sav-de-la-tech),
+- hosting a podcast: [le SAV de la Tech](https://podcasters.spotify.com/pod/show/sav-de-la-tech),
 - writing [articles](/posts)
 - giving [talks](/talks),
 - [teaching](/teaching),

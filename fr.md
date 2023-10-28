@@ -15,7 +15,7 @@ Je m'appelle Adrien Joly, basé à Montreuil, en région Parisienne.
 
 En tant qu'**ingénieur logiciel** passionné par le prototypage, développement, maintenance et le passage à l'échelle de logiciels complexes, j'aime partager ce que j'apprends:
 
-- en animant un podcast: [le SAV de la Tech](https://podcasts-francais.fr/podcast/le-sav-de-la-tech);
+- en animant un podcast: [le SAV de la Tech](https://podcasters.spotify.com/pod/show/sav-de-la-tech);
 - en donnant des formations, ateliers pratiques, [cours](/teaching) et des [présentations](/talks);
 - en écrivant des [articles](/posts);
 - et en maintenant des [projets open-source](/prod).
