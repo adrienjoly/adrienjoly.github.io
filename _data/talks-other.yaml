@@ -125,6 +125,12 @@
   permalink: https://hackmd.io/OzgqYYiQRweCB6MLpSyJxA?view
   slides: https://hackmd.io/@adrienjoly/SJfLkHy-B
   url: http://sonicmakerscamp.org
+  
+- title: 'Make "Game Boy" music in JavaScript'
+  date: 2019-06-20
+  event: Algolia Show & Tell (internal event)
+  slides: https://docs.google.com/presentation/d/1aUMunS9rXh9xqDLaZ9p8IH9FZ9j4jzQepPX7lxrPwGw/edit
+  url: https://youtu.be/xsKB5bRKZ4Y
 
 - title: The Challenging Migration From Heroku to Google Kubernetes Engine
   date: 2019-03-27
