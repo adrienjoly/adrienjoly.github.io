@@ -6,6 +6,14 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
+- title: "👾 Composer de la musique 8-bit en JavaScript, avec WebAudio"
+  date: 2023-11-10
+  event: "BDX I/O 2023"
+  url: https://www.youtube.com/live/oykb2VKZYxw?si=0rgw-wClQxyVt4mY&t=13216
+  video: https://www.youtube.com/live/oykb2VKZYxw?si=0rgw-wClQxyVt4mY&t=13216
+  slides: https://adrienjoly.com/slides-webaudio-gameboy-music/
+  permalink: https://bdxio.fr/talks/606
+
 - title: "🧑‍⚕️🧑‍⚕️ Architecturoplastie hexagonale d’un backend Node.js: Opération à code ouvert, avec Julien Topçu"
   date: 2023-06-21
   event: "Voxxed Days Luxembourg 2023"
