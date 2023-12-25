@@ -11,7 +11,7 @@ I’m home in Montreuil, Paris area, France.
 
 - 💼  &nbsp; I recently left SHODO to join a new startup company. I'll provide more details soon!
 
-- 🎙️  &nbsp; Jérémie Girault and I enjoy publishing new episodes of [le SAV de la Tech](https://podcasters.spotify.com/pod/show/sav-de-la-tech), a podcast in which we answer listeners' questions related to soft-skills and career development in the tech workspace.
+- 🎙️  &nbsp; Jérémie Girault and I enjoy publishing new episodes of [le SAV de la Tech](https://www.lesav.tech/), a podcast in which we answer listeners' questions related to soft-skills and career development in the tech workspace.
 
   > Last épisode: [3. Comment dire à mon collègue que son haleine me gêne ? 😮‍💨 par Le SAV de la Tech](https://podcasters.spotify.com/pod/show/sav-de-la-tech/episodes/3--Comment-dire--mon-collgue-que-son-haleine-me-gne-e2b9n01)
 
