@@ -7,5 +7,5 @@ var ROOT = 'https://adrienjoly.com';
   '/js': ROOT + '/cours-javascript',
   '/mooc': 'https://www.udemy.com/startuptour',
   '/slides-trello': ROOT + '/productivity/slides-trello',
-  '/sav': 'https://forms.gle/61EoPKSxc5jgGRCQ7',
+  '/sav': 'https://www.lesav.tech/',
 };
