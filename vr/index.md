@@ -92,6 +92,7 @@ To play PCVR games running on my Shadow (cloud-based PC) via Virtual Desktop, I 
 
 - [Tuto Shadow Oculus quest et Virtual desktop - VR-gamerz.fr](https://www.vr-gamerz.fr/2020/08/21/tuto-shadow-oculus-quest-et-virtual-desktop/)
 - [How to Setup Shadow PC With Oculus Quest: Cloud Gaming PC!](https://arvrtips.com/setup-shadow-pc-with-oculus-quest/)
+- 🇫🇷 [Jouer à des jeux PCVR sur Meta Quest avec Shadow et Virtual Desktop](https://gist.github.com/adrienjoly/daa2f3f859e6d034252a8a630239fcb0)
 
 ### Good to know: the situation with controllers
 
