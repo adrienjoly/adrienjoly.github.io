@@ -1,0 +1,21 @@
+name: CI
+
+on:
+  # run whenever commits are pushed
+  push:
+  # allow to run manually from github actions' tab
+  workflow_dispatch:
+
+jobs:
+  check-jekyll:
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+      # - run: npm run fetch
+      - run: make build
+      # Commit all changed files back to the repository
+      # - uses: stefanzweifel/git-auto-commit-action@v5
