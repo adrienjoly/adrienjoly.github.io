@@ -52,6 +52,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - src
+  - tmp/
+  - vendor/
 
 plugins:
   - jekyll-seo-tag
