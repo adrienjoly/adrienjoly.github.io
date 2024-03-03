@@ -2,4 +2,6 @@
 _site
 .env
 .jekyll-metadata
+.bundle
+vendor/
 node_modules
