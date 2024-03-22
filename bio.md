@@ -2,7 +2,7 @@ Après avoir fait mes armes dans plusieurs startups, et produit beaucoup de lign
 
 J’aime créer du contenu ([talks de conférence](https://adrienjoly.com/talks/) et [articles](https://adrienjoly.com/posts/)) et maintenir le projet [Openwhyd](https://openwhyd.org/) ([code source](https://github.com/openwhyd/openwhyd)) que j’ai commencé à développer au début de ma carrière en startup, et que j’utilise souvent pour montrer comment refactoriser du code historique qui a mal vieilli.
 
-Le weekend, je joue de la batterie dans 2 groupes de musique ([Harissa](https://www.facebook.com/harissaquartet) et [The Rag Dolls](https://www.facebook.com/profile.php?id=100087952024848)), et à des jeux vidéos, dont en VR. (Oculus Quest)
+Le weekend, je joue de la batterie dans 2 groupes de musique ([Harissa](https://harissaofficial.com) et [The Rag Dolls](https://www.facebook.com/profile.php?id=100087952024848)), et à des jeux vidéos, dont en VR. (Oculus Quest)
 
 Selection d’expériences passées, en vrac:
 

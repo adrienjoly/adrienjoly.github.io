@@ -13,7 +13,7 @@ I’m home in Montreuil, Paris area, France.
 
 - 🎙️  &nbsp; Jérémie Girault and I enjoy publishing new episodes of [le SAV de la Tech](https://www.lesav.tech/), a podcast in which we answer listeners' questions related to soft-skills and career development in the tech workspace.
 
-- 🎸  &nbsp; While we're composing [Harissa](https://www.instagram.com/harissaquartet)'s second album, I’m learning to play the guitar and I enjoy giving concerts with other projects, including [Boro](https://www.instagram.com/borotheband).
+- 🎸  &nbsp; While we're composing [Harissa](https://harissaofficial.com)'s second album, I’m learning to play the guitar and I enjoy giving concerts with other projects, including [Boro](https://www.instagram.com/borotheband).
 
     - Next concert with Harissa: [Harissa @ L'Usine Bar, Marcoussis](https://www.bandsintown.com/e/105179033) (4/4/2024)
     - Next concert with Boro: ["The Killers" Tribute (20 ans de Hot Fuss) @ Supersonic, Paris](https://www.facebook.com/events/1305893710098167/) (16/6/2024)
