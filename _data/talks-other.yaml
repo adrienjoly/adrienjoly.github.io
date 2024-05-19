@@ -39,7 +39,9 @@
 - title: "🚧 Decommissioning a legacy module progressively, using AST traversal"
   date: 2023-05-10
   event: "MenderCon 2023"
-  url: https://mendercon.com/schedule/#session-10
+  permalink: https://mendercon.com/schedule/#session-10
+  video: https://www.youtube.com/watch?v=gN9RAE7vCzo
+  url: https://www.youtube.com/watch?v=gN9RAE7vCzo
 
 - title: "🧟 Décommissionnement progressif de code legacy – Comment s’en débarrasser sans tout casser ?"
   date: 2023-03-29
