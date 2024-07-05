@@ -13,7 +13,7 @@ I’m home in Montreuil, Paris area, France.
 
 - 🎸  &nbsp; Upcoming concerts with [Harissa](https://harissaofficial.com), [Boro](https://linktr.ee/borotheband) and Rag Dolls:
 
-    - [26/07/2024] "Gimme Shelter" (rock classics) @ Supersonic, Paris
+    - [26/07/2024] ["Gimme Shelter" (rock classics) @ Supersonic, Paris](https://www.facebook.com/events/1259827475423571/)
 
 - 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr), mostly Pistol Whip. On my couch, I’m currently enjoying Outer Wilds and XCOM Enemy Unknown.
 
