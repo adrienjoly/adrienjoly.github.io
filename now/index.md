@@ -11,13 +11,12 @@ I’m home in Montreuil, Paris area, France.
 
 - 🎙️  &nbsp; Jérémie Girault and I enjoy publishing new episodes of [le SAV de la Tech](https://www.lesav.tech/), a podcast in which we answer listeners' questions related to soft-skills and career development in the tech workspace.
 
-- 🎸  &nbsp; Upcoming concerts with [Harissa](https://harissaofficial.com) and [Boro](https://linktr.ee/borotheband):
+- 🎸  &nbsp; Upcoming concerts with [Harissa](https://harissaofficial.com), [Boro](https://linktr.ee/borotheband) and Rag Dolls:
 
-    - [16/6/2024] [Boro - Tribute "The Killers" (20 ans de Hot Fuss) @ Supersonic, Paris](https://supersonic-club.fr/event/sunday-tribute-the-killers-20-ans-de-hot-fuss-supersonic/)
-    - [21/6/2024] [Harissa - Fête de la Musique @ La Batterie, Guyancourt](https://www.facebook.com/events/411549651256278/)
+    - [26/07/2024] "Gimme Shelter" (rock classics) @ Supersonic, Paris
 
-- 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr), mostly Zombieland, Kayak VR and Pistol Whip. On my couch, I’m currently enjoying Subnautica.
+- 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr), mostly Pistol Whip. On my couch, I’m currently enjoying Outer Wilds and XCOM Enemy Unknown.
 
-> Last update was May 24th, 2024. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was July 5th, 2024. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow me [on Twitter](https://twitter.com/adrienjoly) and [on Bluesky](https://bsky.app/profile/adrienjoly.com).
