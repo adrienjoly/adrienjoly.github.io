@@ -31,6 +31,18 @@
   },
   "work": [
     {
+      "company": "Heal.dev",
+      "position": "Software Engineer",
+      "website": "https://heal.dev/",
+      "startDate": "2023-10-01",
+      "summary": "Working at Heal.dev gave me the opportunity to work on a innovative project with many challenging tasks, involving LLMs on non-deterministic use cases.",
+      "highlights": [
+        "Lead the development and maitenance of a web agent that runs tasks expressed in natural language onto any website.",
+        "Got rid of type errors in production by training the team on using TypeScript annotations and checking in the JavaScript monorepo, without requiring transpilation.",
+        "Designed, integrated, tested, documented and maintained dozens of features involving LLM calls and diverse external APIs."
+      ]
+    },
+    {
       "company": "SHODO",
       "position": "Tech Coach",
       "website": "https://www.shodo.io/",
