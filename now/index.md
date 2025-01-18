@@ -15,12 +15,12 @@ I’m home in Montreuil, Paris area, France.
 
 - 🎸  &nbsp; News and upcoming concerts with [Harissa](https://harissaofficial.com), [Boro](https://linktr.ee/borotheband) and [Rag Dolls](https://linktr.ee/ragdolls):
 
-    - [12/09/2024] Release of a music video from Harissa: check out [Exode on YouTube](https://www.youtube.com/watch?v=CgBpgZPxsjA)
-    - [13/10/2024] [Sunday tribute "Emo" @ Supersonic, Paris](https://facebook.com/events/s/sunday-tribute-emo-supersonic/429451683184627/), with Boro covering several Paramore hits
-    - [6/11/2024] Release of Harissa's second album + release party (--> [tickets](https://yp.events/41d68680-bf1d-42b8-8d62-85980ab89493/Harissa---Release-Party---To-Frenesium-and-Beyond--Lala))
+    - [09/02/2025] BORO: Brit'Pop tribute @ Supersonic, Paris. 
+    - [19/02/2025] Harissa @ Les Disquaires, Paris
+    - check out Harissa's latest album:  [To Frenesium and Beyond](https://music.imusician.pro/artist/00oYkcbvCn/releases).
 
-- 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr), mostly Pistol Whip. On my couch, I’m currently enjoying Civilization VI and Outer Wilds.
+- 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron). In [VR](/vr). On my couch, I’m currently enjoying A Plague Tale.
 
-> Last update was October 2nd, 2024. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was January 18th, 2025. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow me [on X/Twitter](https://x.com/adrienjoly).
