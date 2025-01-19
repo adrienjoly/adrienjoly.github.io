@@ -35,11 +35,12 @@
       "position": "Software Engineer",
       "website": "https://heal.dev/",
       "startDate": "2023-10-01",
-      "summary": "Working at Heal.dev gave me the opportunity to work on a innovative project with many challenging tasks, involving LLMs on non-deterministic use cases.",
+      "summary": "Heal.dev is an early stage startup which goal is to help companies detect and fix bugs on their web applications before they can impact end users, thanks to AI-based quality assurance (QA) agents running at scale. I have tackled a variety of challenging tasks on that innovative project with many unknown unknowns, involving LLMs on non-deterministic use cases.",
       "highlights": [
-        "Lead the development and maitenance of a web agent that runs tasks expressed in natural language onto any website.",
-        "Got rid of type errors in production by training the team on using TypeScript annotations and checking in the JavaScript monorepo, without requiring transpilation.",
-        "Designed, integrated, tested, documented and maintained dozens of features involving LLM calls and diverse external APIs."
+        "Lead the development and maintenance of a web agent that runs tasks expressed in natural language, on any website.",
+        "Designed, integrated, tested, documented and maintained dozens of features involving LLM calls and diverse external APIs, in response to customer requirements.",
+        "Developed internal tools to run automated tests on non-deterministic features and track regressions, to speed up the development process while reducing defects.",
+        "Got rid of type errors in production by training the team on strict type-checking using TypeScript annotations in the JavaScript monorepo, without requiring transpilation."
       ]
     },
     {
