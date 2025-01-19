@@ -16,10 +16,6 @@ As a Software Craft consultant, I help startup companies:
 - grow and align the practices of their members, to make sure that they can work efficiently and that the codebase stays clean.
 -->
 
-> [IMPORTANT]
-> I left SHODO in September 2023. I am not taking consulting gigs anymore.
-> Please send consulting requests over to contact@shodo.io.
-
 My name is Adrien Joly (_he/him_), based in Paris, France (CET).
 
 I help development teams produce software that is both **durable and useful**, by bringing a **continuous improvement** mindset on technical and collaboration practices, including Continuous Integration (CI) and Continuous Deployment (CD), also on **legacy code**.
@@ -36,6 +32,7 @@ I provide the following services:
 - **Technical coaching**: I support the planning and animation of the cultural transformation of software teams. I coordinate technical projects in which all developers contribute to improve the codebase, in a way to grow mastery and autonomy. Pair/mob programming on katas and/or on production code.
 - **Teaching/training/workshops** on software craft practices (TDD/DDD/BDD, clean code, clean architecture, automated testing, continuous integration, continuous delivery, DevOps), pair/mob programming and problem solving techniques.
 - **Strategic software consulting**: I can act as an _on-demand CTO_ or _VP Engineering_, to audit your technical assets and provide recommendations on how to bootstrap or grow your business efficiently, according to [DORA capabilities](https://dora.dev/devops-capabilities/).
+- and **Software engineering**
 
 ### Experience
 
@@ -44,7 +41,7 @@ Always fascinated by computers, I wrote my first scripts and programs at the age
 - **Research** engineer and researcher, respectively at Gemalto and Alcatel-Lucent Bell Labs;
 - Technical **leader** in several startup companies, including Whyd and Algolia;
 - **Teacher** in several schools, including EEMI, ESGI and Web School Factory; (in Paris)
-- and I have **developed** and maintained many products as a contractor and entrepreneur – mostly open-source.
+- and I have **developed** and maintained many products as an employee, contractor and entrepreneur – including open-source software.
 
 In terms of technical stack and skills:
 
@@ -81,10 +78,6 @@ _« His ability to understand business, technical et human needs enabled Choose 
 _« We now feel confident everytime we deploy a new version. I recommend Adrien to lead this kind of improvements. »_
 
 ### Availability
-
-~~In March, 2020, I joined the consulting agency [SHODO](https://shodo.io/) to grow with a community of like-minded professionals and practice my skills as a Software Crafter.~~
-
-~~As a contractor (through SHODO), I'll be available from the end of July 2023, 4 days per week.~~ (_last update: 2023-10-11_)
 
 I am accustomed to work remotely, from Montreuil ~ Paris, France – in the CET timezone.
 
