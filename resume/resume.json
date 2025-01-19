@@ -76,6 +76,7 @@
       "position": "Teacher",
       "website": "https://adrienjoly.com/teaching",
       "startDate": "2015-08-01",
+      "endDate": "2021-08-01",
       "highlights": [
         "Authored and gave a course on back-end / API programming with Node.js.",
         "Previously, I taught JavaScript programming to 12 groups of 1st-year students."
