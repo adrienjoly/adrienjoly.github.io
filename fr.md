@@ -25,8 +25,8 @@ En tant que **musicien**, j'ai été **batteur** de [projets musicaux divers et 
 Pour suivre mon actualité récente:
 
 - consultez ma page "[now](/now)";
-- suivez-moi sur Twitter: [@adrienjoly](https://twitter.com/adrienjoly).
+- suivez-moi sur [Bluesky](https://bsky.app/profile/adrienjoly.com).
 
-Je suis joignable via Twitter ou par email. (_contact arobase adrienjoly point com_)
+Je suis joignable via Bluesky ou par email. (_contact arobase adrienjoly point com_)
 
-> Dernière mise à jour: 18 Janvier 2025. [Historique des modifications](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
+> Dernière mise à jour: 16 Mars 2025. [Historique des modifications](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
