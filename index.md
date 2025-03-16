@@ -25,8 +25,8 @@ Read more: [what I'm doing now](/now).
 
 Contact: contact @ this domain name. (I prefer [email](https://medium.com/@adrienjoly/why-email-does-not-stink-9267c948f3f9#.g63r0gqsu) to [phone calls](https://byrslf.co/why-i-don-t-answer-most-phone-calls-4a71e1418854)) 😇
 
-> Last update was January 18th, 2025. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
+> Last update was March 16th, 2025. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master)
 >
-> Follow me [on Twitter](https://twitter.com/adrienjoly).
+> Follow me on [Bluesky](https://bsky.app/profile/adrienjoly.com).
 
 <!-- the content of this page was inspired by https://vickylai.com/ -->
