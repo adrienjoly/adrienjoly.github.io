@@ -6,6 +6,13 @@
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
 
+- title: "🐛 Détecter les bugs depuis son IDE: TSDoc et autres recettes pratiques"
+  date: 2025-02-26
+  event: "Paris.js meetup @ Swan"
+  url: https://docs.google.com/presentation/d/1IiDmJ_rWsdvczRHhJUZubABJF89_-sEcaGvARVnAcy0/edit
+  slides: https://docs.google.com/presentation/d/1IiDmJ_rWsdvczRHhJUZubABJF89_-sEcaGvARVnAcy0/edit
+  permalink: https://www.meetup.com/fr-FR/paris-js/events/306236143/
+
 - title: "👾 Composer de la musique 8-bit en JavaScript, avec WebAudio"
   date: 2023-11-10
   event: "BDX I/O 2023"
