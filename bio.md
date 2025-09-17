@@ -2,8 +2,7 @@ Basé à Paris, Adrien Joly (il/lui) a décroché son premier contrat en tant d�
 
 --
 
-Based in Paris, France, Adrien Joly (he/him) got his first gig as a software engineer in 2003. Over the years, he has enjoyed putting new products to life in early stage startups, teaching young students how to code, refactoring code he wrote 10 years earlier, coaching dev teams struggling with legacy code and tech debt, and sharing the tricks he learned along the way. You can follow Adrien and/or contact him on X (@adrienjoly) and Bluesky (@adrienjoly.com).
-
+Based in Paris, France, Adrien Joly (he/him) started his career as a Software Engineer in 2003. Over the years, he has enjoyed creating new products in early-stage startups, teaching young students how to code, refactoring code he wrote a decade earlier, coaching dev teams struggling with legacy code and technical debt, and sharing the insights he gained along the way. You can follow Adrien and/or contact him on X (@adrienjoly) and Bluesky (@adrienjoly.com).
 --
 
 Après avoir fait mes armes dans plusieurs startups, et produit beaucoup de lignes de code qui ont mal vieilli, j’ai cultivé un intérêt et une expertise croissante dans la maintenance de logiciels durables et dans le coaching d’équipes techniques à cette fin. (`#legacycode`, `#refactoring`)
