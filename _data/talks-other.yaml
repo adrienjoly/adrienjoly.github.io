@@ -5,9 +5,16 @@
 # - https://drive.google.com/drive/u/0/search?q=slides
 # - https://drive.google.com/drive/u/0/folders/0B6p16in14iyYYjdhNjBhMGItMjdiOC00MWE1LWFkMDktM2VmNzZmZTU1MTM3
 # - http://webcache.googleusercontent.com/search?q=cache:HScyZy_8Ub0J:lanyrd.com/profile/adrienjoly/+&cd=1&hl=fr&ct=clnk&gl=fr
-# - https://conference-hall.io/
-# - https://www.papercall.io/
-# - https://sessionize.com/
+# - https://conference-hall.io/speaker/talks
+# - https://www.papercall.io/talks
+# - https://sessionize.com/app/speaker/sessions - https://sessionize.com/AdrienJoly/
+
+- title: "🐛 Détecter les bugs depuis son IDE: TSDoc et autres recettes pratiques"
+  date: 2025-05-13
+  event: "Paris TypeScript meetup @ Algolia"
+  url: https://docs.google.com/presentation/d/1Hz_LnM1EOvZ32CjhQjxfORRC863rTGHnVynBLBrULRU/edit?usp=sharing
+  slides: https://docs.google.com/presentation/d/1Hz_LnM1EOvZ32CjhQjxfORRC863rTGHnVynBLBrULRU/edit?usp=sharing
+  permalink: https://www.meetup.com/fr-FR/paris-typescript/events/307201552/
 
 - title: "🐛 Détecter les bugs depuis son IDE: TSDoc et autres recettes pratiques"
   date: 2025-02-26

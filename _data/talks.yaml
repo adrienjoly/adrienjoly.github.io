@@ -1,9 +1,9 @@
-- title: "🐛 Détecter les bugs depuis son IDE: TSDoc et autres recettes pratiques"
-  date: 2025-05-13
-  event: "Paris TypeScript meetup @ Algolia"
-  url: https://docs.google.com/presentation/d/1Hz_LnM1EOvZ32CjhQjxfORRC863rTGHnVynBLBrULRU/edit?usp=sharing
-  slides: https://docs.google.com/presentation/d/1Hz_LnM1EOvZ32CjhQjxfORRC863rTGHnVynBLBrULRU/edit?usp=sharing
-  permalink: https://www.meetup.com/fr-FR/paris-typescript/events/307201552/
+- title: "🐛 The JS Files - Détecter les bugs depuis son IDE"
+  date: 2025-06-17
+  event: "Node.js Paris meetup @ Zenika"
+  url: https://docs.google.com/presentation/d/1P5pUJVOeks7n-TejEPxpTNWRTA_uOZuBr_j--DqrCsk/edit?usp=sharing
+  slides: https://docs.google.com/presentation/d/1P5pUJVOeks7n-TejEPxpTNWRTA_uOZuBr_j--DqrCsk/edit?usp=sharing
+  permalink: https://www.meetup.com/nodejs-paris/events/307766976/
 
 - title: "🤡 Comment m̶a̶l̶ communiquer avec ses collègues"
   date: 2023-07-11
