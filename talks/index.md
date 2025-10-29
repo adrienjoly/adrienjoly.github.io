@@ -12,6 +12,12 @@ description: A list of talks I've given to conferences, meetups and other events
   <small style="color:gray;">{{ talk.date | date: "%b %-d, %Y" }}, {{ talk.event }}</small>
 {% endfor %}
 
+## 🆕 Talks for future events
+
+{% for talk in site.data.talks-new %}
+- <details><summary>{{ talk.title }}</summary><small style="color:gray;">{{ talk.desc_en }}</small></details>
+{% endfor %}
+
 ## Other Talks
 
 {% for talk in site.data.talks-other %}

@@ -1,0 +1,18 @@
+# New talks proposed to conferences/CFPs
+# sources:
+# - https://confoo.ca/en/2026/call-for-papers/speaker
+
+- title: "AST Scripts vs Direct AI Refactors: A Safer Path"
+  desc_en: |
+    Many teams experiment with AI to refactor legacy code, but direct changes often miss edge cases or break conventions. In this talk, I’ll show why asking AI to generate AST-based migration scripts is safer and more reliable. Using a real migration from a custom Node.js framework to Express, we’ll compare outcomes, highlight pitfalls, and demonstrate how script-driven refactoring ensures consistency, testability, and long-term maintainability.
+  notes: https://chatgpt.com/c/68c53033-db64-832c-b064-a0f5b8832a7d
+
+- title: "How to Progressively Decommission Legacy Code Using ASTs"
+  desc_en: |
+    There's a legacy module so buggy that no developer dares making any change to it. Developers want to get rid of it, but a big part of the codebase is indirectly relying on it...
+    How to prevent the situation from getting worse, while developers keep adding features in the codebase?
+    Let's see how to use the code's AST (Abstract Syntax Tree) to visualize these dependencies and prune them one by one, until the module is gone for good!
+
+- title: "Catch Type Errors in Your IDE: The TypeScript-Free Way"
+  desc_en: |
+    A customer was stuck with a 'cannot read property name of undefined' error. Should we migrate our codebase to TypeScript to prevent this? We'll see that a full migration is neither sufficient nor necessary. By using thoughtful configuration, TSDoc, and other type-checking techniques, we can detect most bugs in JavaScript while developing in our IDE, without having to convert our entire codebase to TypeScript.
