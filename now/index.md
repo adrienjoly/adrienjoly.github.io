@@ -15,10 +15,12 @@ I’m home in Montreuil, Paris area, France.
 
     - A problematic situation or question you would like to be addressed in an episode? Share it with us: http://lesav.tech/question (in 🇫🇷 French)
 
-- 🎸  &nbsp; News and upcoming concerts with my 3 bands: [Harissa](https://harissaofficial.com), [Boro](https://linktr.ee/borotheband) and [Rag Dolls](https://linktr.ee/ragdolls).
+- 🎸  &nbsp; I play drums with my 3 bands: [Harissa](https://harissaofficial.com), [Boro](https://linktr.ee/borotheband) and Bends of Symmetry (no link yet).
+
+    - Next concert: Bends of Symmetry covers Radiohead, October 27th at Truskel, Paris 🔥 => [book now](https://shotgun.live/fr/events/tribute-radiohead), entry is free!
 
 - 👾  &nbsp; To relax, I enjoy [playing video games](https://ggapp.io/omikron) and [VR experiences](/vr). These days, I mostly play Dirt Rally 2 and American Truck Simulator with my wheel, pedals and gear shifter.
 
-> Last update was November 4th, 2025. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
+> Last update was October 5th, 2026. [History](https://github.com/adrienjoly/adrienjoly.github.com/commits/master/now)
 >
 > Follow me on [Bluesky](https://bsky.app/profile/adrienjoly.com) and [Instagram](https://www.instagram.com/adrienj)
