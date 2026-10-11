@@ -67,7 +67,7 @@ Quelques limites:
 
 ## Les grandes tendances de leur adoption en entreprise ?
 
-L'enquête Stanford AI Index 2026 estime que 88 % des organisations interrogées utilisent désormais l'IA dans au moins une fonction, et environ 70 % utilisent de l'IA générative.
+L'enquête [Stanford AI Index 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report/economy) estime que 88 % des organisations interrogées utilisent désormais l'IA dans au moins une fonction, et environ 70 % utilisent de l'IA générative.
 
 Cas d'usages communs d'outils comme ChatGPT / Claude / Gemini / Copilot:
 
@@ -84,7 +84,7 @@ L'IA générative est de plus en plus intégrée aux outils d'entreprise.
 
 L'IA agentique permet de passer de la génération de texte à la réalisation de tâches.
 
-McKinsey indique en 2026 que 40 % des grandes entreprises (>1 Md$ de CA) déclarent déjà avoir des agents à l'échelle dans au moins une fonction, contre 27 % un an auparavant. Pour les entreprises plus petites, le chiffre est d'environ 22 %.
+[McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) indique en 2026 que 40 % des grandes entreprises (>1 Md$ de CA) déclarent déjà avoir des agents à l'échelle dans au moins une fonction, contre 27 % un an auparavant. Pour les entreprises plus petites, le chiffre est d'environ 22 %.
 
 Une prochaine étape possible est de réimaginer l'organisation des entreprises, sachant que certaines fonctions (voire des business units entières ?) pourraient être majoritairement déléguées à des systèmes d'IA agentique.
 
