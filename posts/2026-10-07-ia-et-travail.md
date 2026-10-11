@@ -17,7 +17,7 @@ Mais ne vous inquiétez pas, le but de cet atelier n'est pas de vous faire faire
 
 ## Qu'est-ce qu'on veut dire par IA ?
 
-Sur wikipédia, l'IA est définie comme l'ensemble des systèmes informatiques capables d'effectuer des tâches typiquement associées à l'intelligence, telles que l'apprentissage, le raisonnement, la résolution de problèmes, la perception ou la prise de décision.
+Sur Wikipédia, l'IA est définie comme l'ensemble des systèmes informatiques capables d'effectuer des tâches typiquement associées à l'intelligence, telles que l'apprentissage, le raisonnement, la résolution de problèmes, la perception ou la prise de décision.
 
 ## Comment fonctionnent les IA actuelles ?
 
@@ -42,7 +42,7 @@ Quelques limites:
 - la difficulté à comprendre et à contrôler pourquoi un LLM donne telle ou telle réponse, car la logique de réponse est structurellement opaque, contrairement à celle d'un système expert basée sur un arbre de décision ou d'un logiciel basé sur du code
 - le coût important en énergie, pour l'usage mais surtout l'entraînement de ces LLMs
 - le coût important en métaux rares, pour fabriquer des puces "GPU" de plus en plus puissantes
-- les risques de sécurité/confidentialité/conformité liés au fait d'envoyer des données confidentielles ou sensibles aux sociétés opérant les LLMs, souvent hébergées aux états unis
+- les risques de sécurité/confidentialité/conformité liés au fait d'envoyer des données confidentielles ou sensibles aux sociétés opérant les LLMs, souvent hébergées aux États-Unis
 - le risque de dépendance sur les sociétés opérants les LLMs, notamment en phase d'instabilité géopolitique, ex: quand le président Trump a demandé à Anthropic de cesser l'exploitation à l'étranger de leur modèle le plus puissant
 - même si on peut déléguer de plus en plus de tâches professionnelles à des systèmes agentiques à base de LLMs, et que la qualité du travail produit ne cesse d'augmenter, ces systèmes manquent souvent d'un contexte nécessaire qui n'est connu que par les humains qui l'utilisent, ex: les règles et connaissances non écrites (ou non mises à la disposition de l'IA) qui s'appliquent au sein de son équipe et de son entreprise.
 - Enfin, comme dans le domaine des véhicules autonomes, il reste un flou quant à la responsabilité. Ex: si une IA a écrit un programme contenant un bug et que celui-ci cause indirectement la mort d'une personne, qui est responsable ? L'IA ? Les auteurs du prompt qui a permis à l'IA d'écrire ce programme ? L'équipe chargée de tester le programme ? Les créateurs de l'IA ?
