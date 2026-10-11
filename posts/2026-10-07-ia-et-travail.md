@@ -80,4 +80,30 @@ Après 45 minutes d’échanges, chaque groupe a présenté une synthèse en 5 m
 - Le groupe 1 partageait son inquiétude quant à la vitesse de développement de l’IA qui dépasse désormais nos capacités (humaines) d’adaptation. Les générations d’humains qui auront grandi avec l’IA seront-ils encore capables de l’esprit critique nécessaire pour évaluer et nuancer les réponses de l’IA ? Comment les aider à développer et employer cet esprit critique ? Enfin, une fois habitués à un usage quotidien de l’IA, serons-nous encore capables de faire notre travail “à la main” ?
 - Le groupe 2 s’est plus concentré sur les usages: l’IA impressionne dans le domaine du développement logiciel, de la traduction, de l’analyse légale, la préparation de réunions et le reporting. Plusieurs de ces tâches sont rébarbatives et on serait donc ravis de les déléguer à l’IA, quitte à ce que certains métiers disparaissent. La vitesse de traitement des IA ouvre de nouvelles opportunités d’analyse de données à très grande échelle, ce qui pourrait avoir un impact stratégique pour les entreprises. Mais suivre les recommandations de l’IA nous met parfois dans des situations qui échappent à notre contrôle et à notre compréhension, au point que réparer devient très difficile. Bref, l’IA c’est puissant, mais c’est pas la panacée.
 - Le groupe 3 reconnaît également un risque d’atrophie des compétences humaines à force de se reposer sur ce que produit l’IA. Voire une perte d’intérêt, de “sens”, quand l’IA nous permet d’exercer notre métier de plus en plus vite, en nous transformant en automates hyper productifs, comme cet ophtalmo qui traite chaque client en 5 minutes chrono. En revanche, même si le développement logiciel peut être quasiment délégué à 100% à l’IA, il restera toujours important de s’appuyer sur les humains pour collecter, exprimer et prioriser les besoins à adresser. Peut être que l’ingénieur devient alors orchestrateur (d’agents IA).
-- Enfin, le groupe 4 a partagé un large spectre de points de vue quant aux impacts de l’IA sur l’emploi. Les plus optimistes jugent que, comme à l’ère de la robotisation, de nouveaux emplois seront créés pour compenser ceux qui auront été confiés à l’IA. D’autres avertissent que déléguer trop à l’IA nous rend feignants: pourquoi écouter ce qui est dit en réunion, sachant que l’IA nous enverra un résumé ? Pire: l’automatisation de responsabilités administratives pourrait faire régresser certains progrès sociétaux liés à l’égalité des chances entre hommes et femmes, sachant que ces postes sont souvent occupés par des femmes. Ne faudrait-il pas alors légiférer pour protéger ces acquis de l’évolution et l’adoption incontrôlée de l’IA ? Quid des créations artistiques: l’humain ne devrait-il pas rester l’unique créateur d'œuvres issues de l’imagination et de la créativité ?
+- Enfin, le groupe 4 a partagé un large spectre de points de vue quant aux impacts de l’IA sur l’emploi. Les plus optimistes jugent que, comme à l’ère de la robotisation, de nouveaux emplois seront créés pour compenser ceux qui auront été confiés à l’IA. D’autres avertissent que déléguer trop à l’IA nous rend feneants: pourquoi écouter ce qui est dit en réunion, sachant que l’IA nous enverra un résumé ? Pire: l’automatisation de responsabilités administratives pourrait faire régresser certains progrès sociétaux liés à l’égalité des chances entre hommes et femmes, sachant que ces postes sont souvent occupés par des femmes. Ne faudrait-il pas alors légiférer pour protéger ces acquis de l’évolution et l’adoption incontrôlée de l’IA ? Quid des créations artistiques: l’humain ne devrait-il pas rester l’unique créateur d'œuvres issues de l’imagination et de la créativité ?
+
+## Synthèse générée par IA (Gemini) sur la base des enregistrements
+
+> Prompt: Nous avons récemment reçu une vingtaine d'alumni de L'INSA pour discuter ensemble des impacts de l'IA sur le monde du travail, quel qu'on l'observe et l'envisage.
+> Les participants ont discuté pendant 45 minutes par groupes de 5 personnes puis ont présenté la synthèse de leurs réflexions et conclusions devant le reste des participants.
+> En tant que co-organisateur de cet événement, je souhaite écrire un résumé de ces synthèses en moins de 500 mots (au total), pour les transmettre aux participants et les publier en ligne.
+> Sur la base de l'enregistrement de ces synthèses de groupe, redige ce résumé.
+
+Voici un résumé synthétique des réflexions menées par les alumni de l'INSA lors de leur atelier sur l'intelligence artificielle et le monde du travail :
+
+### 1. Vitesse d'adaptation et accélération de la transformation
+
+- Les participants ont souligné que si les mutations de postes et l'émergence de nouveaux métiers ne sont pas nouvelles, leur rythme actuel est fulgurant.  
+- Cette accélération dépasse la capacité d'intégration et d'anticipation naturelle du cerveau humain, créant un sentiment d'essoufflement face à cette révolution.  
+
+### 2. Esprit critique, éducation et dépendance aux outils
+
+- L'accès à l'information et à la génération assistée interroge la capacité des nouvelles générations à cultiver un esprit critique et un véritable jugement.  
+- Un risque majeur identifié est la « fainéantise intellectuelle », où l'on délègue aveuglément les décisions et les productions à l'IA sans recul ni vérification.  
+- L'éducation et la formation doivent donc intégrer l'apprentissage de l'utilisation de l'IA tout en maintenant une exigence de rigueur et de recul analytique.
+
+### 3. Impact sur les métiers et la productivité
+
+- Si certains métiers (codage, traduction, analyses de données, tâches administratives ou médicales) bénéficient d'un gain de productivité considérable, d'autres rôles subissent des pressions sur leurs compétences et leur employabilité.  
+- Le rôle de l'humain évolue vers une fonction d'orchestration, de validation et de définition des besoins, tout en posant la question de la responsabilité des productions automatisées.  
+- Enfin, la question sociétale de la valeur du travail et de la répartition des richesses face à l'augmentation de la productivité a été soulevée comme un défi incontournable.
