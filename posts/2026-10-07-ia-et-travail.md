@@ -1,4 +1,9 @@
-# Que devient notre travail à l'ère de l'IA
+---
+title: Que devient notre travail à l'ère de l'IA
+description: Cet article est la version initiale (longue) de l'introduction que j'avais préparée pour l'atelier de réflexion collective co-animé avec Agnès Grisard pour les alumni de l'INSA, le 7 Octobre 2026.
+date: 2026-10-07
+layout: blog
+---
 
 > Contexte: Cet article est la version initiale (longue) de l'introduction que j'avais préparée pour l'atelier de réflexion collective co-animé avec Agnès Grisard pour les alumni de l'INSA, le 7 Octobre 2026.
 
