@@ -7,6 +7,24 @@ layout: blog
 
 > Contexte: Cet article est la version initiale (longue) de l'introduction que j'avais préparée pour l'atelier de réflexion collective co-animé avec Agnès Grisard pour les alumni de l'INSA, le 7 Octobre 2026.
 
+Je me présente: Adrien, INSA Lyon (IF, promo 2006). Passionné d'informatique depuis l'enfance, j'ai exercé cette passion de plusieurs manières:
+
+- stages en R&D;
+- ESN (ex-SSII);
+- thèse appliquée dans un laboratoire privé;
+- développeur « lead », freelance, puis coach technique dans des startups de toutes tailles;
+- création de mes propres produits, dont j'ai vendu un;
+- enseignement de la programmation en école post-bac;
+- co-animation d'un podcast sur les soft skills: Le SAV de la Tech.
+
+Depuis 2023, j'expérimente l'IA dans mon métier de développeur, à la fois comme outil et comme composant des produits que je développe. Au départ, je la trouvais prometteuse mais très limitée. Aujourd'hui, mes collègues et moi avons accepté que notre métier soit complètement transformé par l'IA agentique: nous lui déléguons l'essentiel de la conception, de l'implémentation, des tests et de la documentation. Il nous reste à bien décrire ce que nous attendons, et à relire beaucoup de code écrit par l'IA.
+
+Je suis donc passé de la curiosité au scepticisme, puis à l'anxiété, et enfin de nouveau à la curiosité.
+
+Ce qui m'a poussé à lancer cet atelier avec Agnès, c'est l'envie de voir quels autres métiers sont touchés, de quelle manière, et de discuter avec vous de la façon dont nous comptons nous adapter.
+
+--
+
 Il y a quelques jours, lors d'un entretien régulier avec ma manager, elle m'a demandé "qu'est-ce que tu as réalisé qui t'a rendu fier, ces dernières semaines ?" D'habitude, je n'ai aucun mal à trouver des réponses à cette question. Mais depuis qu'on nous a fortement encouragés à déléguer le gros de notre travail de création à une IA, je peine à me souvenir de la dernière fois où je me suis senti fier de mon travail... Utile, oui ! Apporter de la valeur, oui ! Mais la fierté, le plaisir, les pics de dopamine à chaque idée qui me rapproche un peu plus d'apporter une solution au problème sur lequel je travaille, c'est moins évident. Est-ce que la machine m'aide encore à faire mon travail ? Ou suis-je devenu un larbin au service de la machine ? Voilà la principale question qui nourrit ma crise de la quarantaine.
 
 En tant qu'ingénieur logiciel, je pense exercer un des métiers les plus tentants à remplacer intégralement par une IA, dès que ce sera possible. Au-delà du fait que c'est une activité de nature  quasi-totalement intellectuelle, ces profils coûtent cher et ont parfois la réputation d'être "difficiles" à gérer. Alors quand le PDG découvre Claude Code et arrive à lui faire développer en quelques heures un prototype fonctionnel d'une fonctionnalité qu'il a commandée il y a des mois à l'équipe produit de son entreprise, sans broncher ni dormir, je peux comprendre sa tentation de remplacer cette équipe par une poignée d'agents IA.
